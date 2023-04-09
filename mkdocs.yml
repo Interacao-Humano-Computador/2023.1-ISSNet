@@ -2,7 +2,7 @@ site_name: Git pages
 docs_dir: gitpages/docs
 
 nav:
-  -Página inicial: index.md
+  - Página inicial: index.md
 
 
 
