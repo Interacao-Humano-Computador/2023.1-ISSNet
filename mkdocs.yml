@@ -2,8 +2,10 @@ site_name: Git pages
 docs_dir: gitpages/docs
 
 nav:
-  - Página inicial: index.md
+  - Membros: index.md
 
+extra_css:
+  - css/custom.css
 
 
 theme:
