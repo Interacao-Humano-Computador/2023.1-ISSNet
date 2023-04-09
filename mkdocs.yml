@@ -1,2 +1,24 @@
-site_name: My Docs
+site_name: Git pages
 docs_dir: gitpages/docs
+
+nav:
+
+
+
+theme:
+  name: 'material'
+  language: 'pt'
+  palette:
+    primary: 'indigo'
+    accent: 'indigo'
+  font:
+    text: 'Roboto'
+    code: 'Roboto Mono'
+  feature:
+    - navigation.tabs
+    - navigation.expand
+    - navigation.sections
+    - navigation.top
+    - toc.numbered
+  search: true
+  search_index_only: ['content']
