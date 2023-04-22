@@ -33,3 +33,7 @@ theme:
     - toc.numbered
   search: true
   search_index_only: ['content']
+
+  icon:
+    repo: fontawesome/brands/github
+  logo: ./img/caixa-icon.ico
