@@ -1,8 +1,16 @@
-site_name: Git pages
+site_name: CAIXA
 docs_dir: gitpages/docs
 
 nav:
-  - Membros: index.md
+  - Início: index.md
+  - Atas: atas.md
+  - Planejamento:
+    - Sites avalidados: planejamento/avaliados.md
+    - Site escolhido: planejamento/escolhido.md
+    - Cronograma planejado: planejamento/cronograma_plan.md
+    - Cronograma executado: planejamento/cronograma_exec.md
+    - Processo de design: planejamento/processo.md
+  - Entregas: entregas.md
 
 extra_css:
   - css/custom.css

@@ -1,3 +1,9 @@
+# CAIXA
+
+## Sobre o projeto
+
+## Equipe
+
 <div class="card">
   <img src="https://github.com/EhOMiguel.png" alt="EhOMiguel">
   <div class="info">
@@ -46,3 +52,9 @@
     <a href="https://github.com/MarcusVcd">Ver perfil</a>
   </div>
 </div>
+
+## Histórico de revisão
+
+| Versão     | Data        | Descrição            | Autor(es)                           | Revisores  |
+| :--------: | :---------: | -------------------- | ----------------------------------  | ---------- |
+| `0.0`      |  06/04/2023 | Criação do arquivo   | Miguel Moreira da Silva de Oliveira | -          |
