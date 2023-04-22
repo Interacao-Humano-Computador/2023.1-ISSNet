@@ -1,6 +1,6 @@
 # CAIXA
-<div class="card">
-  <img src="./img/caixa-logo1.png" alt="Logo da Caixa Econômica Federal">
+<div style = "text-align: center;">
+  <img style = "width: 500px;" src="./img/caixa-logo1.png" alt="Logo da Caixa Econômica Federal">
 </div>
 <br>
 A CAIXA Econômica Federal é uma instituição financeira pública brasileira que oferece uma ampla gama de serviços bancários para milhões de clientes em todo o país. Fundada em 1861, a CAIXA desempenha um importante papel no desenvolvimento econômico do Brasil.
