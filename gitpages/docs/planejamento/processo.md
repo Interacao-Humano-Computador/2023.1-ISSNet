@@ -49,7 +49,7 @@ O ciclo criado por Deborah Mayhew (1999) e mostrado na figura 3 é dividido entr
 
 ## Ciclo Escolhido pelo Grupo
 
-Foi escolhido pelo grupo o ciclo de vida de Mayhew, o ciclo de Mayhew foi comparado com outras alternativas postas no livro da Simone, como o ciclo de vida em estrela e o simples, mas ambos não possuem atividades tão detalhadas quanto o ciclo de Mayhew, o detalhamento das atividades irá facilitar o processo de design com um caminho bem estabelecido para o projeto.
+Foi escolhido pelo grupo o ciclo de vida de Mayhew, o ciclo de Mayhew foi comparado com outras alternativas postas no livro da Simone, como o ciclo de vida em estrela e o simples, mas todos não possuem atividades tão detalhadas quanto o ciclo de Mayhew, o detalhamento das atividades irá facilitar o processo de design com um caminho bem estabelecido para o projeto.
 
 ## Bibliografia
 
