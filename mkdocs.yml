@@ -7,6 +7,7 @@ nav:
   - Planejamento:
     - Sites avalidados: planejamento/avaliados.md
     - Site selecionado: planejamento/selecionado.md
+    - Ferramentas do projeto: planejamento/ferramentas.md
     - Cronograma planejado: planejamento/cronograma_plan.md
     - Cronograma executado: planejamento/cronograma_exec.md
     - Processo de design: planejamento/processo.md
