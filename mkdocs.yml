@@ -1,11 +1,13 @@
 site_name: CAIXA
 docs_dir: gitpages/docs
+repo_url: https://github.com/Interacao-Humano-Computador/2023.1-CAIXA
+repo_name: CAIXA
 
 nav:
   - Início: index.md
   - Atas: atas.md
   - Planejamento:
-    - Sites avalidados: planejamento/avaliados.md
+    - Sites avaliados: planejamento/avaliados.md
     - Site selecionado: planejamento/selecionado.md
     - Ferramentas do projeto: planejamento/ferramentas.md
     - Cronograma planejado: planejamento/cronograma_plan.md
