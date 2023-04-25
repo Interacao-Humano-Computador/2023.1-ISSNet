@@ -53,13 +53,15 @@ NEsta reunião usamos o tempo para definir qual seria o site trabalhado, catalog
 
 Cada integrante ficou responsável por elaborar o planejamento de avaliação para o site escolhido de maneira individual.
 
-O presente documento é um registro da reunião ocorrida no dia 17/03/2023, no qual constam os membros presentes, representados na Tabela 1, objetivos da reunião, definição de tarefas e gravação da reunião.
+# Ata da reunião - 17/04/2023
+
+O presente documento é um registro da reunião ocorrida no dia 17/04/2023, no qual constam os membros presentes, representados na Tabela 1, objetivos da reunião, definição de tarefas e gravação da reunião.
 
 ## Dados da reunião
 
 |                                    Alunos presentes                                     |    Data    | Horário de inicio e fim |      Local       |
 | :-------------------------------------------------------------------------------------: | :--------: | :---------------------: | :--------------: |
-| Arthur Carneiro Trindade, Arthur D'Assumpção Loureiro, Gabriel De Souza Fonseca Ribeiro ,Júlio César Costa, Marcus Vinicius Cunha Dantas , Miguel Moreira da Silva de Oliveira     | 17/03/2022 |      21:30 - 22:15      | Plataforma Discord |
+| Arthur Carneiro Trindade, Arthur D'Assumpção Loureiro, Gabriel De Souza Fonseca Ribeiro ,Júlio César Costa, Marcus Vinicius Cunha Dantas , Miguel Moreira da Silva de Oliveira     | 17/04/2022 |      21:30 - 22:15      | Plataforma Discord |
 
 <div style="text-align: center">
 <p> Tabela 1: Dados da reunião (Fonte: autor, 2023). </p>
@@ -80,6 +82,7 @@ O presente documento é um registro da reunião ocorrida no dia 17/03/2023, no q
 
 
 
+# Ata da reunião - 24/04/2023
 
 O presente documento é um registro da reunião ocorrida no dia 24/04/2023, no qual constam os membros presentes, representados na Tabela 1, objetivos da reunião, definição de tarefas e gravação da reunião.
 
