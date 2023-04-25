@@ -21,4 +21,5 @@ Edição, Editora Campus, 2010. Publicado em: 03/05/2021.
 | Versão     | Data        | Descrição            | Autor(es)                          | Revisores  |
 | :--------: | :---------: | -------------------- | ---------------------------------- | ---------- |
 | `0.0`      |  22/04/2023 | Criação do arquivo   | Arthur Carneiro Trindade           | -          |
-| `0.1`      |  23/04/2023 | Versão Inicial       | Júlio César Costa                  | -          |
+| `0.1`      |  23/04/2023 | Versão Inicial       | Júlio César Costa                  | Marcus Vinicius Cunha |
+| `0.2`      |  25/04/2023 | Adicionado revisores | Júlio César Costa                  | Marcus Vinicius Cunha |
