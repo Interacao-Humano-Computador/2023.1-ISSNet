@@ -120,9 +120,8 @@ O presente documento é um registro da reunião ocorrida no dia 24/04/2023, no q
 
 | Versão     | Data        | Descrição            | Autor(es)                          | Revisores  |
 | :--------: | :---------: | -------------------- | ---------------------------------- | ---------- |
-| `0.0`      |  24/04/2023 | Criação das Atas     | Arthur D'Assumpção Loureiro        | Miguel Moreira da Silva de Oliveira|
-| `0.1`      |  22/04/2023 | Criação do arquivo   | Arthur Carneiro Trindade           | Miguel Moreira da Silva de Oliveira|
-
+| `0.0`      |  22/04/2023 | Criação do arquivo   | Arthur Carneiro Trindade           | Miguel Moreira da Silva de Oliveira|
+| `0.1`      |  24/04/2023 | Criação das Atas     | Arthur D'Assumpção Loureiro        | Miguel Moreira da Silva de Oliveira|
 
 
 
