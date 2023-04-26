@@ -21,7 +21,7 @@ Fotografia 2 — Pagina inicial site da Caixa com menu aberto
 <br>
 <br>
 
-Observando essas duas imagens, é possível identificar alguns pontos a serem melhorados que foram notados logo na primeira análise do site da Caixa:
+Observando a fotografia 1 e 2, é possível identificar alguns pontos a serem melhorados que foram notados logo na primeira análise do site da Caixa:
 
 * Sobreposição
 * Formatação

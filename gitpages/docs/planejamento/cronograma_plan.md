@@ -1,4 +1,4 @@
-# Cronograma geral do projeto
+## Cronograma geral do projeto
 O cronograma de entregas é definido no plano de ensino da disciplina, apresentando os artefatos sugeridos para cada etapa do projeto, bem como as datas limite para sua conclusão.
 
 <center>
@@ -20,10 +20,10 @@ Tabela 1: Cronograma geral do projeto, Autor, 2023.
 
 </center>
 
-# Cronograma detalhado das etapas
+## Cronograma detalhado das etapas
 A seguir, apresentamos um cronograma detalhado com os atividades realizadas em cada etapa do projeto, incluindo as datas de realização, os responsáveis e os revisores de cada um. Este cronograma foi elaborado para estar em sincronia com os artefatos propostos no cronograma geral da disciplina, no entanto, está sujeito a eventuais mudanças.
 
-## Etapa 1
+### Etapa 1
 <center>
 
 | Entrega    | Atividade                             | Responsável(veis)                   | Revisor(es)     |
@@ -45,7 +45,7 @@ Tabela 2: Cronograma detalhado da etapa 1, Autor, 2023.
 
 </center>
 
-## Etapa 2
+### Etapa 2
 <center>
 
 | Entrega    | Atividade                                                          | Responsável(veis)                                        | Revisor(es)     |
@@ -62,7 +62,7 @@ Tabela 3: Cronograma detalhado da etapa 2, Autor, 2023.
 
 </center>
 
-## Etapa 3
+### Etapa 3
 <center>
 
 | Entrega    | Atividade                                                          | Responsável(veis)                                         | Revisor(es)      |
@@ -79,7 +79,7 @@ Tabela 4: Cronograma detalhado da etapa 3, Autor, 2023.
 
 </center>
 
-## Etapa 4
+### Etapa 4
 <center>
 
 | Entrega    | Atividade                                                          | Responsável(veis)                                        | Revisor(es)     |
@@ -95,7 +95,7 @@ Tabela 5: Cronograma detalhado da etapa 4, Autor, 2023.
 
 </center>
 
-## Etapa 5
+### Etapa 5
 <center>
 
 | Entrega    | Atividade                                                          | Responsável(veis)                                        | Revisor(es)     |
@@ -111,7 +111,7 @@ Tabela 6: Cronograma detalhado da etapa 5, Autor, 2023.
 
 </center>
 
-## Etapa 6
+### Etapa 6
 <center>
 
 | Entrega    | Atividade                                                          | Responsável(veis)                                         | Revisor(es)     |
@@ -134,7 +134,7 @@ Tabela 8: Cronograma detalhado da etapa 6.2, Autor, 2023.
 
 </center>
 
-## Etapa 7
+### Etapa 7
 <center>
 
 | Entrega    | Atividade                                                          | Responsável(veis)                                        | Revisor(es)      |
@@ -150,7 +150,7 @@ Tabela 9: Cronograma detalhado da etapa 7, Autor, 2023.
 
 </center>
 
-## Etapa 8
+### Etapa 8
 <center>
  
 | Entrega    |   Atividade                                                     | Responsável(veis)  |  Revisor(es)     |
@@ -164,7 +164,7 @@ Tabela 10: Cronograma detalhado da etapa 8, Autor, 2023.
 
 </center>
 
-## Atividades frequentes
+### Atividades frequentes
 Algumas atividades são realizadas semanalmente e estão inclusas em todas as etapas.
 
 <center>
