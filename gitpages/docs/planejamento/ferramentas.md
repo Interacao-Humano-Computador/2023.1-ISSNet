@@ -40,7 +40,7 @@ Fonte: Grupo UnbIdiomas-2022.2, acessado em: 25 de abril de 2023. Disponivel em:
 
 [^9]: YOUTUBE. 2023. Disponivel em: <https://www.youtube.com>. Acesso em 25/04/2023.
 
-[^9]: VSCode. 2023. Disponivel em: <https://code.visualstudio.com>. Acesso em 25/04/2023.
+[^10]: VSCode. 2023. Disponivel em: <https://code.visualstudio.com>. Acesso em 25/04/2023.
 
 
 
@@ -53,4 +53,4 @@ Fonte: Grupo UnbIdiomas-2022.2, acessado em: 25 de abril de 2023. Disponivel em:
 | `0.1`      |  25/04/2023 | Desenvolvimento do arquivo                           | Marcus Vinicius Cunha Dantas                | Júlio César Costa|
 | `0.2`      |  25/04/2023 | Correçoes de link no Arquivo                         | Marcus Vinicius Cunha Dantas                | Júlio César Costa|
 | `0.3`      |  25/04/2023 | Correçoes de referencia no Arquivo                   | Marcus Vinicius Cunha Dantas                | Júlio César Costa|
-
+| `0.4`      |  25/04/2023 | Correçoes de referencia no Arquivo                   | Marcus Vinicius Cunha Dantas                | Júlio César Costa|
