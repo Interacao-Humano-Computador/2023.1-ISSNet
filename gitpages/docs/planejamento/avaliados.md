@@ -3,7 +3,7 @@
 | Versão     | Data        | Descrição            | Autor(es)                          | Revisores  |
 | :--------: | :---------: | -------------------- | ---------------------------------- | ---------- |
 | `0.0`      |  22/04/2023 | Criação do arquivo   | Arthur Carneiro Trindade           | -          |
-| `0.1`      |  24/04/2023 | Adição dos sites e afins   | Miguel Moreira da Sila de Oliveira         | -          |
+| `0.1`      |  24/04/2023 | Adição dos sites e afins   | Miguel Moreira da Silva de Oliveira         | -          |
 
 ## Escolha individual
 
@@ -16,8 +16,7 @@ Para a escolha individual, cada um teve que escolher um site para entrega avalia
 3. ISS Net
     - Dificuldade de coletar dados
 4. TypeRacer
-    - Atrativo para muitas pessoas do curso
-    - Divertido
+    - Não atrativo para o grupo
 5. TST
     - Pouca disponibilidade
 6. SIGAA
