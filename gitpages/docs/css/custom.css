@@ -1,9 +1,18 @@
+[data-md-color-scheme="slate"] {
+  --md-typeset-table-color--light: rgb(64, 64, 64);
+  --md-typeset-table-color: white;
+  --md-default-fg-color--light: white;
+  --md-default-bg-color:               rgb(15, 15, 15);
+  --md-code-bg-color:                  hsla(0, 0%, 20%, 1);
+  --md-footer-bg-color--dark:          hsla(0, 0%, 20%, 1);
+  --md-footer-fg-color--lighter:       hsla(0, 0%, 100%, 1);
+}
+
 .card {
     display: grid;
     grid-template-columns: 100px 1fr;
     grid-gap: 20px;
-    background-color: #fff;
-    border-radius: 5px;
+    border: 2px solid rgb(255, 255, 255);
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
     padding: 20px;
     margin-bottom: 10px;
