@@ -22,8 +22,20 @@ theme:
   name: 'material'
   language: 'pt'
   palette:
-    primary: 'indigo'
-    accent: 'indigo'
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: Mudar para modo escuro
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: blue
+      accent: blue
+      toggle:
+        icon: material/weather-night
+        name: Mudar para modo claro 
   font:
     text: 'Roboto'
     code: 'Roboto Mono'
