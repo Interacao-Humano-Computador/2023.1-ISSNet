@@ -1,5 +1,5 @@
 ## Introdução
-Este artefato apresenta o cronograma geral do projeto e o cronograma planejado das entregas em cada etapa definida no cronograma geral e foi construído com base no template disponibilizado no moodle da disciplina <a href="#aprender3">[1]<a> e no roadmap do projeto de avaliação do Simples Nacional, no GitHub Pages do projeto <a href="#gitpages">[2]<a>. 
+Este artefato apresenta o cronograma geral do projeto e o cronograma planejado das entregas em cada etapa definida no cronograma geral e foi construído com base no template disponibilizado no moodle da disciplina <a href="#aprender3">[1]</a> e no roadmap do projeto de avaliação do Simples Nacional, no GitHub Pages do projeto <a href="#gitpages">[2]</a>. 
 
 ## Cronograma geral do projeto
 O cronograma de entregas é definido no plano de ensino da disciplina, apresentando os artefatos sugeridos para cada etapa do projeto, bem como as datas limite para sua conclusão.
