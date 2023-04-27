@@ -2,9 +2,9 @@
 
 ## Ciclo de Vida Simples
 
-![Ciclo de Vida Simples](../img/ciclo_simples.png)
-
 *Figura 1: Ciclo de vida simples*
+
+![Ciclo de Vida Simples](../img/ciclo_simples.png)
 
 *Fonte: adaptado de Sharp et al, por Simone, 2010*
 
@@ -12,9 +12,9 @@ O ciclo de vida simples na figura 1 apresenta quatro atividades, sendo elas a id
 
 ## Ciclo de Vida em Estrela
 
-![Ciclo de Vida em Estrela](../img/ciclo_estrela.png)
-
 *Figura 2: Ciclo de vida em estrela*
+
+![Ciclo de Vida em Estrela](../img/ciclo_estrela.png)
 
 *Fonte: Simone, 2010*
 
@@ -39,9 +39,9 @@ A engenharia de usabilidade proposta por Jakob Nielsen em 1993 define um conjunt
 
 ## Ciclo de Vida de Mayhew
 
-![Ciclo de Vida Mayhew](../img/ciclo_mayhew.png)
-
 *Figura 3: Ciclo de vida de Mayhew*
+
+![Ciclo de Vida Mayhew](../img/ciclo_mayhew.png)
 
 *Fonte: adaptado de Mayhew, por Simone, 2010*
 

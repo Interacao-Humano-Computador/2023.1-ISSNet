@@ -1,5 +1,5 @@
 ## Introdução
-Este artefato apresenta o cronograma geral do projeto e o cronograma detalhado das entregas em cada etapa definida no cronograma geral e foi construído com base no template disponibilizado no moodle da disciplina [1] e no roadmap do projeto de avaliação do Simples Nacional, no GitHub Pages do projeto [2]. 
+Este artefato apresenta o cronograma geral do projeto e o cronograma planejado das entregas em cada etapa definida no cronograma geral e foi construído com base no template disponibilizado no moodle da disciplina [^1] e no roadmap do projeto de avaliação do Simples Nacional, no GitHub Pages do projeto [^2]. 
 
 ## Cronograma geral do projeto
 O cronograma de entregas é definido no plano de ensino da disciplina, apresentando os artefatos sugeridos para cada etapa do projeto, bem como as datas limite para sua conclusão.
@@ -19,33 +19,33 @@ O cronograma de entregas é definido no plano de ensino da disciplina, apresenta
 | 8     | 26/06/2023 | 27/06/2023   | Relato dos resultados do protótipo de alta fidelidade |
 | ---   | 05/07/2023 | 06/07 - 18/07 | Apresentação do projeto final |
 
-Tabela 1: Cronograma geral do projeto, Autor, 2023.
+Tabela 1: Cronograma geral do projeto.
 
 </center>
 
-## Cronograma detalhado das etapas
-A seguir, apresentamos um cronograma detalhado com os atividades realizadas em cada etapa do projeto, incluindo os períodos de realização da tarefa e revisão, os responsáveis e os revisores de cada um. Este cronograma foi elaborado para estar em sincronia com os artefatos propostos no cronograma geral da disciplina e está sujeito a eventuais mudanças.
+## Cronograma planejado das etapas
+A seguir, apresentamos um cronograma planejado com os atividades a serem realizadas em cada etapa do projeto, incluindo os períodos de realização da tarefa e revisão, os responsáveis e os revisores de cada um. Este cronograma foi elaborado para estar em sincronia com os artefatos propostos no cronograma geral da disciplina e está sujeito a eventuais mudanças.
 
 ### Etapa 1
 <center>
 
-| Atividade                             | Responsável(veis)                                                                                             | Período de realização    | Revisor(es)                                                                                                   | Período de revisão |
-| ------------------------------------- | ------------------------------------------------------------------------------------------------------------- | :----------------------: | ------------------------------------------------------------------------------------------------------------- | :----------------: |
-| Criação do GitHub Pages               | Miguel Moreira                                                                                                | 03/04/2023               | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | 04/04/2023 | 
-| Ponto de controle 1 no Discord        | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | 10/04/2023               | -                                                                                                             | -          |
-| Criação da ata da reunião             | Arthur D'Assumpção                                                                                            | 10/04/2023               | Arthur Trindade                                                                                               | 11/04/2023<br>23/04/2023 |
+| Atividade                             | Responsável(veis)                                                                                             | Período de realização    | Revisor(es)                                                                                                   | Período de revisão       |
+| ------------------------------------- | ------------------------------------------------------------------------------------------------------------- | :----------------------: | ------------------------------------------------------------------------------------------------------------- | :----------------------: |
+| Criação do GitHub Pages               | Miguel Moreira                                                                                                | 03/04/2023               | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | 04/04/2023               | 
+| Ponto de controle 1 no Discord        | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | 10/04/2023               | -                                                                                                             | -                        |
+| Criação da ata da reunião             | Arthur D'Assumpção                                                                                            | 11/04/2023               | Arthur Trindade                                                                                               | 11/04/2023<br>23/04/2023 |
 | Planejamento do projeto               | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | 10/04/2023<br>22/04/2023 | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | 11/04/2023<br>23/04/2023 |
-| Ponto de controle 2 no Discord        | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | 17/04/2023               | -                                                                                                             | -          | 
-| Criação da ata da reunião             | Arthur D'Assumpção                                                                                            | 17/04/2023               | Arthur Trindade                                                                                               | 18/04/2023<br>23/04/2023 |
+| Ponto de controle 2 no Discord        | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | 17/04/2023               | -                                                                                                             | -                        | 
+| Criação da ata da reunião             | Arthur D'Assumpção                                                                                            | 18/04/2023               | Arthur Trindade                                                                                               | 18/04/2023<br>23/04/2023 |
 | Avaliação dos sites propostos         | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | 17/04/2023<br>20/04/2023 | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | 20/04/2023<br>23/04/2023 |
-| Escolher site para o projeto          | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | 17/04/2023<br>20/04/2023 | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | - |
-| Definição das ferramentas do projeto  | Júlio César                                                                                                   | 10/04/2023<br>20/04/2023 | Marcus Vinicius                                                                                               | 20/04/2023<br>23/04/2023 |
+| Escolher site para o projeto          | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | 17/04/2023<br>20/04/2023 | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | -                        |
+| Definição das ferramentas do projeto  | Marcus Vinicius                                                                                               | 10/04/2023<br>20/04/2023 | Julio César                                                                                                   | 20/04/2023<br>23/04/2023 |
 | Definição do processo de design       | Júlio César                                                                                                   | 10/04/2023<br>20/04/2023 | Marcus Vinicius                                                                                               | 20/04/2023<br>23/04/2023 |
-| Definição do cronograma de atividades | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | 10/04/2023<br>20/04/2023 | Miguel Moreira<br>Arthur D'Assumpção                                                                          | 20/04/2023<br>23/04/2023 |
+| Definição do cronograma de atividades | Arthur Trindade<br>Gabriel de Souza                                                                           | 10/04/2023<br>20/04/2023 | Miguel Moreira<br>Arthur D'Assumpção                                                                          | 20/04/2023<br>23/04/2023 |
 | Gravação das entregas da etapa 1      | Miguel Moreira                                                                                                | 23/04/2023               | Miguel Moreira                                                                                                | 24/04/2023               |
-| Ajustes e melhorias                   | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | 24/04/2023<br>27/04/2023 | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | 24/04/2023<br>27/04/2023 |
+| Ajustes e melhorias                   | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | 25/04/2023<br>27/04/2023 | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | 24/04/2023<br>27/04/2023 |
 
-Tabela 2: Cronograma detalhado da etapa 1.
+Tabela 2: Cronograma planejado da etapa 1.
 
 </center>
 
@@ -54,16 +54,16 @@ Tabela 2: Cronograma detalhado da etapa 1.
 
 | Atividade                                                          | Responsável(veis)                                                                                             | Período de realização    | Revisor(es)                                                                                                   | Período de revisão       |
 | ------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------- | :----------------------: | ------------------------------------------------------------------------------------------------------------- | :----------------------: |
-| Ponto de controle 3 no Discord                                     | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | -                        |
-| Criação da ata da reunião                                          | Arthur D'Assumpção                                                                                            | 01/04/2023               | Marcus Vinicius                                                                                               | 02/04/2023<br>07/04/2023 |
+| Ponto de controle 3 no Discord                                     | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | 01/04/2023               |  -                                                                                                            | -                        |
+| Criação da ata da reunião                                          | Arthur D'Assumpção                                                                                            | 02/04/2023               | Marcus Vinicius                                                                                               | 02/04/2023<br>07/04/2023 |
 | Definição do perfil do usuário                                     | Arthur Trindade<br>Júlio César<br>Marcus Vinicius                                                             | 01/04/2023<br>04/04/2023 | Arthur D'Assumpção<br>Gabriel de Souza<br>Miguel Moreira                                                      | 05/04/2023<br>07/04/2023 |
 | Pesquisar sobre os aspectos éticos de pesquisas envolvendo pessoas | Arthur D'Assumpção<br>Gabriel de Souza<br>Miguel Moreira                                                      | 01/04/2023<br>04/04/2023 | Arthur Trindade<br>Júlio César<br>Marcus Vinicius                                                             | 05/04/2023<br>07/04/2023 |
 | Definição de personas                                              | Arthur Trindade<br>Júlio César<br>Marcus Vinicius                                                             | 01/04/2023<br>04/04/2023 | Arthur D'Assumpção<br>Gabriel de Souza<br>Miguel Moreira                                                      | 05/04/2023<br>07/04/2023 |
-| Análise de tarefas                                                 | Gabriel de Souza<br>Miguel Moreira                                                                            | 01/04/2023<br>04/04/2023 | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | -                        |
+| Análise de tarefas                                                 | Gabriel de Souza<br>Miguel Moreira                                                                            | 01/04/2023<br>04/04/2023 | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | 05/04/2023<br>07/04/2023 |
 | Gravação das entregas da etapa 2                                   | Miguel Moreira                                                                                                | 07/05/2023               | Miguel Moreira                                                                                                | 08/05/2023               |
 | Ajustes e melhorias                                                | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | 09/11/2023<br>12/11/2023 | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | 09/11/2023<br>12/11/2023 |
 
-Tabela 3: Cronograma detalhado da etapa 2.
+Tabela 3: Cronograma planejado da etapa 2.
 
 </center>
 
@@ -73,7 +73,7 @@ Tabela 3: Cronograma detalhado da etapa 2.
 | Atividade                                                          | Responsável(veis)                                                                                             | Período de realização    | Revisores                                                | Período de revisão       |
 | ------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------- | :----------------------: | -------------------------------------------------------- | :----------------------: |
 | Ponto de controle 4 no Discord                                     | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | 08/05/2023               | -                                                        | -                        |
-| Criação da ata da reunião                                          | Arthur D'Assumpção                                                                                            | 08/05/2023<br>09/05/2023 | Gabriel de Souza                                         | 09/05/2023               |
+| Criação da ata da reunião                                          | Arthur D'Assumpção                                                                                            | 09/05/2023               | Gabriel de Souza                                         | 09/05/2023<br>14/05/2023 |
 | Princípos gerais do projeto                                        | Arthur D'Assumpção<br>Júlio César<br>Marcus Vinicius                                                          | 08/05/2023<br>11/05/2023 | Arthur Trindade<br>Gabriel de Souza<br>Miguel Moreira    | 12/05/2023<br>14/05/2023 |
 | Metas de usabilidade                                               | Arthur Trindade<br>Gabriel de Souza<br>Miguel Moreira                                                         | 08/05/2023<br>11/05/2023 | Arthur D'Assumpção<br>Júlio César<br>Marcus Vinicius     | 12/05/2023<br>14/05/2023 |
 | Criação da guia de estilo do projeto                               | Arthur Trindade<br>Júlio César<br>Miguel Moreira                                                              | 08/05/2023<br>11/05/2023 | Arthur D'Assumpção<br>Gabriel de Souza<br>Marcus Vinicus | 12/05/2023<br>14/05/2023 |
@@ -81,7 +81,7 @@ Tabela 3: Cronograma detalhado da etapa 2.
 | Gravação das entregas da etapa 4                                   | Miguel Moreira                                                                                                | 14/05/2023               | Miguel Moreira                                           | 14/05/2023<br>15/05/2023 |
 | Ajustes e melhorias                                                | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | 16/05/2023<br>18/05/2023 | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | 16/05/2023<br>18/05/2023 |
 
-Tabela 4: Cronograma detalhado da etapa 3.
+Tabela 4: Cronograma planejado da etapa 3.
 
 </center>
 
@@ -90,15 +90,15 @@ Tabela 4: Cronograma detalhado da etapa 3.
 
 | Atividade                                                          | Responsável(veis)                                                                                             | Período de realização    | Revisor(es)                                       | Período de revisão       |
 | ------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------- | ------------------------ | ------------------------------------------------- | ------------------------ |
-| Ponto de controle 5 no Discord                                     | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | 15/05/2023               | Julio Cesar                                       | 16/05/2023               |
-| Criação da ata da reunião                                          | Arthur D'Assumpção                                                                                            | 15/05/2023<br>16/05/2023 | Júlio Cesar                                       | 16/05/2023               |
+| Ponto de controle 5 no Discord                                     | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | 15/05/2023               | -                                                 | -                        |
+| Criação da ata da reunião                                          | Arthur D'Assumpção                                                                                            | 16/05/2023               | Júlio Cesar                                       | 16/05/2023<br>21/05/2023 |
 | Planejamento da avaliação do storyboard e análise de tarefas       | Arthur Trindade<br>Gabriel de Souza<br>                                                                       | 15/05/2023<br>18/05/2023 | Arthur D'Assumpção<br>Miguel Moreira              | 19/05/2023<br>21/05/2023 |
 | Planejamento do relato dos resultados da avaliação do storyboard   | Júlio César<br>Marcus Vinicius                                                                                | 15/05/2023<br>18/05/2023 | Arthur Trindade<br>Gabriel de Souza               | 19/05/2023<br>21/05/2023 |
 | Planejamento do relato dos resultados da avaliação do análise de tarefas | Miguel Moreira <br> Arthur D'Assumpção                                                                  | 15/05/2023<br>18/05/2023 | Julio Cesar<br>Marcus Vinicius                    | 19/05/2023<br>21/05/2023 |
 | Gravação das entregas da etapa 4                                   | Miguel Moreira                                                                                                | 21/05/2023               | Miguel Moreira                                    | 21/05/2023<br>22/05/2023 |
 | Ajustes e melhorias                                                | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | 23/05/2023<br>25/05/2023 | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | 23/05/2023<br>25/05/2023 |
 
-Tabela 5: Cronograma detalhado da etapa 4.
+Tabela 5: Cronograma planejado da etapa 4.
 
 </center>
 
@@ -107,15 +107,15 @@ Tabela 5: Cronograma detalhado da etapa 4.
 
 | Atividade                                                          | Responsável(veis)                                                                                             | Período de realização    | Revisor(es)                          | Período de revisão       |
 | ------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------- | :----------------------: | ------------------------------------ | :----------------------: |
-| Ponto de controle 6 no Discord                                     | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | 22/05/2023               | Julio Cesar                          | 23/05/2023               |
-| Criação da ata da reunião                                          | Arthur D'Assumpção                                                                                            | 22/05/2023<br>23/05/2023 | Júlio Cesar                          | 23/05/2023               |
+| Ponto de controle 6 no Discord                                     | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | 22/05/2023               | -                                    | -                        |
+| Criação da ata da reunião                                          | Arthur D'Assumpção                                                                                            | 23/05/2023               | Júlio Cesar                          | 23/05/2023<br>28/05/2023 |
 | Relato dos resultados do storyboard e da análise de tarefas        | Arthur Trindade<br>Gabriel de Souza                                                                           | 22/05/2023<br>25/05/2023 | Arthur D'Assumpção<br>Miguel Moreira | 26/05/2023<br>28/05/2023 |
 | Planejamento da avaliação do protótipo de papel                    | Júlio César<br>Marcus Vinicius                                                                                | 22/05/2023<br>25/05/2023 | Arthur Trindade<br>Gabriel de Souza  | 26/05/2023<br>28/05/2023 |
 | Planejamento do relato dos resultados da avaliação do protótipo de papel  | Miguel Moreira<br>Arthur D'Assumpção                                                                   | 22/05/2023<br>25/05/2023 | Julio Cesar<br>Marcus Vinicius       | 26/05/2023<br>28/05/2023 |   
 | Gravação das entregas da etapa 5                                   | Miguel Moreira                                                                                                | 28/05/2023               | Miguel Moreira                       | 28/05/2023<br>29/05/2023 |
 | Ajustes e melhorias                                                | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | 30/05/2023<br>01/06/2023 | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | 30/05/2023<br>01/06/2023 |
 
-Tabela 6: Cronograma detalhado da etapa 5.
+Tabela 6: Cronograma planejado da etapa 5.
 
 </center>
 
@@ -125,12 +125,12 @@ Tabela 6: Cronograma detalhado da etapa 5.
 | Atividade                      | Responsáveis                                                                                                  | Período de realização    | Revisores                                                                                                     | Período de revisão       |
 |------------------------------- |---------------------------------------------------------------------------------------------------------------| :----------------------: |-------------------------------------------------------------------------------------------------------------- | :----------------------: |
 | Ponto de controle 7 no Discord | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | 29/05/2023               | -                                                                                                             | -                        |
-| Criação da ata da reunião      | Arthur D'Assumpção                                                                                            | 29/05/2023<br>30/05/2023 | Miguel Moreira                                                                                                | 30/05/2023               |
+| Criação da ata da reunião      | Arthur D'Assumpção                                                                                            | 30/05/2023               | Miguel Moreira                                                                                                | 30/05/2023<br>04/06/2023 |
 | Verificação de artefatos       | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | 29/05/2023<br>01/06/2023 | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | 02/06/2023<br>04/06/2023 |
 | Gravação das entregas da etapa 6.1 | Miguel Moreira                                                                                            | 04/06/2023               | Miguel Moreira                                                                                                | 04/06/2023<br>05/06/2023 |
 | Ajustes e melhorias            | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | 06/06/2023<br>08/06/2023 | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | 06/06/2023<br>08/06/2023 |
 
-Tabela 7: Cronograma detalhado da etapa 6.1.
+Tabela 7: Cronograma planejado da etapa 6.1.
 
 | Atividade                      | Responsáveis                                                                                                  | Período de realização    | Revisores                                                                                                     | Período de revisão       |
 |------------------------------- |---------------------------------------------------------------------------------------------------------------| :----------------------: |-------------------------------------------------------------------------------------------------------------- | :----------------------: |
@@ -140,24 +140,24 @@ Tabela 7: Cronograma detalhado da etapa 6.1.
 | Gravação das entregas da etapa 6.2 | Miguel Moreira                                                                                            | 18/06/2023               | Miguel Moreira                                                                                                | 18/06/2023<br>19/06/2023 |
 | Ajustes e melhorias            | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | 06/06/2023<br>08/06/2023 | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | 20/06/2023<br>22/06/2023 |
 
-Tabela 8: Cronograma detalhado da etapa 6.2.
+Tabela 8: Cronograma planejado da etapa 6.2.
 
 </center>
 
 ### Etapa 7
 <center>
 
-| Atividade                                                          | Responsável(veis)                                                                                             | Período de realização    | Revisor(es)              | Período de revisão |
-| ------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------- | :----------------------: | -------------------------------------- | :----------------: |
-| Ponto de controle 6 no Discord                                     | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | 05/06/2023               | Julio Cesar                            | - |
-| Criação da ata da reunião                                          | Arthur D'Assumpção                                                                                            | 05/06/2023<br>06/06/2023 | Gabriel de Souza                       | 06/06/2023 |
+| Atividade                                                          | Responsável(veis)                                                                                             | Período de realização    | Revisor(es)                            | Período de revisão       |
+| ------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------- | :----------------------: | -------------------------------------- | :----------------------: |
+| Ponto de controle 6 no Discord                                     | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | 05/06/2023               | -                                      | -                        |
+| Criação da ata da reunião                                          | Arthur D'Assumpção                                                                                            | 06/06/2023               | Gabriel de Souza                       | 06/06/2023<br>11/06/2023 |
 | Coleta dos relatos dos resultados do protótipo de papel            | Arthur D'Assumpção<br>Gabriel de Souza                                                                        | 05/06/2023<br>08/06/2023 | Arthur Trindade<br>Miguel Moreira      | 09/06/2023<br>11/06/2023 |
 | Planejamento da avaliação do protótipo de alta fidelidade          | Arthur Trindade<br>Miguel Moreira                                                                             | 05/06/2023<br>08/06/2023 | Julio Cesar<br>Marcus Vinicius         | 09/06/2023<br>11/06/2023 |
 | Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade | Júlio César<br>Marcus Vinicius                                                                | 05/06/2023<br>08/06/2023 | Arthur D'Assumpção<br>Gabriel de Souza | 09/06/2023<br>11/06/2023 |
 | Gravação das entregas da etapa 7                                   | Miguel Moreira                                                                                                | 11/06/2023               | Miguel Moreira                         | 11/06/2023<br>12/06/2023 |
 | Ajustes e melhorias            | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | 13/06/2023<br>15/06/2023 | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | 13/06/2023<br>15/06/2023 |
 
-Tabela 9: Cronograma detalhado da etapa 7.
+Tabela 9: Cronograma planejado da etapa 7.
 
 </center>
 
@@ -166,26 +166,26 @@ Tabela 9: Cronograma detalhado da etapa 7.
  
 | Atividade                                                       | Responsável(veis)                                                                                             | Período de realização    | Revisor(es)                                                                                                   | Período de revisão       |
 | --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ------------------------ | ------------------------------------------------------------------------------------------------------------- | :----------------------: |
-| Ponto de controle 6 no Discord                                  | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | 19/06/2023               | Marcus Vinicius                                                                                               | -                        |
-| Criação da ata da reunião                                       | Arthur D'Assumpção                                                                                            | 19/06/2023<br>20/06/2023 | Gabriel de Souza                                                                                              | 19/06/2023               |
+| Ponto de controle 6 no Discord                                  | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | 19/06/2023               | -                                                                                                             | -                        |
+| Criação da ata da reunião                                       | Arthur D'Assumpção                                                                                            | 20/06/2023               | Gabriel de Souza                                                                                              | 20/06/2023<br>25/06/2023 |
 | Coleta do relato dos resultados do protótipo de alta fidelidade | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | 19/06/2023<br>22/06/2023 | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | 23/06/2023<br>25/06/2023 |          
 | Gravação das entregas da etapa 8                                | Miguel Moreira                                                                                                | 25/06/2023               | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | 25/06/2023<br>26/06/2023 |
 | Ajustes e melhorias                                             | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | 27/06/2023<br>29/06/2023 | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | 27/06/2023<br>29/06/2023 |
 
-Tabela 10: Cronograma detalhado da etapa 8.
+Tabela 10: Cronograma planejado da etapa 8.
 
 </center>
 
-## Referencias
-[1]: APRENDER IHC, Disponivel em: <https://aprender3.unb.br/course/view.php?id=18552>
+## Referências
+[^1]: APRENDER 3, Interação Humano Computador, Disponivel em: <https://aprender3.unb.br/course/view.php?id=18552>
 
-[2]: GITPAGES Simples Nacional, Disponivel em:  <https://interacao-humano-computador.github.io/2022.2-SimplesNacional/Planejamento/Roadmap/>
+[^2]: GITPAGES Simples Nacional, Disponivel em:  <https://interacao-humano-computador.github.io/2022.2-SimplesNacional/Planejamento/Roadmap/>
 
 ## Histórico de revisão
 
 | Versão     | Data        | Descrição                                            | Autor(es)                                    | Revisores        |
 | :--------: | :---------: | ---------------------------------------------------- | -------------------------------------------- | ---------------- |
-| `0.0`      |  22/04/2023 | Criação do arquivo                                   | Arthur Trindade                     | -                |
-| `0.1`      |  23/04/2023 | Adição do cronograma detalhado da etapa 1            | Arthur Trindade                     | Gabriel de Souza |
-| `0.2`      |  24/04/2023 | Adição do cronograma detalhado das etapas restantes  | Arthur Trindade<br>Gabriel de Souza | Júlio César      |
-| `0.3`      |  26/04/2023 | Ajustes com base nos fedbacks das apresentações e padronização do cronograma detalhado  | Arthur Trindade | -      |
+| `0.0`      |  22/04/2023 | Criação do arquivo                                   | Arthur Trindade                              | -                |
+| `0.1`      |  23/04/2023 | Adição do Cronograma planejado da etapa 1            | Arthur Trindade                              | Gabriel de Souza |
+| `0.2`      |  24/04/2023 | Adição do cronograma detalhado das etapas restantes  | Arthur Trindade<br>Gabriel de Souza          | Júlio César      |
+| `0.3`      |  26/04/2023 | Ajustes com base nos fedbacks das apresentações e padronização do cronograma detalhado | Arthur Trindade | -           |

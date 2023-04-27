@@ -10,7 +10,9 @@ nav:
     - Sites avaliados: planejamento/avaliados.md
     - Site selecionado: planejamento/selecionado.md
     - Ferramentas do projeto: planejamento/ferramentas.md
-    - Cronograma planejado: planejamento/cronograma_plan.md
+    - Cronograma:
+      - Cronograma planejado: planejamento/cronograma/cronograma_plan.md
+      - Cronograma executado: planejamento/cronograma/cronograma_plan.md
     - Processo de design: planejamento/processo.md
   - Entregas: entregas.md
 
@@ -24,15 +26,15 @@ theme:
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: indigo
-      accent: indigo
+      primary: orange
+      accent: orange
       toggle:
         icon: material/weather-sunny
         name: Mudar para modo escuro
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: blue
-      accent: blue
+      primary: indigo
+      accent: indigo
       toggle:
         icon: material/weather-night
         name: Mudar para modo claro 
