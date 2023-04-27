@@ -1,56 +1,56 @@
-# <b> Ferramentas Utilizadas no Projeto</b>
+# **Ferramentas Utilizadas no Projeto**
 
-## 1. Introdução
-Neste documento se encontra a lista de ferramentas que usaremos para o desenvolvimento do projeto, seja para criação de artefatos ou auxílio nas tarefas. Novas ferramentas podem ser inseridas se houver necessidade. Todas são gratuitas e de fácil acesso.
+## Introdução
 
+Nesta parte do documento será descrito a lista de ferramentas que usaremos no decorrer do desenvolvimento do projeto, seja para criação de artefatos ou auxílio nas tarefas. Novas ferramentas podem surgir com a necessidade alem de todas serem gratuitas.
 
-## 2. Ferramentas
-|                          Ferramenta                                        |    Nome    |                                                Utilidade                                                                                                                                      |
-| :-----------------------------------------:                                | :--------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|    <img src="../img/logo_github.jpg" alt="Logo GitHub" width="85">         |   GitHub   |O GitHub é ambiente de desenvolvimento de software baseada na nuvem. Utilizado pela nosse equipe para hospedar os repositorios, alem de utilizar outras ferramentas da mesma plataforma, como GitPages, GitProjects. [^1]| 
-|    <img src="../img/logo_discord.png" alt="Logo Discord" width="85">       |   Discord  |O Discord é uma plataforma de comunicação on-line baseada em chat e voz. Utilziada pelo nosso grupo para comunicação e onde foram feitas as primeiras gravações e reuniões.[^2]| 
-|    <img src="../img/logo_msteams.png" alt="Logo MSTeams" width="85">      |Microsoft Teams|O Microsoft Teams é uma plataforma de comunicação projetada para equipes de trabalho realizarem suas reuniões. Atualmente esta será a plataforma utilizada pelo grupo para as reuniões futuras.>[^3]| 
-|    <img src="../img/logo_OBS.png" alt="Logo OBS" width="85">               | OBS Studio |O OBS é uma programa de streaming muito utilizado para realizar gravações. Nosso grupo faz o uso do programa para gravar as reuniões. [^4]| 
-|    <img src="../img/logo_figma.png" alt="Logo Figma" width="85">           |    Figma   |Figma é uma ferramenta de design de interfaces muito utilizado para realizar prototipagens. Realizaremos o uso desta ferramenta para criar telas e gerar prototipos.[^5]| 
-|    <img src="../img/logo_mkdocs.png" alt="Logo MkDocs" width="85">         |    MkDocs  |O MkDocs é uma ferramenta que permite criar uma documentação de sites estaticos a partir de arquivos markdown. [^6] |
-|    <img src="../img/logo_wpp.png" alt="Logo Wpp" width="85">               |  WhatsApp  |O WhatsApp é uma ferramenta de comunicação como o telegram. Outra ferramenta utilizada pelo grupo para comunicação e gereciamento de atividades. [^7]| 
-|    <img src="../img/logo_usabilla.png" alt="Logo Usabilla" width="85">     |  Usabilla  |Usabilla é uma ferramenta que permite o gerenciamento e criação de avaliações heuristicas de maneira personalizavel. Será uma ferramenta futura utilizada pelo grupo para criar tarefas e gerar formularios/testes da nossa escolha.[^8]| 
-|    <img src="../img/logo_youtube.png" alt="Logo Youtube" width="85">       |   Youtube  |YouTube é uma plataforma de compartilhamento de vídeo online, onde os usuários podem carregar, compartilhar e visualizar vídeos. Utilizamos a plataforma para inserir as reuniões feitas pelo grupo.[^9]|
-|    <img src="../img/logo_visualstudio.jpg" alt="Logo VSCODE" width="85">   |   VSCode  |O vscode é um editor de texto com uma variedade de extensões para desenvolvimento de softwares. Será utilizado pelo grupo para editar os arquivos markdown.[^10]|
+## Ferramentas
+
+|                          Ferramenta                                           |    Nome    |                                                Utilidade                                                                                                                                      |
+| :-----------------------------------------:                                   | :--------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|    ![Logo GitHub](../img/logo_github.png)                                     |   GitHub   |         O GitHub é ambiente de desenvolvimento de software baseada na nuvem. Utilizado pela nosse equipe para hospedar os repositorios, alem de utilizar outras ferramentas da mesma plataforma, como GitPages, GitProjects. <a href="#github">[1]<a>| 
+|    ![Logo Discord](../img/logo_discord.png)                                   |   Discord  |         Discord é uma plataforma de comunicação on-line baseada em chat e voz. Utilziada pelo nosso grupo para comunicação e onde foram feitas as primeiras gravações e reuniões.<a href="#discord">[2]<a>| 
+|    ![Logo MSTeams](../img/logo_msteams.png)                                   |Microsoft Teams|      O Microsoft Teams é uma plataforma de comunicação projetada para equipes de trabalho realizarem suas reuniões. Atualmente esta será a plataforma utilizada pelo grupo para as reuniões futuras.<a href="#msteams">[3]<a>| 
+|    ![Logo OBS](../img/logo_OBS.png)                                           | OBS Studio |         O OBS é uma programa de streaming muito utilizado para realizar gravações. Nosso grupo faz o uso do programa para gravar as reuniões. <a href="#obs">[4]<a>| 
+|    ![Logo Figma](../img/logo_figma.png)                                       |    Figma   |         Figma é uma ferramenta de design de interfaces muito utilizado para realizar prototipagens. Realizaremos o uso desta ferramenta para criar telas e gerar prototipos.<a href="#figma">[5]<a>| 
+|    ![Logo MkDocs](../img/logo_mkdocs.png)                                     |    MkDocs  |         MkDocs é uma ferramenta que permite criar uma documentação de sites estaticos a partir de arquivos markdown. <a href="#mkdocs">[6]<a> |
+|    ![Logo WhatsApp](../img/logo_wpp.png)                                      |  WhatsApp  |         O WhatsApp é uma ferramenta de comunicação como o telegram. Outra ferramenta utilizada pelo grupo para comunicação e gereciamento de atividades. <a href="#wpp">[7]<a>| 
+|    ![Logo Usabilla](../img/logo_usabilla.png)                                 |  Usabilla  |         Usabilla é uma ferramenta que permite o gerenciamento e criação de avaliações heuristicas de maneira personalizavel. Será uma ferramenta futura utilizada pelo grupo para criar tarefas e gerar formularios/testes da nossa escolha.<a href="#usabilla">[8]<a>| 
+|    ![Logo YouTube](../img/logo_youtube.png)                                   |   Youtube  |         YouTube é uma plataforma de compartilhamento de vídeo online, onde os usuários podem carregar, compartilhar e visualizar vídeos. Utilizamos a plataforma para inserir as reuniões feitas pelo grupo.<a href="#youtube">[9]<a>|
+|    ![Logo VSCode](../img/logo_visualstudio.png)                               |   VSCode   |         O vscode é um editor de texto com uma variedade de extensões para desenvolvimento de softwares. Será utilizado pelo grupo para editar os arquivos markdown.<a href="#vscode">[10]<a>|
 
 Fonte: Grupo UnbIdiomas-2022.2, acessado em: 25 de abril de 2023. Disponivel em: <https://github.com/Interacao-Humano-Computador/2022.2-UnbIdiomas>
 
 
-## 3. Referencias
-[^1]: GITHUB. 2023. Disponivel em: <https://github.com>. Acesso em 25/04/2023.
+## Referências
 
-[^2]: DISCORD. 2023. Disponivel em:  <https://discord.com>. Acesso em 25/04/2023.
+<span id="github">[1]: GITHUB. 2023. Disponivel em: <https://github.com>. Acesso em 25/04/2023.</span>
 
-[^3]: MSTEAMS. 2023. Disponivel em: <https://www.microsoft.com/pt-br/microsoft-teams/log-in>. Acesso em 25/04/2023.
+<span id="discord">[2]: DISCORD. 2023. Disponivel em:  <https://discord.com>. Acesso em 25/04/2023.</span>
 
-[^4]: OBS. 2023. Disponivel em: <https://obsproject.com/pt-br/download>. Acesso em 25/04/2023.
+<span id="msteams">[3]: MSTEAMS. 2023. Disponivel em: <https://www.microsoft.com/pt-br/microsoft-teams/log-in>. Acesso em 25/04/2023.</span>
 
-[^5]: FIGMA. 2023. Disponivel em: <https://www.figma.com>. Acesso em 25/04/2023.
+<span id="obs">[4]: OBS. 2023. Disponivel em: <https://obsproject.com/pt-br/download>. Acesso em 25/04/2023.</span>
 
-[^6]: MKDOCS. 2023. Disponivel em: <https://www.mkdocs.org>. Acesso em 25/04/2023.
+<span id="figma">[5]: FIGMA. 2023. Disponivel em: <https://www.figma.com>. Acesso em 25/04/2023.</span>
 
-[^7]: WPP. 2023. Disponivel em: <https://web.whatsapp.com>. Acesso em 25/04/2023.
+<span id="mkdocs">[6]: MKDOCS. 2023. Disponivel em: <https://www.mkdocs.org>. Acesso em 25/04/2023.</span>
 
-[^8]: USABILLA. 2023. Disponivel em: <https://www.getfeedback.com/resources/cx/usabilla/>. Acesso em 25/04/2023.
+<span id="wpp">[7]: WPP. 2023. Disponivel em: <https://web.whatsapp.com>. Acesso em 25/04/2023.</span>
 
-[^9]: YOUTUBE. 2023. Disponivel em: <https://www.youtube.com>. Acesso em 25/04/2023.
+<span id="usabilla">[8]: USABILLA. 2023. Disponivel em: <https://www.getfeedback.com/resources/cx/usabilla/>. Acesso em 25/04/2023.</span>
 
-[^10]: VSCode. 2023. Disponivel em: <https://code.visualstudio.com>. Acesso em 25/04/2023.
+<span id="youtube">[9]: YOUTUBE. 2023. Disponivel em: <https://www.youtube.com>. Acesso em 25/04/2023.</span>
 
-
-
+<span id="vscode">[10]: VSCode. 2023. Disponivel em: <https://code.visualstudio.com>. Acesso em 25/04/2023.</span>
 
 ## Histórico de revisão
 
-| Versão     | Data        | Descrição                                            | Auto(es)                                    | Revisores        |
+| Versão     | Data        | Descrição                                            | Autor(es)                                    | Revisores       |
 | :--------: | :---------: | ---------------------------------------------------- | ------------------------------------------- | ---------------- |
-| `0.0`      |  22/04/2023 | Criação do arquivo                                   | Arthur Trindade                    | -                |
-| `0.1`      |  25/04/2023 | Desenvolvimento do arquivo                           | Marcus Vinicius                | Júlio César|
-| `0.2`      |  25/04/2023 | Correçoes de link no Arquivo                         | Marcus Vinicius                | Júlio César|
-| `0.3`      |  25/04/2023 | Correçoes de referencia no Arquivo                   | Marcus Vinicius                | Júlio César|
-| `0.4`      |  25/04/2023 | Correçoes de referencia no Arquivo                   | Marcus Vinicius                | Júlio César|
+| `0.0`      |  22/04/2023 | Criação do arquivo                                   | Arthur Carneiro Trindade                    | -                |
+| `0.1`      |  25/04/2023 | Desenvolvimento do arquivo                           | Marcus Vinicius Cunha Dantas                | Júlio César Costa|
+| `0.2`      |  25/04/2023 | Correções de link no Arquivo                         | Marcus Vinicius Cunha Dantas                | Júlio César Costa|
+| `0.3`      |  25/04/2023 | Correções de referencia no Arquivo                   | Marcus Vinicius Cunha Dantas                | Júlio César Costa|
+| `0.4`      |  25/04/2023 | Correções de referencia no Arquivo                   | Marcus Vinicius Cunha Dantas                | Júlio César Costa|
+| `0.5`      |  26/04/2023 | Correções de de imagens e referecias                 | Marcus Vinicius Cunha Dantas                | Júlio César Costa|
