@@ -36,6 +36,6 @@ Por se tratar de um site bancário, possui diversos clientes, uma vez que ter um
 
 | Versão     | Data        | Descrição            | Autor(es)                          | Revisores  |
 | :--------: | :---------: | -------------------- | ---------------------------------- | ---------- |
-| `0.0`      |  22/04/2023 | Criação do arquivo   | Arthur Carneiro Trindade           | -          |
-| `0.1`      |  24/04/2023 | Adição do site escolhido  | Miguel Moreira da Silva de Oliveira | -     |
-| `0.2`      |  26/04/2023 | Completando a pagina  | Miguel Moreira da Silva de Oliveira | -     |
+| `0.0`      |  22/04/2023 | Criação do arquivo   | Arthur Trindade           | -          |
+| `0.1`      |  24/04/2023 | Adição do site escolhido  | Miguel Moreira | -     |
+| `0.2`      |  26/04/2023 | Completando a pagina  | Miguel Moreira | -     |

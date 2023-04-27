@@ -15,7 +15,7 @@ Este repositório contém a documentação do planejamento e execução, além d
 <div class="card">
   <img src="https://github.com/EhOMiguel.png" alt="EhOMiguel">
   <div class="info">
-    <h3>Miguel Moreira da Silva de Oliveira</h3>
+    <h3>Miguel Moreira</h3>
     <p>@EhOMiguel</p>
     <a href="https://github.com/EhOMiguel">Ver perfil</a>
   </div>
@@ -23,7 +23,7 @@ Este repositório contém a documentação do planejamento e execução, além d
 <div class="card">
   <img src="https://github.com/trindadea.png" alt="trindadea">
   <div class="info">
-    <h3>Arthur Carneiro Trindade</h3>
+    <h3>Arthur Trindade</h3>
     <p>@trindadea</p>
     <a href="https://github.com/trindadea">Ver perfil</a>
   </div>
@@ -31,7 +31,7 @@ Este repositório contém a documentação do planejamento e execução, além d
 <div class="card">
   <img src="https://github.com/ArtAssLou.png" alt="ArtAssLou">
   <div class="info">
-    <h3>Arthur D'Assumpção Loureiro</h3>
+    <h3>Arthur D'Assumpção</h3>
     <p>@ArtAssLou</p>
     <a href="https://github.com/ArtAssLou">Ver perfil</a>
   </div>
@@ -39,7 +39,7 @@ Este repositório contém a documentação do planejamento e execução, além d
 <div class="card">
   <img src="https://github.com/Gabrielribeirof19.png" alt="Gabrielribeirof19">
   <div class="info">
-    <h3>Gabriel De Souza Fonseca Ribeiro</h3>
+    <h3>Gabriel De Souza</h3>
     <p>@Gabrielribeirof19</p>
     <a href="https://github.com/Gabrielribeirof19">Ver perfil</a>
   </div>
@@ -47,7 +47,7 @@ Este repositório contém a documentação do planejamento e execução, além d
 <div class="card">
   <img src="https://github.com/julnox.png" alt="julnox">
   <div class="info">
-    <h3>Júlio César Costa</h3>
+    <h3>Júlio César</h3>
     <p>@julnox</p>
     <a href="https://github.com/julnox">Ver perfil</a>
   </div>
@@ -55,7 +55,7 @@ Este repositório contém a documentação do planejamento e execução, além d
 <div class="card">
   <img src="https://github.com/MarcusVcd.png" alt="MarcusVcd">
   <div class="info">
-    <h3>Marcus Vinicius Cunha Dantas</h3>
+    <h3>Marcus Vinicius</h3>
     <p>@MarcusVcd</p>
     <a href="https://github.com/MarcusVcd">Ver perfil</a>
   </div>
@@ -65,5 +65,5 @@ Este repositório contém a documentação do planejamento e execução, além d
 
 | Versão     | Data        | Descrição            | Autor(es)                           | Revisores  |
 | :--------: | :---------: | -------------------- | ----------------------------------  | ---------- |
-| `0.0`      |  09/04/2023 | Criação do arquivo   | Miguel Moreira da Silva de Oliveira | -          |
-| `0.1`      |  22/04/2023 | Adição da introdução e sobre | Arthur Carneiro Trindade    | -          |
+| `0.0`      |  09/04/2023 | Criação do arquivo e da apresentação da equipe | Miguel Moreira | -     |
+| `0.1`      |  22/04/2023 | Adição da introdução e sobre | Arthur Trindade | Miguel Moreira |

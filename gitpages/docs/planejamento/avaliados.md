@@ -1,10 +1,3 @@
-## Histórico de revisão
-
-| Versão     | Data        | Descrição            | Autor(es)                          | Revisores  |
-| :--------: | :---------: | -------------------- | ---------------------------------- | ---------- |
-| `0.0`      |  22/04/2023 | Criação do arquivo   | Arthur Carneiro Trindade           | -          |
-| `0.1`      |  24/04/2023 | Adição dos sites e afins   | Miguel Moreira da Silva de Oliveira         | -          |
-
 ## Escolha individual
 
 Para a escolha individual, cada um teve que escolher um site para entrega avaliativa da matéria. Logo já tínhamos 6 opções de site.
@@ -40,6 +33,11 @@ Após analisar todas as 6 opções que já tínhamos e nenhuma agradar o grupo, 
 - BRB
 - Caixa
 
-Foi durante essa análise que encontramos o site que queríamos: o Site da Caixa.
+Foi durante essa análise que encontramos o site que queríamos, o site da CAIXA.
 
+## Histórico de revisão
 
+| Versão     | Data        | Descrição            | Autor(es)                          | Revisores  |
+| :--------: | :---------: | -------------------- | ---------------------------------- | ---------- |
+| `0.0`      |  22/04/2023 | Criação do arquivo   | Arthur Trindade                    | -          |
+| `0.1`      |  24/04/2023 | Adição dos sites e afins | Miguel Moreira                 | -          |

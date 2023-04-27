@@ -49,8 +49,8 @@ Fonte: Grupo UnbIdiomas-2022.2, acessado em: 25 de abril de 2023. Disponivel em:
 
 | Versão     | Data        | Descrição                                            | Auto(es)                                    | Revisores        |
 | :--------: | :---------: | ---------------------------------------------------- | ------------------------------------------- | ---------------- |
-| `0.0`      |  22/04/2023 | Criação do arquivo                                   | Arthur Carneiro Trindade                    | -                |
-| `0.1`      |  25/04/2023 | Desenvolvimento do arquivo                           | Marcus Vinicius Cunha Dantas                | Júlio César Costa|
-| `0.2`      |  25/04/2023 | Correçoes de link no Arquivo                         | Marcus Vinicius Cunha Dantas                | Júlio César Costa|
-| `0.3`      |  25/04/2023 | Correçoes de referencia no Arquivo                   | Marcus Vinicius Cunha Dantas                | Júlio César Costa|
-| `0.4`      |  25/04/2023 | Correçoes de referencia no Arquivo                   | Marcus Vinicius Cunha Dantas                | Júlio César Costa|
+| `0.0`      |  22/04/2023 | Criação do arquivo                                   | Arthur Trindade                    | -                |
+| `0.1`      |  25/04/2023 | Desenvolvimento do arquivo                           | Marcus Vinicius                | Júlio César|
+| `0.2`      |  25/04/2023 | Correçoes de link no Arquivo                         | Marcus Vinicius                | Júlio César|
+| `0.3`      |  25/04/2023 | Correçoes de referencia no Arquivo                   | Marcus Vinicius                | Júlio César|
+| `0.4`      |  25/04/2023 | Correçoes de referencia no Arquivo                   | Marcus Vinicius                | Júlio César|
