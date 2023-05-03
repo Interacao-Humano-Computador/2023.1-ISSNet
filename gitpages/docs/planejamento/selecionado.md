@@ -17,7 +17,7 @@ No entanto, percebemos que os problemas do site são justamente os desafios que 
 
 ![Página inicial do site da CAIXA](../img/caixa1.jpeg)
 
-*Fonte: [CAIXA], 2023* (https://www.caixa.gov.br/Paginas/home-caixa.aspx)
+*Fonte: [CAIXA](https://www.caixa.gov.br/Paginas/home-caixa.aspx), 2023*
 
 </center>
 <br>
@@ -28,7 +28,7 @@ No entanto, percebemos que os problemas do site são justamente os desafios que 
 
 ![Menu da página inicial do site da CAIXA](../img/caixa2.jpeg)
 
-*Fonte: [CAIXA], 2023* (https://www.caixa.gov.br/Paginas/home-caixa.aspx)
+*Fonte: [CAIXA](https://www.caixa.gov.br/Paginas/home-caixa.aspx), 2023*
 
 </center>
 <br>
