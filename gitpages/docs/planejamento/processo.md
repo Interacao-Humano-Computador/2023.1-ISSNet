@@ -1,22 +1,26 @@
 # Processo de Design
 
 ## Ciclo de Vida Simples
+<center>
 
 *Figura 1: Ciclo de vida simples*
 
 ![Ciclo de Vida Simples](../img/ciclo_simples.png)
 
 *Fonte: adaptado de Sharp et al, por Simone, 2010*
+</center>
 
 O ciclo de vida simples na figura 1 apresenta quatro atividades, sendo elas a identificação dos requisitos, o design da solução, prototipação e avaliação do prototipação, é um modelo bastante abrangente, não sendo específico para a área de engenharia de usabilidade. (Simone, 2010; p.102).
 
 ## Ciclo de Vida em Estrela
+<center>
 
 *Figura 2: Ciclo de vida em estrela*
 
 ![Ciclo de Vida em Estrela](../img/ciclo_estrela.png)
 
 *Fonte: Simone, 2010*
+</center>
 
 Desenvolvido por Hix e Hartson em 1993, o ciclo de vida em estrela da figura 2, pode-se iniciar de qualquer uma das atividades, todas elas tem como o centro a avaliação para validar se está conforme os requisitos, a atividade de análise levanta informações da situação atual, a especificação de requisitos define os problemas a serem resolvidos, as atividades de síntese consistem de: projeto conceitual e especificação do design, prototipação, implementação. (Simone, 2010; p.103).
 
@@ -38,12 +42,14 @@ Desenvolvido por Hix e Hartson em 1993, o ciclo de vida em estrela da figura 2, 
 A engenharia de usabilidade proposta por Jakob Nielsen em 1993 define um conjunto de atividades a serem seguidas durante o projeto, com identificação de usuários, análise do mercado, atividades de síntese, análises e testes. (Simone, 2010; p.104)
 
 ## Ciclo de Vida de Mayhew
+<center>
 
 *Figura 3: Ciclo de vida de Mayhew*
 
 ![Ciclo de Vida Mayhew](../img/ciclo_mayhew.png)
 
 *Fonte: adaptado de Mayhew, por Simone, 2010*
+</center>
 
 O ciclo criado por Deborah Mayhew (1999) e mostrado na figura 3 é dividido entre análise de requisitos, onde os requisitos são estabelecidos, a fase de design, avaliação e desenvolvimento consiste em criar uma solução que atende os requisitos e a fase de instalação consiste na validação do usuário sobre o sistema. (Simone, 2010, p.110)
 

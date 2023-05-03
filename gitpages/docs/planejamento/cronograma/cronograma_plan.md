@@ -1,5 +1,5 @@
 ## Introdução
-Este artefato apresenta o cronograma geral do projeto e o cronograma planejado das entregas em cada etapa definida no cronograma geral e foi construído com base no template disponibilizado no moodle da disciplina [^1] e no roadmap do projeto de avaliação do Simples Nacional, no GitHub Pages do projeto [^2]. 
+Este artefato apresenta o cronograma geral do projeto e o cronograma planejado das entregas em cada etapa definida no cronograma geral e foi construído com base no template disponibilizado no moodle da disciplina [^1]. 
 
 ## Cronograma geral do projeto
 O cronograma de entregas é definido no plano de ensino da disciplina, apresentando os artefatos sugeridos para cada etapa do projeto, bem como as datas limite para sua conclusão.
@@ -54,14 +54,14 @@ Tabela 2: Cronograma planejado da etapa 1.
 
 | Atividade                                                          | Responsável(veis)                                                                                             | Período de realização    | Revisor(es)                                                                                                   | Período de revisão       |
 | ------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------- | :----------------------: | ------------------------------------------------------------------------------------------------------------- | :----------------------: |
-| Ponto de controle 3 no Discord                                     | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | 01/04/2023               |  -                                                                                                            | -                        |
-| Criação da ata da reunião                                          | Arthur D'Assumpção                                                                                            | 02/04/2023               | Marcus Vinicius                                                                                               | 02/04/2023<br>07/04/2023 |
-| Definição do perfil do usuário                                     | Arthur Trindade<br>Júlio César<br>Marcus Vinicius                                                             | 01/04/2023<br>04/04/2023 | Arthur D'Assumpção<br>Gabriel de Souza<br>Miguel Moreira                                                      | 05/04/2023<br>07/04/2023 |
-| Pesquisar sobre os aspectos éticos de pesquisas envolvendo pessoas | Arthur D'Assumpção<br>Gabriel de Souza<br>Miguel Moreira                                                      | 01/04/2023<br>04/04/2023 | Arthur Trindade<br>Júlio César<br>Marcus Vinicius                                                             | 05/04/2023<br>07/04/2023 |
-| Definição de personas                                              | Arthur Trindade<br>Júlio César<br>Marcus Vinicius                                                             | 01/04/2023<br>04/04/2023 | Arthur D'Assumpção<br>Gabriel de Souza<br>Miguel Moreira                                                      | 05/04/2023<br>07/04/2023 |
-| Análise de tarefas                                                 | Gabriel de Souza<br>Miguel Moreira                                                                            | 01/04/2023<br>04/04/2023 | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | 05/04/2023<br>07/04/2023 |
+| Ponto de controle 3 no Discord                                     | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | 01/05/2023               |  -                                                                                                            | -                        |
+| Criação da ata da reunião                                          | Arthur D'Assumpção                                                                                            | 02/05/2023               | Marcus Vinicius                                                                                               | 02/05/2023<br>07/05/2023 |
+| Definição do perfil do usuário                                     | Arthur Trindade<br>Júlio César<br>Marcus Vinicius                                                             | 01/05/2023<br>05/05/2023 | Arthur D'Assumpção<br>Gabriel de Souza<br>Miguel Moreira                                                      | 05/05/2023<br>07/05/2023 |
+| Pesquisar sobre os aspectos éticos de pesquisas envolvendo pessoas | Arthur D'Assumpção<br>Gabriel de Souza<br>Miguel Moreira                                                      | 01/05/2023<br>05/05/2023 | Arthur Trindade<br>Júlio César<br>Marcus Vinicius                                                             | 05/05/2023<br>07/05/2023 |
+| Definição de personas                                              | Arthur Trindade<br>Júlio César<br>Marcus Vinicius                                                             | 01/05/2023<br>05/05/2023 | Arthur D'Assumpção<br>Gabriel de Souza<br>Miguel Moreira                                                      | 05/05/2023<br>07/05/2023 |
+| Análise de tarefas                                                 | Gabriel de Souza<br>Miguel Moreira                                                                            | 01/05/2023<br>05/05/2023 | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | 05/05/2023<br>07/05/2023 |
 | Gravação das entregas da etapa 2                                   | Miguel Moreira                                                                                                | 07/05/2023               | Miguel Moreira                                                                                                | 08/05/2023               |
-| Ajustes e melhorias                                                | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | 09/11/2023<br>12/11/2023 | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | 09/11/2023<br>12/11/2023 |
+| Ajustes e melhorias                                                | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | 09/05/2023<br>12/05/2023 | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | 09/05/2023<br>12/05/2023 |
 
 Tabela 3: Cronograma planejado da etapa 2.
 
@@ -177,9 +177,12 @@ Tabela 10: Cronograma planejado da etapa 8.
 </center>
 
 ## Referências
-[^1]: APRENDER 3, Interação Humano Computador, Disponivel em: <https://aprender3.unb.br/course/view.php?id=18552>
+[^1]: SALES, André Barros de. Exemplo de Cronograma. Disponível em: <https://aprender3.unb.br/pluginfile.php/2530069/mod_resource/content/2/Exemplo%20de%20Cronograma.pdf>
 
-[^2]: GITPAGES Simples Nacional, Disponivel em:  <https://interacao-humano-computador.github.io/2022.2-SimplesNacional/Planejamento/Roadmap/>
+## Bibliografia
+SALES, André Barros de. Plano de ensino da disciplina. Disponível em: <https://aprender3.unb.br/pluginfile.php/2523360/mod_resource/content/33/Plano_de_Ensino%20FIHC%20202301%20Turma%202.pdf>
+
+Roadmap Simples Nacional. Disponível em:  <https://interacao-humano-computador.github.io/2022.2-SimplesNacional/Planejamento/Roadmap/>
 
 ## Histórico de revisão
 
@@ -189,3 +192,4 @@ Tabela 10: Cronograma planejado da etapa 8.
 | `0.1`      |  23/04/2023 | Adição do Cronograma planejado da etapa 1            | Arthur Trindade                              | Gabriel de Souza |
 | `0.2`      |  24/04/2023 | Adição do cronograma detalhado das etapas restantes  | Arthur Trindade<br>Gabriel de Souza          | Júlio César      |
 | `0.3`      |  26/04/2023 | Ajustes com base nos fedbacks das apresentações e padronização do cronograma detalhado | Arthur Trindade | -           |
+| `0.4`      |  02/05/2023 | Ajustes de datas da etapa 2 e separação de Referências e Bibliografia | Arthur Trindade | -           |
