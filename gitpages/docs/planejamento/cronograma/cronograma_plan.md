@@ -1,5 +1,5 @@
 ## Introdução
-Este artefato apresenta o cronograma geral do projeto e o cronograma planejado das entregas em cada etapa definida no cronograma geral e foi construído com base no template disponibilizado no moodle da disciplina [^1]. 
+Este artefato apresenta o cronograma geral do projeto e o cronograma planejado das entregas em cada etapa definida no cronograma geral e foi construído com base no template disponibilizado no moodle da disciplina <a href="#cronograma">[1]</a>. 
 
 ## Cronograma geral do projeto
 O cronograma de entregas é definido no plano de ensino da disciplina, apresentando os artefatos sugeridos para cada etapa do projeto, bem como as datas limite para sua conclusão.
@@ -177,7 +177,7 @@ Tabela 10: Cronograma planejado da etapa 8.
 </center>
 
 ## Referências
-[^1]: SALES, André Barros de. Exemplo de Cronograma. Disponível em: <https://aprender3.unb.br/pluginfile.php/2530069/mod_resource/content/2/Exemplo%20de%20Cronograma.pdf>
+<span id='cronograma'>[1]: SALES, André Barros de. Exemplo de Cronograma. Disponível em: <https://aprender3.unb.br/pluginfile.php/2530069/mod_resource/content/2/Exemplo%20de%20Cronograma.pdf></span>
 
 ## Bibliografia
 SALES, André Barros de. Plano de ensino da disciplina. Disponível em: <https://aprender3.unb.br/pluginfile.php/2523360/mod_resource/content/33/Plano_de_Ensino%20FIHC%20202301%20Turma%202.pdf>

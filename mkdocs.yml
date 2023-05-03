@@ -12,7 +12,7 @@ nav:
     - Ferramentas do projeto: planejamento/ferramentas.md
     - Cronograma:
       - Cronograma planejado: planejamento/cronograma/cronograma_plan.md
-      - Cronograma executado: planejamento/cronograma/cronograma_plan.md
+      - Cronograma executado: planejamento/cronograma/cronograma_exec.md
     - Processo de design: planejamento/processo.md
   - Entregas: entregas.md
 

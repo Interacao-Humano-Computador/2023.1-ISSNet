@@ -65,5 +65,5 @@ Este repositório contém a documentação do planejamento e execução, além d
 
 | Versão     | Data        | Descrição            | Autor(es)                           | Revisores  |
 | :--------: | :---------: | -------------------- | ----------------------------------  | ---------- |
-| `0.0`      |  09/04/2023 | Criação do arquivo e da apresentação da equipe | Miguel Moreira | -     |
+| `0.0`      |  09/04/2023 | Criação do arquivo e da apresentação da equipe | Miguel Moreira | Arthur Trindade |
 | `0.1`      |  22/04/2023 | Adição da introdução e sobre | Arthur Trindade | Miguel Moreira |
