@@ -59,7 +59,7 @@ Foi escolhido pelo grupo o ciclo de vida de Mayhew, o ciclo de Mayhew foi compar
 
 ## Bibliografia
 
-[1] SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a.
+SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a.
 Edição, Editora Campus, 2010. Publicado em: 03/05/2021.
 
 ## Histórico de revisão

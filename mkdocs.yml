@@ -5,7 +5,11 @@ repo_name: CAIXA
 
 nav:
   - Início: index.md
-  - Atas: atas.md
+  - Atas:
+    - 10/03: atas/ata_03_10.md
+    - 17/04: atas/ata_04_17.md
+    - 24/04: atas/ata_04_24.md
+    - 02/05: atas/ata_05_02.md
   - Planejamento:
     - Sites avaliados: planejamento/avaliados.md
     - Site selecionado: planejamento/selecionado.md
@@ -14,6 +18,12 @@ nav:
       - Cronograma planejado: planejamento/cronograma/cronograma_plan.md
       - Cronograma executado: planejamento/cronograma/cronograma_exec.md
     - Processo de design: planejamento/processo.md
+  - Análise de requisitos:
+    - Aspectos éticos: analise_de_requisitos/aspectos_eticos.md
+    - Perfil de usuário: analise_de_requisitos/perfil_de_usuario.md
+    - Definição de personas: analise_de_requisitos/personas.md
+    - Análise de tarefas: analise_de_requisitos/analise_de_tarefas.md
+    - Cenários: analise_de_requisitos/cenarios.md
   - Entregas: entregas.md
 
 extra_css:
