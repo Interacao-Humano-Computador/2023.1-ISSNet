@@ -15,7 +15,7 @@ Termo de Consentimento Livre e Esclarecido
 </h3>
 </div>
 
- <iframe src="/doc/Termo%20de%20consentimento.pdf" width="100%" height="600px"></iframe>
+ <iframe src="https://interacao-humano-computador.github.io/2023.1-ISSNet/doc/Termo%20de%20consentimento.pdf" width="100%" height="600px"></iframe>
 
 ## Referências
 [Conselho Nacional de Saúde]. Resolução Nº 466, de 12 de dezembro de 2012. Diário Oficial da União, Brasília, DF, 13 jun. 2013. Seção 1, p. 59-62. Disponível em: <http://conselho.saude.gov.br/resolucoes/2012/Reso466.pdf>. Acesso em: 7 mai. 2023.
