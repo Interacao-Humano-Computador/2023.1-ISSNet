@@ -33,7 +33,7 @@ Após analisar todas as 6 opções que já tínhamos e nenhuma agradar o grupo, 
 - BRB
 - Caixa
 
-Foi durante essa análise que encontramos o site que queríamos, o site da CAIXA.
+Inicialmente, havíamos selecionado o site da Caixa, porém, logo após, descobrimos que o site havia passado por uma refatoração e já haviam implementado o que tínhamos planejado. Portanto, optamos por mudar para o site <a href="https://df.issnetonline.com.br/online/Login/Login.aspx?ReturnUrl=%2fonline" target="blank">ISSNet</a>, que atendeu às nossas necessidades apesar de algumas dificuldades em coletar dados.
 
 ## Histórico de revisão
 
@@ -41,3 +41,4 @@ Foi durante essa análise que encontramos o site que queríamos, o site da CAIXA
 | :--------: | :---------: | -------------------- | ---------------------------------- | ---------- |
 | `0.0`      |  22/04/2023 | Criação do arquivo   | Arthur Trindade                    | -          |
 | `0.1`      |  24/04/2023 | Adição dos sites e afins | Miguel Moreira                 | -          |
+| `0.2`      |  07/05/2023 | Mudança de site       | Miguel Moreira                    | -          |

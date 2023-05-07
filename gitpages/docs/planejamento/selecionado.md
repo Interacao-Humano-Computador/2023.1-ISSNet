@@ -1,49 +1,36 @@
 # Análise parcial
 
-## Caixa
+## ISSNet
 
-No site da CAIXA, encontramos uma grande oportunidade para nosso trabalho de refatoração.
+Após termos mudado de site, tivemos que migrar para nossa segunda opção, o site da ISSNet, que é uma plataforma que oferece serviços de gerenciamento e emissão de notas fiscais eletrônicas para empresas. É uma ferramenta importante para a gestão de negócios e pode ser usada por empreendedores de diversos segmentos. Sabíamos que encontraríamos alguns obstáculos, mas com foco no trabalho, acreditamos que eles não irão interferir no resultado final.
 
 ## Análise parcial
 
-O site da CAIXA foi até um susto para nós da equipe, pois há uma grande disparidade em relação aos seus concorrentes. É um site quebrado, mal formatado, sem responsividade alguma e com poucas funções de acessibilidade.
+O site da ISSNet apresenta algumas dificuldades em termos de usabilidade e acessibilidade que podem ser melhorados através da refatoração. Observamos alguns problemas que precisam ser corrigidos para que o site atenda melhor aos usuários:
 
-No entanto, percebemos que os problemas do site são justamente os desafios que precisamos enfrentar para o nosso projeto. Por isso, decidimos incluir o site da CAIXA em nosso escopo de trabalho e nos comprometemos a refatorá-lo para corrigir esses problemas.
+* Falta de contraste nas cores utilizadas, o que dificulta a leitura para usuários com deficiência visual.
+* Má formatação do conteúdo, o que pode tornar difícil encontrar as informações que os usuários estão procurando.
+* Navegação confusa, com informações relevantes escondidas em menus pouco intuitivos.
+* Falta de opções de acessibilidade, como aumento de fonte e modo noturno
 
 ### O Site
 <center>
 
-*Figura 1: Pagina inicial site da CAIXA*
+*Figura 1: Pagina inicial site ISSNet*
 
-![Página inicial do site da CAIXA](../img/caixa1.jpeg)
+![Página inicial do site ISSNet](../img/issnet1.png)
 
-*Fonte: [CAIXA](https://www.caixa.gov.br/Paginas/home-caixa.aspx), 2023*
-
-</center>
-<br>
-<br>
-<center>
-
-*Figura 2: Pagina inicial site da CAIXA com menu aberto*
-
-![Menu da página inicial do site da CAIXA](../img/caixa2.jpeg)
-
-*Fonte: [CAIXA](https://www.caixa.gov.br/Paginas/home-caixa.aspx), 2023*
+*Fonte: [ISSNet](https://df.issnetonline.com.br/online/Login/Login.aspx?ReturnUrl=%2fonline#), 2023*
 
 </center>
 <br>
 <br>
 
-Observando as figuras 1 e 2, é possível identificar alguns pontos a serem melhorados que foram notados logo na primeira análise do site da CAIXA:
-
-* Sobreposição
-* Formatação
-* Acessibilidade
-
+Observando as figuras 1, é possível identificar os problemas mencionados anteriormente.
 
 ### Usuários
 
-Por se tratar de um site bancário, possui diversos clientes, uma vez que ter uma conta em um banco não impede o usuário de criar outra conta em outro banco. Temos usuários tanto na faculdade quanto nas famílias e no trabalho, o que torna o acesso aos clientes uma tarefa fácil para o nosso projeto.
+O site da ISSNet é utilizado principalmente por empresas e profissionais que precisam emitir notas fiscais eletrônicas. Esses usuários são em sua maioria pessoas que trabalham com contabilidade ou departamento financeiro de empresas, o que torna o acesso a esse público uma tarefa fácil para o nosso projeto.
 
 ## Histórico de revisão
 
@@ -52,3 +39,4 @@ Por se tratar de um site bancário, possui diversos clientes, uma vez que ter um
 | `0.0`      |  22/04/2023 | Criação do arquivo   | Arthur Trindade           | -          |
 | `0.1`      |  24/04/2023 | Adição do site escolhido  | Miguel Moreira | Arthur Trindade |
 | `0.2`      |  26/04/2023 | Completando a página  | Miguel Moreira | Arthur Trindade |
+| `0.3`      |  07/05/2023 | Mudança de site e atualização da análise  | Miguel Moreira | Arthur Trindade |
