@@ -186,7 +186,7 @@ Tabela 10: Cronograma planejado da etapa 8.
 ## Bibliografia
 SALES, André Barros de. Plano de ensino da disciplina. Disponível em: <https://aprender3.unb.br/pluginfile.php/2523360/mod_resource/content/33/Plano_de_Ensino%20FIHC%20202301%20Turma%202.pdf>
 
-Roadmap Simples Nacional. Disponível em:  <https://interacao-humano-computador.github.io/2022.2-SimplesNacional/Planejamento/Roadmap/>
+Roadmap, Simples Nacional. Disponível em:  <https://interacao-humano-computador.github.io/2022.2-SimplesNacional/Planejamento/Roadmap/>
 
 ## Histórico de revisão
 
