@@ -67,3 +67,4 @@ Este repositório contém a documentação do planejamento e execução, além d
 | :--------: | :---------: | -------------------- | ----------------------------------  | ---------- |
 | `0.0`      |  09/04/2023 | Criação do arquivo e da apresentação da equipe | Miguel Moreira | Arthur Trindade |
 | `0.1`      |  22/04/2023 | Adição da introdução e sobre | Arthur Trindade | Miguel Moreira |
+| `0.2`      |  07/05/2023 | Alteração da introdução e sobre do site da CAIXA para o site ISSNet DF | Arthur Trindade | Miguel Moreira |
