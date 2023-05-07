@@ -1,7 +1,7 @@
-site_name: CAIXA
+site_name: ISSNet Online DF
 docs_dir: gitpages/docs
-repo_url: https://github.com/Interacao-Humano-Computador/2023.1-CAIXA
-repo_name: CAIXA
+repo_url: https://github.com/Interacao-Humano-Computador/2023.1-ISSNet
+repo_name: ISSNet Online DF
 
 nav:
   - Início: index.md
@@ -29,22 +29,21 @@ nav:
 extra_css:
   - css/custom.css
 
-
 theme:
   name: 'material'
   language: 'pt'
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: orange
-      accent: orange
+      primary: green
+      accent: green
       toggle:
         icon: material/weather-sunny
         name: Mudar para modo escuro
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: indigo
-      accent: indigo
+      primary: green
+      accent: green
       toggle:
         icon: material/weather-night
         name: Mudar para modo claro 
@@ -59,7 +58,7 @@ theme:
     - toc.numbered
   search: true
   search_index_only: ['content']
-
   icon:
     repo: fontawesome/brands/github
-  logo: ./img/caixa-icon.png
+  logo: ./img/issnet-icon.png
+  favicon: ./img/favicon.ico
