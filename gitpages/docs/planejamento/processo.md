@@ -1,5 +1,9 @@
 # Processo de Design
 
+## Introdução
+
+Processo de design é uma especificação de como produzir artefatos (frutos do trabalho humano) de forma eficiente e eficaz, e segundo Lawson em 2006, uma atividade de design compõe basicamente: análise da situação atual, síntese de uma intervenção (planejamento e execução) e avaliação da nova situação após a intervenção (Simone, 2010; p.92).
+
 ## Ciclo de Vida Simples
 <center>
 
@@ -70,4 +74,5 @@ Edição, Editora Campus, 2010. Publicado em: 03/05/2021.
 | `0.1`      |  23/04/2023 | Versão Inicial       | Júlio César                  | Marcus Vinicius Cunha |
 | `0.2`      |  25/04/2023 | Adicionado revisores | Júlio César                  | Marcus Vinicius Cunha |
 | `0.3`      |  25/04/2023 | Adicionado outros ciclos | Júlio César              | Marcus Vinicius Cunha |
-| `0.4`      |  25/04/2023 | Correção das fontes | Júlio César              | Marcus Vinicius Cunha |
+| `0.4`      |  25/04/2023 | Correção das fontes      | Júlio César              | Marcus Vinicius Cunha |
+| `0.5`      |  07/05/2023 | Adicionando introdução   | Júlio César              | Marcus Vinicius Cunha |
