@@ -41,4 +41,5 @@ Aspectos Éticos, CIEE. Disponível em:  <https://interacao-humano-computador.gi
 | :--------: | :---------: | -------------------------------- | ---------------------------------- | ----------------------------- |
 | `0.0`      |  06/05/2023 | Criação do arquivo               | Arthur Trindade                    | Miguel Moreira                |
 | `0.1`      |  07/05/2023 | Adição do termo de consentimento | Arthur Trindade                    | Júlio César<br>Miguel Moreira |
-| `0.2`      |  07/05/2023 | Edição do termo de consentimento e adição dos aspectos éticos de pesquisas| Miguel Moreira                    | Júlio César<br>Arthur Trindade |
+| `0.2`      |  07/05/2023 | Edição do termo de consentimento e adição dos aspectos éticos de pesquisas| Miguel Moreira                    | Arthur Trindade<br>Júlio César |
+| `0.3`      |  07/05/2023 | Edição do termo de consentimento | Arthur Trindade                    | Miguel Moreira |
