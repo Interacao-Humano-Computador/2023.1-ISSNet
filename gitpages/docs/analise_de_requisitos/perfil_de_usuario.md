@@ -6,11 +6,13 @@ Perfil de usuário é uma ferramenta utilizada para identificar características
 ## Metodologia
 
 O uso do questionário para coleta de informações para a criação do perfil de usuário foi escolhida com base em:
+
 - Permite a coleta de informações de muitos usuários;
 - A análise dos dados é rápida e a ferramenta usada já apresenta gráficos;
 - Sem custo.
 
 Entretanto alguns problemas podem vir a ocorrer usando esta técnica:
+
 - Dependendo do método de distribuição, o público pode não ser representativo;
 - Com uma amostra pequena, os dados não são muito significativos;
 - Perguntas podem induzir os respondentes a respostas específicas.
@@ -138,7 +140,7 @@ O questionário teve 19 respostas, sendo que 12 são de respondentes que usaram 
 
 <center>
 
-*Figura 12: Você tem alguma sugestão para melhorar o ISSNet?"*
+*Figura 12: Questão "Você tem alguma sugestão para melhorar o ISSNet?"*
 
 ![Questão 12: Você tem alguma sugestão para melhorar o ISSNet?](../img/questionario/questao12.png)
 
@@ -176,3 +178,4 @@ Edição, Editora Campus, 2010. Publicado em: 03/05/2021.</span>
 | `0.0`      |  06/05/2023 | Criação do arquivo   | Arthur Trindade                | Miguel Moreira |
 | `0.1`      |  07/05/2023 | Adiciona introdução  | Júlio César                    | Miguel Moreira |
 | `0.2`      |  08/05/2023 | Adiciona outras seções | Júlio César, Marcus Vinicius | Miguel Moreira |
+| `0.3`      |  08/05/2023 | Pequenas correções | Júlio César, Marcus Vinicius | Miguel Moreira |
