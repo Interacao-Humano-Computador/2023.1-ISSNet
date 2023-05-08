@@ -6,7 +6,7 @@
 
 ## Referências
 <!-- FONTES CITADAS UTILIZADAS PARA EMBASAR O TEXTO, REMOVER CASO NÃO HOUVER  -->
-<span id="simone">[1] SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a.
+<span id="simone">[1]: SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a.
 Edição, Editora Campus, 2010. Publicado em: 03/05/2021.</span>
 
 ## Bibliografia
