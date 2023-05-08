@@ -2,11 +2,14 @@
 ## Introdução
 A ética é um aspecto fundamental em qualquer pesquisa envolvendo pessoas, e em nosso projeto de refatoração de site não poderia ser diferente. Como alunos de engenharia de software, é nossa responsabilidade garantir que os participantes de nossa pesquisa sejam tratados com o respeito e a dignidade que merecem, e que suas informações sejam tratadas com a devida confidencialidade e segurança.
 
-Para garantir a ética na pesquisa, seguimos os princípios recomendados pelo Conselho Nacional de Saúde na resolução nº 466 de 2012. Esses princípios incluem: 
- - A autonomia, que se refere ao reconhecimento do direito do indivíduo de tomar suas próprias decisões e respeitar sua liberdade de escolha; 
- - A beneficência, que requer que a pesquisa traga benefícios para os participantes ou para a sociedade em geral; 
- - A não-maleficência, que exige que a pesquisa não cause danos aos participantes e/ou à sociedade; e  
- - A justiça e equidade, que buscam garantir que a pesquisa seja conduzida de forma justa e equitativa, levando em consideração as diferenças culturais, sociais e econômicas dos participantes.
+Para garantir a ética na pesquisa, seguimos os princípios recomendados pelo Conselho Nacional de Saúde na resolução nº 466 de 2012. Esses princípios incluem:
+
+<ul> 
+    <li>A autonomia, que se refere ao reconhecimento do direito do indivíduo de tomar suas próprias decisões e respeitar sua liberdade de escolha; 
+    <li>A beneficência, que requer que a pesquisa traga benefícios para os participantes ou para a sociedade em geral; 
+    <li>A não-maleficência, que exige que a pesquisa não cause danos aos participantes e/ou à sociedade; e  
+    <li>A justiça e equidade, que buscam garantir que a pesquisa seja conduzida de forma justa e equitativa, levando em consideração as diferenças culturais, sociais e econômicas dos participantes.
+</ul>
 
 Esses princípios são aplicáveis em todas as etapas da pesquisa, incluindo a coleta de dados através de questionários e outras etapas do processo de refatoração do site.
 
