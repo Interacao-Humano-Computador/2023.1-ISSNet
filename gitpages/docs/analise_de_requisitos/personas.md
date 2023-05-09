@@ -10,13 +10,45 @@ Partindo dos dados obtidos na pesquisa realizada e na elaboração do [perfil do
 
 Segundo Simone (2010), é ideal que um elenco de personas possua entre 3 e 12 personas, por isso, a equipe decidiu por um elenco composto por 3 personas e 1 antipersona:
 
-### Persona 1
+### Aldemar Souza
+<center>
 
-### Persona 2
+*Figura 1: Persona 1*
 
-### Persona 3
+![Ciclo de Vida Mayhew](../img/persona_1.png)
 
-### Antipersona
+*Fonte: Autor*
+</center>
+
+### Felipe Melo
+<center>
+
+*Figura 1: Persona 1*
+
+![Ciclo de Vida Mayhew](../img/persona_2.png)
+
+*Fonte: Autor*
+</center>
+
+### Ana Clara
+<center>
+
+*Figura 1: Persona 1*
+
+![Ciclo de Vida Mayhew](../img/persona_3.png)
+
+*Fonte: Autor*
+</center>
+
+### Alice Braga
+<center>
+
+*Figura 1: Persona 1*
+
+![Ciclo de Vida Mayhew](../img/antipersona.png)
+
+*Fonte: Autor*
+</center>
 
 ## Referências
 <span id="simone">[1]: SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a.
@@ -33,3 +65,4 @@ Personas, CIEE. Disponível em:  <https://interacao-humano-computador.github.io/
 | :--------: | :---------: | -------------------- | ---------------------------------- | ---------- |
 | `0.0`      |  06/05/2023 | Criação do arquivo   | Arthur Trindade                | Miguel Moreira |
 | `0.1`      |  07/05/2023 | Adiciona introdução  | Júlio César                    | Miguel Moreira |
+| `0.2`      |  08/05/2023 | Adição do elenco de persona  | Arthur Trindade<br>Júlio César<br>Marcus Vinicus | Miguel Moreira |
