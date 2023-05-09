@@ -1,4 +1,4 @@
-## Histórico de revisão
+# Entregas do projeto
 
 ## Entrega da etapa 1
 [Link da gravação da reunião da entrega da etapa 1, 24/04/2023](https://youtu.be/HTT_8Qk3hh0)
@@ -9,6 +9,7 @@
 ## Entrega da etapa 2
 [Link da gravação da reunião da entrega da etapa 2, 08/04/2023](https://youtu.be/cDigvhGNjwE)
 
+## Histórico de revisão
 | Versão     | Data        | Descrição            | Autor(es)                          | Revisores  |
 | :--------: | :---------: | -------------------- | ---------------------------------- | ---------- |
 | `0.0`      |  22/04/2023 | Criação do arquivo   | Arthur Trindade           | -          |
