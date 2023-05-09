@@ -14,4 +14,4 @@
 | :--------: | :---------: | -------------------- | ---------------------------------- | ---------- |
 | `0.0`      |  22/04/2023 | Criação do arquivo   | Arthur Trindade           | -          |
 | `0.1`      |  26/04/2023 | Adição do link da gravação da entrega da etapa 1 | Arthur Trindade | Miguel Moreira |
-| `0.1`      |  08/05/2023 | Adição do link da gravação da entrega da etapa 2 e considerações de ajustes da etapa 1 | Arthur Trindade | Miguel Moreira |
+| `0.2`      |  08/05/2023 | Adição do link da gravação da entrega da etapa 2 e considerações de ajustes da etapa 1 | Arthur Trindade | Miguel Moreira |
