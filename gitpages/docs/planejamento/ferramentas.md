@@ -19,7 +19,8 @@ Nesta parte do documento será descrito a lista de ferramentas que usaremos no d
 |    ![Logo YouTube](../img/logo_youtube.png)                                   |   Youtube  |         YouTube é uma plataforma de compartilhamento de vídeo online, onde os usuários podem carregar, compartilhar e visualizar vídeos. Utilizamos a plataforma para inserir as reuniões feitas pelo grupo.<a href="#youtube">[9]</a>|
 |    ![Logo VSCode](../img/logo_visualstudio.png)                               |   VSCode   |         O vscode é um editor de texto com uma variedade de extensões para desenvolvimento de softwares. Será utilizado pelo grupo para editar os arquivos markdown.<a href="#vscode">[10]</a>|
 |    ![Logo Canva](../img/logo_canva.png)                                       |   Canva    |         Canva é uma plataforma de design da qual permite que os seus usuários criem diversos tipos de conteúdos e disponibilizem ou de forma gratuita ou paga para outras pessoas. Será utilizado pelo grupo para realizar algumas tarefas necessárias como a criação de personas. <a href="#canva">[11]</a>
-|    ![Logo Google Forms](../img/logo_gforms.png)                               | Google Forms | Google Forms é um aplicativo de gerenciamento de pesquisa. Está sendo utilizado para gerar os formulários que serão preenchidos pelos usuários. <a href="#gforms">[12]</a>
+|    ![Logo Google Forms](../img/logo_gforms.png)                               | Google Forms | Google Forms é um aplicativo de gerenciamento de pesquisa. Está sendo utilizado para gerar os formulários que serão preenchidos pelos usuários. <a href="#gforms">[12]</a>|
+
 Fonte: Grupo UnbIdiomas-2022.2, acessado em: 25 de abril de 2023. Disponivel em: <https://github.com/Interacao-Humano-Computador/2022.2-UnbIdiomas>
 
 
