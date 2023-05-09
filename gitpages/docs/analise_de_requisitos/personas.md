@@ -45,7 +45,7 @@ Segundo Simone (2010), é ideal que um elenco de personas possua entre 3 e 12 pe
 
 *Figura 1: Antipersona*
 
-![Ciclo de Vida Mayhew](../img/antipersona.png)
+![Ciclo de Vida Mayhew](../img/Antipersona.png)
 
 *Fonte: Autor*
 </center>
