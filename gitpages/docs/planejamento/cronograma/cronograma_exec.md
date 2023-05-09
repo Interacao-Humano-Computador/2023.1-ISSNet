@@ -2,13 +2,15 @@
 Este artefato apresenta o cronograma executado com detalhes reais das entregas em cada etapa do projeto. Para tornar mais visual a comparação entre o cronograma planejado e o executado, a equipe optou por utilizar cores diferentes para destacar as diferenças nas datas das duas versões, em que:<br> 
 
 <span style="color: green">**VERDE**</span> significa tarefa executada antes do prazo;<br>
-**BRANCO** significa tarefa executada dentro do prazo;<br>
+**PRETO** significa tarefa executada dentro do prazo;<br>
 <span style="color: orange">**LARANJADO**</span> significa tarefa executada com 1 a 3 dias de atraso e<br>
 <span style="color: red">**VERMELHO**</span> significa tarefa executada com mais de 3 dias de atraso
 
 Essa abordagem ajuda a equipe a identificar rapidamente quais atividades estão atrasadas ou adiantadas, permitindo que a equipe tome medidas corretivas para manter o projeto dentro do prazo planejado.
 
 ### Etapa 1
+A etapa 1 foi um pouco desafiadora para a equipe devido a algumas dificuldades na gestão do tempo. A escolha do site para o projeto de avaliação e o engajamento da equipe ocorreu um pouco tarde, o que resultou na sobreposição da elaboração do cronograma e da execução das demais atividades da etapa, que claramente tornou o o planejamento pouco preciso.
+
 <center>
 
 | Atividade                             | Responsável(veis)                                                                                             | Período de realização                                  | Revisor(es)                                                                                                   | Período de revisão                                     |
@@ -28,6 +30,30 @@ Essa abordagem ajuda a equipe a identificar rapidamente quais atividades estão 
 | Ajustes e melhorias                   | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | 25/04/2023<br>27/04/2023                               | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | 24/04/2023<br>27/04/2023                                   |
 
 Tabela 1: Cronograma executado da etapa 1.
+
+</center>
+
+### Etapa 2
+Durante a execução da etapa 2, a equipe se esforçou para seguir o cronograma planejado, buscando evitar os erros cometidos na etapa 1 e garantir a entrega dos artefatos no prazo estabelecido. No entanto, foi identificada uma mudança no site escolhido para o projeto, que passou por uma refatoração durante o período de realização das atividades. Diante dessa situação, a equipe precisou rapidamente escolher um novo site, o que demandou a revisão dos artefatos da etapa 1 relacionados ao site antigo e o início da produção dos artefatos da etapa 2 em um prazo reduzido, fora do planejamento inicial.
+
+<center>
+
+| Atividade                                                          | Responsável(veis)                                                                                             | Período de realização    | Revisor(es)                                                                                                   | Período de revisão       |
+| ------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------- | :----------------------: | ------------------------------------------------------------------------------------------------------------- | :----------------------: |
+| Ponto de controle 3 no Discord                                     | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | 02/05/2023               |  -                                                                                                            | -                        |
+| Criação da ata da reunião                                          | Arthur D'Assumpção                                                                                            | 08/05/2023               | Marcus Vinicius                                                                                               | 08/05/2023               |
+| Elaboração do questionário para definição do perfil do usuário     | Júlio César<br>Marcus Vinicius                                                                                | 07/05/2023               | Arthur Trindade                                                                                               | 07/05/2023               |
+| Distribuição do questionário para os usuários da aplicação         | Gabriel de Souza<br>Júlio César                                                                               | 06/05/2023<br>07/05/2023 | -                                                                                                             | -                        |
+| Definição do perfil do usuário                                     | Júlio César<br>Marcus Vinicius                                                                                | 07/05/2023<br>08/05/2023 | Arthur Trindade                                                                                               | 08/05/2023               |
+| Elaboração do documento de aspectos éticos                         | Miguel Moreira                                                                                                | 07/05/2023<br>08/05/2023 | Arthur Trindade                                                                                               | 08/05/2023               |
+| Elaboração do termo de consetimento                                | Arthur Trindade                                                                                               | 07/05/2023<br>08/05/2023 | Miguel Moreira                                                                                                | 08/05/2023               |
+| Definição de personas                                              | Arthur Trindade<br>Júlio César<br>Marcus Vinicius                                                             | 07/05/2023<br>08/05/2023 | Arthur D'Assumpção<br>Gabriel de Souza<br>Miguel Moreira                                                      | 08/05/2023               |
+| Análise de tarefas                                                 | Gabriel de Souza                                                                                              | 07/05/2023<br>08/05/2023 | Arthur Trindade                                                                                               | 08/05/2023               |
+| Análise de cenários                                                | Arthur D'Assumpção                                                                                            | 07/05/2023<br>08/05/2023 | Gabriel de Souza                                                                                              | 08/05/2023               |
+| Gravação das entregas da etapa 2                                   | Miguel Moreira                                                                                                | 08/05/2023               | Miguel Moreira                                                                                                | 08/05/2023               |
+<!-- | Ajustes e melhorias                                                | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | 09/05/2023<br>12/05/2023 | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | 09/05/2023<br>12/05/2023 | -->
+
+Tabela 3: Cronograma planejado da etapa 2.
 
 </center>
 

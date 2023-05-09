@@ -13,9 +13,9 @@ Segundo Simone (2010), é ideal que um elenco de personas possua entre 3 e 12 pe
 ### Aldemar Souza
 <center>
 
-*Figura 1: Persona 1*
+*Figura 1: Aldemar Souza*
 
-![Ciclo de Vida Mayhew](../img/persona_1.png)
+![Aldemar, persona 1](../img/persona_1.png)
 
 *Fonte: Autor*
 </center>
@@ -23,9 +23,9 @@ Segundo Simone (2010), é ideal que um elenco de personas possua entre 3 e 12 pe
 ### Felipe Melo
 <center>
 
-*Figura 1: Persona 2*
+*Figura 2: Felipe Melo*
 
-![Ciclo de Vida Mayhew](../img/persona_2.png)
+![Felipe, persona 2](../img/persona_2.png)
 
 *Fonte: Autor*
 </center>
@@ -33,9 +33,9 @@ Segundo Simone (2010), é ideal que um elenco de personas possua entre 3 e 12 pe
 ### Ana Clara
 <center>
 
-*Figura 1: Persona 3*
+*Figura 3: Ana Clara*
 
-![Ciclo de Vida Mayhew](../img/persona_3.png)
+![Ana, persona 3](../img/persona_3.png)
 
 *Fonte: Autor*
 </center>
@@ -43,9 +43,9 @@ Segundo Simone (2010), é ideal que um elenco de personas possua entre 3 e 12 pe
 ### Alice Braga
 <center>
 
-*Figura 1: Antipersona*
+*Figura 4: Alice Braga*
 
-![Ciclo de Vida Mayhew](../img/Antipersona.png)
+![Alice, antipersona](../img/antipersona.png)
 
 *Fonte: Autor*
 </center>

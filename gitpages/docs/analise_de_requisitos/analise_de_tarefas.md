@@ -26,7 +26,7 @@ A análise hierárquica de tarefas possui os seguintes elementos:
 A análise hierárquica de tarefas pode ser representada na forma textual, por meio de uma tabela, por exemplo, ou por um diagrama. No segundo caso, utiliza-se a notação representada na Figura 1.
 
 
-![Elementos do diagrama](imgs/hta-1.png)
+![Elementos do diagrama](../img/hta-1.png)
 
 <div style="text-align: center">
 <p> Figura 1: Elementos do diagrama (Fonte: [1]).</p>
@@ -48,7 +48,7 @@ A tarefa "Emitir nota fiscal eletrônica" é uma das principais tarefas que o us
 <p> Tabela 1: Análise Hierárquica de Tarefas para o objetivo "jogar uma partida de xadrez" <br/>(Fonte: autor, 2022).</p>
 </div>
 
-![Diagrama da Análise Hierárquica de Tarefas para o objetivo "jogar uma partida de xadrez"](imgs/diagrama_analise.png)
+![Diagrama da Análise Hierárquica de Tarefas para o objetivo "jogar uma partida de xadrez"](../img/diagrama_analise.png)
 
 
 
