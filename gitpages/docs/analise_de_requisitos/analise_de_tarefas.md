@@ -4,7 +4,7 @@
 
  A análise de tarefas pode ser usada em diferentes atividades, como a análise da situação atual, o design de um novo sistema computacional ou a avaliação de um sistema existente. Neste artefato, apresentamos uma análise de tarefas para um sistema já implementado e em uso, o que torna a análise mais viável e os seus resultados mais confiáveis.
 
- Com o intuito de explorar diferentes técnicas, foram avaliadas as tarefas de "jogar uma partida de xadrez" e "aprender a jogar xadrez" por meio de duas metodologias diferentes, a saber: Análise Hierárquica de Tarefas (HTA) e GOMS (Goals, Operators, Methods and Selection Rules). As tarefas selecionadas compõem as duas funcionalidades mais utilizadas pelos usuários do aplicativo, conforme apontam os dados coletados durante a elaboração do [perfil do usuário](perfil_de_usuario.md).
+ Com o intuito de explorar diferentes técnicas, foram avaliadas as tarefas de "Emitir nota fiscal eltrônica" e "Consultar nota eletrônica" por meio de duas metodologias diferentes, a saber: Análise Hierárquica de Tarefas (HTA) e GOMS (Goals, Operators, Methods and Selection Rules). As tarefas selecionadas compõem as duas funcionalidades mais utilizadas pelos usuários do aplicativo, conforme apontam os dados coletados durante a elaboração do [perfil do usuário](perfil_de_usuario.md).
 
 ## Análise Hierárquica de Tarefas (HTA)
 
@@ -16,7 +16,7 @@ A análise hierárquica de tarefas possui os seguintes elementos:
 >
 > **Objetivo**: um estado final, que pode ser definido por eventos ou valores fisicamente observáveis;
 >
-> **Subobjetivo**: um objetivo de alto nível é dividido em subobjetivos, por exemplo o objetivo "iniciar uma partida de xadrez" possui, dentre outros, os seguintes subobjetivos: "definir o tipo de oponente, definir a modalidade de jogo e configurar o incremento";
+> **Subobjetivo**: um objetivo de alto nível é dividido em subobjetivos, por exemplo o objetivo "Emitir nota fiscal" possui, dentre outros, os seguintes subobjetivos: "Preencher o documento que comprova o serviço prestado";
 >
 > **Plano**: o conjunto de subobjetivos de um objetivo e suas relações consiste em um plano;
 >
