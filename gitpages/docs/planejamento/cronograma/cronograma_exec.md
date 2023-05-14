@@ -51,7 +51,7 @@ Durante a execução da etapa 2, a equipe se esforçou para seguir o cronograma 
 | Análise de tarefas                                                 | Gabriel de Souza                                                                                              | 07/05/2023<br>08/05/2023 | Arthur Trindade                                                                                               | 08/05/2023               |
 | Análise de cenários                                                | Arthur D'Assumpção                                                                                            | 07/05/2023<br>08/05/2023 | Gabriel de Souza                                                                                              | 08/05/2023               |
 | Gravação das entregas da etapa 2                                   | Miguel Moreira                                                                                                | 08/05/2023               | Miguel Moreira                                                                                                | 08/05/2023               |
-<!-- | Ajustes e melhorias                                                | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | 09/05/2023<br>12/05/2023 | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | 09/05/2023<br>12/05/2023 | -->
+| Ajustes e melhorias                                                | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | 09/05/2023<br>12/05/2023 | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | 09/05/2023<br>12/05/2023 |
 
 Tabela 2: Cronograma executado da etapa 2.
 
@@ -64,3 +64,4 @@ Tabela 2: Cronograma executado da etapa 2.
 | `0.0`      |  22/04/2023 | Criação do arquivo                                   | Arthur Trindade                              | -                |
 | `0.1`      |  26/04/2023 | Adição do Cronograma executado da etapa 1            | Arthur Trindade                              | Gabriel de Souza |
 | `0.2`      |  08/04/2023 | Adição do Cronograma executado da etapa 2            | Arthur Trindade                              | Gabriel de Souza |
+| `0.3`      |  14/04/2023 | Adição da etapa de ajustes no cronograma executado da etapa 2 | Arthur Trindade                     | Gabriel de Souza |
