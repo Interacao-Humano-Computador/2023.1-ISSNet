@@ -20,10 +20,14 @@ nav:
     - Processo de design: planejamento/processo.md
   - Análise de requisitos:
     - Aspectos éticos: analise_de_requisitos/aspectos_eticos.md
+    - Princípios gerais: analise_de_requisitos/principios_gerais.md
     - Perfil de usuário: analise_de_requisitos/perfil_de_usuario.md
     - Definição de personas: analise_de_requisitos/personas.md
     - Análise de tarefas: analise_de_requisitos/analise_de_tarefas.md
     - Cenários: analise_de_requisitos/cenarios.md
+    - Características da plataforma: analise_de_requisitos/caracteristicas_da_plataforma.md
+    - Metas de usabilidade: analise_de_requisitos/metas_de_usabilidade.md
+    - Guia de estilo: analise_de_requisitos/guia_de_estilo.md
   - Entregas: entregas.md
 
 extra_css:
