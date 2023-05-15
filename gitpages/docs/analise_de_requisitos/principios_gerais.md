@@ -5,14 +5,7 @@ A literatura de Interação Humano Computador tem muitos princípios, diretrizes
 ## Princípios
 
 - **Correspondência com as expectativas do usuário**: Sempre que possível o designer deve utilizar jargões, expressões e metáforas que correspondem com atividades do mundo real, para evitar que o usuário tenha que memorizar ou pensar muito sobre termos ou ações para realizar uma tarefa, por exemplo: um site de compras atua similar ao de uma loja real, primeiro você busca o produto, depois de seleciona-lo você o coloca no carrinho e procede para o caixa para realizar o pagamento, o mesmo processo que em um site de compras, inclusive usando os mesmos termos (Simone, 2010, p.265).
-- **Simplicidade:** Norman (1988) recomenda simplificar as estruturas das tarefas, para reduzir tarefas desnecessariamente complexas ou perda de tempo resolvendo problemas, para isso usa-se quatro abordagens tecnológicas:
-
-  - Manter a tarefa, mas fornecer formas de apoio;
-  - Tornar o que antes era invisível em visível;
-  - Automatizar tarefas ou partes dela;
-  - Modificar a natureza da tarefa.
-
-  Entretanto, Norman (1988) ressalta que a automatização de tarefas pode tornar o usuário muito dependente de automatizações e perder o controle sobre a aplicação. (Simone, 2010, p.267).
+- **Simplicidade:** Norman (1988) recomenda simplificar as estruturas das tarefas, para reduzir tarefas desnecessariamente complexas ou perda de tempo resolvendo problemas, para isso usa-se quatro abordagens tecnológicas: Manter a tarefa, mas fornecer formas de apoio; Tornar o que antes era invisível em visível; Automatizar tarefas ou partes dela; Modificar a natureza da tarefa. Entretanto, Norman (1988) ressalta que a automatização de tarefas pode tornar o usuário muito dependente de automatizações e perder o controle sobre a aplicação. (Simone, 2010, p.267).
 
 - **Equilíbrio entre controle e liberdade:**
 
