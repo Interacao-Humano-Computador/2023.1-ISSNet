@@ -20,6 +20,8 @@ A literatura de Interação Humano Computador tem muitos princípios, diretrizes
 
 - **Eficiência do usuário:**
 
+- **Antecipação:**
+  
 - **Visibilidade e reconhecimento:**
 
 - **Conteúdo relevante:**
