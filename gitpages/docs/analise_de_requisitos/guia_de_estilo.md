@@ -41,7 +41,7 @@ Template de Guia de estilo, Figma. Disponível em: <https://www.figma.com/file/y
 
 ## Histórico de revisão
 
-| Versão     | Data        | Descrição            | Autor(es)                          | Revisores      |
-| :--------: | :---------: | -------------------- | ---------------------------------- | -------------- |
-| `0.0`      |  14/05/2023 | Criação do arquivo   | Arthur Trindade                    |  |
-| `0.1`      |  15/05/2023 | Criação do arquivo   | Arthur Trindade<br>Júlio César<br>Miguel Moreira |  |
+| Versão     | Data        | Descrição                                | Autor(es)                                        | Revisores       |
+| :--------: | :---------: | ---------------------------------------- | ------------------------------------------------ | --------------- |
+| `0.0`      |  14/05/2023 | Criação do arquivo                       | Arthur Trindade                                  | - |
+| `0.1`      |  15/05/2023 | Criação e estruturação da guia de estilo | Arthur Trindade<br>Júlio César<br>Miguel Moreira | Marcus Vinicius |
