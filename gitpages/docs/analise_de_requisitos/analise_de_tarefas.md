@@ -45,7 +45,7 @@ A tarefa "Emitir nota fiscal eletrônica" é uma das principais tarefas que o us
 | 2.3 Baixar a nota fiscal   |  |
 
 <div style="text-align: center">
-<p> Tabela 1: Análise Hierárquica de Tarefas para o objetivo "jogar uma partida de xadrez" <br/>(Fonte: autor, 2022).</p>
+<p> Tabela 1: Análise Hierárquica de Tarefas para o objetivo "jogar uma partida de xadrez" <br/>(Fonte: autor, 2023).</p>
 </div>
 
 ![Diagrama da Análise Hierárquica de Tarefas para o objetivo "jogar uma partida de xadrez"](../img/diagrama_analise.png)
