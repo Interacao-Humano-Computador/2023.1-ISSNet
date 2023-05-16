@@ -34,8 +34,8 @@ Edição, Editora Campus, 2010. Publicado em: 03/05/2021.
 | Versão     | Data        | Descrição            | Autor(es)                          | Revisores      |
 | :--------: | :---------: | -------------------- | ---------------------------------- | -------------- |
 | `0.0`      |  14/05/2023 | Criação do arquivo   | Arthur Trindade                    |  |
-| `0.1`      |  15/05/2023 | Adiciona dois princípios| Júlio César                     |  |
-| `0.2`      |  15/05/2023 | Adiciona quatro princípios| Marcus Vinicius               |  |
-| `0.3`      |  15/05/2023 | correção de texto    | Marcus Vinicius                    |  |
-| `0.4`      |  15/05/2023 | correção de texto    | Marcus Vinicius                    |  |
-| `0.5`      |  15/05/2023 | Adiciona três princípios| Arthur D'Assumpção              |  |
+| `0.1`      |  15/05/2023 | Adiciona dois princípios| Júlio César                     | Arthur Trindade, Gabriel de Souza, Miguel Moreira|
+| `0.2`      |  15/05/2023 | Adiciona quatro princípios| Marcus Vinicius               | Arthur Trindade, Gabriel de Souza, Miguel Moreira|
+| `0.3`      |  15/05/2023 | correção de texto    | Marcus Vinicius                    | Arthur Trindade, Gabriel de Souza, Miguel Moreira|
+| `0.4`      |  15/05/2023 | correção de texto    | Marcus Vinicius                    | Arthur Trindade, Gabriel de Souza, Miguel Moreira|
+| `0.5`      |  15/05/2023 | Adiciona três princípios| Arthur D'Assumpção              | Arthur Trindade, Gabriel de Souza, Miguel Moreira|
