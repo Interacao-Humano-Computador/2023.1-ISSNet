@@ -15,11 +15,11 @@ A literatura de Interação Humano Computador tem muitos princípios, diretrizes
 
 - **Antecipação:** Neste princípio, é dito de acordo com (Tognazzini, 2003), é necessário que as aplicações prevejam o que o usuário quer e precisa, ao invés de apenas esperar ele buscar ou invocar ferramentas, mas que a aplicação já deva fornecer a quem for utilizar o produto/software todas as ferramentas e informações necessárias para cada processo. Cooper (1999) dá um exemplo do qual um usuário esteja buscando o telefone de algum restaurante e o software deve prever que além de mostrar o número, deve mostrar também os horários e localidade, antecipando o que ele precisa. Tognazzini da destaque na questão dos valores a serem definidos, uma vez que são de extrema importância esses valores já serem bem definidos e de fácil alteração para valores específicos.(Simone, 2010, p.271).
   
-- **Visibilidade e reconhecimento:**
+- **Visibilidade e reconhecimento:** Neste princípio o objetivo é destacar a importancia do designer em apresentar os artefatos de maneria visivel, orientando em como e o que é possivel ser executado. A interface deve seguir as vontades do usuário, naõ apresentara opções indicponiveis e apresentar sobre o sistema. É importante que o usuario seja constantemente informado sobre o sistema e sinalizações de facil entendimento e navegação. 
 
-- **Conteúdo relevante:**
+- **Conteúdo relevante:** Neste princípio, Reeve e Nass apresentam como as midias e tecnologias são tratadas com ações semelhantes a de humanos, por parte dos usuarios. É tratada a conversa cooperativa de Grice: qualidade, quantidade, relação e modo. Nilsen prega algo minimalista. Cooper prega o respeito e a generosidade. Tognazzini prega a boa escrita e concisas. O designer deve sempre prezar para todas as necessidades visuais dos usuarios.
 
-- **Projetar para erros:**
+- **Projetar para erros:** Neste princípio, Norman prega uma abordagem onde o usuraio é guiado sobre a ocasião de erros e como o usuario pode reverter os erros. Ele também aponta que não é legal o uso de controles de funções frequentes próximas a funções perigosas. Nielsen e Shneiderman pregam ao maximo o desvio de erros, mas caso ocorram, apontam que o sistema deve ser capaz de detecta-los com agilidade e trata-los de forma simplificada. O sistema também deve oferecer suporte facilitado por meio de ajuda e documnetação adequada.
 
 <!-- ## Referências -->
 <!-- FONTES CITADAS UTILIZADAS PARA EMBASAR O TEXTO. REMOVER CASO NÃO HOUVER  -->
@@ -38,3 +38,4 @@ Edição, Editora Campus, 2010. Publicado em: 03/05/2021.
 | `0.2`      |  15/05/2023 | Adiciona quatro princípios| Marcus Vinicius               |  |
 | `0.3`      |  15/05/2023 | correção de texto    | Marcus Vinicius                    |  |
 | `0.4`      |  15/05/2023 | correção de texto    | Marcus Vinicius                    |  |
+| `0.5`      |  15/05/2023 | Adiciona três princípios| Arthur D'Assumpção              |  |
