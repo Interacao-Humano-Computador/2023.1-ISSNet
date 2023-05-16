@@ -1,6 +1,6 @@
 # Características da plataforma do projeto
 ## Introdução
-Aqui estão listadas as características da plataforma a ser projetada, limitações e possibilidades.
+O entendimento das características da plataforma irá ajudar a estabelecer o ambiente utilizado. Aqui estão listadas as características da plataforma a ser projetada, limitações e possibilidades.
 
 ## Características
 A plataforma ISSNet é acessada por um navegador web, não havendo opção de aplicativo Android ou iOS, os navegadores podem ser:
@@ -49,4 +49,4 @@ Edição, Editora Campus, 2010. Publicado em: 03/05/2021.
 | Versão     | Data        | Descrição            | Autor(es)                          | Revisores      |
 | :--------: | :---------: | -------------------- | ---------------------------------- | -------------- |
 | `0.0`      |  14/05/2023 | Criação do arquivo   | Arthur Trindade                    |  |
-| `0.1`      |  15/05/2023 | Versão Inicial       | Júlio Costa                        | Arthur Trindade, Miguel Moreira, Gabriel|
+| `0.1`      |  15/05/2023 | Versão Inicial       | Júlio Costa, Gabriel de Souza, Marcus Vinicius      | Arthur Trindade, Miguel Moreira|
