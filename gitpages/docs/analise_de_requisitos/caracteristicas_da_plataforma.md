@@ -42,6 +42,8 @@ São as seguintes possibilidades da plataforma:
 ## Bibliografia
 SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a.
 Edição, Editora Campus, 2010. Publicado em: 03/05/2021.
+
+Grupo IHC - Skoob. 2023. Disponivel em: <https://interacao-humano-computador.github.io/2022.2-Skoob/analise-de-requisitos/caracteristicas-da-plataforma/>. Acesso em 15/05/2023.
 <!-- FONTES CONSULTADAS DURANTE A ELABORAÇÃO DO TEXTO, CITADAS OU NÃO. REMOVER CASO NÃO HOUVER -->
 
 ## Histórico de revisão
