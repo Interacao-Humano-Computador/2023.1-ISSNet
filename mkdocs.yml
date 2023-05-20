@@ -28,6 +28,12 @@ nav:
     - Características da plataforma: analise_de_requisitos/caracteristicas_da_plataforma.md
     - Metas de usabilidade: analise_de_requisitos/metas_de_usabilidade.md
     - Guia de estilo: analise_de_requisitos/guia_de_estilo.md
+  - Design, Avaliação e Desenvolvimento:
+    - Nível 1:
+      - Planejamento da Avaliação de Análise de Tarefas: design_avaliacao_desenvolvimento/nivel1/plan_avaliacao_analisetarefas.md
+      - Planejamento da Avaliação do Storyboard: design_avaliacao_desenvolvimento/nivel1/plan_avaliacao_storyboard.md
+      - Planejamento do Relato de Avaliação do Storyboard: design_avaliacao_desenvolvimento/nivel1/plan_relato_storyboard.md
+      - Planejamento do Relato de Avaliação da Análise de Tarefas: design_avaliacao_desenvolvimento/nivel1/plan_relato_analisetarefas.md
   - Entregas: entregas.md
 
 extra_css:
