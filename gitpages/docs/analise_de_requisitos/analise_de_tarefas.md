@@ -4,7 +4,7 @@
 
  A análise de tarefas pode ser usada em diferentes atividades, como a análise da situação atual, o design de um novo sistema computacional ou a avaliação de um sistema existente. Neste artefato, apresentamos uma análise de tarefas para um sistema já implementado e em uso, o que torna a análise mais viável e os seus resultados mais confiáveis.
 
- Com o intuito de explorar diferentes técnicas, foram avaliadas as tarefas de "Emitir nota fiscal eltrônica" e "Consultar nota eletrônica" por meio de duas metodologias diferentes, a saber: Análise Hierárquica de Tarefas (HTA) e GOMS (Goals, Operators, Methods and Selection Rules). As tarefas selecionadas compõem as duas funcionalidades mais utilizadas pelos usuários do aplicativo, conforme apontam os dados coletados durante a elaboração do [perfil do usuário](perfil_de_usuario.md).
+ Com o intuito de explorar diferentes técnicas, foram avaliadas as tarefas de "Emitir nota fiscal eletrônica" e "Consultar nota eletrônica" por meio de duas metodologias diferentes, a saber: Análise Hierárquica de Tarefas (HTA) e GOMS (Goals, Operators, Methods and Selection Rules). As tarefas selecionadas compõem as duas funcionalidades mais utilizadas pelos usuários do aplicativo, conforme apontam os dados coletados durante a elaboração do [perfil do usuário](perfil_de_usuario.md).
 
 ## Análise Hierárquica de Tarefas (HTA)
 
@@ -25,15 +25,28 @@ A análise hierárquica de tarefas possui os seguintes elementos:
 
 A análise hierárquica de tarefas pode ser representada na forma textual, por meio de uma tabela, por exemplo, ou por um diagrama. No segundo caso, utiliza-se a notação representada na Figura 1.
 
+<center>
+
+*Figura 1: Elementos do diagrama*
+
+</center>
 
 ![Elementos do diagrama](../img/hta-1.png)
 
-<div style="text-align: center">
-<p> Figura 1: Elementos do diagrama (Fonte: [1]).</p>
-</div>
+<center>
 
-##Análise da tarefa: Emitir uma nota fiscal eletrônica
+*Fonte: Simone, 2010*
+
+</center>
+
+### Análise da tarefa: Emitir uma nota fiscal eletrônica
 A tarefa "Emitir nota fiscal eletrônica" é uma das principais tarefas que o usuario realiza no sistema, já que é uma funcionalidade principal. A tabela 1 e a figura 2 apresentam a apresentam a análise hierárquica dessa tarefa em sua forma textual e de diagrama, respectivamente.
+
+<center>
+
+*Tabela 1: Análise Hierárquica de Tarefas para o objetivo "Emitir nota fiscal"*
+
+</center>
 
 | Objetivos/Operações | Problemas e recomendações |
 | - | - |
@@ -44,23 +57,79 @@ A tarefa "Emitir nota fiscal eletrônica" é uma das principais tarefas que o us
 | 2.2 Escolher se quer apenas salvar ou salvar e enviar para o email | |
 | 2.3 Baixar a nota fiscal   |  |
 
-<div style="text-align: center">
-<p> Tabela 1: Análise Hierárquica de Tarefas para o objetivo "jogar uma partida de xadrez" <br/>(Fonte: autor, 2023).</p>
-</div>
+<center>
 
-![Diagrama da Análise Hierárquica de Tarefas para o objetivo "jogar uma partida de xadrez"](../img/diagrama_analise.png)
+*Fonte: Autor, 2023*
 
+</center>
 
+<center>
+
+*Figura 2: Análise Hierárquica da Tarefa Emitir Nota Fiscal*
+
+</center>
+
+![Diagrama da Análise Hierárquica de Tarefas para o objetivo "Emitir nota fiscal"](../img/diagrama_analise.png)
+
+<center>
+
+*Fonte: Autor, 2023*
+
+</center>
+
+### Análise de Tarefa: Cancelar Nota Fiscal
+A análise da tarefa de cancelar a nota fiscal está representada na tabela 2 e na figura 3
+
+<center>
+
+*Tabela 2: Análise Hierárquica da Tarefa Cancelar Nota Fiscal*
+
+</center>
+
+|Objetivos/Operações| Problemas e recomendações|
+| - | - |
+|0. Cancelar Nota Fiscal 1>2>3>4| **input:** nota a ser cancelada, com justificativa, motivo e assinatura<br> **feedback:** mensagem de registro gravado<br> **plano:** consultar tabela, em seguida identificar a nota a ser cancelada, informar justificativa e motivo (duplicidade da nota ou serviço não prestado), clicar em "OK" para enviar e assinar nota eletrônica (senha ou certificado digital)|
+|1. Acessar Opção "Consultar" NFS-e||
+|2. Identificar na tabela a nota a ser cancelada ||
+|3. Clicar no botão vermelho de cancelamento "X" 1>2 |**plano:** informar a justificativa por texto e informar o motivo|
+|3.1. Informar justificativa (texto) ||
+|3.2. Informar Motivo 1/2|**input:** seleção entre duplicidade da nota ou serviço não prestado|
+|3.2.1 Informar duplicidade de nota||
+|3.2.2 Informar serviço não prestado||
+|4. Clicar no botão "OK" para enviar|**input:** assinatura da nota eletrônica|
+|4.1 Assinar nota Eletrônica 1/2|**plano:** assinar nota eletrônica por meio de senha ou certificado digital|
+|4.1.1. Assinar com senha||
+|4.1.2. Assinar com certificado digital||
+
+<center>
+
+*Fonte: Autor, 2023*
+
+</center>
+
+<center>
+
+*Figura 3: Análise Hierárquica da Tarefa Cancelar Nota Fiscal*
+
+</center>
+
+![Diagrama da Análise Hierárquica de Tarefas para o objetivo "Cancelar Nota Fiscal"](../img/hta_cancelarnota.png)
+
+<center>
+
+*Fonte: Autor, 2023*
+
+</center>
 
 ## Objetivos, Operadores, Métodos e Regras de Seleção (GOMS)
 
-De acordo com Barbosa et al [1], o conjunto de modelos GOMS (_Goals, Operators, Methods and Selection Rules_ - Objetivos, Operadores, Métodos e Regras de Seleção), visa analisar o desempenho de usuários competentes de sistemas computacionais realizando tarefas dentro de sua competência e sem cometer erros. Compõem a família de modelos GOMS algumas técnicas, dentre as quais a o modelo CMN-GOMS foi selecionado para a análise da tarefa aprender a jogar xadrez. Esse método representa as tarefas por meio de uma linguagem de pseudocódigo, indicando a ordem sequencial dos objetivos. Esse modelo visa prever a sequência dos operadores e o tempo de execução desempenhado em uma tarefa.
+De acordo com Barbosa et al <a href="#simone">[1]</a>, o conjunto de modelos GOMS (_Goals, Operators, Methods and Selection Rules_ - Objetivos, Operadores, Métodos e Regras de Seleção), visa analisar o desempenho de usuários competentes de sistemas computacionais realizando tarefas dentro de sua competência e sem cometer erros. Compõem a família de modelos GOMS algumas técnicas, dentre as quais a o modelo CMN-GOMS foi selecionado para a análise da tarefa emitir uma nota fiscal. Esse método representa as tarefas por meio de uma linguagem de pseudocódigo, indicando a ordem sequencial dos objetivos. Esse modelo visa prever a sequência dos operadores e o tempo de execução desempenhado em uma tarefa.
 
-### Análise da tarefa: Consultar Nota Eletrônica
+### Análise da tarefa: Consultar Nota Eletrônica de Serviço
 
-O modelo GOMS foi utilizado para analisar a tarefa "Consultar Nota Eletrônica", sendo o escopo de avaliação a situação em que um usuário desejar a partir da plataforma consultar uma nota fiscal eletrônica.
+O modelo GOMS foi utilizado para analisar a tarefa "Consultar Nota Eletrônica", sendo o escopo de avaliação a situação em que um usuário desejar a partir da plataforma consultar uma nota fiscal de serviço eletrônica.
 
-GOAL 0: Emitir Nota Fiscal
+GOAL 0: Emitir NFS-e
 <p style="padding-left: 1vw">GOAL 1: Realizar login na plataforma</p>
 <p style="padding-left: 3vw">OP. 1.1: Digitar seu cpf e senha</p>
 <p style="padding-left: 3vw">OP. 1.2: Logar através do certificado digital </p>
@@ -71,13 +140,29 @@ GOAL 0: Emitir Nota Fiscal
 <p style="padding-left: 3vw">OP. 3.1: Preencher ou não informações adicionais </p>
 <p style="padding-left: 3vw">OP. 3.2: selecionar o botão de localizar </p>
 
+### Análise da tarefa: Cancelar Nota Eletrônica de Serviço
+
+A seguir está o modelo GOMS para a análise da tarefa "Cancelar Nota Eletrônica de serviço":
+
+GOAL 0: Cancelar NFS-e
+<p style="padding-left: 1vw">GOAL 1: Consultar NFS-e</p>
+<p style="padding-left: 1vw">GOAL 2: Identificar nota a ser cancelada.</p>
+<p style="padding-left: 1vw">GOAL 3: Informar descrição do cancelamento.</p>
+<p style="padding-left: 3vw">OP 3.1: Informar Justificativa.</p>
+<p style="padding-left: 3vw">OP 3.2: Informar Motivo</p>
+<p style="padding-left: 5vw">OP 3.2.1: Informar Duplicidade da Nota</p>
+<p style="padding-left: 5vw">OP 3.2.2: Informar Serviço Não Prestado</p>
+<p style="padding-left: 1vw">GOAL 4: Enviar Solicitação de Cancelamento</p>
+<p style="padding-left: 3vw">OP 4.1: Assinar NFS-e</p>
+<p style="padding-left: 5vw">OP 4.1.1: Assinar com senha</p>
+<p style="padding-left: 5vw">OP 4.1.2: Assinar com certificado digital</p>
 
 ## Referências
 <!-- FONTES CITADAS UTILIZADAS PARA EMBASAR O TEXTO, REMOVER CASO NÃO HOUVER  -->
 <span id="simone">[1]: SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a.
 Edição, Editora Campus, 2010. Publicado em: 03/05/2021.</span>
 
-## Bibliografia
+<!-- ## Bibliografia -->
 <!-- FONTES CONSULTADAS DURANTE A ELABORAÇÃO DO TEXTO, CITADAS OU NÃO -->
 
 ## Histórico de revisão
@@ -87,3 +172,4 @@ Edição, Editora Campus, 2010. Publicado em: 03/05/2021.</span>
 | `0.0`      |  06/05/2023 | Criação do arquivo   | Arthur Trindade                    | Miguel Moreira |
 | `0.1`      |  07/05/2023 | Adição da introdução | Arthur Trindade                    | Miguel Moreira |
 | `0.2`      |  08/05/2023 | Adição da Analise    | Gabriel de Souza Fonseca Ribeiro   | Arthur Trindade|
+| `0.3`      |  20/05/2023 | Adição de Tarefa e Correções | Júlio César | Arthur Trindade |
