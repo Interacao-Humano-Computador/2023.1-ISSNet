@@ -140,23 +140,6 @@ GOAL 0: Emitir NFS-e
 <p style="padding-left: 3vw">OP. 3.1: Preencher ou não informações adicionais </p>
 <p style="padding-left: 3vw">OP. 3.2: selecionar o botão de localizar </p>
 
-### Análise da tarefa: Cancelar Nota Eletrônica de Serviço
-
-A seguir está o modelo GOMS para a análise da tarefa "Cancelar Nota Eletrônica de serviço":
-
-GOAL 0: Cancelar NFS-e
-<p style="padding-left: 1vw">GOAL 1: Consultar NFS-e</p>
-<p style="padding-left: 1vw">GOAL 2: Identificar nota a ser cancelada.</p>
-<p style="padding-left: 1vw">GOAL 3: Informar descrição do cancelamento.</p>
-<p style="padding-left: 3vw">OP 3.1: Informar Justificativa.</p>
-<p style="padding-left: 3vw">OP 3.2: Informar Motivo</p>
-<p style="padding-left: 5vw">OP 3.2.1: Informar Duplicidade da Nota</p>
-<p style="padding-left: 5vw">OP 3.2.2: Informar Serviço Não Prestado</p>
-<p style="padding-left: 1vw">GOAL 4: Enviar Solicitação de Cancelamento</p>
-<p style="padding-left: 3vw">OP 4.1: Assinar NFS-e</p>
-<p style="padding-left: 5vw">OP 4.1.1: Assinar com senha</p>
-<p style="padding-left: 5vw">OP 4.1.2: Assinar com certificado digital</p>
-
 ## Referências
 <!-- FONTES CITADAS UTILIZADAS PARA EMBASAR O TEXTO, REMOVER CASO NÃO HOUVER  -->
 <span id="simone">[1]: SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a.
