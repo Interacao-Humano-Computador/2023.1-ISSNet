@@ -9,15 +9,18 @@ Devem estar descritos os principais objetivos da avaliação que foram explicita
 Neste tópico é explicado brevemente o método de avaliação entrevista, por que foi escolhida, seus pontos positivos e negativos, questões utilizadas e as técnicas empregadas para análise dos resultados, considerando dados contraditórios e/ou falhas de comunicação. 
 ### Número e perfil dos avaliadores e participantes
 Precisa ser caracterizado o número de pessoas presentes na entrevista, a descrição com nome e papel dos condutores e o [perfil de usuário](../../analise_de_requisitos/perfil_de_usuario.md) do participante, considerando sua idade, conhecimento e outras informações.
+
 ### Tarefas executadas pelos participantes
+Será utilizada como parâmetro as tarefas principais das quais os usuários mais utilizam dentro do sistema da ISSNET-DF, usando como base o questionário respondido por tais usuários do sistema.
 
-### Resultado da entrevista
+### Resultados
+Como resultado, será realizado uma interpretação de todos os dados que foram coletados. Estará presente neste tópico um relatório contendo alguns aspectos importantes como os dados gerados pela entrevista e pelo questionário da qual o usuário respondeu. Está avaliação dos resultados deve ser feita de foram rigorosa, demonstrando quais são os pontos mais importantes a serem considerados ao analisar e gerar os resultados.
 
-### Problemas de comunicação
+### Conclusão
+Quando feito uma avaliação, é necessário que estejam contidos diversos fatores que são importantes das quais foram identificados durante o decorrer da avaliação, uma vez que fatores externos podem afetar os resultados de alguma maneira. Por fim, durante o planejamento do relato, está sendo levado em consideração também a metodologia que está sendo empregada durante o desenvolvimento. Junto a isso, é importante ressaltar que qualquer alteração feita e apresentada fora do relato e que sejam identificados pela equipe, essas descobertas serão descritas de forma detalhada na avaliação.
 
-### Sugestões de correção
-
-### Gravações do teste piloto e entrevista
+### Gravação
+Será utilizada e postado a gravação caso seja necessário revisar algum detalhe importante durante a realização da entrevista, possibilitando uma maior precisão dos dados, já que nos permite perceber detalhes que foram as vezes nem notados.
 
 <!-- ## Referências -->
 <!-- FONTES CITADAS UTILIZADAS PARA EMBASAR O TEXTO. REMOVER CASO NÃO HOUVER  -->
@@ -33,3 +36,4 @@ Edição, Editora Campus, 2010. Publicado em: 03/05/2021.
 | :--------: | :---------: | -------------------- | ---------------------------------- | ---------- |
 | `0.0`      |  20/05/2023 | Criação do arquivo   | Júlio César                        | Arthur Trindade, Gabriel de Souza |
 | `0.1`      |  20/05/2023 | Adição de 3 tópicos e introdução    | Júlio César                        | Arthur Trindade, Gabriel de Souza |
+| `0.2`      |  22/05/2023 | Adição da descrição de 4 tópicos   | Marcus Vinicius                        | Arthur Trindade, Gabriel de Souza |
