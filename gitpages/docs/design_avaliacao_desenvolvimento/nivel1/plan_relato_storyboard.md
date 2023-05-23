@@ -13,14 +13,17 @@ Precisa ser caracterizado o número de pessoas presentes na entrevista, a descri
 ### Tarefas executadas pelos participantes
 Será utilizada como parâmetro as tarefas principais das quais os usuários mais utilizam dentro do sistema da ISSNET-DF, usando como base o questionário respondido por tais usuários do sistema.
 
+### Problemas Encontrados e Sugestões de Melhoria
+Deve estar especificado os problemas encontrados durante a entrevista e/ou teste piloto e possíveis soluções para que os problemas não voltem a acontecer futuramente.
+
 ### Resultados
 Como resultado, será realizado uma interpretação de todos os dados que foram coletados. Estará presente neste tópico um relatório contendo alguns aspectos importantes como os dados gerados pela entrevista e pelo questionário da qual o usuário respondeu. Está avaliação dos resultados deve ser feita de foram rigorosa, demonstrando quais são os pontos mais importantes considerados quando analisado os devidos resultados.
 
 ### Conclusão
 Quando feito uma avaliação, é necessário que estejam contidos diversos fatores que são importantes das quais foram identificados durante o decorrer da avaliação, uma vez que fatores externos podem afetar os resultados de alguma maneira. Por fim, durante o planejamento do relato, está sendo levado em consideração também a metodologia que está sendo empregada durante o desenvolvimento. Junto a isso, é importante ressaltar que qualquer alteração feita e apresentada fora do relato e que sejam identificados pela equipe, essas descobertas serão descritas de forma detalhada na avaliação.
 
-### Gravação
-Será utilizada e postado a gravação caso seja necessário revisar algum detalhe importante durante a realização da entrevista, possibilitando uma maior precisão dos dados, já que nos permite perceber detalhes que foram as vezes nem notados.
+### Gravação do Teste Piloto e Entrevista
+Será utilizada e postado as gravações caso seja necessário revisar algum detalhe importante durante a realização da entrevista, possibilitando uma maior precisão dos dados, já que nos permite perceber detalhes que foram as vezes nem notados.
 
 <!-- ## Referências -->
 <!-- FONTES CITADAS UTILIZADAS PARA EMBASAR O TEXTO. REMOVER CASO NÃO HOUVER  -->
