@@ -88,16 +88,16 @@ A análise da tarefa de cancelar a nota fiscal está representada na tabela 2 e 
 
 |Objetivos/Operações| Problemas e recomendações|
 | - | - |
-|0. Cancelar Nota Fiscal 1>2>3>4| **input:** nota a ser cancelada, com justificativa, motivo e assinatura<br> **feedback:** mensagem de registro gravado<br> **plano:** consultar tabela, em seguida identificar a nota a ser cancelada, informar justificativa e motivo (duplicidade da nota ou serviço não prestado), clicar em "OK" para enviar e assinar nota eletrônica (senha ou certificado digital)|
-|1. Acessar Opção "Consultar" NFS-e||
-|2. Identificar na tabela a nota a ser cancelada ||
-|3. Clicar no botão vermelho de cancelamento "X" 1>2 |**plano:** informar a justificativa por texto e informar o motivo|
+|0. Cancelar Nota Fiscal 1>2>3>4| **input:** nota a ser cancelada, com justificativa, motivo e assinatura<br> **feedback:** mensagem de registro gravado<br> **plano:** consultar tabela, em seguida identificar a nota a ser cancelada, informar justificativa e motivo (duplicidade da nota ou serviço não prestado), enviar e assinar solicitação (senha ou certificado digital)|
+|1. Consultar NFS-e emitidas||
+|2. Identificar nota a ser cancelada ||
+|3. Cancelar Nota Identificada 1>2 |**plano:** informar a justificativa por texto e informar o motivo|
 |3.1. Informar justificativa (texto) ||
 |3.2. Informar Motivo 1/2|**input:** seleção entre duplicidade da nota ou serviço não prestado|
 |3.2.1 Informar duplicidade de nota||
 |3.2.2 Informar serviço não prestado||
-|4. Clicar no botão "OK" para enviar|**input:** assinatura da nota eletrônica|
-|4.1 Assinar nota Eletrônica 1/2|**plano:** assinar nota eletrônica por meio de senha ou certificado digital|
+|4. Enviar solicitação de cancelamento|**input:** assinatura da solicitação |
+|4.1 Assinar solicitação 1/2|**plano:** assinar solicitação por meio de senha ou certificado digital|
 |4.1.1. Assinar com senha||
 |4.1.2. Assinar com certificado digital||
 
