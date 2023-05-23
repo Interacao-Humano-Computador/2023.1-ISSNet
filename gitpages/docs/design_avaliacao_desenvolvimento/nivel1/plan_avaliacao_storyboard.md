@@ -96,18 +96,18 @@ A seguir, apresentamos o roteiro de perguntas que será utilizado durante a aval
 ## Interpretação e apresentação dos dados
 A interpretação dos dados será realizada após as entrevistas, e os dados obtidos serão apresentados de acordo com o [planejamento do relato dos reultados](./plan_relato_storyboard.md).
 
-## Referências
-<!-- FONTES CITADAS UTILIZADAS PARA EMBASAR O TEXTO. REMOVER CASO NÃO HOUVER  -->
-SALES, André Barros de. Plano de ensino da disciplina. Disponível em: <https://aprender3.unb.br/pluginfile.php/2523360/mod_resource/content/33/Plano_de_Ensino%20FIHC%20202301%20Turma%202.pdf>
 
-Planejamento da Avaliação do Storyboard, Lichess. Disponível em: <https://interacao-humano-computador.github.io/2022.2-Lichess/design_avaliacao_desenvolvimento/nivel_1/storyboard/planejamento_avaliacao/>
-
-Planejamento da Avaliação do Storyboard, Millenium Papelaria. Disponível em: <https://interacao-humano-computador.github.io/2022.1-Millenium-Papelaria/DesignAvaliacaoDesenvolvimento/nivel1/planejamentoAvaliacaoStoryBoard/>
 
 ## Bibliografia
 <!-- FONTES CONSULTADAS DURANTE A ELABORAÇÃO DO TEXTO, CITADAS OU NÃO. REMOVER CASO NÃO HOUVER -->
 SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a.
 Edição, Editora Campus, 2010. Publicado em: 03/05/2021.
+
+SALES, André Barros de. Plano de ensino da disciplina. Disponível em: <https://aprender3.unb.br/pluginfile.php/2523360/mod_resource/content/33/Plano_de_Ensino%20FIHC%20202301%20Turma%202.pdf>
+
+Planejamento da Avaliação do Storyboard, Lichess. Disponível em: <https://interacao-humano-computador.github.io/2022.2-Lichess/design_avaliacao_desenvolvimento/nivel_1/storyboard/planejamento_avaliacao/>
+
+Planejamento da Avaliação do Storyboard, Millenium Papelaria. Disponível em: <https://interacao-humano-computador.github.io/2022.1-Millenium-Papelaria/DesignAvaliacaoDesenvolvimento/nivel1/planejamentoAvaliacaoStoryBoard/>
 
 ## Histórico de revisão
 
