@@ -14,7 +14,7 @@ Precisa ser caracterizado o número de pessoas presentes na entrevista, a descri
 Será utilizada como parâmetro as tarefas principais das quais os usuários mais utilizam dentro do sistema da ISSNET-DF, usando como base o questionário respondido por tais usuários do sistema.
 
 ### Resultados
-Como resultado, será realizado uma interpretação de todos os dados que foram coletados. Estará presente neste tópico um relatório contendo alguns aspectos importantes como os dados gerados pela entrevista e pelo questionário da qual o usuário respondeu. Está avaliação dos resultados deve ser feita de foram rigorosa, demonstrando quais são os pontos mais importantes a serem considerados ao analisar e gerar os resultados.
+Como resultado, será realizado uma interpretação de todos os dados que foram coletados. Estará presente neste tópico um relatório contendo alguns aspectos importantes como os dados gerados pela entrevista e pelo questionário da qual o usuário respondeu. Está avaliação dos resultados deve ser feita de foram rigorosa, demonstrando quais são os pontos mais importantes considerados quando analisado os devidos resultados.
 
 ### Conclusão
 Quando feito uma avaliação, é necessário que estejam contidos diversos fatores que são importantes das quais foram identificados durante o decorrer da avaliação, uma vez que fatores externos podem afetar os resultados de alguma maneira. Por fim, durante o planejamento do relato, está sendo levado em consideração também a metodologia que está sendo empregada durante o desenvolvimento. Junto a isso, é importante ressaltar que qualquer alteração feita e apresentada fora do relato e que sejam identificados pela equipe, essas descobertas serão descritas de forma detalhada na avaliação.
@@ -35,5 +35,6 @@ Edição, Editora Campus, 2010. Publicado em: 03/05/2021.
 | Versão     | Data        | Descrição            | Autor(es)                          | Revisores  |
 | :--------: | :---------: | -------------------- | ---------------------------------- | ---------- |
 | `0.0`      |  20/05/2023 | Criação do arquivo   | Júlio César                        | Arthur Trindade, Gabriel de Souza |
-| `0.1`      |  20/05/2023 | Adição de 3 tópicos e introdução    | Júlio César                        | Arthur Trindade, Gabriel de Souza |
-| `0.2`      |  22/05/2023 | Adição da descrição de 4 tópicos   | Marcus Vinicius                        | Arthur Trindade, Gabriel de Souza |
+| `0.1`      |  20/05/2023 | Adição de 3 tópicos e introdução    | Júlio César         | Arthur Trindade, Gabriel de Souza |
+| `0.2`      |  22/05/2023 | Adição da descrição de 4 tópicos   | Marcus Vinicius      | Arthur Trindade, Gabriel de Souza |
+| `0.3`      |  22/05/2023 | Correçao Didatica   | Marcus Vinicius                     | Arthur Trindade, Gabriel de Souza |
