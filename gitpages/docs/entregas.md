@@ -13,7 +13,7 @@
 [Link da gravação da reunião da entrega da etapa 3, 15/05/2023](https://youtu.be/Pv-4AhvpaVw)
 
 ## Entrega da etapa 4
-[Link da gravação da reunião da entrega da etapa 4, 22/05/2023](https://youtu.be/Pv-4AhvpaVw)
+[Link da gravação da reunião da entrega da etapa 4, 22/05/2023](https://youtu.be/K8KVa6vwth4)
 
 ## Histórico de revisão
 | Versão     | Data        | Descrição            | Autor(es)                          | Revisores  |
