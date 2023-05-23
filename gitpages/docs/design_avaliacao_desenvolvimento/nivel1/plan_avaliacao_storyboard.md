@@ -41,6 +41,11 @@ Essas questões práticas foram consideradas para garantir a viabilidade e o bom
 | Avaliação do storyboard 2             | Miguel Moreira     | 22/05/2023<br>27/05/2023 | -            |
 | Avaliação do storyboard 3             | Gabriel de Souza   | 22/05/2023<br>27/05/2023 | -            |
 
+<center>
+
+*Tabela 1: Cronograma planejado de avaliação do storyboard*
+
+</center>
 
 ## Questões éticas
 Para realizar a entrevista, é necessário que o entrevistador informe ao entrevistado o [termo de consentimento](../../analise_de_requisitos/aspectos_eticos.md#termo) e obtenha sua concordância com os termos estabelecidos. É fundamental ressaltar que a equipe valoriza e assegura a máxima proteção, respeito e confidencialidade dos dados coletados dos entrevistados.
