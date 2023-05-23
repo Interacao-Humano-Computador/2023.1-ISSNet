@@ -156,3 +156,4 @@ Edição, Editora Campus, 2010. Publicado em: 03/05/2021.</span>
 | `0.1`      |  07/05/2023 | Adição da introdução | Arthur Trindade                    | Miguel Moreira |
 | `0.2`      |  08/05/2023 | Adição da Analise    | Gabriel de Souza Fonseca Ribeiro   | Arthur Trindade|
 | `0.3`      |  20/05/2023 | Adição de Tarefa e Correções | Júlio César | Arthur Trindade |
+| `0.4`      |  23/05/2023 | Corrige HTA Cancelar Nota    | Júlio César | Arthur Trindade |

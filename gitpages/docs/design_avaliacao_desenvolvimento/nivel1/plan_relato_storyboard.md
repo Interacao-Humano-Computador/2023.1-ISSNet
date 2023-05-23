@@ -41,3 +41,4 @@ Edição, Editora Campus, 2010. Publicado em: 03/05/2021.
 | `0.1`      |  20/05/2023 | Adição de 3 tópicos e introdução    | Júlio César         | Arthur Trindade, Gabriel de Souza |
 | `0.2`      |  22/05/2023 | Adição da descrição de 4 tópicos   | Marcus Vinicius      | Arthur Trindade, Gabriel de Souza |
 | `0.3`      |  22/05/2023 | Correçao Didatica   | Marcus Vinicius                     | Arthur Trindade, Gabriel de Souza |
+| `0.4`      |  23/05/2023 | Adiciona Problemas Encontrados e Correções | Júlio César | Arthur Trindade, Gabriel de Souza |
