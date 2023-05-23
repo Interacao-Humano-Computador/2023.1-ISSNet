@@ -19,7 +19,7 @@ Nosso compromisso com a ética em nossa pesquisa é absoluto, e nos esforçamos 
 De acordo a resolução nº 466 de 2012 do Conselho Nacional de Saúde, o Termo de Consentimento Livre e Esclarecido (TCLE) é um documento no qual é explicitado o consentimento livre e esclarecido do participante e/ou de seu responsável legal, de forma escrita, devendo conter todas as informações necessárias, em linguagem clara e objetiva, de fácil entendimento, para o mais completo esclarecimento sobre a pesquisa a qual se propõe participar <a href="#conselho">[1]</a>.<br> 
 O Termo de Consentimento Livre e Esclarecido é importante para garantir a participação voluntária e consciente na pesquisa, informando sobre os objetivos e possíveis riscos envolvidos. Desse modo, o objetivo deste termo é fornecer informações claras e objetivas sobre a pesquisa para que o participante possa tomar uma decisão informada sobre a sua participação no questionário. O presente termo será autorizado de forma online para facilitar a logística da equipe:
 
-<div style="text-align: center">
+<div id='termo' style="text-align: center">
 <h3>
 Termo de Consentimento Livre e Esclarecido
 </h3>

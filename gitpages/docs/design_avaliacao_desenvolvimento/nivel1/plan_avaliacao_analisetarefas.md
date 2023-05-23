@@ -34,7 +34,7 @@ Ao seguir essas diretrizes éticas, reforçamos nosso compromisso de realizar a 
 
 ## Questões práticas da avaliação
 * **Recrutamento dos usuários:**
-Os usuários que participarão da avaliação serão contatados por meio de mensagens, tendo sido selecionados com base em seu interesse e disponibilidade para participar da entrevista.
+Os usuários que participarão da avaliação serão contatados por meio de mensagens via WhatsApp ou Telegram, tendo sido selecionados com base em seu interesse e disponibilidade para participar da entrevista.
 
 * **Quantidade de participantes:**
 Está prevista a participação de 2 usuários na avaliação. Essa quantidade foi determinada devido ao número limitado de participantes que manifestaram interesse e disponibilidade para o estudo.
@@ -63,6 +63,9 @@ Essas questões práticas foram consideradas para garantir a viabilidade e o bom
 
 7. Existe alguma sugestão específica que você gostaria de oferecer para aprimorar a análise de tarefas realizada pelo nosso grupo, levando em consideração suas próprias experiências e necessidades?
 
+## Resultados 
+Este documento de planejamento da avaliação será utilizado como um guia para conduzir todas as etapas da avaliação de Análise de Tarefas do nosso projeto. Ele servirá como uma referência central para garantir que todas as questões práticas e éticas sejam consideradas e que a avaliação seja realizada de forma consistente e adequada.
+
 ## Bibliografia
 <!-- FONTES CONSULTADAS DURANTE A ELABORAÇÃO DO TEXTO, CITADAS OU NÃO. REMOVER CASO NÃO HOUVER -->
 SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a.
@@ -70,7 +73,7 @@ Edição, Editora Campus, 2010. Publicado em: 03/05/2021.
 
 ## Histórico de revisão
 
-| Versão     | Data        | Descrição            | Autor(es)                          | Revisores  |
-| :--------: | :---------: | -------------------- | ---------------------------------- | ---------- |
-| `0.0`      |  20/05/2023 | Criação do arquivo   | Júlio César               | Miguel Moreira  |
-| `0.1`      |  20/05/2023 | Ampliação do conteúdo  | Miguel Moreira              | Arthur Trindade  |
+| Versão     | Data        | Descrição                                        | Autor(es)      | Revisores       |
+| :--------: | :---------: | ------------------------------------------------ | -------------- | --------------- |
+| `0.0`      |  20/05/2023 | Criação do arquivo                               | Júlio César    | - |
+| `0.1`      |  22/05/2023 | Planejamento da avaliação da análise de tarefas  | Miguel Moreira | Arthur Trindade |
