@@ -45,7 +45,8 @@ Essas questões práticas foram consideradas para garantir a viabilidade e o bom
 ## Questões éticas
 Para realizar a entrevista, é necessário que o entrevistador informe ao entrevistado o [termo de consentimento](../../analise_de_requisitos/aspectos_eticos.md#termo) e obtenha sua concordância com os termos estabelecidos. É fundamental ressaltar que a equipe valoriza e assegura a máxima proteção, respeito e confidencialidade dos dados coletados dos entrevistados.
 
-<h2 id='roteiro'>Roteiro de perguntas</h2>
+## Roteiro de perguntas
+<span id='roteiro'></span>
 A seguir, apresentamos o roteiro de perguntas que será utilizado durante a avaliação, que deve ser executado para cada um dos storyboards desenvolvidos.
 
 #### Perguntas
@@ -97,6 +98,11 @@ A interpretação dos dados será realizada após as entrevistas, e os dados obt
 
 ## Referências
 <!-- FONTES CITADAS UTILIZADAS PARA EMBASAR O TEXTO. REMOVER CASO NÃO HOUVER  -->
+SALES, André Barros de. Plano de ensino da disciplina. Disponível em: <https://aprender3.unb.br/pluginfile.php/2523360/mod_resource/content/33/Plano_de_Ensino%20FIHC%20202301%20Turma%202.pdf>
+
+Planejamento da Avaliação do Storyboard, Lichess. Disponível em: <https://interacao-humano-computador.github.io/2022.2-Lichess/design_avaliacao_desenvolvimento/nivel_1/storyboard/planejamento_avaliacao/>
+
+Planejamento da Avaliação do Storyboard, Millenium Papelaria. Disponível em: <https://interacao-humano-computador.github.io/2022.1-Millenium-Papelaria/DesignAvaliacaoDesenvolvimento/nivel1/planejamentoAvaliacaoStoryBoard/>
 
 ## Bibliografia
 <!-- FONTES CONSULTADAS DURANTE A ELABORAÇÃO DO TEXTO, CITADAS OU NÃO. REMOVER CASO NÃO HOUVER -->
