@@ -43,7 +43,7 @@ Essas questões práticas foram consideradas para garantir a viabilidade e o bom
 
 <center>
 
-*Tabela 1: Cronograma planejado de avaliação do storyboard*
+*Tabela 1: Cronograma planejado de avaliação dos storyboards*
 
 </center>
 
