@@ -30,10 +30,17 @@ nav:
     - Guia de estilo: analise_de_requisitos/guia_de_estilo.md
   - Design, Avaliação e Desenvolvimento:
     - Nível 1:
-      - Planejamento da Avaliação de Análise de Tarefas: design_avaliacao_desenvolvimento/nivel1/plan_avaliacao_analisetarefas.md
-      - Planejamento da Avaliação do Storyboard: design_avaliacao_desenvolvimento/nivel1/plan_avaliacao_storyboard.md
-      - Planejamento do Relato de Avaliação do Storyboard: design_avaliacao_desenvolvimento/nivel1/plan_relato_storyboard.md
-      - Planejamento do Relato de Avaliação da Análise de Tarefas: design_avaliacao_desenvolvimento/nivel1/plan_relato_analisetarefas.md
+      - Storyboard:
+        - Planejamento da Avaliação do Storyboard: design_avaliacao_desenvolvimento/nivel1/plan_avaliacao_storyboard.md
+        - Planejamento do Relato de Avaliação do Storyboard: design_avaliacao_desenvolvimento/nivel1/plan_relato_storyboard.md
+        - Relato da Avaliação do Storyboard: design_avaliacao_desenvolvimento/nivel1/relato_storyboard.md
+      - Análise de Tarefas:
+        - Planejamento da Avaliação de Análise de Tarefas: design_avaliacao_desenvolvimento/nivel1/plan_avaliacao_analisetarefas.md
+        - Planejamento do Relato de Avaliação da Análise de Tarefas: design_avaliacao_desenvolvimento/nivel1/plan_relato_analisetarefas.md
+        - Relato da Avaliação da Análise de Tarefas: design_avaliacao_desenvolvimento/nivel1/relato_analisetarefas.md
+    - Nível 2:
+      - Planejamento da Avaliação do Protótipo de Papel: design_avaliacao_desenvolvimento/nivel2/plan_avaliacao_protpapel.md
+      - Planejamento do Relato da Avaliação do Protótipo de Papel: design_avaliacao_desenvolvimento/nivel2/plan_relato_protpapel.md
   - Entregas: entregas.md
 
 extra_css:
