@@ -101,7 +101,55 @@ A seguir, apresentamos o roteiro de perguntas que será utilizado durante a aval
 ## Interpretação e apresentação dos dados
 A interpretação dos dados será realizada após as entrevistas, e os dados obtidos serão apresentados de acordo com o [planejamento do relato dos reultados](./plan_relato_storyboard.md).
 
+## Storyboards Desenvolvidos
+Os storyboards foram desenvolvidos usando as [análises de tarefa](../../analise_de_requisitos/analise_de_tarefas.md) e [cenários](../../analise_de_requisitos/cenarios.md) desenvolvidos para tarefas de geração, cancelamento e consulta de NFS-e, foi usado a ferramenta [StoryboardThat](../../../planejamento/ferramentas/#storyboardthat)
 
+Na Figura 1 é apresentado o storyboard de consulta de NFS-e, um chefe de um funcionário pede para ele que consulte a nota fiscal de uma empresa que prestou serviços a eles.
+<center>
+
+*Figura 1: Storyboard Consulta NFS-e* 
+
+</center>
+
+![Storyboard Consulta NFS-e](../../img/storyboard-consulta.png)
+
+<center>
+
+*Fonte: Autor* 
+
+</center>
+
+Na figura 2 é mostrado o storyboard de geração de NFS-e, no fim do mês, um chefe pede ao funcionário para que ele cadastre todas as notas de serviço do mês.
+
+<center>
+
+*Figura 2: Storyboard Geração NFS-e* 
+
+</center>
+
+![Storyboard Geração NFS-e](../../img/storyboard-geracao.png)
+
+<center>
+
+*Fonte: Autor* 
+
+</center>
+
+No storyboard da figura 3, um cliente pede reembolso por motivo de serviço não prestado, em seguida a funcionária devolve o dinheiro e cancela a nota fiscal de serviço.
+
+<center>
+
+*Figura 3: Storyboard Cancelamento NFS-e* 
+
+</center>
+
+![Storyboard Cancelamento NFS-e](../../img/storyboard-cancelamento.png)
+
+<center>
+
+*Fonte: Autor* 
+
+</center>
 
 ## Bibliografia
 <!-- FONTES CONSULTADAS DURANTE A ELABORAÇÃO DO TEXTO, CITADAS OU NÃO. REMOVER CASO NÃO HOUVER -->
@@ -119,4 +167,5 @@ Planejamento da Avaliação do Storyboard, Millenium Papelaria. Disponível em: 
 | Versão     | Data        | Descrição                                 | Autor(es)       | Revisores       |
 | :--------: | :---------: | ----------------------------------------- | --------------- | --------------- |
 | `0.0`      |  20/05/2023 | Criação do arquivo                        | Júlio César     | - |
-| `0.1`      |  22/05/2023 | Planejamento da avaliação dos storyboards | Arthur Trindade | Miguel Moreiera |
+| `0.1`      |  22/05/2023 | Planejamento da avaliação dos storyboards | Arthur Trindade | Miguel Moreira |
+| `0.2`      |  28/05/2023 | Adiciona storyboards desenvolvidos        | Júlio César     | Miguel Moreira |
