@@ -20,6 +20,7 @@ Nesta parte do documento será descrito a lista de ferramentas que usaremos no d
 |    ![Logo VSCode](../img/logo_visualstudio.png)                               |   VSCode   |         O vscode é um editor de texto com uma variedade de extensões para desenvolvimento de softwares. Será utilizado pelo grupo para editar os arquivos markdown.<a href="#vscode">[10]</a>|
 |    ![Logo Canva](../img/logo_canva.png)                                       |   Canva    |         Canva é uma plataforma de design da qual permite que os seus usuários criem diversos tipos de conteúdos e disponibilizem ou de forma gratuita ou paga para outras pessoas. Será utilizado pelo grupo para realizar algumas tarefas necessárias como a criação de personas. <a href="#canva">[11]</a>
 |    ![Logo Google Forms](../img/logo_gforms.png)                               | Google Forms | Google Forms é um aplicativo de gerenciamento de pesquisa. Está sendo utilizado para gerar os formulários que serão preenchidos pelos usuários. <a href="#gforms">[12]</a>|
+|    ![Logo StoryboardThat](../img/logo_storyboardthat.png)                               | StoryboardThat | Uma ferramenta usada no projeto para criação de storyboards, possui cenários, atores, balões de conversa e desenhos<a href="#storyboardthat">[13]</a>|
 
 Fonte: Grupo UnbIdiomas-2022.2, acessado em: 25 de abril de 2023. Disponivel em: <https://github.com/Interacao-Humano-Computador/2022.2-UnbIdiomas>
 
@@ -50,6 +51,8 @@ Fonte: Grupo UnbIdiomas-2022.2, acessado em: 25 de abril de 2023. Disponivel em:
 
 <span id="gforms">[12]: GOOGLE FORMS. 2023. Disponivel em: <https://docs.google.com/forms/>. Acesso em 08/05/2023.</span>
 
+<span id="storyboardthat">[13]: STORYBOARDTHAT. 2023. Disponivel em: <https://www.storyboardthat.com/>. Acesso em 28/05/2023.</span>
+
 ## Histórico de revisão
 
 | Versão     | Data        | Descrição                                            | Autor(es)                                    | Revisores       |
@@ -61,3 +64,4 @@ Fonte: Grupo UnbIdiomas-2022.2, acessado em: 25 de abril de 2023. Disponivel em:
 | `0.4`      |  25/04/2023 | Correções de referencia no Arquivo                   | Marcus Vinicius Cunha Dantas                | Júlio César Costa|
 | `0.5`      |  26/04/2023 | Correções de de imagens e referecias                 | Marcus Vinicius Cunha Dantas                | Júlio César Costa|
 | `0.6`      |  08/05/2023 | Atualização de ferramenta                            | Marcus Vinicius Cunha Dantas               | Júlio César Costa|
+| `0.7`      |  28/05/2023 | Adiciona StoryboardThat                              | Júlio César                                | Arthur Trindade |
