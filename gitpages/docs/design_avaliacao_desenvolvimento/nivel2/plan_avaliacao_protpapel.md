@@ -87,13 +87,20 @@ A avaliação por meio de entrevistas poderá ocorrer tanto de forma presencial 
 ### Cronograma planejado e prazos
 A expectativa é que as entrevistas para a avaliação sejam concluídas até o próximo sábado (03/06), levando em conta o tempo necessário para a preparação, agendamento e realização das entrevistas. Essas considerações práticas foram feitas para garantir a viabilidade e o bom andamento da avaliação, visando obter insights relevantes sobre a usabilidade do site IssNetDF. A seguir, apresentamos o cronograma planejado para as entrevistas:
 
+<center>
+
 | Entrevista                         | Entrevistador(es)  | Período de realização    | Entrevistado |
 | ---------------------------------- | ------------------ | :----------------------: | -------------|
 | Avaliação do protótipo da tarefa 1 | Arthur Trindade    | 29/05/2023<br>03/06/2023 | -            |
 | Avaliação do protótipo da tarefa 2 | Miguel Moreira     | 29/05/2023<br>03/06/2023 | -            |
 | Avaliação do protótipo da tarefa 3 | Gabriel de Souza   | 29/05/2023<br>03/06/2023 | -            |
 
+*Tabela 1: Cronograma planejado de avaliação dos protótipos de papel*
+
+</center>
+
 ## Questões Éticas
+Assim como nas avaliações anteriores, para realizar a entrevista, é necessário que o entrevistador informe ao entrevistado o [termo de consentimento](../../analise_de_requisitos/aspectos_eticos.md#termo-de-consentimento) e obtenha sua concordância com os termos estabelecidos.
 
 ## Interpretação e apresentação dos dados
 O resultado da avaliação desempenhará um papel fundamental no direcionamento do desenvolvimento dos protótipos de alta fidelidade no [nível 3 do projeto](nivel3). Ele servirá como um ponto de referência central para garantir a consistência e adequação da avaliação, assegurando que todos os dados coletados sejam cuidadosamente considerados. A interpretação dos dados será realizada após as entrevistas, e os dados obtidos serão apresentados de acordo com o [planejamento do relato dos reultados](plan_relato_protpapel.md).
