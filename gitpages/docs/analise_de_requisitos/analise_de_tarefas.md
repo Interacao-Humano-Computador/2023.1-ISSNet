@@ -129,7 +129,7 @@ De acordo com Barbosa et al <a href="#simone">[1]</a>, o conjunto de modelos GOM
 <span id='consultar'></span>
 O modelo GOMS foi utilizado para analisar a tarefa "Consultar Nota Eletrônica", sendo o escopo de avaliação a situação em que um usuário desejar a partir da plataforma consultar uma nota fiscal de serviço eletrônica.
 
-GOAL 0: Emitir NFS-e
+GOAL 0: Consultar Nota Fiscal Eletrônica
 <p style="padding-left: 1vw">GOAL 1: Realizar login na plataforma</p>
 <p style="padding-left: 3vw">OP. 1.1: Digitar seu cpf e senha</p>
 <p style="padding-left: 3vw">OP. 1.2: Logar através do certificado digital </p>
