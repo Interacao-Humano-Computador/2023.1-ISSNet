@@ -14,7 +14,7 @@ O teste piloto é uma versão preliminar do teste de usabilidade, realizado com 
 
 ### Gravação do Teste Piloto
 
-### Metodologia
+## Metodologia
 
 Para realizar a avaliação do storyboard foi utilizado o método de entrevistas da qual como principal entrevistado, usuários que usam o sistema da ISSNET com certa frequência, durante a entrevista, foram feitas perguntas sobre a qualidade e funções mais utilizadas. Tambem foi utilizado como base o questionario criado para os usuarios do sistema durante o desenvolvimento do projeto.
 Antes de o questionário ser aplicado, foi mostrado um termo de consentimento para o entrevistado para que tenhamos certeza da concordância de ambas às partes.
@@ -69,4 +69,4 @@ Edição, Editora Campus, 2010. Publicado em: 03/05/2021.
 | `0.0`      | 28/05/2023  | Criação do arquivo                        | Júlio César     | - |
 | `0.1`      | 29/05/2023  | Adicionar título e descrição              | Marcus Vinicius | - |
 | `0.2`      | 29/05/2023  | Adicionar título e correção de escrita    | Marcus Vinicius | - |
-
+| `0.3`      | 29/05/2023  | Alteração de fonte e revisão de conteúdo  | Marcus Vinicius | - |
