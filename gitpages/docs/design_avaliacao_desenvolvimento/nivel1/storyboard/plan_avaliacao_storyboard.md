@@ -34,13 +34,13 @@ A avaliação por meio de entrevistas poderá ocorrer tanto de forma presencial 
 ### Cronograma planejado e prazos
 A expectativa é que as entrevistas para a avaliação sejam concluídas até o próximo sábado (27/05), levando em conta o tempo necessário para a preparação, agendamento e realização das entrevistas. Essas considerações práticas foram feitas para garantir a viabilidade e o bom andamento da avaliação, visando obter insights relevantes sobre a usabilidade do site IssNetDF. A seguir, apresentamos o cronograma planejado para as entrevistas:
 
+<center>
+
 | Entrevista                            | Entrevistador(es)  | Período de realização    | Entrevistado |
 | ------------------------------------- | ------------------ | :----------------------: | -------------|
 | Avaliação do storyboard 1             | Arthur Trindade    | 22/05/2023<br>27/05/2023 | -            |
 | Avaliação do storyboard 2             | Miguel Moreira     | 22/05/2023<br>27/05/2023 | -            |
 | Avaliação do storyboard 3             | Gabriel de Souza   | 22/05/2023<br>27/05/2023 | -            |
-
-<center>
 
 *Tabela 1: Cronograma planejado de avaliação dos storyboards*
 
@@ -104,7 +104,7 @@ Na Figura 1 é apresentado o storyboard de consulta de NFS-e, um chefe de um fun
 
 </center>
 
-![Storyboard Consulta NFS-e](../../img/storyboard-consulta.png)
+![Storyboard Consulta NFS-e](../../../img/storyboard-consulta.png)
 
 <center>
 
@@ -120,7 +120,7 @@ Na figura 2 é mostrado o storyboard de geração de NFS-e, no fim do mês, um c
 
 </center>
 
-![Storyboard Geração NFS-e](../../img/storyboard-geracao.png)
+![Storyboard Geração NFS-e](../../../img/storyboard-geracao.png)
 
 <center>
 
@@ -136,7 +136,7 @@ No storyboard da figura 3, um cliente pede reembolso por motivo de serviço não
 
 </center>
 
-![Storyboard Cancelamento NFS-e](../../img/storyboard-cancelamento.png)
+![Storyboard Cancelamento NFS-e](../../../img/storyboard-cancelamento.png)
 
 <center>
 
