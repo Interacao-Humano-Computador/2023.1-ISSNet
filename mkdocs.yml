@@ -11,33 +11,33 @@ nav:
     - 24/04: atas/ata_04_24.md
     - 02/05: atas/ata_05_02.md
   - Planejamento:
-    - Sites avaliados: planejamento/avaliados.md
-    - Site selecionado: planejamento/selecionado.md
-    - Ferramentas do projeto: planejamento/ferramentas.md
+    - Sites Avaliados: planejamento/avaliados.md
+    - Site Selecionado: planejamento/selecionado.md
+    - Ferramentas do Projeto: planejamento/ferramentas.md
     - Cronograma:
-      - Cronograma planejado: planejamento/cronograma/cronograma_plan.md
-      - Cronograma executado: planejamento/cronograma/cronograma_exec.md
-    - Processo de design: planejamento/processo.md
-  - Análise de requisitos:
-    - Aspectos éticos: analise_de_requisitos/aspectos_eticos.md
-    - Princípios gerais: analise_de_requisitos/principios_gerais.md
-    - Perfil de usuário: analise_de_requisitos/perfil_de_usuario.md
-    - Definição de personas: analise_de_requisitos/personas.md
-    - Análise de tarefas: analise_de_requisitos/analise_de_tarefas.md
+      - Cronograma Planejado: planejamento/cronograma/cronograma_plan.md
+      - Cronograma Executado: planejamento/cronograma/cronograma_exec.md
+    - Processo de Design: planejamento/processo.md
+  - Análise de Requisitos:
+    - Aspectos Éticos: analise_de_requisitos/aspectos_eticos.md
+    - Princípios Gerais: analise_de_requisitos/principios_gerais.md
+    - Perfil de Usuário: analise_de_requisitos/perfil_de_usuario.md
+    - Definição de Personas: analise_de_requisitos/personas.md
+    - Análise de Tarefas: analise_de_requisitos/analise_de_tarefas.md
     - Cenários: analise_de_requisitos/cenarios.md
-    - Características da plataforma: analise_de_requisitos/caracteristicas_da_plataforma.md
-    - Metas de usabilidade: analise_de_requisitos/metas_de_usabilidade.md
-    - Guia de estilo: analise_de_requisitos/guia_de_estilo.md
+    - Características da Plataforma: analise_de_requisitos/caracteristicas_da_plataforma.md
+    - Metas de Usabilidade: analise_de_requisitos/metas_de_usabilidade.md
+    - Guia de Estilo: analise_de_requisitos/guia_de_estilo.md
   - Design, Avaliação e Desenvolvimento:
     - Nível 1:
       - Storyboard:
-        - Planejamento da Avaliação do Storyboard: design_avaliacao_desenvolvimento/nivel1/plan_avaliacao_storyboard.md
-        - Planejamento do Relato de Avaliação do Storyboard: design_avaliacao_desenvolvimento/nivel1/plan_relato_storyboard.md
-        - Relato da Avaliação do Storyboard: design_avaliacao_desenvolvimento/nivel1/relato_storyboard.md
+        - Planejamento da Avaliação do Storyboard: design_avaliacao_desenvolvimento/nivel1/storyboard/plan_avaliacao_storyboard.md
+        - Planejamento do Relato de Avaliação do Storyboard: design_avaliacao_desenvolvimento/nivel1/storyboard/plan_relato_storyboard.md
+        - Relato da Avaliação do Storyboard: design_avaliacao_desenvolvimento/nivel1/storyboard/relato_storyboard.md
       - Análise de Tarefas:
-        - Planejamento da Avaliação de Análise de Tarefas: design_avaliacao_desenvolvimento/nivel1/plan_avaliacao_analisetarefas.md
-        - Planejamento do Relato de Avaliação da Análise de Tarefas: design_avaliacao_desenvolvimento/nivel1/plan_relato_analisetarefas.md
-        - Relato da Avaliação da Análise de Tarefas: design_avaliacao_desenvolvimento/nivel1/relato_analisetarefas.md
+        - Planejamento da Avaliação de Análise de Tarefas: design_avaliacao_desenvolvimento/nivel1/analise_de_tarefas/plan_avaliacao_analisetarefas.md
+        - Planejamento do Relato de Avaliação da Análise de Tarefas: design_avaliacao_desenvolvimento/nivel1/analise_de_tarefas/plan_relato_analisetarefas.md
+        - Relato da Avaliação da Análise de Tarefas: design_avaliacao_desenvolvimento/nivel1/analise_de_tarefas/relato_analisetarefas.md
     - Nível 2:
       - Planejamento da Avaliação do Protótipo de Papel: design_avaliacao_desenvolvimento/nivel2/plan_avaliacao_protpapel.md
       - Planejamento do Relato da Avaliação do Protótipo de Papel: design_avaliacao_desenvolvimento/nivel2/plan_relato_protpapel.md

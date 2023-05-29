@@ -13,6 +13,7 @@ A avaliação foi feita com base no framework DECIDE proposto por Sharp, Rogers 
 - **Avaliar (Evaluate)**, interpretar e apresentar os resultados, considerando grau de confiabilidade dos dados, validade interna, validade externa e validade ecológica.
 
 *Fonte: Simone, 2010, p.313*
+
 ## Objetivo
 O objetivo da avaliação é avaliar o design das funcionalidades pelo protótipo de baixa fidelidade em papel, os percursos de tarefas baseadas no documento de [análise de tarefas](../../analise_de_requisitos/analise_de_tarefas.md), a avaliação irá contribuir para identificar designs alternativos ou problemas na análise de tarefas.
 
@@ -20,69 +21,82 @@ O objetivo da avaliação é avaliar o design das funcionalidades pelo protótip
 ## Metodologia
 A metodologia escolhida pelo grupo para a avaliação foi a entrevista, pelo fato de ser o método mais relevante para este tipo de avaliação, que será feita presencialmente, antes da entrevista de fato deve ser feito a gravação de um **teste piloto**, uma simulação da entrevista com os avaliadores, com a finalidade de testar o ambiente, equipamentos e materiais a serem utilizados, para que eventuais problemas possam ser corrigidos antes da entrevista.
 
-Será apresentado para o entrevistado o [termo de consentimento](../../../analise_de_requisitos/aspectos_eticos/#termo), que deverá ser lido e concordado para o prosseguimento da gravação e entrevista, após isso serão apresentados os prótotipos de cada tarefa e as perguntas do roteiro.
+Será apresentado para o entrevistado o [termo de consentimento](../../analise_de_requisitos/aspectos_eticos/#termo-de-consentimento), que deverá ser lido e concordado para o prosseguimento da gravação e entrevista, após isso serão apresentados os prótotipos de cada tarefa e as perguntas do roteiro.
 
-## Roteiro de perguntas
+## Roteiro de Perguntas
 A cada avaliação de protótipo de papel das tarefas, as seguintes perguntas serão respondidas, são elas:
 <ol>
   <li>O protótipo de papel fornece as opções necessárias para preencher corretamente os dados?</li>
     <ul>
-    <li>Sim</li>
-    <li>Não</li>
-    <li>Não tenho certeza</li>
+    <li> Sim</li>
+    <li> Não</li>
+    <li> Não tenho certeza</li>
     </ul>
-  <li>Avalie de 1 a 5 a facilidade no entendimento do fluxo de trabalho apresentado no protótipo de papel?</li>
+  <li>Avalie de 1 a 5 a facilidade no entendimento do fluxo de trabalho apresentado no protótipo de papel.</li>
     <ul>
-      <li>1: Muito difícil</li>
-      <li>2: Difícil</li>
-      <li>3: Moderado</li>
-      <li>4: Fácil</li>
-      <li>5: Muito Fácil</li>
+      <li> 1: Muito difícil</li>
+      <li> 2: Difícil</li>
+      <li> 3: Moderado</li>
+      <li> 4: Fácil</li>
+      <li> 5: Muito Fácil</li>
     </ul>
   <li>O protótipo de papel fornece orientações ou dicas sobre como preencher os campos obrigatórios e opcionais?</li>
     <ul>
-      <li>Sim</li>
-      <li>Não</li>
-      <li>Não tenho certeza</li>
+      <li> Sim</li>
+      <li> Não</li>
+      <li> Não tenho certeza</li>
     </ul>
   <li>Avalie de 1 a 5 se as informações solicitadas no protótipo de papel são relevantes e abrangentes o suficiente para as tarefas realizadas.</li>
     <ul>
-      <li>1: Muito irrelevante</li>
-      <li>2: Irrelevante</li>
-      <li>3: Moderado</li>
-      <li>4: Relevante</li>
-      <li>5: Muito Relevante</li>
+      <li> 1: Muito irrelevante</li>
+      <li> 2: Irrelevante</li>
+      <li> 3: Moderado</li>
+      <li> 4: Relevante</li>
+      <li> 5: Muito Relevante</li>
     </ul>
-  <li>Existe alguma etapa ou funcionalidade adicional que você esperaria encontrar no percurso da tarefa e que não foi apresentada no protótipo de papel? Se sim, quais?</li>
+  <li>Existe alguma etapa ou funcionalidade adicional que você esperaria encontrar no percurso da tarefa e que não foi apresentada no protótipo de papel? Se sim, qual(is)?</li>
   <ul>
-    <li>Sim (aberta)</li>
-    <li>Não</li>
+    <li> Sim (aberta)</li>
+    <li> Não</li>
   </ul>
   <li>Você concorda com a sequência de atividades apresentada? Se não, como teria feito?</li>
     <ul>
-      <li>Sim</li>
-      <li>Não (aberta)</li>
-      <li>Não tenho certeza</li>
+      <li> Sim</li>
+      <li> Não (aberta)</li>
+      <li> Não tenho certeza</li>
     </ul>
   <li>Você possui outra alternativa de design para a realização da tarefa?</li>
     <ul>
-      <li>Sim (aberta)</li>
-      <li>Não</li>
+      <li> Sim (aberta)</li>
+      <li> Não</li>
     </ul>
 </ol>
 
 Ao responder a pergunta 7 e a resposta for sim, o entrevistado irá falar como queria que tivesse sido feito, o avaliador poderá desenhar em folha branca o que entendeu, caso ainda não satisfaça o entrevistado, o avaliador poderá pedir de forma respeitosa para que ele mostre desenhando um esboço em papel.
+
 ## Questões Práticas
 
 ### Participantes
+Os usuários que participarão da avaliação serão contatados por meio de mensagens via WhatsApp ou Telegram. Embora a equipe tente entrar em contato com os mesmos usuários que participaram das entrevistas sobre [storyboards](../nivel1/storyboard/plan_avaliacao_storyboard.md) e a [análise de tarefas](../nivel1/analise_de_tarefas/plan_avaliacao_analisetarefas.md), ela não se limitará apenas a esses indivíduos. A seleção dos participantes também levará em consideração o interesse e a disponibilidade de cada entrevistado.
+
+Está planejada a participação de pelo menos cinco usuários nas entrevistas da avaliação. A equipe deseja ter uma amostra maior de participantes em comparação com a avaliação dos storyboards e análise de tarefas, mas sem exceder um número significativo que possa comprometer a disponibilidade de tempo dos entrevistadores.
 
 ### Equipamentos necessários
+A avaliação por meio de entrevistas poderá ocorrer tanto de forma presencial quanto remota, levando em consideração as circunstâncias e preferências dos participantes. No caso das entrevistas presenciais, a voz dos entrevistados será gravada em dispositivo móvel em conformidade com os [termos de consentimento](../../analise_de_requisitos//aspectos_eticos.md#termo-de-consentimento) estabelecidos para fins de avaliação. Se a entrevista for realizada de forma remota, a equipe utilizará a plataforma Teams para gravar a reunião.
 
 ### Cronograma planejado e prazos
+A expectativa é que as entrevistas para a avaliação sejam concluídas até o próximo sábado (03/06), levando em conta o tempo necessário para a preparação, agendamento e realização das entrevistas. Essas considerações práticas foram feitas para garantir a viabilidade e o bom andamento da avaliação, visando obter insights relevantes sobre a usabilidade do site IssNetDF. A seguir, apresentamos o cronograma planejado para as entrevistas:
+
+| Entrevista                         | Entrevistador(es)  | Período de realização    | Entrevistado |
+| ---------------------------------- | ------------------ | :----------------------: | -------------|
+| Avaliação do protótipo da tarefa 1 | Arthur Trindade    | 29/05/2023<br>03/06/2023 | -            |
+| Avaliação do protótipo da tarefa 2 | Miguel Moreira     | 29/05/2023<br>03/06/2023 | -            |
+| Avaliação do protótipo da tarefa 3 | Gabriel de Souza   | 29/05/2023<br>03/06/2023 | -            |
 
 ## Questões Éticas
 
 ## Interpretação e apresentação dos dados
+O resultado da avaliação desempenhará um papel fundamental no direcionamento do desenvolvimento dos protótipos de alta fidelidade no [nível 3 do projeto](nivel3). Ele servirá como um ponto de referência central para garantir a consistência e adequação da avaliação, assegurando que todos os dados coletados sejam cuidadosamente considerados. A interpretação dos dados será realizada após as entrevistas, e os dados obtidos serão apresentados de acordo com o [planejamento do relato dos reultados](plan_relato_protpapel.md).
 
 <!-- ## Referências -->
 <!-- FONTES CITADAS UTILIZADAS PARA EMBASAR O TEXTO. REMOVER CASO NÃO HOUVER  -->
@@ -96,5 +110,6 @@ Edição, Editora Campus, 2010. Publicado em: 03/05/2021.
 
 | Versão     | Data        | Descrição                                 | Autor(es)       | Revisores       |
 | :--------: | :---------: | ----------------------------------------- | --------------- | --------------- |
-| `0.0`      | 28/05/2023  | Criação do arquivo                        | Júlio César     | Arthur Trindade<br>Gabriel de Souza |
+| `0.0`      | 28/05/2023  | Criação do arquivo                        | Júlio César     | - |
 | `0.1`      | 28/05/2023  | Adiciona 3 tópicos                        | Júlio César     | Arthur Trindade<br>Gabriel de Souza |
+| `0.2`      | 28/05/2023  | Adiciona 3 tópicos                        | Arthur Trindade | Júlio César<br>Gabriel de Souza |

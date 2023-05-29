@@ -65,11 +65,31 @@ Tabela 2: Cronograma executado da etapa 2.
 | Definição das metas de usabilidade                                 | Gabriel de Souza<br>Júlio César                                                                               | 15/05/2023               | Arthur Trindade<br>Miguel Moreira                        | 15/05/2023 |
 | Criação da guia de estilo do projeto                               | Arthur Trindade<br>Júlio César<br>Miguel Moreira                                                              | 15/05/2023               | Marcus Vinicus                                           | 15/05/2023 |
 | Gravação das entregas da etapa 3                                   | Miguel Moreira                                                                                                | 15/05/2023               | Miguel Moreira                                           | 15/05/2023 |
-<!-- | Ajustes e melhorias                                                | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | 16/05/2023<br>18/05/2023 | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | 16/05/2023<br>18/05/2023 | -->
+| Ajustes e melhorias                                                | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | 16/05/2023<br>18/05/2023 | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | 16/05/2023<br>18/05/2023 |
 
 Tabela 3: Cronograma executado da etapa 3.
 
 </center>
+
+### Etapa 4
+<center>
+
+| Atividade                                                          | Responsável(veis)                                                                                             | Período de realização | Revisor(es)                                       | Período de revisão |
+| ------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------- | --------------------- | ------------------------------------------------- | ------------------ |
+| Ponto de controle 5 no Teams                                       | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | 15/05/2023            | -                                                 | -                  |
+| Criação da ata da reunião                                          | Arthur D'Assumpção                                                                                            | -                     | Júlio Cesar                                       | -                  |
+| Planejamento da avaliação da análise de tarefas                    | Miguel Moreira                                                                                                | 22/05/2023            | Arthur Trindade                                   | 22/05/2023         |
+| Planejamento da avaliação do storyboard                            | Arthur Trindade                                                                                               | 22/05/2023            | Miguel Moreira                                    | 22/05/2023         |
+| Planejamento do relato dos resultados da avaliação do storyboard   | Júlio César<br>Marcus Vinicius                                                                                | 22/05/2023            | Arthur Trindade<br>Gabriel de Souza               | 22/05/2023         |
+| Planejamento do relato dos resultados da avaliação do análise de tarefas | Arthur D'Assumpção<br>Gabriel de Souza                                                                  | 22/05/2023            | Julio Cesar<br>Marcus Vinicius                    | 22/05/2023         |
+| Gravação das entregas da etapa 4                                   | Miguel Moreira                                                                                                | 22/05/2023            | Miguel Moreira                                    | - |
+| Ajustes e melhorias                                                | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | 23/05/2023<br>25/05/2023 | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | 23/05/2023<br>25/05/2023 |
+
+Tabela 4: Cronograma planejado da etapa 4.
+
+</center>
+
+
 
 ## Histórico de revisão
 
@@ -77,6 +97,9 @@ Tabela 3: Cronograma executado da etapa 3.
 | :--------: | :---------: | ---------------------------------------------------- | -------------------------------------------- | ---------------- |
 | `0.0`      |  22/04/2023 | Criação do arquivo                                   | Arthur Trindade                              | -                |
 | `0.1`      |  26/04/2023 | Adição do Cconograma executado da etapa 1            | Arthur Trindade                              | Gabriel de Souza |
-| `0.2`      |  08/04/2023 | Adição do cronograma executado da etapa 2            | Arthur Trindade                              | Gabriel de Souza |
-| `0.3`      |  14/04/2023 | Adição da etapa de ajustes no cronograma executado da etapa 2 | Arthur Trindade                     | Gabriel de Souza |
-| `0.4`      |  15/04/2023 |  Adição do cronograma executado da etapa 2           | Arthur Trindade                              | Gabriel de Souza |
+| `0.2`      |  08/05/2023 | Adição do cronograma executado da etapa 2            | Arthur Trindade                              | Gabriel de Souza |
+| `0.3`      |  14/05/2023 | Adição da etapa de ajustes no cronograma executado da etapa 2 | Arthur Trindade                     | Gabriel de Souza |
+| `0.4`      |  15/05/2023 | Adição do cronograma executado da etapa 3            | Arthur Trindade                              | Gabriel de Souza |
+| `0.5`      |  27/05/2023 | Adição da etapa de ajustes no cronograma executado da etapa 3 | Arthur Trindade                     | Gabriel de Souza |
+| `0.6`      |  28/05/2023 | Adição do cronograma executado da etapa 4            | Arthur Trindade                              | Gabriel de Souza |
+

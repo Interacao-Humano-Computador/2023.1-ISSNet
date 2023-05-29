@@ -39,7 +39,7 @@ A análise hierárquica de tarefas pode ser representada na forma textual, por m
 
 </center>
 
-### Análise da tarefa: Emitir uma nota fiscal eletrônica
+### Análise da Tarefa: Emitir Nota Fiscal Eletrônica
 A tarefa "Emitir nota fiscal eletrônica" é uma das principais tarefas que o usuario realiza no sistema, já que é uma funcionalidade principal. A tabela 1 e a figura 2 apresentam a apresentam a análise hierárquica dessa tarefa em sua forma textual e de diagrama, respectivamente.
 
 <center>
@@ -125,8 +125,8 @@ A análise da tarefa de cancelar a nota fiscal está representada na tabela 2 e 
 
 De acordo com Barbosa et al <a href="#simone">[1]</a>, o conjunto de modelos GOMS (_Goals, Operators, Methods and Selection Rules_ - Objetivos, Operadores, Métodos e Regras de Seleção), visa analisar o desempenho de usuários competentes de sistemas computacionais realizando tarefas dentro de sua competência e sem cometer erros. Compõem a família de modelos GOMS algumas técnicas, dentre as quais a o modelo CMN-GOMS foi selecionado para a análise da tarefa emitir uma nota fiscal. Esse método representa as tarefas por meio de uma linguagem de pseudocódigo, indicando a ordem sequencial dos objetivos. Esse modelo visa prever a sequência dos operadores e o tempo de execução desempenhado em uma tarefa.
 
-### Análise da tarefa: Consultar Nota Eletrônica de Serviço
-
+### Análise da Tarefa: Consultar Nota Eletrônica de Serviço
+<span id='consultar'></span>
 O modelo GOMS foi utilizado para analisar a tarefa "Consultar Nota Eletrônica", sendo o escopo de avaliação a situação em que um usuário desejar a partir da plataforma consultar uma nota fiscal de serviço eletrônica.
 
 GOAL 0: Emitir NFS-e
