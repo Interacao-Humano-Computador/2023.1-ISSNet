@@ -57,8 +57,7 @@ Com base nos resultados obtidos dos entrevistados em relação aos storyboards a
 
 ## Conclusão
 
-
-
+Este documento visa facilitar a vida dos avaliadores durante o processo de avaliação. Desta forma, os avaliadores são livres para fazer alterações durante ou antes da avaliação, mas lembre-se sempre de manter a consistência entre os vários participantes.
 
 <!-- ## Referências -->
 <!-- FONTES CITADAS UTILIZADAS PARA EMBASAR O TEXTO. REMOVER CASO NÃO HOUVER  -->
@@ -77,3 +76,5 @@ Edição, Editora Campus, 2010. Publicado em: 03/05/2021.
 | `0.2`      | 29/05/2023  | Adicionar título e correção de escrita    | Marcus Vinicius | Arthur Trindade |
 | `0.3`      | 29/05/2023  | Alteração de fonte e revisão de conteúdo  | Marcus Vinicius | Arthur Trindade |
 | `0.4`      | 29/05/2023  | Adição dos dados obtidos nas entrevistas  | Marcus Vinicius | Arthur Trindade |
+| `0.5`      | 29/05/2023  | Adição da conclusão.                      | Marcus Vinicius | Arthur Trindade |
+
