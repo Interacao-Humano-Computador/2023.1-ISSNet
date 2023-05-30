@@ -59,7 +59,7 @@ Ao seguir essas diretrizes éticas, reforçamos nosso compromisso de realizar a 
 
 ## A estrutura do relatório da avaliação
 
-1. Com base na análise de tarefas que nosso grupo realizou, como você avalia a precisão e abrangência das atividades identificadas para a emissão, exclusão e consulta de notas eletrônicas?
+1. Com base na análise de tarefas que nosso grupo realizou, como você avalia a precisão e abrangência das atividades identificadas para a emissão, cancelamento e consulta de notas eletrônicas?
 
 2. As etapas e sequência de ações propostas na análise de tarefas refletem fielmente o processo que você realiza ao utilizar o site da IssNetDF? Se não, quais aspectos poderiam ser ajustados ou adicionados?
 
@@ -69,7 +69,7 @@ Ao seguir essas diretrizes éticas, reforçamos nosso compromisso de realizar a 
 
 5. Quão claro e compreensível você considera o documento de análise de tarefas produzido pelo nosso grupo? Há alguma informação que poderia ser melhor explicada ou detalhada?
 
-6. As tarefas identificadas refletem com precisão suas necessidades e objetivos ao utilizar o site da IssNetDF para emissão, exclusão e consulta de notas eletrônicas? Se não, quais outras tarefas você consideraria relevantes incluir nessa análise?
+6. As tarefas identificadas refletem com precisão suas necessidades e objetivos ao utilizar o site da IssNetDF para emissão, cancelamento e consulta de notas eletrônicas? Se não, quais outras tarefas você consideraria relevantes incluir nessa análise?
 
 7. Existe alguma sugestão específica que você gostaria de oferecer para aprimorar a análise de tarefas realizada pelo nosso grupo, levando em consideração suas próprias experiências e necessidades?
 
