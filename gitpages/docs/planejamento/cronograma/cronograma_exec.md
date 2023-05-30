@@ -1,10 +1,7 @@
 ## Introdução
-Este artefato apresentaa um cronograma executado com detalhes das entregas em cada etapa do projeto X, bem como uma breve análise retrospectiva para auxuliar num melhor gerenciamento de tempo da equipe.
-
-
+Este artefato apresenta um cronograma executado com detalhes das entregas em cada etapa do projeto.
 
 ### Etapa 1
-A etapa 1 foi um pouco desafiadora para a equipe devido a algumas dificuldades na gestão do tempo. A escolha do site para o projeto de avaliação e o engajamento da equipe ocorreu um pouco tarde, o que resultou na sobreposição da elaboração do cronograma e da execução das demais atividades da etapa, que claramente tornou o o planejamento pouco preciso.
 
 <center>
 
@@ -29,7 +26,6 @@ Tabela 1: Cronograma executado da etapa 1.
 </center>
 
 ### Etapa 2
-Durante a execução da etapa 2, a equipe se esforçou para seguir o cronograma planejado, buscando evitar os erros cometidos na etapa 1 e garantir a entrega dos artefatos no prazo estabelecido. No entanto, foi identificada uma mudança no site escolhido para o projeto, que passou por uma refatoração durante o período de realização das atividades. Diante dessa situação, a equipe precisou rapidamente escolher um novo site, o que demandou a revisão dos artefatos da etapa 1 relacionados ao site antigo e o início da produção dos artefatos da etapa 2 em um prazo reduzido, fora do planejamento inicial.
 
 <center>
 
@@ -75,7 +71,7 @@ Tabela 3: Cronograma executado da etapa 3.
 <center>
 
 | Atividade                                                          | Responsável(veis)                                                                                             | Período de realização | Revisor(es)                                       | Período de revisão |
-| ------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------- | --------------------- | ------------------------------------------------- | ------------------ |
+| ------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------- | :-------------------: | ------------------------------------------------- | :----------------: |
 | Ponto de controle 5 no Teams                                       | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | 15/05/2023            | -                                                 | -                  |
 | Criação da ata da reunião                                          | Arthur D'Assumpção                                                                                            | -                     | Júlio Cesar                                       | -                  |
 | Planejamento da avaliação da análise de tarefas                    | Miguel Moreira                                                                                                | 22/05/2023            | Arthur Trindade                                   | 22/05/2023         |
@@ -85,7 +81,25 @@ Tabela 3: Cronograma executado da etapa 3.
 | Gravação das entregas da etapa 4                                   | Miguel Moreira                                                                                                | 22/05/2023            | Miguel Moreira                                    | - |
 | Ajustes e melhorias                                                | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | 23/05/2023<br>25/05/2023 | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | 23/05/2023<br>25/05/2023 |
 
-Tabela 4: Cronograma planejado da etapa 4.
+Tabela 4: Cronograma executado da etapa 4.
+
+</center>
+
+### Etapa 5
+<center>
+
+| Atividade                                                          | Responsável(veis)                                                                                             | Período de realização    | Revisor(es)                          | Período de revisão |
+| ------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------- | :----------------------: | ------------------------------------ | :----------------: |
+| Ponto de controle 6 no Teams                                       | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | 22/05/2023               | -                                    | -                  |
+| Criação da ata da reunião                                          | Arthur D'Assumpção                                                                                            | -                        | Júlio Cesar                          | - |
+| Relato dos resultados do storyboard                                | Marcus Vinícius                                                                                               | 28/05/2023<br>29/05/2023 | Arthur Trindade                      | 29/05/2023         |
+| Relato dos resultados da da análise de tarefas                     | Gabriel de Souza                                                                                              | 28/05/2023<br>29/05/2023 | Arthur Trindade                      | 29/05/2023         |
+| Planejamento da avaliação do protótipo de papel                    | Arthur Trindade<br>Júlio César                                                                                | 28/05/2023               | Gabriel de Souza                     | 28/05/2023         |
+| Planejamento do relato dos resultados da avaliação do protótipo de papel  | Miguel Moreira<br>Arthur D'Assumpção                                                                   | 28/05/2023<br>29/05/2023 | Julio Cesar<br>Marcus Vinicius       | 29/05/2023         |   
+| Gravação das entregas da etapa 5                                   | Miguel Moreira                                                                                                | 29/05/2023               | Miguel Moreira                       | 29/05/2023         |
+<!-- | Ajustes e melhorias                                                | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | 30/05/2023<br>01/06/2023 | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | 30/05/2023<br>01/06/2023 | -->
+
+Tabela 5: Cronograma executado da etapa 5.
 
 </center>
 
@@ -102,4 +116,6 @@ Tabela 4: Cronograma planejado da etapa 4.
 | `0.4`      |  15/05/2023 | Adição do cronograma executado da etapa 3            | Arthur Trindade                              | Gabriel de Souza |
 | `0.5`      |  27/05/2023 | Adição da etapa de ajustes no cronograma executado da etapa 3 | Arthur Trindade                     | Gabriel de Souza |
 | `0.6`      |  28/05/2023 | Adição do cronograma executado da etapa 4            | Arthur Trindade                              | Gabriel de Souza |
+| `0.7`      |  28/05/2023 | Adição do cronograma executado da etapa 5            | Arthur Trindade                              | Gabriel de Souza |
+
 

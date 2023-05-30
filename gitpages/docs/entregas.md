@@ -15,6 +15,9 @@
 ## Entrega da etapa 4
 [Link da gravação da reunião da entrega da etapa 4, 22/05/2023](https://youtu.be/K8KVa6vwth4)
 
+## Entrega da etapa 5
+[Link da gravação da reunião da entrega da etapa 5, 29/05/2023](https://youtu.be/yHoP6SYKnKo)
+
 ## Histórico de revisão
 | Versão     | Data        | Descrição            | Autor(es)                          | Revisores  |
 | :--------: | :---------: | -------------------- | ---------------------------------- | ---------- |
@@ -23,3 +26,4 @@
 | `0.2`      |  08/05/2023 | Adição do link da gravação da entrega da etapa 2 e considerações de ajustes da etapa 1 | Arthur Trindade | Miguel Moreira |
 | `0.3`      |  15/05/2023 | Adição do link da gravação da entrega da etapa 3 | Arthur Trindade | Miguel Moreira |
 | `0.4`      |  22/05/2023 | Adição do link da gravação da entrega da etapa 4 | Arthur Trindade | Miguel Moreira |
+| `0.5`      |  29/05/2023 | Adição do link da gravação da entrega da etapa 5 | Arthur Trindade | Miguel Moreira |
