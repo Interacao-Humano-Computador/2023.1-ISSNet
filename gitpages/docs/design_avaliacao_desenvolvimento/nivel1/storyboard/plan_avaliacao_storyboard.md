@@ -74,7 +74,7 @@ A seguir, apresentamos o roteiro de perguntas que será utilizado durante a aval
             <li> Não
         </ul>
     </li>
-    <li> Em uma escala de 1 a 5, qual o seu grau de satisfação com a tarefa ilustrada no storyboard?
+    <li> Em uma escala de 1 a 5, qual o seu grau de satisfação com a execução da tarefa ilustrada no storyboard?
         <ul>
             <li> 1: Insatisfeito
             <li> 2: Pouco satisfeito

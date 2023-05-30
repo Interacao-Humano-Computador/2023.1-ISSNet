@@ -42,3 +42,4 @@ Edição, Editora Campus, 2010. Publicado em: 03/05/2021.
 | Versão     | Data        | Descrição                                 | Autor(es)       | Revisores       |
 | :--------: | :---------: | ----------------------------------------- | --------------- | --------------- |
 | `0.0`      | 28/05/2023  | Criação do arquivo                        | Júlio César     | - |
+| `0.1`      | 29/05/2023  | Planejamento do Relato                       | Arthur D'Assumpção e Miguel Moreira     | - |
