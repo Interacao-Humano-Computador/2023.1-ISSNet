@@ -118,13 +118,59 @@ Tabela 6: Verificação de conteúdo (Fonte: Marcus Vinicius, 05/06/2023).
 ### Verificação - Análise de Tarefas: HTA
 
 
+As Tabela 7 e 8 apresentam os resultados da verificação do artefato (Ánalise de Tarefas).
 
+|ID |            Questão                                     | Resposta | Comentário |
+|:-:| :----------------------------------------------------- | :------: | ---------- |
+| 1 | As legendas estão no padrão do projeto?                |    Sim      |            |
+| 2 | Possui links para os outros artefatos?                 |    Sim      |            |
+| 3 | Existe uma introdução no artefato?                     |    Sim      |            |
+| 4 | Existe tabela de versionamento padronizado e completo? |   Sim       |
+| 5 | Há referências bibliográficas no artefato?             |    Sim      |            |
+| 6 | As tabelas e imagens possuem legenda, fonte e são introduzidas no texto? |   Sim       |            |
+
+<div style="text-align: center">
+<p>
+Tabela 7: Verificação de padronização (Fonte: autor, 2023).
+</p>
+</div>
+
+|ID |            Questão                                     | Resposta | Comentário |
+|:-:| :----------------------------------------------------- | :------: | ---------- |
+1 | Foram utilizadas ao menos duas técnicas para especificar as tarefas (HTA, GOMS)? | Sim | Sim, foram utilizadas.
+2 | A escolha das tarefas analisadas está de acordo com o perfil de usuário? | Sim  |
+3 | O fluxo das tarefas avaliadas está em consonância com as tarefas realizadas pelos usuários na vida real? | Sim  |
+4 | A análise de tarefas está voltada para a análise conceitual do problema em detrimento do funcionamento de telas e menus? | Sim |
+
+<div style="text-align: center">
+<p>
+Tabela 8: Verificação de conteúdo (Fonte: autor, 2023).
+</p>
+</div>
 
 ### Verificação - Pesquisa sobre Ética
+A tabela 9 apresenta os resultados da verificação do artefato Pesquisa sobre ética
 
+| ID  | Descrição     | Avaliação | Observações |
+| :---: | :---------------------------------------------------------------------------------------------------------------: | :---------: | :-----------: |
+| 1   | O artefato possui Introdução?     |    sim       |             |
+| 2   | O artefato artefato possui uma Bibliografia/Referência Bibliográfica?        |     sim     |             |
+| 3   | O artefato possui um Histórico de Versões com o id e descrição das versões, data, autores e revisores? |     sim      |             |
+| 4   | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?  | sim  |  |
+| 5   | Todos os textos estão na norma padrão? |sim  |  |
+| 6 | O documento possui o cuidado ético de evitar prejudicar ou causar dano a outras pessoas, seus bens, reputação ou emprego? |sim | |
+| 7 | O documento possui os princípios de autonomia, beneficiência, não maleficiência, justiça e equidade? |sim | |
+| 8 | No documento, há a explicação do objetivo da pesquisa e como ela será realizada aos participantes? |sim | |
+| 9 | Há a garantia de confidencialidade e a privacidade dos dados brutos ? |sim | |
+| 10 | Pedido de conssentimento em caso de permissão para gravar? |sim | |
+| 11 | Há o documento do termo de consentimento? | não | adicionar o documento do termo de consetimento |
+| 12 | Espaço para assinatura no termo de consentimento? | sim | |
 
-
-
+<div style="text-align: center">
+<p>
+Tabela 9: Verificação de conteúdo (Fonte: autor, 2023).
+</p>
+</div>
 
 ### Tarefas
 
@@ -148,9 +194,9 @@ Tabela 6: Verificação de conteúdo (Fonte: Marcus Vinicius, 05/06/2023).
 - Não foram encontrados pontos que necessitam de ajuste neste artefato.
 
 #### Analise de Tarefas: HTA
--
+- Não foram encontrados pontos que necessitam de ajuste neste artefato
 #### Pesquisa sobre Ética
--
+- Adicionar o documento de termo de consetimento
 
 
 <!-- ## Referências -->
