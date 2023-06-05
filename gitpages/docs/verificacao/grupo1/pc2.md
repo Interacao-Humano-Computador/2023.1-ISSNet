@@ -2,6 +2,156 @@
 
 ## Introdução
 
+O presente artefato contém os resultados da verificação dos artefatos produzidos durante o ponto de controle 2:
+
+- Perfil do Usuário
+- Personas
+- Aspectos Éticos
+- Pesquisa sobre Ética
+- Análise de tarefas: HTA
+
+## Metodologia
+
+A verificação foi feita com base nos checklists definidos e nos videos/documentos referenciados...
+
+## Resultados
+
+### Verificação - Perfil do usuário
+
+As Tabelas 1 e 2 apresentam os resultados da verificação do artefato (Perfil do Usúario)
+
+|ID |            Questão                                     | Resposta | Comentário |
+|:-:| :----------------------------------------------------- | :------: | ---------- |
+| 1 | As legendas estão no padrão do projeto?                |  Sim     |   Segue um padrão nas fontes utilizadas nos titulos e legendas.         |
+| 2 | Possui links para os outros artefatos?                 |  Não     |   Exitem tabelas não referenciadas com seus respectivos links.           |
+| 3 | Existe uma introdução no artefato?                     |  Sim     |            |
+| 4 | Existe tabela de versionamento padronizado e completo? |  Sim        |            |
+| 5 | Há referências bibliográficas no artefato?             |  Sim        |            |
+| 6 | As tabelas e imagens possuem legenda, fonte e são introduzidas no texto? |  Não    | As figuras não são introduzidas no texto, uma vez que o resultado obtido poderia ser mostrado com base em graficos para maior entendimento.      |
+
+Tabela 1: Verificação de padronização (Fonte: Marcus Vinicius, 05/06/2023).
+
+
+ID | Questão | Resposta | Comentários |
+:-: | - | :-: | - |
+1 | O perfil do usuário contém: Idade?  |  Sim |
+2 | O perfil do usuário contém: Sexo? | Sim |
+3 | O perfil do usuário contém: Status Socioeconômico? | Não |
+4 | O perfil do usuário contém: Ocupação? | Sim |
+5 | O perfil do usuário contém: Grau de instrução? | Não |
+6 | O perfil do usuário contém: Área de formação? | Sim |
+7 | O perfil do usuário contém: Como gosta de aprender (com ajuda ou sozinho)? | Não |
+8 | O perfil do usuário contém: Experiência com o produto Lichess? | Sim |
+9 | O perfil do usuário contém: Experiência com produtos concorrentes? | Não |
+10 | O perfil do usuário contém: Tecnologia disponível (dispositivos)? | Não |
+11 | O perfil do usuário contém: Conhecimento sobre o domínio do problema? | Não |
+12 | O perfil do usuário contém: Objetivos do usuário? | Não |
+13 | O perfil do usuário contém: Tarefas primárias? | Sim |
+14 | O perfil do usuário contém: Idiomas e jargões? | Não |
+15 | O perfil do usuário contém: Experiência (leito/novato, especialista)? | Não |
+16 | Foram utilizadas no mínimo duas técnicas para colegar dados sobre os requisitos dos usuários (entrevistas, grupos de foco, questionários, brainstorming, classificação de cartões, estudos de campo ou investigação contextual)? |  Não |
+
+Tabela 2: Verificação de conteúdo (Fonte: Marcus Vinicius, 05/06/2023).
+
+
+### Verificação - Personas
+
+As Tabelas 3 e 4 apresentam os resultados da verificação dos artefatos (Personas):
+
+|ID |            Questão                                     | Resposta | Comentário |
+|:-:| :----------------------------------------------------- | :------: | ---------- |
+| 1 | As legendas estão no padrão do projeto?                | Não         |  As legendas das fotos das personas não seguem o padrão, uma vez que em cima de algumas imagens aparece uma marca/site e nas outras não.          |
+| 2 | Possui links para os outros artefatos?                 |      Sim     |            |
+| 3 | Existe uma introdução no artefato?                     |      Sim    |            |
+| 4 | Existe tabela de versionamento padronizado e completo? |  Sim        |            |
+| 5 | Há referências bibliográficas no artefato?             |    Sim      |            |
+| 6 | As tabelas e imagens possuem legenda, fonte e são introduzidas no texto? |   Sim       |            |
+
+Tabela 3: Verificação de padronização (Fonte: Marcus Vinicius, 05/06/2023).
+
+
+ID | Questão | Resposta | Comentários |
+:-: | - | :-: | - |
+1 | As personas são definidas a partir do perfil do usuário? |  |
+2 | As personas possuem: Nome e sobrenome? | Sim |
+3 | As personas possuem: Foto? | Sim |
+4 | As personas possuem: Status? | Sim  |
+5 | As personas possuem: Objetivos? |Sim  | Os objetivos podem ser melhorados e incluindo objetivos mais específicos referindo-o a aplicação.
+6 | As personas possuem: Habilidades? | Não | As habilidades, na maioria, não estão relacionadas ao domínio da aplicação.
+7 | As personas possuem: Tarefas? | Sim |
+8 | As personas possuem: Relacionamentos? | Sim |
+9 | As personas possuem: Requisitos? | Sim |
+10 | As personas possuem: Expectativas? | Sim | As expectativas devem ser a respeito da aplicação proposta pelo grupo.
+11 | A quantidade de personas é justificada? | Não | Não Possuísse base/fundamento necessario para explicar a quantidade mostrada de personas no artefato.
+12 | Cenários? | Não | Não contém os cenários quando realizado a verifiação do artefato.
+
+Tabela 4: Verificação de conteúdo (Fonte: Marcus Vinicius, 05/06/2023).
+
+### Verificação - Aspectos Éticos
+
+As Tabelas 5 e 6 apresentam os resultados da verificação do artefato (Aspectos Éticos):
+
+|ID |            Questão                                     | Resposta | Comentário |
+|:-:| :----------------------------------------------------- | :------: | ---------- |
+| 1 | As legendas estão no padrão do projeto?                |  Sim        |            |
+| 2 | Possui links para os outros artefatos?                 |  Não         |  Mas não é preciso, uma vez que é apenas a apresentação do termo.          |
+| 3 | Existe uma introdução no artefato?                     |   Sim       |            |
+| 4 | Existe tabela de versionamento padronizado e completo? |   Sim       |            |
+| 5 | Há referências bibliográficas no artefato?             |   Sim       |            |
+| 6 | As tabelas e imagens possuem legenda, fonte e são introduzidas no texto? |  Sim        |            |
+
+
+Tabela 5: Verificação de padronização (Fonte: Marcus Vinicius, 05/06/2023).
+
+
+|ID |            Questão                                     | Resposta | Comentário |
+|:-:| :----------------------------------------------------- | :------: | ---------- |
+1 | Os aspectos éticos contemplam: Princípio da autonomia? | Sim |
+2 | Os aspectos éticos contemplam: Princípio da beneficência? | Sim |
+3 | Os aspectos éticos contemplam: Princípio da não maleficência? | Sim |
+4 | Os aspectos éticos contemplam: Princípio da justiça e equidade? | Sim |
+5 | Os aspectos éticos estabelecem que o consentimento para gravação será realizado antes da gravação de voz ou áudio? | Sim | O termo de consentimento e os aspectos éticos possuem na presente descrição um consentimento para gravação.
+Tabela 6: Verificação de conteúdo (Fonte: Marcus Vinicius, 05/06/2023).
+
+
+### Verificação - Análise de Tarefas: HTA
+
+
+
+
+### Verificação - Pesquisa sobre Ética
+
+
+
+
+
+### Tarefas
+
+#### Perfil do Usuário
+
+- Ajustar a padronização referente aos links.
+- Incluir imagens e graficos que referenciam o texto para complentar o perfil do usuario.
+- Atualizar o perfil do usuario com base nas respostas.
+
+#### Personas
+
+- Ajustar a padronização das fotos, pois além de estarem muito grande, em (Fonte) é mostrado um codigo e em outras o site em cima da imagem do usuario.
+- Melhorar alguns pontos descritos na tabela.
+- Realizar correção ortografica.
+- Alterar e melhorar a descrição dos usuarios baseado na aplicação do grupo.
+- Incluir mais personas.
+- Realizar a inclusão de Cenarios.
+
+#### Aspectos éticos
+
+- Não foram encontrados pontos que necessitam de ajuste neste artefato.
+
+#### Analise de Tarefas: HTA
+-
+#### Pesquisa sobre Ética
+-
+
+
 <!-- ## Referências -->
 <!-- FONTES CITADAS UTILIZADAS PARA EMBASAR O TEXTO. REMOVER CASO NÃO HOUVER  -->
 
@@ -10,12 +160,15 @@
 SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a.
 Edição, Editora Campus, 2010. Publicado em: 03/05/2021.
 
-UNIVESP. "Gerência e Qualidade de Software - Aula 05 - Verificação e Validação." 21 Jun. 2018. Disponível em: <https://youtu.be/1Y-1zz6rZxo>. Acesso em: 4 de Junho de 2023.
+FGA-IHC. "lista-de-verificacao-da-qualidade-de-artefatos" - Verificação - 20 Abril. 2023. Disponível em: <https://www.gov.br/agricultura/pt-br/acesso-a-informacao/licitacoes-e-contratos/edital/2019/pregao-eletronico-no-05-2018/diretrizes/lista-de-verificacao-da-qualidade-de-artefatos-checklist-agil.xls/view>. Acesso em: 05 de Junho de 2023.
 
-UNIVESP. "Técnica de revisão (Verificação) - Gerência e Qualidade de Software." 21 Jun. 2018. Disponível em: <https://youtu.be/nA1BVDd9GUE>. Acesso em: 4 de Junho de 2023.
+UNIVESP. "Gerência e Qualidade de Software - Aula 05 - Verificação e Validação." 21 Jun. 2018. Disponível em: <https://youtu.be/1Y-1zz6rZxo>. Acesso em: 05 de Junho de 2023.
+
+UNIVESP. "Técnica de revisão (Verificação) - Gerência e Qualidade de Software." 21 Jun. 2018. Disponível em: <https://youtu.be/nA1BVDd9GUE>. Acesso em: 05 de Junho de 2023.
 
 ## Histórico de revisão
 
 | Versão     | Data        | Descrição                                 | Autor(es)       | Revisores       |
 | :--------: | :---------: | ----------------------------------------- | --------------- | --------------- |
 | `0.0`      | 04/06/2023  | Criação do arquivo                        | Júlio César     | - |
+| `0.1`      | 05/06/2023  | Desenvolvimento do arquivo                | Marcus Vinicius | - |
