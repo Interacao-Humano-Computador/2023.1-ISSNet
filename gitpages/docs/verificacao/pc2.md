@@ -12,7 +12,7 @@ O presente artefato contém os resultados da verificação dos artefatos produzi
 
 ## Metodologia
 
-A verificação foi feita com base nos checklists definidos e nos vídeos/documentos referenciados...
+A verificação foi feita com base nos checklists definidos e nos vídeos/documentos referenciados.
 
 ## Resultados
 
