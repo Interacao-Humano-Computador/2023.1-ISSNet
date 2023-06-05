@@ -77,5 +77,6 @@ Edição, Editora Campus, 2010. Publicado em: 03/05/2021.
 | `0.2`      | 29/05/2023  | Adicionar título e correção de escrita    | Marcus Vinicius | Arthur Trindade |
 | `0.3`      | 29/05/2023  | Alteração de fonte e revisão de conteúdo  | Marcus Vinicius | Arthur Trindade |
 | `0.4`      | 29/05/2023  | Adição dos dados obtidos nas entrevistas  | Marcus Vinicius | Arthur Trindade |
-| `0.5`      | 29/05/2023  | Adição da conclusão.                      | Marcus Vinicius | Arthur Trindade |
+| `0.5`      | 29/05/2023  | Adição da conclusão                       | Marcus Vinicius | Arthur Trindade |
+| `0.6`      | 04/06/2023  | Padronização da estrutura do documento    | Arthur Trindade | Marcus Vinicius |
 

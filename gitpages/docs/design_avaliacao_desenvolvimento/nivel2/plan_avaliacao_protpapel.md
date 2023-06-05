@@ -122,3 +122,4 @@ Edição, Editora Campus, 2010. Publicado em: 03/05/2021.
 | `0.0`      | 28/05/2023  | Criação do arquivo                        | Júlio César     | - |
 | `0.1`      | 28/05/2023  | Adiciona 3 tópicos                        | Júlio César     | Arthur Trindade<br>Gabriel de Souza |
 | `0.2`      | 28/05/2023  | Adiciona 3 tópicos                        | Arthur Trindade | Júlio César<br>Gabriel de Souza |
+| `0.2`      | 04/06/2023  | Padronização do documento e ajustes       | Arthur Trindade | Julio César |

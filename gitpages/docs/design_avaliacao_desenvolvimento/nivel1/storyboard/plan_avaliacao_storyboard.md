@@ -161,4 +161,5 @@ Planejamento da Avaliação do Storyboard, Millenium Papelaria. Disponível em: 
 | `0.1`      |  22/05/2023 | Planejamento da avaliação dos storyboards  | Arthur Trindade | Miguel Moreira |
 | `0.2`      |  28/05/2023 | Adiciona storyboards desenvolvidos na sala | Júlio César<br>Arthur Trindade<br>Arthur Assumpção<br>Miguel Moreira<br>Gabriel de Souza<br>Marcus Vinicius | Miguel Moreira |
 | `0.3`      |  28/05/2023 | Padronização do documento e ajustes        | Arthur Trindade | Julio César |
+| `0.4`      |  04/06/2023 | Padronização do documento e ajustes        | Arthur Trindade | Julio César |
 

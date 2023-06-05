@@ -88,3 +88,4 @@ Edição, Editora Campus, 2010. Publicado em: 03/05/2021.
 | `0.0`      |  20/05/2023 | Criação do arquivo                               | Júlio César     | - |
 | `0.1`      |  22/05/2023 | Planejamento da avaliação da análise de tarefas  | Miguel Moreira  | Arthur Trindade |
 | `0.2`      |  28/05/2023 | Padronização do documento e ajustes              | Miguel Moreira  | Julio César |
+| `0.3`      |  04/06/2023 | Padronização do documento e ajustes              | Miguel Moreira  | Julio César |

@@ -68,4 +68,5 @@ Edição, Editora Campus, 2010. Publicado em: 03/05/2021.
 | Versão |    Data    | Descrição                      | Autor(es)        | Revisores       |
 | :----: | :--------: | ------------------------------ | ---------------- | --------------- |
 | `0.0`  | 28/05/2023 | Criação do arquivo             | Júlio César      | -               |
-| `1.0`  | 29/05/2023 | Adição do relato da entrevista | Gabriel de Souza | Arthur trindade |
+| `0.1`  | 29/05/2023 | Adição do relato da entrevista | Gabriel de Souza | Arthur trindade |
+| `0.2`  | 04/06/2023 | Padronização da estrutura do documento  | Arthur Trindade | Gabriel de Souza |

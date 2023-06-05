@@ -206,3 +206,4 @@ Roadmap, Simples Nacional. Disponível em:  <https://interacao-humano-computador
 | `0.3`      |  26/04/2023 | Ajustes com base nos fedbacks das apresentações e padronização do cronograma detalhado | Arthur Trindade | -           |
 | `0.4`      |  02/05/2023 | Ajustes de datas da etapa 2 e separação de Referências e Bibliografia | Arthur Trindade | -           |
 | `0.5`      |  22/05/2023 | Ajustes de responsáveis por tarefas na etapa 4       | Arthur Trindade                              | Gabriel de Souza |     
+| `0.6`      |  04/06/2023 | Detalhamento das entregas das etapas 5, 6 e 7        | Arthur Trindade                              | Gabriel de Souza |     
