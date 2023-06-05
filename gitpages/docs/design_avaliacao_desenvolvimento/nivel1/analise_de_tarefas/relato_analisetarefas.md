@@ -4,7 +4,7 @@
 
 A avaliação da análise de tarefas foi feita a partir de uma entrevista online na plataforma Teams, a qual foi colocado um roteiro de perguntas para o entrevistado acerca do projeto para a coleta de dados e levantamento de requisitos. Dessa forma, gerando pontos de melhoria para o sistema.
 
-## Objetivo
+## Objetivos
 
 Esse documento tem como objetivo relatar como foi realizada a análise de tarefas e esclarecer os resultados acerca do mesmo.
 
@@ -14,9 +14,10 @@ A metodologia utilizada para a avaliação foi a entrevista. A entrevista foi re
 
 Na entrevista foram apresentadas questões acerca das políticas de termos de consentimento, uma pequena introdução acerca do nosso projeto e que o entrevistado teria total liberdade de não responder caso fosse solicitado.
 
-## Participantes
+## Avaliadores e Participantes
 
-Foram feitas 2 entrevistas com dois participantes diferentes, a primeira com o aluno Gabriel Ferreira e a outra com o também aluno Cicero Fernandes. Os dois são usaurios do sistema.
+As entrevistas de avaliação das análises de tarefas e storyboards foram realizadas consecutivamente com os mesmos participantes. Gabriel de Souza e Arthur Trindade, membros do nosso projeto, atuaram como avaliadores, enquanto Cícero Fernandes e Gabriel Ferreira, usuários do sistema em análise, participaram como entrevistados.
+Para lidar com a limitação do número de entrevistados em relação à quantidade de tarefas e storyboards a serem avaliados, os dois participantes concordaram em avaliar as três análises de tarefas e seus respectivos storyboards.
 
 ## Dados Obtidos
 

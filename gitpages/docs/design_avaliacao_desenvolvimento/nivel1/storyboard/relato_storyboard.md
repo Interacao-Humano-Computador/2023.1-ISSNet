@@ -11,13 +11,14 @@ Relatar os resultados principais obtidos através da reunião marcada pelos inte
 ## Metodologia
 
 Para realizar a avaliação do storyboard foi utilizado o método de entrevistas da qual como principal entrevistado, usuários que usam o sistema da ISSNET com certa frequência, durante a entrevista, foram feitas perguntas sobre a qualidade e funções mais utilizadas. Tambem foi utilizado como base o questionario criado para os usuarios do sistema durante o desenvolvimento do projeto.
-Antes de o questionário ser aplicado, foi mostrado um termo de consentimento para o entrevistado para que tenhamos certeza da concordância de ambas às partes.
+Antes de o questionário ser aplicado, foi apresentado o termo de consentimento para o entrevistado para que tenhamos certeza da concordância de ambas às partes.
 
 ### Avaliadores e Participantes
 
-O avaliador (a) foi um dos estudantes do nosso grupo, Gabriel de Souza e como participante "Carlos", uma vez que seu nome será alterado para o cumprimento do termo de consentimento. Carlos 
+As entrevistas de avaliação das análises de tarefas e storyboards foram realizadas consecutivamente com os mesmos participantes. Gabriel de Souza e Arthur Trindade, membros do nosso projeto, atuaram como avaliadores, enquanto Cícero Fernandes e Gabriel Ferreira, usuários do sistema em análise, participaram como entrevistados.
+Para lidar com a limitação do número de entrevistados em relação à quantidade de tarefas e storyboards a serem avaliados, os dois participantes concordaram em avaliar as três análises de tarefas e seus respectivos storyboards.
 
-### Sumário dos dados
+### Dados obtidos
 
 Em sequência, serão mostradas as perguntas e as respostas obtidas após a realização da entrevista com o usuário.
 
