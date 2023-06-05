@@ -111,6 +111,7 @@ Tabela 5: Verificação de padronização (Fonte: Marcus Vinicius, 05/06/2023).
 3 | Os aspectos éticos contemplam: Princípio da não maleficência? | Sim |
 4 | Os aspectos éticos contemplam: Princípio da justiça e equidade? | Sim |
 5 | Os aspectos éticos estabelecem que o consentimento para gravação será realizado antes da gravação de voz ou áudio? | Sim | O termo de consentimento e os aspectos éticos possuem na presente descrição um consentimento para gravação.
+
 Tabela 6: Verificação de conteúdo (Fonte: Marcus Vinicius, 05/06/2023).
 
 
@@ -172,3 +173,4 @@ UNIVESP. "Técnica de revisão (Verificação) - Gerência e Qualidade de Softwa
 | :--------: | :---------: | ----------------------------------------- | --------------- | --------------- |
 | `0.0`      | 04/06/2023  | Criação do arquivo                        | Júlio César     | - |
 | `0.1`      | 05/06/2023  | Desenvolvimento do arquivo                | Marcus Vinicius | - |
+| `0.2`      | 05/06/2023  | Correção do arquivo                       | Marcus Vinicius | - |
