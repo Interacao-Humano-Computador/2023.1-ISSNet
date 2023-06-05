@@ -42,18 +42,11 @@ nav:
       - Planejamento da Avaliação do Protótipo de Papel: design_avaliacao_desenvolvimento/nivel2/plan_avaliacao_protpapel.md
       - Planejamento do Relato da Avaliação do Protótipo de Papel: design_avaliacao_desenvolvimento/nivel2/plan_relato_protpapel.md
   - Verificação:
-    - Grupo 1 (Bilheteria Digital):
-      - Ponto de Controle 1: verificacao/grupo1/pc1.md
-      - Ponto de Controle 2: verificacao/grupo1/pc2.md
-      - Ponto de Controle 3: verificacao/grupo1/pc3.md
-      - Ponto de Controle 4: verificacao/grupo1/pc4.md
-      - Ponto de Controle 5: verificacao/grupo1/pc5.md
-    - Grupo 8 (ISSNet):
-      - Ponto de Controle 1: verificacao/grupo8/pc1.md
-      - Ponto de Controle 2: verificacao/grupo8/pc2.md
-      - Ponto de Controle 3: verificacao/grupo8/pc3.md
-      - Ponto de Controle 4: verificacao/grupo8/pc4.md
-      - Ponto de Controle 5: verificacao/grupo8/pc5.md
+    - Ponto de Controle 1: verificacao/pc1.md
+    - Ponto de Controle 2: verificacao/pc2.md
+    - Ponto de Controle 3: verificacao/pc3.md
+    - Ponto de Controle 4: verificacao/pc4.md
+    - Ponto de Controle 5: verificacao/pc5.md
   - Entregas: entregas.md
 
 extra_css:
