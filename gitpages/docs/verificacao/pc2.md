@@ -12,24 +12,24 @@ O presente artefato contém os resultados da verificação dos artefatos produzi
 
 ## Metodologia
 
-A verificação foi feita com base nos checklists definidos e nos videos/documentos referenciados...
+A verificação foi feita com base nos checklists definidos e nos vídeos/documentos referenciados...
 
 ## Resultados
 
 ### Verificação - Perfil do usuário
 
-As Tabelas 1 e 2 apresentam os resultados da verificação do artefato (Perfil do Usúario)
+As Tabelas 1 e 2 apresentam os resultados da verificação do artefato (Perfil do Usuário)
 
 |ID |            Questão                                     | Resposta | Comentário |
 |:-:| :----------------------------------------------------- | :------: | ---------- |
-| 1 | As legendas estão no padrão do projeto?                |  Sim     |   Segue um padrão nas fontes utilizadas nos titulos e legendas.         |
+| 1 | As legendas estão no padrão do projeto?                |  Sim     |   Segue um padrão nas fontes utilizadas nos títulos e legendas.         |
 | 2 | Possui links para os outros artefatos?                 |  Não     |   Exitem tabelas não referenciadas com seus respectivos links.           |
 | 3 | Existe uma introdução no artefato?                     |  Sim     |            |
 | 4 | Existe tabela de versionamento padronizado e completo? |  Sim        |            |
 | 5 | Há referências bibliográficas no artefato?             |  Sim        |            |
-| 6 | As tabelas e imagens possuem legenda, fonte e são introduzidas no texto? |  Não    | As figuras não são introduzidas no texto, uma vez que o resultado obtido poderia ser mostrado com base em graficos para maior entendimento.      |
+| 6 | As tabelas e imagens possuem legenda, fonte e são introduzidas no texto? |  Não    | As figuras não são introduzidas no texto, uma vez que o resultado obtido poderia ser mostrado com base em gráficos para maior entendimento.      |
 
-Tabela 1: Verificação de padronização (Fonte: Marcus Vinicius, 05/06/2023).
+Tabela 1: Verificação de padronização (Fonte: autor, 05/06/2023).
 
 
 ID | Questão | Resposta | Comentários |
@@ -48,10 +48,10 @@ ID | Questão | Resposta | Comentários |
 12 | O perfil do usuário contém: Objetivos do usuário? | Não |
 13 | O perfil do usuário contém: Tarefas primárias? | Sim |
 14 | O perfil do usuário contém: Idiomas e jargões? | Não |
-15 | O perfil do usuário contém: Experiência (leito/novato, especialista)? | Não |
+15 | O perfil do usuário contém: experiência (leito/novato, especialista)? | Não |
 16 | Foram utilizadas no mínimo duas técnicas para colegar dados sobre os requisitos dos usuários (entrevistas, grupos de foco, questionários, brainstorming, classificação de cartões, estudos de campo ou investigação contextual)? |  Não |
 
-Tabela 2: Verificação de conteúdo (Fonte: Marcus Vinicius, 05/06/2023).
+Tabela 2: Verificação de conteúdo (Fonte: autor, 05/06/2023).
 
 
 ### Verificação - Personas
@@ -67,7 +67,7 @@ As Tabelas 3 e 4 apresentam os resultados da verificação dos artefatos (Person
 | 5 | Há referências bibliográficas no artefato?             |    Sim      |            |
 | 6 | As tabelas e imagens possuem legenda, fonte e são introduzidas no texto? |   Sim       |            |
 
-Tabela 3: Verificação de padronização (Fonte: Marcus Vinicius, 05/06/2023).
+Tabela 3: Verificação de padronização (Fonte: autor, 05/06/2023).
 
 
 ID | Questão | Resposta | Comentários |
@@ -82,10 +82,10 @@ ID | Questão | Resposta | Comentários |
 8 | As personas possuem: Relacionamentos? | Sim |
 9 | As personas possuem: Requisitos? | Sim |
 10 | As personas possuem: Expectativas? | Sim | As expectativas devem ser a respeito da aplicação proposta pelo grupo.
-11 | A quantidade de personas é justificada? | Não | Não Possuísse base/fundamento necessario para explicar a quantidade mostrada de personas no artefato.
-12 | Cenários? | Não | Não contém os cenários quando realizado a verifiação do artefato.
+11 | A quantidade de personas é justificada? | Não | Não Possuísse base/fundamento necessário para explicar a quantidade mostrada de personas no artefato.
+12 | Cenários? | Não | Não contém os cenários quando realizado a verificação do artefato.
 
-Tabela 4: Verificação de conteúdo (Fonte: Marcus Vinicius, 05/06/2023).
+Tabela 4: Verificação de conteúdo (Fonte: autor, 05/06/2023).
 
 ### Verificação - Aspectos Éticos
 
@@ -101,7 +101,7 @@ As Tabelas 5 e 6 apresentam os resultados da verificação do artefato (Aspectos
 | 6 | As tabelas e imagens possuem legenda, fonte e são introduzidas no texto? |  Sim        |            |
 
 
-Tabela 5: Verificação de padronização (Fonte: Marcus Vinicius, 05/06/2023).
+Tabela 5: Verificação de padronização (Fonte: autor, 05/06/2023).
 
 
 |ID |            Questão                                     | Resposta | Comentário |
@@ -112,7 +112,7 @@ Tabela 5: Verificação de padronização (Fonte: Marcus Vinicius, 05/06/2023).
 4 | Os aspectos éticos contemplam: Princípio da justiça e equidade? | Sim |
 5 | Os aspectos éticos estabelecem que o consentimento para gravação será realizado antes da gravação de voz ou áudio? | Sim | O termo de consentimento e os aspectos éticos possuem na presente descrição um consentimento para gravação.
 
-Tabela 6: Verificação de conteúdo (Fonte: Marcus Vinicius, 05/06/2023).
+Tabela 6: Verificação de conteúdo (Fonte: autor, 05/06/2023).
 
 
 ### Verificação - Análise de Tarefas: HTA
@@ -177,17 +177,17 @@ Tabela 9: Verificação de conteúdo (Fonte: autor, 2023).
 #### Perfil do Usuário
 
 - Ajustar a padronização referente aos links.
-- Incluir imagens e graficos que referenciam o texto para complentar o perfil do usuario.
-- Atualizar o perfil do usuario com base nas respostas.
+- Incluir imagens e gráficos que referenciam o texto para completar o perfil do usuário.
+- Atualizar o perfil do usuário com base nas respostas.
 
 #### Personas
 
-- Ajustar a padronização das fotos, pois além de estarem muito grande, em (Fonte) é mostrado um codigo e em outras o site em cima da imagem do usuario.
+- Ajustar a padronização das fotos, pois além de estarem muito grande, em (Fonte) é mostrado um código e em outras o site em cima da imagem do usuário.
 - Melhorar alguns pontos descritos na tabela.
-- Realizar correção ortografica.
-- Alterar e melhorar a descrição dos usuarios baseado na aplicação do grupo.
+- Realizar correção ortográfica.
+- Alterar e melhorar a descrição dos usuários baseado na aplicação do grupo.
 - Incluir mais personas.
-- Realizar a inclusão de Cenarios.
+- Realizar a inclusão de Cenários.
 
 #### Aspectos éticos
 
@@ -220,3 +220,4 @@ UNIVESP. "Técnica de revisão (Verificação) - Gerência e Qualidade de Softwa
 | `0.0`      | 04/06/2023  | Criação do arquivo                        | Júlio César     | - |
 | `0.1`      | 05/06/2023  | Desenvolvimento do arquivo                | Marcus Vinicius | - |
 | `0.2`      | 05/06/2023  | Correção do arquivo                       | Marcus Vinicius | - |
+| `0.3`      | 05/06/2023  | Correção ortografica do arquivo           | Marcus Vinicius | - |
