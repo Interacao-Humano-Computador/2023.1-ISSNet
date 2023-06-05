@@ -22,21 +22,21 @@ Com base nas informações coletadas por meio das entrevistas e dos questionári
 ### Participantes
 Os usuários que participarão da avaliação serão contatados por meio de mensagens via WhatsApp ou Telegram. A seleção desses usuários foi realizada com base em seu interesse e disponibilidade para participar da entrevista. 
 
-Está prevista a participação de, no mínimo, dois usuários na avaliação por meio de entrevistas. Essa quantidade foi determinada devido ao número limitado de participantes que manifestaram interesse e disponibilidade para o estudo. No entanto, para mitigar esse problema, os questionários também serão utilizados como parte do processo de coleta de dados.
+Está prevista a participação de, no mínimo, três usuários na avaliação por meio de entrevistas. Essa quantidade foi determinada devido ao número limitado de participantes que manifestaram interesse e disponibilidade para o estudo. No entanto, para mitigar esse problema, os questionários também serão utilizados como parte do processo de coleta de dados.
 
 ### Equipamentos necessários
 A avaliação por meio de entrevistas poderá ocorrer tanto de forma presencial quanto remota, levando em consideração as circunstâncias e preferências dos participantes. No caso das entrevistas presenciais, a voz dos entrevistados será gravada em dispositivo móvel em conformidade com os [termos de consentimento](../../../analise_de_requisitos/aspectos_eticos.md#termo-de-consentimento) estabelecidos para fins de avaliação. Se a entrevista for realizada de forma remota, a equipe utilizará a plataforma Teams para gravar a reunião.
 
 ### Cronograma planejado e prazos
-A expectativa é que as entrevistas para a avaliação sejam concluídas até o próximo sábado (27/05), levando em conta o tempo necessário para a preparação, agendamento e realização das entrevistas. Essas considerações práticas foram feitas para garantir a viabilidade e o bom andamento da avaliação, visando obter insights relevantes sobre a usabilidade do site IssNetDF. A seguir, apresentamos o cronograma planejado para as entrevistas:
+A expectativa é que as entrevistas para a avaliação sejam realizadas no sábado, dia 27/05, levando em conta o tempo necessário para a preparação, agendamento e realização das entrevistas. Essas considerações práticas foram feitas para garantir a viabilidade e o bom andamento da avaliação, visando obter insights relevantes sobre a usabilidade do site IssNetDF. A seguir, apresentamos o cronograma planejado para as entrevistas:
 
 <center>
 
-| Entrevista                            | Entrevistador(es)  | Período de realização    | Entrevistado |
-| ------------------------------------- | ------------------ | :----------------------: | -------------|
-| Avaliação da tarefa 1                 | Arthur Trindade    | 22/05/2023<br>27/05/2023 | -            |
-| Avaliação da tarefa 2                 | Miguel Moreira     | 22/05/2023<br>27/05/2023 | -            |
-| Avaliação da tarefa 3                 | Gabriel de Souza   | 22/05/2023<br>27/05/2023 | -            |
+| Tarefa avaliada                                                                                                                                    | Local                      | Data de realização | Horário | Entrevistador    | Entrevistado |
+| -------------------------------------------------------------------------------------------------------------------------------------------------  | -------------------------- | ------------------ | ------- | ---------------- | --- |
+| [Consulta de nota fiscal de serviço](../../../analise_de_requisitos/analise_de_tarefas.md#análise-da-tarefa-consultar-nota-eletrônica-de-serviço)  | Plataforma Microsoft Teams | 27/05/2023         | 19:00   | Arthur Trindade  | - |
+| [Emissão de nota fiscal eletrônica](../../../analise_de_requisitos/analise_de_tarefas.md#análise-da-tarefa-emitir-nota-fiscal-eletrônica)          | Plataforma Microsoft Teams | 27/05/2023         | 19:30   | Miguel Moreira   | - |
+| [Cancelamento de nota fiscal](../../../analise_de_requisitos/analise_de_tarefas.md#análise-de-tarefa-cancelar-nota-fiscal)                         | Plataforma Microsoft Teams | 27/05/2023         | 20:00   | Gabriel de Souza | - |
 
 *Tabela 1: Cronograma planejado de avaliação da análise de tarefas*
 

@@ -85,15 +85,17 @@ Está planejada a participação de pelo menos cinco usuários nas entrevistas d
 A avaliação por meio de entrevistas poderá ocorrer tanto de forma presencial quanto remota, levando em consideração as circunstâncias e preferências dos participantes. No caso das entrevistas presenciais, a voz dos entrevistados será gravada em dispositivo móvel em conformidade com os [termos de consentimento](../../analise_de_requisitos//aspectos_eticos.md#termo-de-consentimento) estabelecidos para fins de avaliação. Se a entrevista for realizada de forma remota, a equipe utilizará a plataforma Teams para gravar a reunião.
 
 ### Cronograma planejado e prazos
-A expectativa é que as entrevistas para a avaliação sejam concluídas até o próximo sábado (03/06), levando em conta o tempo necessário para a preparação, agendamento e realização das entrevistas. Essas considerações práticas foram feitas para garantir a viabilidade e o bom andamento da avaliação, visando obter insights relevantes sobre a usabilidade do site IssNetDF. A seguir, apresentamos o cronograma planejado para as entrevistas:
+A expectativa é que as entrevistas para a avaliação sejam realizadas no sábado, dia 10/06, levando em conta o tempo necessário para a preparação, agendamento e realização das entrevistas. Essas considerações práticas foram feitas para garantir a viabilidade e o bom andamento da avaliação, visando obter insights relevantes sobre a usabilidade do site IssNetDF. A seguir, apresentamos o cronograma planejado para as entrevistas:
 
 <center>
 
-| Entrevista                         | Entrevistador(es)  | Período de realização    | Entrevistado |
-| ---------------------------------- | ------------------ | :----------------------: | -------------|
-| Avaliação do protótipo da tarefa 1 | Arthur Trindade    | 29/05/2023<br>03/06/2023 | -            |
-| Avaliação do protótipo da tarefa 2 | Miguel Moreira     | 29/05/2023<br>03/06/2023 | -            |
-| Avaliação do protótipo da tarefa 3 | Gabriel de Souza   | 29/05/2023<br>03/06/2023 | -            |
+| Protótipo avaliado | Local                      | Data de realização | Horário | Entrevistador                       | Entrevistado |
+| ------------------ | -------------------------- | ------------------ | ------- | ----------------------------------- | --- |
+| Todos              | Plataforma Microsoft Teams | 10/06/2023         | 19:00   | Arthur Trindade<br>Gabriel de Souza | - |
+| Todos              | Plataforma Microsoft Teams | 10/06/2023         | 19:30   | Arthur Trindade<br>Gabriel de Souza | - |
+| Todos              | Plataforma Microsoft Teams | 10/06/2023         | 20:00   | Arthur Trindade<br>Gabriel de Souza | - |
+| Todos              | Plataforma Microsoft Teams | 10/06/2023         | 20:30   | Arthur Trindade<br>Gabriel de Souza | - |
+| Todos              | Plataforma Microsoft Teams | 10/06/2023         | 21:00   | Arthur Trindade<br>Gabriel de Souza | - |
 
 *Tabela 1: Cronograma planejado de avaliação dos protótipos de papel*
 
