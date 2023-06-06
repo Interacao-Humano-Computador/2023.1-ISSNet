@@ -9,17 +9,116 @@ A verificação de artefatos de software pode ser feita por meio da análise est
 A inspeção terá como base os requisitos definidos para a entrega no plano de ensino da disiplina, os projetos anteriores, os feedbacks do professor durante as apresentações e o exemplo disponibilizado no moodle <a href='#exemplo'>[2]</a>.
 
 ## Checklists
-As checklists abaixo verificam os seguintes artefatos da Bilheteria Digital: 
+A primeira checkçist verifica a padronização geral do documento, em seguida, apresentaremos as checklists para a verificação dos seguintes artefatos:
 
+- Planejamento da Avaliação da Análise de Tarefas
+- Planejamento do relato dos resultados da Avaliação do Análise de Tarefas
 - Planejamento da Avaliação do Storyboard
-- Planejamento da Avaliação da Análise de tarefas
 - Planejamento do relato dos resultados da Avaliação do Storyboard
-- Planejamento do relato dos resultados da Avaliação do Análise de tarefas
+
 
 ### Padronização
 
+</center>
+
+| Item | Descrição                                                                               | Avaliação                            | Descrição do problema | Sugestão de ação corretiva |
+|:----:|---------------------------------------------------------------------------------------- |:------------------------------------:|---------------------- | -------------------------- |
+| 1    | Possui o histórico de versão padronizado?                                               |<span style="color:#00E44E"></span>| |  |
+| 2    | Possui o(s) autor(es) e revisor(es) de cada artefato?                                   |<span style="color:#00E44E"></span>| |  |
+| 3    | Referências bibliográficas e/ou bibliografia são padronizadas usando as normas da ABNT? |<span style="color:#00E44E"></span>| |  |
+| 4    | Tabelas e imagens possuem legenda, fonte e são referenciadas dentro do texto?           |<span style="color:#00E44E"></span>| |  |
+| 5    | Possui texto de introdução em cada artefato?                                            |<span style="color:#00E44E"></span>| |  |
+| 6    | Possui links de referência?                                                             |<span style="color:#00E44E"></span>| |  |
+| 7    | Possui erros de pontuação ou gramática?                                                 |<span style="color:#00E44E"></span>| |  |
+
+Tabela 1: Verificações de padronização.
+
+<center>
+
 ### Conteúdo
 
+#### Planejamento da Avaliação da Análise de Tarefas
+
+</center>
+
+| Item | Descrição                                                                                  | Avaliação                            | Descrição do problema | Sugestão de ação corretiva |
+|:----:| ------------------------------------------------------------------------------------------ |:------------------------------------:|---------------------- | -------------------------- |
+| 1    | O planejamento da avaliação segue o framework DECIDE?                                      |<span style="color:#00E44E"></span>| |  |
+| 2    | O artefato apresenta o(s) objetivo(s) do planejamento?                                     |<span style="color:#00E44E"></span>| |  |
+| 3    | O artefato apresenta o(s) método(s) de avaliação a ser(em) utilizado(s)?                   |<span style="color:#00E44E"></span>| |  |
+| 4    | O artefato aborda as questões práticas do planejamento?                                    |<span style="color:#00E44E"></span>| |  |
+| 5    | Existe um roteiro de perguntas a serem realizadas nas entrevistas?                         |<span style="color:#00E44E"></span>| |  |
+| 6    | As perguntas avaliam a interação do entrevistado com as tarefas analisadas?                |<span style="color:#00E44E"></span>| |  |
+| 7    | Os entrevistadores de cada avaliação são especificados?                                    |<span style="color:#00E44E"></span>| |  |
+| 8    | O artefato aborda o número de participantes das entrevistas?                               |<span style="color:#00E44E"></span>| |  |
+| 9    | O artefato apresenta os custos envolvidos e equipamentos necessários nas entrevistas?      |<span style="color:#00E44E"></span>| |  |
+| 10   | O artefato apresenta o cronograma com data, horário e local de realização das entrevistas? |<span style="color:#00E44E"></span>| |  |
+| 11   | O artefato aborda as questões éticas do planejamento?                                      |<span style="color:#00E44E"></span>| |  |
+| 12   | O artefato apresenta o termo de consentimento livre e esclarecido?                         |<span style="color:#00E44E"></span>| |  |
+| 13   | Apresenta quais dados serão coletados e como e por que serão utilizados?                   |<span style="color:#00E44E"></span>| |  |
+| 13   | Um teste piloto foi realizado?                                                             |<span style="color:#00E44E"></span>| |  |
+
+Tabela 1: Verificações do planejamento da Avaliação da Análise de Tarefas.
+
+<center>
+
+#### Planejamento do relato dos resultados da Avaliação da Análise de Tarefas
+
+</center>
+
+| Item | Descrição                                                                                       | Avaliação                            | Descrição do problema | Sugestão de ação corretiva |
+|:----:| ----------------------------------------------------------------------------------------------- |:------------------------------------:|---------------------- | -------------------------- |
+| 1    | O artefato apresenta o(s) objetivo(s) do planejamento?                                          |<span style="color:#00E44E"></span>| |  |
+| 2    | O artefato aborda como os participantes serão selecionados?                                     |<span style="color:#00E44E"></span>| |  |
+| 3    | O artefato apresenta as etapas a serem seguidas durante a entrevista?                           |<span style="color:#00E44E"></span>| |  |
+| 4    | O artefato explicita como será feita a análise e interpretação dos dados obtidos na entrevista? |<span style="color:#00E44E"></span>| |  |
+| 5    | O artefato apresenta onde e por que esses dados serão utilizados?                               |<span style="color:#00E44E"></span>| |  |
+
+Tabela 2: Verificações do planejamento do relato dos resultados da Avaliação da Análise de Tarefas.
+
+<center>
+
+#### Planejamento da Avaliação do Storyboard
+
+</center>
+
+| Item | Descrição                                                                                  | Avaliação                            | Descrição do problema | Sugestão de ação corretiva |
+|:----:| ------------------------------------------------------------------------------------------ |:------------------------------------:|---------------------- | -------------------------- |
+| 1    | O planejamento da avaliação segue o framework DECIDE?                                      |<span style="color:#00E44E"></span>| |  |
+| 2    | O artefato apresenta o(s) objetivo(s) do planejamento?                                     |<span style="color:#00E44E"></span>| |  |
+| 3    | O artefato apresenta o(s) método(s) de avaliação a ser(em) utilizado(s)?                   |<span style="color:#00E44E"></span>| |  |
+| 4    | O artefato aborda as questões práticas do planejamento?                                    |<span style="color:#00E44E"></span>| |  |
+| 5    | Existe um roteiro de perguntas a serem realizadas nas entrevistas?                         |<span style="color:#00E44E"></span>| |  |
+| 6    | As perguntas avaliam se o storyboard corresponde à realidade do usuário?                   |<span style="color:#00E44E"></span>| |  |
+| 7    | Os entrevistadores de cada avaliação são especificados?                                    |<span style="color:#00E44E"></span>| |  |
+| 8    | O artefato aborda o número de participantes das entrevistas?                               |<span style="color:#00E44E"></span>| |  |
+| 9    | O artefato apresenta os custos envolvidos e equipamentos necessários nas entrevistas?      |<span style="color:#00E44E"></span>| |  |
+| 10   | O artefato apresenta o cronograma com data, horário e local de realização das entrevistas? |<span style="color:#00E44E"></span>| |  |
+| 11   | O artefato aborda as questões éticas do planejamento?                                      |<span style="color:#00E44E"></span>| |  |
+| 12   | O artefato apresenta o termo de consentimento livre e esclarecido?                         |<span style="color:#00E44E"></span>| |  |
+| 13   | Apresenta quais dados serão coletados e como e por que serão utilizados?                   |<span style="color:#00E44E"></span>| |  |
+| 13   | Um teste piloto foi realizado?                                                             |<span style="color:#00E44E"></span>| |  |
+| 13   | O artefato apresenta os storyboards produzidos?                                            |<span style="color:#00E44E"></span>| |  |
+
+Tabela 3: Verificações do planejamento da Avaliação do Storyboard.
+
+<center>
+
+#### Planejamento do relato dos resultados da Avaiação do Storyboard
+
+</center>
+
+| Item | Descrição                                                                                       | Avaliação                            | Descrição do problema | Sugestão de ação corretiva |
+|:----:| ----------------------------------------------------------------------------------------------- |:------------------------------------:|---------------------- | -------------------------- |
+| 1    | O artefato apresenta o(s) objetivo(s) do planejamento?                                          |<span style="color:#00E44E"></span>| |  |
+| 2    | O artefato aborda como os participantes serão selecionados?                                     |<span style="color:#00E44E"></span>| |  |
+| 3    | O artefato apresenta as etapas a serem seguidas durante a entrevista?                           |<span style="color:#00E44E"></span>| |  |
+| 4    | O artefato explicita como será feita a análise e interpretação dos dados obtidos na entrevista? |<span style="color:#00E44E"></span>| |  |
+| 5    | O artefato apresenta onde e por que esses dados serão utilizados?                               |<span style="color:#00E44E"></span>| |  |
+
+Tabela 4: Verificações do planejamento do relato dos resultados da Avaliação do Storyboard.
+
+<center>
 
 <!-- ## Referências -->
 [1]<span id='fagan'>UNIVESP. "Técnica de revisão (Verificação) - Gerência e Qualidade de Software." 21 Jun. 2018. Disponível em: <https://youtu.be/nA1BVDd9GUE>. Acesso em: 4 de Junho de 2023.</span>
@@ -45,3 +144,4 @@ Planejamento da Verificação, Lichess. Disponível em: <https://interacao-human
 | :--------: | :---------: | ----------------------------------------- | --------------- | --------------- |
 | `0.0`      | 04/06/2023  | Criação do arquivo                        | Júlio César     | - |
 | `0.1`      | 04/06/2023  | Adição da introdução e metodologia        | Arthur Trindade | Arthur D'Assumpção |
+| `0.2`      | 05/06/2023  | Adição das listas de verificação          | Arthur Trindade | Arthur D'Assumpção |
