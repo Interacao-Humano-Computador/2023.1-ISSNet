@@ -49,7 +49,7 @@ ID | Questão | Resposta | Comentários |
 13 | O perfil do usuário contém: Tarefas primárias? | Sim |
 14 | O perfil do usuário contém: Idiomas e jargões? | Não |
 15 | O perfil do usuário contém: experiência (leito/novato, especialista)? | Não |
-16 | Foram utilizadas no mínimo duas técnicas para colegar dados sobre os requisitos dos usuários (entrevistas, grupos de foco, questionários, brainstorming, classificação de cartões, estudos de campo ou investigação contextual)? |  Não |
+16 | Foram utilizadas no mínimo duas técnicas para colegar dados sobre os requisitos dos usuários (entrevistas, grupos de foco, questionários, brainstorming, classificação de cartões, estudos de campo ou investigação contextual)? |  Sim |
 
 Tabela 2: Verificação de conteúdo (Fonte: autor, 05/06/2023).
 
