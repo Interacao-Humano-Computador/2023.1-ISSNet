@@ -44,4 +44,4 @@ Planejamento da Verificação, Lichess. Disponível em: <https://interacao-human
 | Versão     | Data        | Descrição                                 | Autor(es)       | Revisores       |
 | :--------: | :---------: | ----------------------------------------- | --------------- | --------------- |
 | `0.0`      | 04/06/2023  | Criação do arquivo                        | Júlio César     | - |
-| `0.1`      | 04/06/2023  | Adição da introdução e metodologia        | Arthur Trindade | Arthur D'Assumpção |
+| `0.1`      | 04/06/2023  | Adição da introdução e metodologia        | Arthur Trindade | Miguel Moreira |
