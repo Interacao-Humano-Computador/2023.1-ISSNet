@@ -120,7 +120,7 @@ Tabela 4: Verificações do planejamento do relato dos resultados da Avaliação
 
 </center>
 
-<!-- ## Referências -->
+## Referências
 [1]<span id='fagan'>UNIVESP. "Técnica de revisão (Verificação) - Gerência e Qualidade de Software." 21 Jun. 2018. Disponível em: <https://youtu.be/nA1BVDd9GUE>. Acesso em: 4 de Junho de 2023.</span>
 
 [2]<span id='exemplo'>GOV.BR. "Lista de Verificação da Qualidade de Artefatos", 2018. Disponível em: <https://aprender3.unb.br/mod/url/view.php?id=978988>. Acesso em: 4 de Junho de 2023.</span>
