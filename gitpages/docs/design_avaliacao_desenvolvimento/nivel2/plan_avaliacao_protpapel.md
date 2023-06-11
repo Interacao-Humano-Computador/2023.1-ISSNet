@@ -15,13 +15,15 @@ A avaliação foi feita com base no framework DECIDE proposto por Sharp, Rogers 
 *Fonte: Simone, 2010, p.313*
 
 ## Objetivo
-O objetivo da avaliação é avaliar o design das funcionalidades pelo protótipo de baixa fidelidade em papel, os percursos de tarefas baseadas no documento de [análise de tarefas](../../analise_de_requisitos/analise_de_tarefas.md), a avaliação irá contribuir para identificar designs alternativos ou problemas na análise de tarefas.
+O objetivo da avaliação é avaliar as funcionalidades pelo protótipo de baixa fidelidade em papel, os percursos de tarefas baseadas no documento de [análise de tarefas](../../analise_de_requisitos/analise_de_tarefas.md), a avaliação irá contribuir para identificar designs alternativos ou problemas na análise de tarefas.
 
 
 ## Metodologia
-A metodologia escolhida pelo grupo para a avaliação foi a entrevista, pelo fato de ser o método mais relevante para este tipo de avaliação, que será feita presencialmente, antes da entrevista de fato deve ser feito a gravação de um **teste piloto**, uma simulação da entrevista com os avaliadores, com a finalidade de testar o ambiente, equipamentos e materiais a serem utilizados, para que eventuais problemas possam ser corrigidos antes da entrevista.
+A metodologia escolhida pelo grupo para a avaliação foi a entrevista, devido às restrições logísticas da equipe, que impossibilitam a realização das entrevistas pessoalmente. As entrevistas serão realizadas de forma virtual, e antes delas, será realizado um **teste piloto** para simular a entrevista com os avaliadores. Isso permite testar o ambiente, equipamentos e materiais a serem utilizados, garantindo que qualquer problema seja corrigido antecipadamente.
 
-Será apresentado para o entrevistado o [termo de consentimento](../../analise_de_requisitos/aspectos_eticos/#termo-de-consentimento), que deverá ser lido e concordado para o prosseguimento da gravação e entrevista, após isso serão apresentados os prótotipos de cada tarefa e as perguntas do roteiro.
+Durante o teste piloto, os avaliadores terão a oportunidade de verificar a adequação do ambiente virtual, testar a qualidade do áudio e vídeo, além de familiarizarem-se com o processo da entrevista. Dessa forma, eventuais problemas técnicos ou logísticos podem ser identificados e resolvidos antes das entrevistas reais.
+
+Após o teste piloto, será apresentado para o entrevistado o [termo de consentimento](../../analise_de_requisitos/aspectos_eticos/#termo-de-consentimento), que deverá ser lido e concordado para o prosseguimento da gravação e entrevista. Em seguida, serão apresentados os protótipos de cada tarefa e as perguntas do roteiro, para que o entrevistado possa interagir e fornecer feedback.
 
 ## Roteiro de Perguntas
 A cada avaliação de protótipo de papel das tarefas, as seguintes perguntas serão respondidas, são elas:
