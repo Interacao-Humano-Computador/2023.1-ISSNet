@@ -35,6 +35,37 @@ Em seguida, o entrevistador prosseguirá para a etapa de perguntas planejadas:
 
 ## Questões Práticas
 
+### Participantes
+Os [usuários que participaram da avaliação do protótipo de papel](../nivel2/plan_avaliacao_protpapel.md#participantes) serão contatados novamente por meio de mensagens via WhatsApp ou Telegram para participarem da avaliação do protótipo de alta fidelidade. Essa abordagem é adotada com o intuito de obter uma perspectiva comparativa e permitir uma análise mais aprofundada da evolução do produto.
+
+Ao contatar os mesmos usuários, é possível verificar se suas opiniões e percepções em relação ao protótipo de alta fidelidade são consistentes com as observações e feedback fornecidos durante a avaliação do protótipo de papel. Isso possibilita identificar melhorias específicas que foram implementadas e avaliar se essas mudanças atenderam às expectativas e necessidades dos usuários.
+
+Além disso, manter a continuidade com os mesmos participantes da avaliação anterior promove familiaridade e confiança, o que pode incentivar uma maior abertura na comunicação e uma discussão mais aprofundada sobre o protótipo de alta fidelidade.
+
+No entanto, é importante ressaltar que, além dos participantes anteriores, novos usuários também poderão ser incluídos na avaliação, caso sobre algum tempo, a fim de obter uma diversidade de perspectivas e opiniões sobre o protótipo.
+
+### Equipamentos necessários
+A avaliação por meio de entrevistas ocorrerá de forma remota, levando em consideração as circunstâncias e preferências dos participantes. Durante as entrevistas remotas, a equipe utilizará a plataforma Teams para conduzir as entrevistas e gravar as interações. A gravação será realizada em conformidade com os [termos de consentimento](../../analise_de_requisitos//aspectos_eticos.md#termo-de-consentimento) estabelecidos para fins de avaliação.
+
+Dessa forma, a equipe poderá revisitar as entrevistas gravadas posteriormente para análise mais aprofundada e extração de informações relevantes para o processo de avaliação e aprimoramento do protótipo de alta fidelidade.
+
+### Cronograma planejado e prazos
+A expectativa é que as entrevistas para a avaliação sejam realizadas no sábado, dia 24/06, levando em conta o tempo necessário para a preparação, agendamento e realização das entrevistas. Essas considerações práticas foram feitas para garantir a viabilidade e o bom andamento da avaliação, visando obter insights relevantes sobre a usabilidade do site IssNetDF. A seguir, apresentamos o cronograma planejado para as entrevistas:
+
+<center>
+
+| Protótipo avaliado | Local                      | Data de realização | Horário | Entrevistador                       | Entrevistado |
+| ------------------ | -------------------------- | ------------------ | ------- | ----------------------------------- | --- |
+| Todos              | Plataforma Microsoft Teams | 24/06/2023         | 19:00   | Arthur Trindade<br>Gabriel de Souza | - |
+| Todos              | Plataforma Microsoft Teams | 24/06/2023         | 19:30   | Arthur Trindade<br>Gabriel de Souza | - |
+| Todos              | Plataforma Microsoft Teams | 24/06/2023         | 20:00   | Arthur Trindade<br>Gabriel de Souza | - |
+| Todos              | Plataforma Microsoft Teams | 24/06/2023         | 20:30   | Arthur Trindade<br>Gabriel de Souza | - |
+| Todos              | Plataforma Microsoft Teams | 24/06/2023         | 21:00   | Arthur Trindade<br>Gabriel de Souza | - |
+
+*Tabela 1: Cronograma planejado de avaliação dos protótipos de alta fidelidade*
+
+</center>
+
 ## Questões Éticas
 Assim como nas avaliações anteriores, para realizar a entrevista, é necessário que o entrevistador informe ao entrevistado o [termo de consentimento](../../analise_de_requisitos/aspectos_eticos.md#termo-de-consentimento) e obtenha sua concordância com os termos estabelecidos.
 
@@ -54,3 +85,4 @@ Edição, Editora Campus, 2010. Publicado em: 03/05/2021.
 | :--------: | :---------: | ----------------------------------------- | --------------- | --------------- |
 | `0.0`      | 11/06/2023  | Criação do arquivo                        | Júlio César     | - |
 | `0.1`      | 11/06/2023  | Adição da introdução, objetivo, git admetodologia e questões éticas | Arthur Trindade | Julio César |
+| `0.2`      | 11/06/2023  | Adição das questões práticas, roteiro de perguntas e interpretação dos dados | Miguel Moreira | Marcus Vinicius |
