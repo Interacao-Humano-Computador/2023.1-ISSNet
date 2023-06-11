@@ -53,4 +53,4 @@ Edição, Editora Campus, 2010. Publicado em: 03/05/2021.
 | Versão     | Data        | Descrição                                 | Autor(es)       | Revisores       |
 | :--------: | :---------: | ----------------------------------------- | --------------- | --------------- |
 | `0.0`      | 11/06/2023  | Criação do arquivo                        | Júlio César     | - |
-| `0.1`      | 11/06/2023  | Adição da introdução, objetivo, metodologia e questões éticas | Arthur Trindade | Julio César |
+| `0.1`      | 11/06/2023  | Adição da introdução, objetivo, git admetodologia e questões éticas | Arthur Trindade | Julio César |
