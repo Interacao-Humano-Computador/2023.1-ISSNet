@@ -18,6 +18,8 @@
 ## Entrega da etapa 5
 [Link da gravação da reunião da entrega da etapa 5, 29/05/2023](https://youtu.be/yHoP6SYKnKo)
 
+## Entrega da etapa 7
+[Link da gravação da reunião da entrega da etapa 7, 12/06/2023](https://youtu.be/qvAojp-cFuI)
 ## Histórico de revisão
 | Versão     | Data        | Descrição            | Autor(es)                          | Revisores  |
 | :--------: | :---------: | -------------------- | ---------------------------------- | ---------- |
