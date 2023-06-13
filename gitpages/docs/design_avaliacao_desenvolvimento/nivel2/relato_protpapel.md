@@ -32,3 +32,4 @@ Edição, Editora Campus, 2010. Publicado em: 03/05/2021.
 | Versão     | Data        | Descrição                                 | Autor(es)       | Revisores       |
 | :--------: | :---------: | ----------------------------------------- | --------------- | --------------- |
 | `0.0`      | 11/06/2023  | Criação do arquivo                        | Júlio César     | - |
+| `0.1`      | 12/06/2023  | Criação da orientação                        | Arthur D'Assumpção     | - |
