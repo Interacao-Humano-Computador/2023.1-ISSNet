@@ -33,6 +33,76 @@ Após a observação da interação do usuário com o protótipo apresentado e a
 
 Em seguida, o entrevistador prosseguirá para a etapa de perguntas planejadas:
 
+<ol>
+  <li>
+    <p>O protótipo de alta fidelidade apresenta uma interface visualmente atraente e profissional?</p>
+    <ul>
+      <li><input type="checkbox" id="opcao1" name="opcao1" value="Sim"><label for="opcao1">Sim</label></li>
+      <li><input type="checkbox" id="opcao2" name="opcao2" value="Não"><label for="opcao2">Não</label></li>
+      <li><input type="checkbox" id="opcao3" name="opcao3" value="Não tenho certeza"><label for="opcao3">Não tenho certeza</label></li>
+    </ul>
+  </li>
+  <li>
+    <p>Avalie de 1 a 5 a clareza e organização da disposição dos elementos na interface do protótipo de alta fidelidade.</p>
+    <ul>
+      <li><input type="checkbox" id="opcao4" name="opcao4" value="1"><label for="opcao4">1: Muito confuso</label></li>
+      <li><input type="checkbox" id="opcao5" name="opcao5" value="2"><label for="opcao5">2: Confuso</label></li>
+      <li><input type="checkbox" id="opcao6" name="opcao6" value="3"><label for="opcao6">3: Moderado</label></li>
+      <li><input type="checkbox" id="opcao7" name="opcao7" value="4"><label for="opcao7">4: Organizado</label></li>
+      <li><input type="checkbox" id="opcao8" name="opcao8" value="5"><label for="opcao8">5: Muito organizado</label></li>
+    </ul>
+  </li>
+  <li>
+    <p>As interações e animações no protótipo de alta fidelidade são intuitivas e fornecem feedback suficiente ao usuário?</p>
+    <ul>
+      <li><input type="checkbox" id="opcao9" name="opcao9" value="Sim"><label for="opcao9">Sim</label></li>
+      <li><input type="checkbox" id="opcao10" name="opcao10" value="Não"><label for="opcao10">Não</label></li>
+      <li><input type="checkbox" id="opcao11" name="opcao11" value="Não tenho certeza"><label for="opcao11">Não tenho certeza</label></li>
+    </ul>
+  </li>
+  <li>
+    <p>Avalie de 1 a 5 a facilidade de navegação entre as diferentes telas do protótipo de alta fidelidade.</p>
+    <ul>
+      <li><input type="checkbox" id="opcao12" name="opcao12" value="1"><label for="opcao12">1: Muito difícil</label></li>
+      <li><input type="checkbox" id="opcao13" name="opcao13" value="2"><label for="opcao13">2: Difícil</label></li>
+      <li><input type="checkbox" id="opcao14" name="opcao14" value="3"><label for="opcao14">3: Moderado</label></li>
+      <li><input type="checkbox" id="opcao15" name="opcao15" value="4"><label for="opcao15">4: Fácil</label></li>
+      <li><input type="checkbox" id="opcao16" name="opcao16" value="5"><label for="opcao16">5: Muito fácil</label></li>
+    </ul>
+  </li>
+  <li>
+    <p>O protótipo de alta fidelidade apresenta os elementos visuais de acordo com a identidade visual e diretrizes de design estabelecidas?</p>
+    <ul>
+      <li><input type="checkbox" id="opcao17" name="opcao17" value="Sim"><label for="opcao17">Sim</label></li>
+      <li><input type="checkbox" id="opcao18" name="opcao18" value="Não"><label for="opcao18">Não</label></li>
+      <li><input type="checkbox" id="opcao19" name="opcao19" value="Não tenho certeza"><label for="opcao19">Não tenho certeza</label></li>
+    </ul>
+  </li>
+  <li>
+    <p>Existe alguma funcionalidade ou interação que você esperaria encontrar no protótipo de alta fidelidade e que não foi apresentada? Se sim, qual(is)?</p>
+    <ul>
+      <li><input type="checkbox" id="opcao20" name="opcao20" value="Sim"><label for="opcao20">Sim (aberta)</label></li>
+      <li><input type="checkbox" id="opcao21" name="opcao21" value="Não"><label for="opcao21">Não</label></li>
+    </ul>
+  </li>
+  <li>
+    <p>Você concorda com a disposição e organização dos elementos na interface do protótipo de alta fidelidade? Se não, como teria feito?</p>
+    <ul>
+      <li><input type="checkbox" id="opcao22" name="opcao22" value="Sim"><label for="opcao22">Sim</label></li>
+      <li><input type="checkbox" id="opcao23" name="opcao23" value="Não"><label for="opcao23">Não (aberta)</label></li>
+      <li><input type="checkbox" id="opcao24" name="opcao24" value="Não tenho certeza"><label for="opcao24">Não tenho certeza</label></li>
+    </ul>
+  </li>
+  <li>
+    <p>Você possui sugestões de melhorias para o design do protótipo de alta fidelidade? Se sim, quais seriam?</p>
+    <ul>
+      <li><input type="checkbox" id="opcao25" name="opcao25" value="Sim"><label for="opcao25">Sim (aberta)</label></li>
+      <li><input type="checkbox" id="opcao26" name="opcao26" value="Não"><label for="opcao26">Não</label></li>
+    </ul>
+  </li>
+</ol>
+
+
 ## Questões Práticas
 
 ### Participantes
