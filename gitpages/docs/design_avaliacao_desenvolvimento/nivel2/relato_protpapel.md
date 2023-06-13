@@ -14,10 +14,30 @@ A metodologia utilizada para a avaliação foi a entrevista. A entrevista foi re
 
 Na entrevista foram apresentadas questões acerca das políticas de termos de consentimento, uma pequena introdução acerca do nosso projeto e que o entrevistado teria total liberdade de não responder caso fosse solicitado.
 
+
+## Protótipos Analisados
+
+<div style="text-align: center">
+<h3>
+Protótipo de Papel Tarefa Consultar Nota
+</h3>
+</div>
+<iframe src="https://interacao-humano-computador.github.io/2023.1-ISSNet/design_avaliacao_desenvolvimento/nivel2/doc/prot_papel_consultar.pdf" width="100%" height="500px"></iframe>
+
+<div style="text-align: center">
+<h3>
+Protótipo de Papel Tarefa Cancelar Nota
+</h3>
+</div>
+<iframe src="https://interacao-humano-computador.github.io/2023.1-ISSNet/design_avaliacao_desenvolvimento/nivel2/doc/prot_papel_cancelar.pdf" width="100%" height="500px"></iframe>
+
 ## Avaliadores e Participantes 
 
 Gabriel de Souza, Arthur Trindade, Arthur D'Assumpção e Miguel Moreira membros do nosso projeto, atuaram como avaliadores, enquanto George Tom, usuário do sistema em análise, participou como entrevistado.
 
+### Entrevista
+
+<iframe width="1903" height="792" src="https://www.youtube.com/embed/Dk1N0C_as2s" title="IHC - Entrevista Protótipo de Papel ISSNet Grupo 8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Resultado da entrevista
 De acordo com os dados coletados com o entrevistado, foram sugeridos alguma melhorias nos prototipos:

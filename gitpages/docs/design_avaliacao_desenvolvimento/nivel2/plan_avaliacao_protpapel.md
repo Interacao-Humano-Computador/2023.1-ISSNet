@@ -36,11 +36,11 @@ A cada avaliação de protótipo de papel das tarefas, as seguintes perguntas se
     </ul>
   <li>Avalie de 1 a 5 a facilidade no entendimento do fluxo de trabalho apresentado no protótipo de papel.</li>
     <ul>
-      <li> 1: Muito difícil</li>
-      <li> 2: Difícil</li>
-      <li> 3: Moderado</li>
-      <li> 4: Fácil</li>
-      <li> 5: Muito Fácil</li>
+      <li>Muito difícil (1)</li>
+      <li>Difícil (2)</li>
+      <li>Moderado (3)</li>
+      <li>Fácil (4)</li>
+      <li>Muito Fácil (5)</li>
     </ul>
   <li>O protótipo de papel fornece orientações ou dicas sobre como preencher os campos obrigatórios e opcionais?</li>
     <ul>
@@ -50,11 +50,11 @@ A cada avaliação de protótipo de papel das tarefas, as seguintes perguntas se
     </ul>
   <li>Avalie de 1 a 5 se as informações solicitadas no protótipo de papel são relevantes e abrangentes o suficiente para as tarefas realizadas.</li>
     <ul>
-      <li> 1: Muito irrelevante</li>
-      <li> 2: Irrelevante</li>
-      <li> 3: Moderado</li>
-      <li> 4: Relevante</li>
-      <li> 5: Muito Relevante</li>
+      <li>Muito irrelevante (1)</li>
+      <li>Irrelevante (2)</li>
+      <li>Moderado (3)</li>
+      <li>Relevante (4)</li>
+      <li>Muito Relevante (5)</li>
     </ul>
   <li>Existe alguma etapa ou funcionalidade adicional que você esperaria encontrar no percurso da tarefa e que não foi apresentada no protótipo de papel? Se sim, qual(is)?</li>
   <ul>
