@@ -19,6 +19,12 @@ Na entrevista foram apresentadas questões acerca das políticas de termos de co
 Gabriel de Souza, Arthur Trindade, Arthur D'Assumpção e Miguel Moreira membros do nosso projeto, atuaram como avaliadores, enquanto George Tom, usuário do sistema em análise, participou como entrevistado.
 
 
+### Resultado da entrevista
+De acordo com os dados coletados com o entrevistado, foram sugeridos alguma melhorias nos prototipos:
+- Na tarefa de cancelar nota fiscal, seria interessante adicionar um botão em algumas das ações
+- explicar melhor alguns cards, como por exemplo o de emitir nota fiscal.
+- aprovou a sugestão de ter uma modal ou um card, com as atividades mais utilizadas do site.
+
 <!-- ## Referências -->
 <!-- FONTES CITADAS UTILIZADAS PARA EMBASAR O TEXTO. REMOVER CASO NÃO HOUVER  -->
 
