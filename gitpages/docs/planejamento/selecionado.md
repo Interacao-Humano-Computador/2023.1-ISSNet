@@ -28,7 +28,7 @@ O site da ISSNet apresenta algumas dificuldades em termos de usabilidade e acess
 <br>
 <br>
 
-Observando as figuras 1, é possível identificar os problemas mencionados anteriormente.
+Observando a tela inicial do site, figura 1, é possível identificar os problemas mencionados anteriormente.
 
 ### Usuários
 
