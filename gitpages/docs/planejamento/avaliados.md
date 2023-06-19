@@ -11,7 +11,16 @@ Para selecionar o site a ser avaliado, cada membro da equipe escolheu individual
 - O site possui uma base de usuários ativa e acessível.
 
 ### Moovit
-    - Não tão atrativo
+O Moovit é uma plataforma de transporte público muito útil e popular que ajuda milhões de
+pessoas em todo o mundo a planejar suas viagens usando transporte público. No entanto,
+como muitos outros sites, o Moovit pode apresentar desafios de acessibilidade para alguns
+usuários, incluindo pessoas com deficiências visuais ou motoras. Por isso, escolhi o Moovit
+para refazer sua interface com o objetivo de tornar o site mais fácil de usar e acessível para
+todos
+O Moovit, apesar de ser um bom candidato ao projeto da equipe, não foi abraçado por todos do grupo.
+Abaixo encontra-se a avalição individual do site e seu planejamento:
+- [Planejamento da Avaliação Individual - SIGAA](./doc/Planejamento%20da%20avalia%C3%A7%C3%A3o%20Moovit.pdf)
+- [Execução da Avaliação Individual - SIGAA](./doc/Execu%C3%A7%C3%A3o%20da%20avalia%C3%A7%C3%A3o%20Moovit.pdf)
 ### Buser
     - Poucas melhorias
 ### ISSNet
@@ -23,7 +32,7 @@ Para selecionar o site a ser avaliado, cada membro da equipe escolheu individual
 ### SIGAA
 O SIGAA (Sistema Integrado de Gestão de Atividades Acadêmicas) é uma plataforma online utilizada pela Universidade de Brasília para gerenciar diversas atividades acadêmicas. Essas atividades incluem comunicação entre estudantes e professores por meio de uma caixa de mensagens, emissão de documentos oficiais, matrícula e retirada de disciplinas pelos estudantes.
 A avaliação do site foi realizada com base nas 10 heurísticas propostas por Nielsen e permitiu a identificação de diversos problemas, tanto com realação à compatibilidade do sistema com o mundo real e a sua usabilidade quanto em relação ao design.
-O SIGAA, apesar de ser um bom candidato ao projeto da equipe, não pôde ser escolhido pois já foi avaliado anteriormente em um projeto da disiplina.
+O SIGAA, apesar de ser um bom candidato ao projeto da equipe, não pôde ser escolhido pois já foi avaliado anteriormente em um projeto da disciplina.
 Abaixo encontra-se a avalição individual do site e seu planejamento:
 
 - [Planejamento da Avaliação Individual - SIGAA](./doc/Planejamento%20da%20avalia%C3%A7%C3%A3o%20SIGAA.pdf)
