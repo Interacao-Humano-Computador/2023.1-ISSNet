@@ -56,7 +56,7 @@ Assim, considerando essas circunstâncias, seguimos em frente com a avaliação 
 
 | Versão     | Data       | Descrição             | Autor(es)       | Revisores        |
 | :--------: | :--------: | --------------------- | --------------- | ---------------- |
-| `0.0`      | 22/04/2023 | Criação do arquivo    | Arthur Trindade | Miguel Moreira   |
+| `0.0`      | 22/04/2023 | Criação do arquivo    | Arthur Trindade | - |
 | `0.1`      | 24/04/2023 | Adição dos sites      | Miguel Moreira  | Arthur Trindade  |
 | `0.2`      | 07/05/2023 | Mudança de site       | Miguel Moreira  | Arthur Trindade  |
 | `0.3`      | 19/06/2023 | Correções de feedback | Miguel Moreira  | Arthur Trindade  |
