@@ -1,58 +1,26 @@
 # Planejamento da Avaliação de Storyboard
 
 ## Introdução
-Este artefato apresenta os principais elementos do planejamento da avaliação dos storyboards ulitizados para a vizualização das tarefas apresentadas na [análise de tarefas](../../analise_de_requisitos/analise_de_tarefas.md) do sistema. Para garantir uma avaliação adequada, o planejamento se apoia nas atividades propostas pelo framework DECIDE:
-<ul>
-    <li><strong>D</strong>: Determinar os objetivos da avaliação;
-    <li><strong>E</strong>: Explorar perguntas a serem respondidas com a avaliação
-    <li><strong>C</strong>: Escolher os métodos de avaliação a serem utilizados
-    <li><strong>I</strong>: Identificar e administrar as questões práticas da avaliação
-    <li><strong>D</strong>: Decidir como lidar com as questões éticas
-    <li><strong>E</strong>: Validar, interpretar e apresentar os dados
-</ul>
+Este artefato descreve os principais elementos do planejamento da avaliação dos storyboards utilizados para visualização das tarefas apresentadas na [análise de tarefas](../../analise_de_requisitos/analise_de_tarefas.md) do sistema. 
+
+Para garantir uma avaliação adequada, o planejamento se baseia nas atividades propostas pelo framework DECIDE:
+
+- **Determinar** os objetivos da avaliação, estabelecendo claramente o que se pretende alcançar com o processo de avaliação.
+- **Explorar** as perguntas que devem ser respondidas por meio da avaliação, identificando as informações específicas necessárias para a tomada de decisão.
+- **Escolher** os métodos de avaliação mais apropriados para coletar os dados necessários, considerando aspectos como o perfil dos participantes e a natureza das tarefas a serem avaliadas.
+- **Identificar** e gerenciar as questões práticas relacionadas à avaliação, como a disponibilidade de recursos, o agendamento das sessões de avaliação e a logística envolvida.
+- **Decidir** como lidar com as questões éticas, garantindo a privacidade dos participantes, obtendo o consentimento informado e seguindo os princípios éticos relevantes.
+- **Validar**, interpretar e apresentar os resultados da avaliação, verificando a consistência e a confiabilidade das informações coletadas e comunicando os resultados de forma clara e precisa.
+
+Esse planejamento abrangente permite uma avaliação eficaz dos storyboards, possibilitando a obtenção de insights valiosos para o desenvolvimento do sistema.
+
 
 ## Objetivo
 Os principais objetivos da avaliação dos storyboards é avaliar se as tarefas representadas condizem com a realidade do usuário e coletar feedback dos usuários a respeito das tarefas. Esse planejamento é importante pois permite identificar problemas precocemente e coletar dados para futuras tomada de decisões.
 
-## Metodologia
-A avaliação do planejamento dos storyboards será conduzida por meio de entrevistas, que podem ocorrer presencialmente ou de forma online utilizando a plataforma Teams, e questionários online, para atingir um maior número de usuários. 
-
-Levando em consideração as questões éticas, no início da entrevista será apresentado o [termo de consentimento](../../../analise_de_requisitos/aspectos_eticos.md#termo-de-consentimento) ao entrevistado, permitindo que ele decida se deseja ou não participar. Caso o entrevistado concorde, o entrevistador seguirá o [roteiro](#roteiro-de-perguntas) estabelecido neste artefato para realizar as perguntas. Para o caso do questionário, o termo será apresentado antes das perguntas, caso o participante concorde com os termos, ele poderá prosseguir para as perguntas. 
-
-A partir dos dados obtidos durante a entrevista e a partir do questionário, a equipe poderá analisar os pontos fortes e áreas de melhoria do site, possibilitando uma refatoração eficiente e alinhada aos requisitos dos usuários.
-
-## Questões Práticas
-
-### Participantes
-Os usuários que participarão da avaliação serão contatados por meio de mensagens via WhatsApp ou Telegram. A seleção desses usuários foi realizada com base em seu interesse e disponibilidade para participar da entrevista. 
-
-Está prevista a participação de, no mínimo, três usuários na avaliação por meio de entrevistas. Essa quantidade foi determinada devido ao número limitado de participantes que manifestaram interesse e disponibilidade para o estudo. No entanto, para mitigar esse problema, os questionários também serão utilizados como parte do processo de coleta de dados.
-
-### Equipamentos necessários
-A avaliação por meio de entrevistas poderá ocorrer tanto de forma presencial quanto remota, levando em consideração as circunstâncias e preferências dos participantes. No caso das entrevistas presenciais, a voz dos entrevistados será gravada em dispositivo móvel em conformidade com os [termos de consentimento](../../../analise_de_requisitos/aspectos_eticos.md#termo-de-consentimento) estabelecidos para fins de avaliação. Se a entrevista for realizada de forma remota, a equipe utilizará a plataforma Teams para gravar a reunião.
-
-### Cronograma planejado e prazos
-A expectativa é que as entrevistas para a avaliação sejam realizadas no sábado, dia 27/05, levando em conta o tempo necessário para a preparação, agendamento e realização das entrevistas. Essas considerações práticas foram feitas para garantir a viabilidade e o bom andamento da avaliação, visando obter insights relevantes sobre a usabilidade do site IssNetDF. A seguir, apresentamos o cronograma planejado para as entrevistas:
-
-<center>
-
-| Storyboard avaliado                                                                                                  | Local                      | Data de realização | Horário | Entrevistador    | Entrevistado |
-| -------------------------------------------------------------------------------------------------------------------- | -------------------------- | ------------------ | ------- | ---------------- | --- |
-| [Consulta de nota fiscal de serviço](../../nivel1/storyboard/plan_avaliacao_storyboard.md#storyboards-desenvolvidos) | Plataforma Microsoft Teams | 27/05/2023         | 19:00   | Arthur Trindade  | - |
-| [Emissão de nota fiscal eletrônica](../../nivel1/storyboard/plan_avaliacao_storyboard.md#storyboards-desenvolvidos)  | Plataforma Microsoft Teams | 27/05/2023         | 19:30   | Miguel Moreira   | - |
-| [Cancelamento de nota fiscal](../../nivel1/storyboard/plan_avaliacao_storyboard.md#storyboards-desenvolvidos)        | Plataforma Microsoft Teams | 27/05/2023         | 20:00   | Gabriel de Souza | - |
-
-*Tabela 1: Cronograma planejado de avaliação dos storyboards*
-
-</center>
-
-## Questões Éticas
-Para realizar a entrevista, é necessário que o entrevistador informe ao entrevistado o [termo de consentimento](../../../analise_de_requisitos/aspectos_eticos.md#termo-de-consentimento) e obtenha sua concordância com os termos estabelecidos. É fundamental ressaltar que a equipe valoriza e assegura a máxima proteção, respeito e confidencialidade dos dados coletados dos entrevistados.
-
 ## Roteiro de Perguntas
 A seguir, apresentamos o roteiro de perguntas que será utilizado durante a avaliação, que deve ser executado para cada um dos storyboards desenvolvidos.
 
-#### Perguntas
 <ol>
     <li> As tarefas representadas no storyboard são condizentes com a realidade?
         <ul>
@@ -90,6 +58,54 @@ A seguir, apresentamos o roteiro de perguntas que será utilizado durante a aval
         </ul>
     </li>
 </ol>
+
+## Metodologia
+A avaliação do planejamento dos storyboards será conduzida por meio de entrevistas, que podem ocorrer presencialmente ou de forma online utilizando a plataforma Teams, e questionários online, para atingir um maior número de usuários. 
+
+Levando em consideração as questões éticas, no início da entrevista será apresentado o [termo de consentimento](../../../analise_de_requisitos/aspectos_eticos.md#termo-de-consentimento) ao entrevistado, permitindo que ele decida se deseja ou não participar. Caso o entrevistado concorde, o entrevistador seguirá o [roteiro](#roteiro-de-perguntas) estabelecido neste artefato para realizar as perguntas. Para o caso do questionário, o termo será apresentado antes das perguntas, caso o participante concorde com os termos, ele poderá prosseguir para as perguntas. 
+
+A partir dos dados obtidos durante a entrevista e a partir do questionário, a equipe poderá analisar os pontos fortes e áreas de melhoria do site, possibilitando uma refatoração eficiente e alinhada aos requisitos dos usuários.
+
+## Questões Práticas
+
+### Participantes
+Os usuários que participarão da avaliação serão contatados por meio de mensagens via WhatsApp ou Telegram. A seleção desses usuários foi realizada com base em seu interesse e disponibilidade para participar da entrevista. 
+
+Está prevista a participação de, no mínimo, três usuários na avaliação por meio de entrevistas. Essa quantidade foi determinada devido ao número limitado de participantes que manifestaram interesse e disponibilidade para o estudo. No entanto, para mitigar esse problema, os questionários também serão utilizados como parte do processo de coleta de dados.
+
+### Equipamentos necessários
+A avaliação por meio de entrevistas poderá ocorrer tanto de forma presencial quanto remota, levando em consideração as circunstâncias e preferências dos participantes. No caso das entrevistas presenciais, a voz dos entrevistados será gravada em dispositivo móvel em conformidade com os [termos de consentimento](../../../analise_de_requisitos/aspectos_eticos.md#termo-de-consentimento) estabelecidos para fins de avaliação. Se a entrevista for realizada de forma remota, a equipe utilizará a plataforma Teams para gravar a reunião.
+
+### Teste Piloto
+Antes de iniciar as entrevistas, é recomendado que os entrevistadores realizem um teste piloto para avaliar a viabilidade do processo e identificar possíveis problemas, falhas ou limitações. Durante o teste piloto, os seguintes aspectos devem ser verificados:
+
+- **Conexão com a internet**: É importante garantir uma conexão estável e confiável para facilitar a comunicação durante as entrevistas.
+- **Áudio do microfone**: Verificar se o áudio do microfone está funcionando corretamente para garantir uma comunicação clara e sem problemas.
+- **Compartilhamento de tela**: Testar a capacidade de compartilhar a tela, caso seja necessário apresentar algo durante as entrevistas.
+- **Ferramenta de gravação de vídeo**: Verificar se a ferramenta de gravação de vídeo está configurada e funcionando adequadamente, caso seja necessário gravar as entrevistas para referência futura.
+- **Editor de texto ou papel para anotar resultados**: Assegurar que haja uma forma adequada de registrar os resultados das entrevistas, seja por meio de um editor de texto digital ou por anotações em papel.
+
+Realizar um teste piloto abrangente antes das entrevistas proporcionará maior confiança no processo, permitindo ajustes necessários e garantindo que as entrevistas sejam conduzidas de forma eficiente.
+
+### Cronograma planejado e prazos
+A expectativa é que as entrevistas para a avaliação sejam realizadas no sábado, dia 27/05, levando em conta o tempo necessário para a preparação, agendamento e realização das entrevistas. Essas considerações práticas foram feitas para garantir a viabilidade e o bom andamento da avaliação, visando obter insights relevantes sobre a usabilidade do site IssNetDF. A seguir, apresentamos o cronograma planejado para as entrevistas:
+
+<center>
+
+| Storyboard avaliado                                                                                                  | Local                      | Data de realização | Horário | Entrevistador    | Entrevistado |
+| -------------------------------------------------------------------------------------------------------------------- | -------------------------- | ------------------ | ------- | ---------------- | --- |
+| Teste Piloto                                                                                                         | Plataforma Microsoft Teams | 27/05/2023         | 18:45   | Arthur Trindade<br>Gabriel de Souza  | - |
+| [Consulta de nota fiscal de serviço](../../nivel1/storyboard/plan_avaliacao_storyboard.md#storyboards-desenvolvidos) | Plataforma Microsoft Teams | 27/05/2023         | 19:00   | Arthur Trindade  | - |
+| [Emissão de nota fiscal eletrônica](../../nivel1/storyboard/plan_avaliacao_storyboard.md#storyboards-desenvolvidos)  | Plataforma Microsoft Teams | 27/05/2023         | 19:30   | Miguel Moreira   | - |
+| [Cancelamento de nota fiscal](../../nivel1/storyboard/plan_avaliacao_storyboard.md#storyboards-desenvolvidos)        | Plataforma Microsoft Teams | 27/05/2023         | 20:00   | Gabriel de Souza | - |
+
+*Tabela 1: Cronograma planejado de avaliação dos storyboards*
+
+</center>
+
+## Questões Éticas
+Para realizar a entrevista, é necessário que o entrevistador informe ao entrevistado o [termo de consentimento](../../../analise_de_requisitos/aspectos_eticos.md#termo-de-consentimento) e obtenha sua concordância com os termos estabelecidos. É fundamental ressaltar que a equipe valoriza e assegura a máxima proteção, respeito e confidencialidade dos dados coletados dos entrevistados.
+
 
 ## Interpretação e apresentação dos dados
 A interpretação dos dados será realizada após as entrevistas, e os dados obtidos serão apresentados de acordo com o [planejamento do relato dos reultados](relato_storyboard.md).

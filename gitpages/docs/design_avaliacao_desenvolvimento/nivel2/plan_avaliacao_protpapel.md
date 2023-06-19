@@ -7,23 +7,13 @@ A avaliação foi feita com base no framework DECIDE proposto por Sharp, Rogers 
 
 - **Determinar** os objetivos da avaliação de IHC, identificar por que e para quem os objetivos são importantes.
 - **Explorar** as perguntas a serem respondidas com a avaliação, devem considerar o perfil dos usuários e suas atividades.
-- **Escolher (Choose)** os métodos de avaliação a serem utilizados, considerando objetivos esperados, prazo, orçamento, equipamento, grau de conhecimento e experiência dos avaliadores.
+- **Escolher** os métodos de avaliação a serem utilizados, considerando objetivos esperados, prazo, orçamento, equipamento, grau de conhecimento e experiência dos avaliadores.
 - **Identificar** e administrar questões práticas da avaliação, recrutamento dos usuários, preparação e uso de equipamentos, prazos, orçamentos e mão de obra para conduzir a avaliação.
 - **Decidir** como lidar com questões éticas, os participantes devem ser respeitados e não podem ser prejudicados diretamente ou indiretamente, nem durante, nem após o relato da avaliação.
-- **Avaliar (Evaluate)**, interpretar e apresentar os resultados, considerando grau de confiabilidade dos dados, validade interna, validade externa e validade ecológica.
-
-*Fonte: Simone, 2010, p.313*
+- **Avaliar**, interpretar e apresentar os resultados, considerando grau de confiabilidade dos dados, validade interna, validade externa e validade ecológica.
 
 ## Objetivo
 O objetivo da avaliação é avaliar as funcionalidades pelo protótipo de baixa fidelidade em papel, os percursos de tarefas baseadas no documento de [análise de tarefas](../../analise_de_requisitos/analise_de_tarefas.md), a avaliação irá contribuir para identificar designs alternativos ou problemas na análise de tarefas.
-
-
-## Metodologia
-A metodologia escolhida pelo grupo para a avaliação foi a entrevista, devido às restrições logísticas da equipe, que impossibilitam a realização das entrevistas pessoalmente. As entrevistas serão realizadas de forma virtual, e antes delas, será realizado um **teste piloto** para simular a entrevista com os avaliadores. Isso permite testar o ambiente, equipamentos e materiais a serem utilizados, garantindo que qualquer problema seja corrigido antecipadamente.
-
-Durante o teste piloto, os avaliadores terão a oportunidade de verificar a adequação do ambiente virtual, testar a qualidade do áudio e vídeo, além de familiarizarem-se com o processo da entrevista. Dessa forma, eventuais problemas técnicos ou logísticos podem ser identificados e resolvidos antes das entrevistas reais.
-
-Após o teste piloto, será apresentado para o entrevistado o [termo de consentimento](../../analise_de_requisitos/aspectos_eticos/#termo-de-consentimento), que deverá ser lido e concordado para o prosseguimento da gravação e entrevista. Em seguida, serão apresentados os protótipos de cada tarefa e as perguntas do roteiro, para que o entrevistado possa interagir e fornecer feedback.
 
 ## Roteiro de Perguntas
 A cada avaliação de protótipo de papel das tarefas, as seguintes perguntas serão respondidas, são elas:
@@ -76,6 +66,15 @@ A cada avaliação de protótipo de papel das tarefas, as seguintes perguntas se
 
 Ao responder a pergunta 7 e a resposta for sim, o entrevistado irá falar como queria que tivesse sido feito, o avaliador poderá desenhar em folha branca o que entendeu, caso ainda não satisfaça o entrevistado, o avaliador poderá pedir de forma respeitosa para que ele mostre desenhando um esboço em papel.
 
+## Metodologia
+A metodologia escolhida pelo grupo para a avaliação foi a entrevista, devido às restrições logísticas da equipe, que impossibilitam a realização das entrevistas pessoalmente. As entrevistas serão realizadas de forma virtual, e antes delas, será realizado um **teste piloto** para simular a entrevista com os avaliadores. Isso permite testar o ambiente, equipamentos e materiais a serem utilizados, garantindo que qualquer problema seja corrigido antecipadamente.
+
+Durante o teste piloto, os avaliadores terão a oportunidade de verificar a adequação do ambiente virtual, testar a qualidade do áudio e vídeo, além de familiarizarem-se com o processo da entrevista. Dessa forma, eventuais problemas técnicos ou logísticos podem ser identificados e resolvidos antes das entrevistas reais.
+
+Após o teste piloto, será apresentado para o entrevistado o [termo de consentimento](../../analise_de_requisitos/aspectos_eticos/#termo-de-consentimento), que deverá ser lido e concordado para o prosseguimento da gravação e entrevista. Em seguida, serão apresentados os protótipos de cada tarefa e as perguntas do roteiro, para que o entrevistado possa interagir e fornecer feedback.
+
+
+
 ## Questões Práticas
 
 ### Participantes
@@ -86,6 +85,17 @@ Está planejada a participação de pelo menos cinco usuários nas entrevistas d
 ### Equipamentos necessários
 A avaliação por meio de entrevistas ocorrerá de forma remota, levando em consideração as circunstâncias e preferências dos participantes. Durante as entrevistas remotas, a equipe utilizará a plataforma Teams para conduzir as entrevistas e gravar as interações. A gravação será realizada em conformidade com os [termos de consentimento](../../analise_de_requisitos//aspectos_eticos.md#termo-de-consentimento) estabelecidos para fins de avaliação.
 
+### Teste Piloto
+Antes de iniciar as entrevistas, é recomendado que os entrevistadores realizem um teste piloto para avaliar a viabilidade do processo e identificar possíveis problemas, falhas ou limitações. Durante o teste piloto, os seguintes aspectos devem ser verificados:
+
+- **Conexão com a internet**: É importante garantir uma conexão estável e confiável para facilitar a comunicação durante as entrevistas.
+- **Áudio do microfone**: Verificar se o áudio do microfone está funcionando corretamente para garantir uma comunicação clara e sem problemas.
+- **Compartilhamento de tela**: Testar a capacidade de compartilhar a tela, caso seja necessário apresentar algo durante as entrevistas.
+- **Ferramenta de gravação de vídeo**: Verificar se a ferramenta de gravação de vídeo está configurada e funcionando adequadamente, caso seja necessário gravar as entrevistas para referência futura.
+- **Editor de texto ou papel para anotar resultados**: Assegurar que haja uma forma adequada de registrar os resultados das entrevistas, seja por meio de um editor de texto digital ou por anotações em papel.
+
+Realizar um teste piloto abrangente antes das entrevistas proporcionará maior confiança no processo, permitindo ajustes necessários e garantindo que as entrevistas sejam conduzidas de forma eficiente.
+
 ### Cronograma planejado e prazos
 A expectativa é que as entrevistas para a avaliação sejam realizadas no sábado, dia 10/06, levando em conta o tempo necessário para a preparação, agendamento e realização das entrevistas. Essas considerações práticas foram feitas para garantir a viabilidade e o bom andamento da avaliação, visando obter insights relevantes sobre a usabilidade do site IssNetDF. A seguir, apresentamos o cronograma planejado para as entrevistas:
 
@@ -93,6 +103,7 @@ A expectativa é que as entrevistas para a avaliação sejam realizadas no sába
 
 | Protótipo avaliado | Local                      | Data de realização | Horário | Entrevistador                       | Entrevistado |
 | ------------------ | -------------------------- | ------------------ | ------- | ----------------------------------- | --- |
+| Teste Piloto       | Plataforma Microsoft Teams | 10/06/2023         | 18:45   | Arthur Trindade<br>Gabriel de Souza | - |
 | Todos              | Plataforma Microsoft Teams | 10/06/2023         | 19:00   | Arthur Trindade<br>Gabriel de Souza | - |
 | Todos              | Plataforma Microsoft Teams | 10/06/2023         | 19:30   | Arthur Trindade<br>Gabriel de Souza | - |
 | Todos              | Plataforma Microsoft Teams | 10/06/2023         | 20:00   | Arthur Trindade<br>Gabriel de Souza | - |

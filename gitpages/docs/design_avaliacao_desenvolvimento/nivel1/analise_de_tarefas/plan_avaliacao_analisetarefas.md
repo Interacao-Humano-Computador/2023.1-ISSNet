@@ -6,6 +6,23 @@ Com base em uma pesquisa prévia com os usuários do site, identificamos as tare
 ## Objetivo
 O objetivo desta etapa de avaliação da análise de tarefas é verificar a correspondência entre o fluxo identificado durante a fase de análise de tarefas e as atividades realizadas por usuários em um contexto real de uso. Nesse sentido, este documento tem como propósito planejar a coleta de informações detalhadas sobre a forma como usuários individuais utilizam o site da IssNetDF, com foco específico em emitir notas eletrônicas, excluir notas eletrônicas e consultar as notas eletrônicas. Através dessa avaliação, buscamos obter insights valiosos para melhorar a usabilidade do site, aprimorando a experiência dos usuários ao desempenharem essas tarefas específicas.
 
+## Roteiro de Perguntas
+A seguir, apresentamos o roteiro de perguntas que será utilizado durante a avaliação, que deve ser executado para cada tarefa em análise.
+
+1. Com base na análise de tarefas que nosso grupo realizou, como você avalia a precisão e abrangência das atividades identificadas para a emissão, cancelamento e consulta de notas eletrônicas?
+
+2. As etapas e sequência de ações propostas na análise de tarefas refletem fielmente o processo que você realiza ao utilizar o site da IssNetDF? Se não, quais aspectos poderiam ser ajustados ou adicionados?
+
+3. A organização das tarefas identificadas na análise de tarefas faz sentido para você? Há alguma sugestão de reorganização ou agrupamento de atividades que poderia tornar o fluxo mais intuitivo?
+
+4. Os pontos de decisão e alternativas de caminho identificados na análise de tarefas correspondem às opções que você normalmente encontra ao interagir com o site da IssNetDF? Caso contrário, quais opções adicionais seriam relevantes incluir?
+
+5. Quão claro e compreensível você considera o documento de análise de tarefas produzido pelo nosso grupo? Há alguma informação que poderia ser melhor explicada ou detalhada?
+
+6. As tarefas identificadas refletem com precisão suas necessidades e objetivos ao utilizar o site da IssNetDF para emissão, cancelamento e consulta de notas eletrônicas? Se não, quais outras tarefas você consideraria relevantes incluir nessa análise?
+
+7. Existe alguma sugestão específica que você gostaria de oferecer para aprimorar a análise de tarefas realizada pelo nosso grupo, levando em consideração suas próprias experiências e necessidades?
+
 ## Metodologia
 No âmbito do planejamento da avaliação da análise de tarefas, optamos por utilizar o Framework DECIDE juntamente com o método de entrevistas e questionários, para atingir o maior número de usuários possível. O Framework DECIDE é uma abordagem amplamente reconhecida para avaliação de usabilidade que nos auxiliará a obter informações relevantes sobre a experiência dos usuários ao utilizar o site IssNetDF para [emitir notas eletrônicas](../../../analise_de_requisitos/analise_de_tarefas.md#análise-da-tarefa-emitir-nota-fiscal-eletrônica), [excluir notas eletrônicas](../../../analise_de_requisitos/analise_de_tarefas.md#análise-de-tarefa-cancelar-nota-fiscal) e [consultar as notas eletrônicas](../../../analise_de_requisitos/analise_de_tarefas.md#análise-da-tarefa-consultar-nota-eletrônica-de-serviço).
 
@@ -57,21 +74,6 @@ Para assegurar a proteção dos participantes, adotaremos medidas que incluem:
 
 Ao seguir essas diretrizes éticas, reforçamos nosso compromisso de realizar a avaliação da análise de tarefas de forma ética e responsável, garantindo que os participantes sejam protegidos e que os resultados sejam utilizados de maneira adequada e respeitosa.
 
-## A estrutura do relatório da avaliação
-
-1. Com base na análise de tarefas que nosso grupo realizou, como você avalia a precisão e abrangência das atividades identificadas para a emissão, cancelamento e consulta de notas eletrônicas?
-
-2. As etapas e sequência de ações propostas na análise de tarefas refletem fielmente o processo que você realiza ao utilizar o site da IssNetDF? Se não, quais aspectos poderiam ser ajustados ou adicionados?
-
-3. A organização das tarefas identificadas na análise de tarefas faz sentido para você? Há alguma sugestão de reorganização ou agrupamento de atividades que poderia tornar o fluxo mais intuitivo?
-
-4. Os pontos de decisão e alternativas de caminho identificados na análise de tarefas correspondem às opções que você normalmente encontra ao interagir com o site da IssNetDF? Caso contrário, quais opções adicionais seriam relevantes incluir?
-
-5. Quão claro e compreensível você considera o documento de análise de tarefas produzido pelo nosso grupo? Há alguma informação que poderia ser melhor explicada ou detalhada?
-
-6. As tarefas identificadas refletem com precisão suas necessidades e objetivos ao utilizar o site da IssNetDF para emissão, cancelamento e consulta de notas eletrônicas? Se não, quais outras tarefas você consideraria relevantes incluir nessa análise?
-
-7. Existe alguma sugestão específica que você gostaria de oferecer para aprimorar a análise de tarefas realizada pelo nosso grupo, levando em consideração suas próprias experiências e necessidades?
 
 ## Interpretação e apresentação dos dados 
 O resultado da avaliação será utilizado como um guia para conduzir todas as etapas da avaliação de Análise de Tarefas do nosso projeto. Ele servirá como uma referência central para garantir que todas as questões práticas e éticas sejam consideradas e que a avaliação seja realizada de forma consistente e adequada. A interpretação dos dados será realizada após as entrevistas, e os dados obtidos serão apresentados de acordo com o [planejamento do relato dos reultados](plan_avaliacao_analisetarefas.md).
