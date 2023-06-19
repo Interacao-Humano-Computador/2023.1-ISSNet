@@ -1,28 +1,38 @@
 ## Introdução
-A escolha de um site para entrega avaliativa da matéria é uma etapa importante do processo, pois cada opção possui características distintas que podem influenciar na experiência do usuário. Neste documento, apresentaremos o processo de seleção individual e em grupo, bem como o histórico de revisões até o momento.
+A escolha de um site para entrega avaliativa da matéria é uma etapa importante do processo, pois cada opção possui características distintas que podem influenciar na experiência do usuário. Neste artefato, apresentaremos as avaliações IHC individuais realizadas por cada membro da equipe. Embora tenhamos estudado sites avaliados na disciplina, percebemos que muitos deles não atenderam completamente aos critérios de escolha estabelecidos. Portanto, decidimos explorar outros sites que, em nossa perspectiva e de acordo com os objetivos da disicplina, poderiam fornecer um estudo e uma avaliação mais eficiente. Abaixo apresentamos as avaliações individuais de cada membro, bem como os critérios de avaliação.
 
-## Escolha individual
+## Avaliações Individuais
 
-Para a escolha individual, cada um teve que escolher um site para entrega avaliativa da matéria. Logo já tínhamos 6 opções de site.
+Para selecionar o site a ser avaliado, cada membro da equipe escolheu individualmente um site e realizou uma avaliação de IHC. Em seguida, a equipe se reuniu para discutir as opções levando em consideração os seguintes critérios:
 
-1. Moovit
+- O site não foi previamente abordado na disciplina de Interação Humano Computador.
+- O site apresenta problemas de usabilidade, design e/ou acessibilidade.
+- O site é pertencente ao governo ou a uma comunidade de software livre.
+- O site possui uma base de usuários ativa e acessível.
+
+### Moovit
     - Não tão atrativo
-2. Buser
+### Buser
     - Poucas melhorias
-3. ISS Net
+### ISSNet
     - Dificuldade de coletar dados
-4. TypeRacer
+### TypeRacer
     - Não atrativo para o grupo
-5. TST
+### TST
     - Pouca disponibilidade
-6. SIGAA
-    - Já usado
+### SIGAA
+O SIGAA (Sistema Integrado de Gestão de Atividades Acadêmicas) é uma plataforma online utilizada pela Universidade de Brasília para gerenciar diversas atividades acadêmicas. Essas atividades incluem comunicação entre estudantes e professores por meio de uma caixa de mensagens, emissão de documentos oficiais, matrícula e retirada de disciplinas pelos estudantes.
+A avaliação do site foi realizada com base nas 10 heurísticas propostas por Nielsen e permitiu a identificação de diversos problemas, tanto com realação à compatibilidade do sistema com o mundo real e a sua usabilidade quanto em relação ao design.
+O SIGAA, apesar de ser um bom candidato ao projeto da equipe, não pôde ser escolhido pois já foi avaliado anteriormente em um projeto da disiplina.
+Abaixo encontra-se a avalição individual do site e seu planejamento:
 
-## Escolha em grupo
+- [Planejamento da Avaliação Individual - SIGAA](./doc/Planejamento%20da%20avalia%C3%A7%C3%A3o%20SIGAA.pdf)
+- [Execução da Avaliação Individual - SIGAA](./doc/Execu%C3%A7%C3%A3o%20da%20avalia%C3%A7%C3%A3o%20SIGAA.pdf)
 
-Após analisar todas as 6 opções que já tínhamos e nenhuma agradar o grupo, fomos para uma análise de vários sites em grupo, passando por sites de todos os tipos, como:
+## Avaliações em grupo
+Após analisar todas as 6 opções que já tínhamos e nenhuma agradar completamente o grupo, partimos para uma seesão de brainstorm onde avaliamos rapdiamente várias categorias de sites:
 
-### Site de Viagem
+### Sites de Viagem
 - Trivago
 - Booking.com
 
@@ -34,15 +44,19 @@ Após analisar todas as 6 opções que já tínhamos e nenhuma agradar o grupo, 
 - Itau
 - BB
 - BRB
-- Caixa
+- CAIXA
 
-Inicialmente, havíamos selecionado o site da Caixa, porém, logo após, descobrimos que o site havia passado por uma refatoração e já haviam implementado o que tínhamos planejado. Portanto, optamos por mudar para o site <a href="https://df.issnetonline.com.br/online/Login/Login.aspx?ReturnUrl=%2fonline" target="blank">ISSNet</a>, que atendeu às nossas necessidades apesar de algumas dificuldades em coletar dados.
+Inicialmente, a equipe havia selecionado o site da [CAIXA](https://www.caixa.gov.br/Paginas/home-caixa.aspx) como nossa opção para avaliação. No entanto, durante o processo de planejamento, percebemos que o site passou por uma refatoração que resolveu muitos dos problemas iniciais que tínhamos identificado. Diante dessa mudança, precisamos rapidamente buscar uma nova opção.
+
+Após reavaliar nossas alternativas, optamos pela segunda melhor opção após o site da CAIXA. Escolhemos o [ISSNet](https://df.issnetonline.com.br/online/Login/Login.aspx?ReturnUrl=%2fonline), que atendeu às nossas necessidades, apesar de não ter uma comunidade de usuários tão ativa.
+
+Assim, considerando essas circunstâncias, seguimos em frente com a avaliação do ISSNet como nosso projeto selecionado.
 
 ## Histórico de revisão
 
-| Versão     | Data        | Descrição            | Autor(es)                          | Revisores  |
-| :--------: | :---------: | -------------------- | ---------------------------------- | ---------- |
-| `0.0`      |  22/04/2023 | Criação do arquivo   | Arthur Trindade                    | Miguel Moreira          |
-| `0.1`      |  24/04/2023 | Adição dos sites e afins | Miguel Moreira                 |  Arthur Trindade         |
-| `0.2`      |  07/05/2023 | Mudança de site       | Miguel Moreira                    | Arthur Trindade          |
-| `0.3`      |  19/06/2023 | Correções de feedback  | Miguel Moreira | Arthur Trindade |
+| Versão     | Data       | Descrição             | Autor(es)       | Revisores        |
+| :--------: | :--------: | --------------------- | --------------- | ---------------- |
+| `0.0`      | 22/04/2023 | Criação do arquivo    | Arthur Trindade | Miguel Moreira   |
+| `0.1`      | 24/04/2023 | Adição dos sites      | Miguel Moreira  | Arthur Trindade  |
+| `0.2`      | 07/05/2023 | Mudança de site       | Miguel Moreira  | Arthur Trindade  |
+| `0.3`      | 19/06/2023 | Correções de feedback | Miguel Moreira  | Arthur Trindade  |
