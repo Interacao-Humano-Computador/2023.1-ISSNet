@@ -42,3 +42,4 @@ O site da ISSNet é utilizado principalmente por empresas e profissionais que pr
 | `0.1`      |  24/04/2023 | Adição do site escolhido  | Miguel Moreira | Arthur Trindade |
 | `0.2`      |  26/04/2023 | Completando a página  | Miguel Moreira | Arthur Trindade |
 | `0.3`      |  07/05/2023 | Mudança de site e atualização da análise  | Miguel Moreira | Arthur Trindade |
+| `0.4`      |  19/06/2023 | Correções de feedback  | Miguel Moreira | Arthur Trindade |
