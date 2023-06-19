@@ -1,7 +1,5 @@
 # Planejamento do Relato da Avaliação de Análise de Tarefas
 
-
-
 ## Introdução
 
 Este artefato será usado para documentar as informações e dados coletados pela avaliação da análise de tarefas. O produto desta etapa irá nos guiar sobre melhorias para o ISSNet. 
