@@ -1,3 +1,6 @@
+## Introdução
+A escolha de um site para entrega avaliativa da matéria é uma etapa importante do processo, pois cada opção possui características distintas que podem influenciar na experiência do usuário. Neste documento, apresentaremos o processo de seleção individual e em grupo, bem como o histórico de revisões até o momento.
+
 ## Escolha individual
 
 Para a escolha individual, cada um teve que escolher um site para entrega avaliativa da matéria. Logo já tínhamos 6 opções de site.

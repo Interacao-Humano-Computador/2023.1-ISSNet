@@ -1,4 +1,6 @@
-# Análise parcial
+## Introdução
+
+Neste relatório, apresentaremos uma análise parcial do site da ISSNet, uma plataforma que oferece serviços de gerenciamento e emissão de notas fiscais eletrônicas para empresas. O objetivo deste documento é falar sobre a escolha do site, identificando possíveis melhorias e sugerindo soluções para aprimorar a experiência do usuário.
 
 ## ISSNet
 
