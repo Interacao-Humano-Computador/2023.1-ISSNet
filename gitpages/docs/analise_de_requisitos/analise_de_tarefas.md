@@ -40,7 +40,7 @@ A análise hierárquica de tarefas pode ser representada na forma textual, por m
 </center>
 
 ### Análise da Tarefa: Emitir Nota Fiscal Eletrônica
-A tarefa "Emitir nota fiscal eletrônica" é uma das principais tarefas que o usuario realiza no sistema, já que é uma funcionalidade principal. A tabela 1 e a figura 2 apresentam a apresentam a análise hierárquica dessa tarefa em sua forma textual e de diagrama, respectivamente.
+A tarefa "Emitir nota fiscal eletrônica" é uma das principais tarefas que o usuario realiza no sistema, já que é uma funcionalidade principal. A tabela 1 e a figura 2 apresentam a análise hierárquica dessa tarefa em sua forma textual e de diagrama, respectivamente.
 
 <center>
 

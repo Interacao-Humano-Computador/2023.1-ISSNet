@@ -24,7 +24,12 @@ Abaixo encontra-se a avalição individual do site e seu planejamento:
 ### Buser
     - Poucas melhorias
 ### ISSNet
-    - Dificuldade de coletar dados
+- O sistema ISS.net Online oferece aos contribuintes do município facilidade nas declarações de serviços prestados e
+contratados, emissão de nota fiscal de serviços eletrônica, declaração eletrônica de serviços de instituições
+financeiras DESIF, geração da guia de recolhimento online no padrão FEBRABAN, geração do livro fiscal eletrônico,
+acompanhamento em tempo real da movimentação do contribuinte, parcelamentos e certidões online. 
+Abaixo encontra-se a avalição individual do site e seu planejamento:
+- ([Planejamento da Avaliação Individual - ISSNET](doc/ProjetoParteIndividualPlanejAvalia%C3%A7%C3%A3oISSNET.pdf))
 ### TypeRacer
     - Não atrativo para o grupo
 ### TST
