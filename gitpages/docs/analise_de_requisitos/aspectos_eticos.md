@@ -29,7 +29,7 @@ Durante as entrevistas, adotaremos uma postura respeitosa e empática, asseguran
 Para as avaliações, seja por meio de storyboard, protótipo de papel ou protótipo de alta fidelidade, garantiremos que todas as informações compartilhadas pelos participantes sejam tratadas com confidencialidade. Os resultados serão analisados de forma agregada, preservando a identidade dos participantes.
 
 ## Termo de Consentimento
-De acordo a resolução nº 466 de 2012 do Conselho Nacional de Saúde, o Termo de Consentimento Livre e Esclarecido (TCLE) é um documento no qual é explicitado o consentimento livre e esclarecido do participante e/ou de seu responsável legal, de forma escrita, devendo conter todas as informações necessárias, em linguagem clara e objetiva, de fácil entendimento, para o mais completo esclarecimento sobre a pesquisa a qual se propõe participar <a href="#conselho">[1]</a>.<br> 
+De acordo a resolução nº 466 de 2012 do Conselho Nacional de Saúde, o Termo de Consentimento Livre e Esclarecido (TCLE) é um documento no qual é explicitado o consentimento livre e esclarecido do participante e/ou de seu responsável legal, de forma escrita, devendo conter todas as informações necessárias, em linguagem clara e objetiva, de fácil entendimento, para o mais completo esclarecimento sobre a pesquisa/entrevista a qual se propõe participar <a href="#conselho">[1]</a>.<br> 
 O Termo de Consentimento Livre e Esclarecido é importante para garantir a participação voluntária e consciente na pesquisa, informando sobre os objetivos e possíveis riscos envolvidos. Desse modo, o objetivo deste termo é fornecer informações claras e objetivas sobre a pesquisa para que o participante possa tomar uma decisão informada sobre a sua participação no questionário. O presente termo será autorizado de forma online para facilitar a logística da equipe:
 
 <div style="text-align: center">
@@ -56,4 +56,4 @@ Aspectos Éticos, CIEE. Disponível em:  <https://interacao-humano-computador.gi
 | `0.1`      |  07/05/2023 | Adição do termo de consentimento | Arthur Trindade                    | Júlio César<br>Miguel Moreira |
 | `0.2`      |  07/05/2023 | Edição do termo de consentimento e adição dos aspectos éticos de pesquisas| Miguel Moreira                    | Arthur Trindade<br>Júlio César |
 | `0.3`      |  07/05/2023 | Edição do termo de consentimento | Arthur Trindade                    | Miguel Moreira |
-| `0.4`      |  07/05/2023 | Adicionando Aplicação dos Aspectos Éticos e edição do termo de consentimento | Miguel Moreira                   | Arthur Trindade |
+| `0.4`      |  19/06/2023 | Adicionando Aplicação dos Aspectos Éticos e edição do termo de consentimento | Miguel Moreira                   | Arthur Trindade |
