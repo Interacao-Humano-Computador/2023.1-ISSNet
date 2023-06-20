@@ -19,23 +19,28 @@ para refazer sua interface com o objetivo de tornar o site mais fácil de usar e
 todos
 O Moovit, apesar de ser um bom candidato ao projeto da equipe, não foi abraçado por todos do grupo.
 Abaixo encontra-se a avalição individual do site e seu planejamento:
+
 - [Planejamento da Avaliação Individual - SIGAA](./doc/Planejamento%20da%20avalia%C3%A7%C3%A3o%20Moovit.pdf)
 - [Execução da Avaliação Individual - SIGAA](./doc/Execu%C3%A7%C3%A3o%20da%20avalia%C3%A7%C3%A3o%20Moovit.pdf)
 ### Buser
     - Poucas melhorias
 ### ISSNet
-- O sistema ISS.net Online oferece aos contribuintes do município facilidade nas declarações de serviços prestados e
+O sistema ISS.net Online oferece aos contribuintes do município facilidade nas declarações de serviços prestados e
 contratados, emissão de nota fiscal de serviços eletrônica, declaração eletrônica de serviços de instituições
 financeiras DESIF, geração da guia de recolhimento online no padrão FEBRABAN, geração do livro fiscal eletrônico,
 acompanhamento em tempo real da movimentação do contribuinte, parcelamentos e certidões online. 
 Abaixo encontra-se a avalição individual do site e seu planejamento:
+
 - [Planejamento da Avaliação Individual - ISSNET](doc/ProjetoParteIndividualPlanejAvalia%C3%A7%C3%A3oISSNET.pdf)
 ### TypeRacer
-- Site tinha poucos problemas críticos a respeito das heurísticas de Nielsen, no geral, é um bom site responsivo com design moderno e atraente, tinha sido analisado por causa do fácil acesso aos usuários e funcionalidades interessantes como criação de conta, ranking e etc, entre os problemas encontrados incluíam problemas de status do sistema, padronização, controle do usuário e design, mas nenhum chegou a ser uma barreira (impedir avanço de uma funcionalidade) e a maioria eram problemas simples.
+Site tinha poucos problemas críticos a respeito das heurísticas de Nielsen, no geral, é um bom site responsivo com design moderno e atraente, tinha sido analisado por causa do fácil acesso aos usuários e funcionalidades interessantes como criação de conta, ranking e etc, entre os problemas encontrados incluíam problemas de status do sistema, padronização, controle do usuário e design, mas nenhum chegou a ser uma barreira (impedir avanço de uma funcionalidade) e a maioria eram problemas simples.
+
 - [Planejamento da Avaliação Individual - TypeRacer](./doc/Planejamento%20da%20avalia%C3%A7%C3%A3o%20TyperRacer.pdf)
 - [Execução da Avaliação Individual - TyperRacer](./doc/Execu%C3%A7%C3%A3o%20da%20avalia%C3%A7%C3%A3o%20TyperRacer.pdf)
 ### TST
-    - Pouca disponibilidade
+O site do Tribunal Superior do Trabalho ao aplicar as heurísticas de Nielsen, foi notado que o site possuía diversos pontos que afetava a usabilidade dos usuários. Contudo ao apresentar este site para o grupo, notamos que o site apresentava mais notícias do que funcionalidades para os usuários, mesmo ao avaliar se teríamos usuários ou não para continuar o projeto, decidimos não optar porque teríamos problemas pra avaliar e prototipar telas para um site que apresentava mais notícias do que funcionalidades por onde o usuário poderia utilizar, mesmo ferindo algumas regras de usabilidade, como a própria organização da grande quantidade de informações presentes no site.
+
+- [Planejamento da Avaliação Individual - TST](./doc/Planejamento%20da%20avalia%C3%A7%C3%A3o%20TST.pdf)
 ### SIGAA
 O SIGAA (Sistema Integrado de Gestão de Atividades Acadêmicas) é uma plataforma online utilizada pela Universidade de Brasília para gerenciar diversas atividades acadêmicas. Essas atividades incluem comunicação entre estudantes e professores por meio de uma caixa de mensagens, emissão de documentos oficiais, matrícula e retirada de disciplinas pelos estudantes.
 A avaliação do site foi realizada com base nas 10 heurísticas propostas por Nielsen e permitiu a identificação de diversos problemas, tanto com realação à compatibilidade do sistema com o mundo real e a sua usabilidade quanto em relação ao design.
