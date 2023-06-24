@@ -1,7 +1,7 @@
 # Planejamento da Avaliação de Storyboard
 
 ## Introdução
-Este artefato descreve os principais elementos do planejamento da avaliação dos storyboards utilizados para visualização das tarefas apresentadas na [análise de tarefas](../../analise_de_requisitos/analise_de_tarefas.md) do sistema. 
+Este artefato descreve os principais elementos do planejamento da avaliação dos storyboards utilizados para visualização das tarefas apresentadas na [análise de tarefas](https://interacao-humano-computador.github.io/2023.1-ISSNet/analise_de_requisitos/analise_de_tarefas/) do sistema. 
 
 Para garantir uma avaliação adequada, o planejamento se baseia nas atividades propostas pelo framework DECIDE:
 
@@ -111,7 +111,7 @@ Para realizar a entrevista, é necessário que o entrevistador informe ao entrev
 A interpretação dos dados será realizada após as entrevistas, e os dados obtidos serão apresentados de acordo com o [planejamento do relato dos reultados](relato_storyboard.md).
 
 ## Storyboards desenvolvidos
-Os storyboards foram desenvolvidos usando as [análises de tarefa](../../analise_de_requisitos/analise_de_tarefas.md) e [cenários](../../analise_de_requisitos/cenarios.md) desenvolvidos para tarefas de geração, cancelamento e consulta de NFS-e, foi usado a ferramenta [StoryboardThat](../../../planejamento/ferramentas/#storyboardthat)
+Os storyboards foram desenvolvidos usando as [análises de tarefa](https://interacao-humano-computador.github.io/2023.1-ISSNet/analise_de_requisitos/analise_de_tarefas/) e [cenários](https://interacao-humano-computador.github.io/2023.1-ISSNet/analise_de_requisitos/cenarios/) desenvolvidos para tarefas de geração, cancelamento e consulta de NFS-e, foi usado a ferramenta [StoryboardThat](../../../planejamento/ferramentas/#storyboardthat)
 
 Na Figura 1 é apresentado o storyboard de consulta de NFS-e, um chefe de um funcionário pede para ele que consulte a nota fiscal de uma empresa que prestou serviços a eles.
 <center>

@@ -13,7 +13,7 @@ Neste tópico é explicado brevemente o método de avaliação entrevista, por q
 Deverá estar descrito como foi relatado para o entrevistado os [termos de consentimento](../../../analise_de_requisitos/aspectos_eticos.md), com o fim de respeitar a privacidade e dignidade do entrevistado.
 ## Questões Práticas
 ### Número e perfil dos avaliadores e participantes
-Precisa ser caracterizado o número de pessoas presentes na entrevista, a descrição com nome e papel dos condutores e o [perfil de usuário](../../analise_de_requisitos/perfil_de_usuario.md) do participante, considerando sua idade, conhecimento e outras informações.
+Precisa ser caracterizado o número de pessoas presentes na entrevista, a descrição com nome e papel dos condutores e o [perfil de usuário](https://interacao-humano-computador.github.io/2023.1-ISSNet/analise_de_requisitos/perfil_de_usuario/) do participante, considerando sua idade, conhecimento e outras informações.
 
 ### Cronograma Executado
 Deve estar descrito no relatório o cronograma executado das tarefas de gravação do teste piloto e as entrevistas.
