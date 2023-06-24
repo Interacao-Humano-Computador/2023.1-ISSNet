@@ -33,7 +33,7 @@ Abaixo encontra-se a avalição individual do site e seu planejamento:
 
 - [Planejamento da Avaliação Individual - ISSNET](doc/ProjetoParteIndividualPlanejAvalia%C3%A7%C3%A3oISSNET.pdf)
 ### TypeRacer
-Site tinha poucos problemas críticos a respeito das heurísticas de Nielsen, no geral, é um bom site responsivo com design moderno e atraente, tinha sido analisado por causa do fácil acesso aos usuários e funcionalidades interessantes como criação de conta, ranking e etc, entre os problemas encontrados incluíam problemas de status do sistema, padronização, controle do usuário e design, mas nenhum chegou a ser uma barreira (impedir avanço de uma funcionalidade) e a maioria eram problemas simples.
+TyperRacer é um jogo online para navegadores onde vários jogadores podem competir com a sua rapidez de digitação, que é medida em WPM (palavras por minuto), possui criação de contas, conteúdos pagos e ranking. O site tinha poucos problemas críticos a respeito das heurísticas de Nielsen, no geral, é um bom site responsivo com design moderno e atraente, tinha sido analisado por causa do fácil acesso aos usuários e funcionalidades interessantes como criação de conta, ranking e etc, entre os problemas encontrados incluíam problemas de status do sistema, padronização, controle do usuário e design, mas nenhum chegou a ser uma barreira (impedir avanço de uma funcionalidade) e a maioria eram problemas simples.
 
 - [Planejamento da Avaliação Individual - TypeRacer](./doc/Planejamento%20da%20avalia%C3%A7%C3%A3o%20TyperRacer.pdf)
 - [Execução da Avaliação Individual - TyperRacer](./doc/Execu%C3%A7%C3%A3o%20da%20avalia%C3%A7%C3%A3o%20TyperRacer.pdf)
