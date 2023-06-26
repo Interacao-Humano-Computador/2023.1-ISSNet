@@ -60,14 +60,6 @@ Em seguida, o entrevistador prosseguirá para a etapa de perguntas planejadas:
     </ul>
   </li>
   <li>
-    <p>O protótipo de alta fidelidade apresenta os elementos visuais de acordo com a identidade visual e diretrizes de design estabelecidas?</p>
-    <ul>
-      <li><input type="checkbox" id="opcao17" name="opcao17" value="Sim"><label for="opcao17">Sim</label></li>
-      <li><input type="checkbox" id="opcao18" name="opcao18" value="Não"><label for="opcao18">Não</label></li>
-      <li><input type="checkbox" id="opcao19" name="opcao19" value="Não tenho certeza"><label for="opcao19">Não tenho certeza</label></li>
-    </ul>
-  </li>
-  <li>
     <p>Existe alguma funcionalidade ou interação que você esperaria encontrar no protótipo de alta fidelidade e que não foi apresentada? Se sim, qual(is)?</p>
     <ul>
       <li><input type="checkbox" id="opcao20" name="opcao20" value="Sim"><label for="opcao20">Sim (aberta)</label></li>
