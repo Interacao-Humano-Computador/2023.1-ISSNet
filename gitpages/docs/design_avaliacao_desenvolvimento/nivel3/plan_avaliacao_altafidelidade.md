@@ -150,6 +150,8 @@ Os resultados obtidos por meio da avaliação do protótipo de alta fidelidade s
 ## Protótipos de Alta Fidelidade Desenvolvovidos
 Os protótipos de Alta Fidelidade foram desenvolvidos utilizando a ferramenta [Figma](../../planejamento/ferramentas.md) para abordar cada uma das três tarefas identificadas na [análise de tarefas](../../analise_de_requisitos/analise_de_tarefas.md), conforme detalhado no [relato da avaliação dos protótipos de papel](../nivel2/relato_protpapel.md), onde foram obtidos dados relevantes para o aprimoramento dos protótipos. Através do Figma, os protótipos foram elaborados com o objetivo de garantir uma representação visual e interativa fiel ao produto final, permitindo uma avaliação mais precisa das funcionalidades e fluxos propostos. O protótipo desenvolvido podem ser acessado a seguir:
 
+(Aperte a tecla 'Z' para ajustar o protótipo a sua tela)
+
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FPphMCpvX1raQ2skyMnUryY%2FIssNet%3Fembed_host%3Dfigma%26kind%3D%26node-id%3D14-59%26page-id%3D1%253A2%26scaling%3Dmin-zoom%26starting-point-node-id%3D14%253A59%26type%3Ddesign%26mode%3Ddesign" allowfullscreen></iframe>
 
 Durante a etapa de avaliação, os protótipos serão apresentados ao entrevistado, oferecendo a oportunidade de interagir com eles diretamente em seu próprio computador. Essa abordagem permitirá coletar informações valiosas para a elaboração do modelo final, pois o entrevistado poderá explorar e testar as funcionalidades do protótipo de forma mais realista e dar o respectivo feedback.
