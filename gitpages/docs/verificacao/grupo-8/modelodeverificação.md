@@ -2,8 +2,7 @@
 - Breve descrição do que será apresentado no documento.
 
 ##	objetivos 
-- Apresentar um artefato contendo um template baseado em um checklist criado para realizar a verificação nos outros artefatos com intuito de padronizar e validar o conteúdo. Com isto, será mostrado para os membros do grupo o modelo de como deve ser criado e desenvolvido, contendo os pontos principais a serem seguidos.
-
+- Apresentar um artefato contendo um template baseado em checklist, criado para realizar a verificação nos artefatos, com intuito de padronizar e validar o conteúdo. Com isto, será mostrado para os membros do grupo o modelo de como deve ser criado e desenvolvido, contendo os pontos principais a serem seguidos.
 
 ##	Verificação	
 -  O template possui padrões a serem seguidos durante o desenvolvimento do projeto, aplicando-o tanto a artefatos já existentes com intuito de melhoria quanto para artefatos que ainda serão criados e desenvolvidos.
@@ -13,22 +12,22 @@ Será seguido a seguinte ordem:
 
 ## Introdução
 
-A técnica de verificação de artefatos é usada para para validar o conteúdo criado em um projeto. O processo de verificação é feita de forma profunda e detalhada, visando observar e avaliar desde o conteúdo até a estrutuda do artefato, com o objetivo final de verificar a qualidade e a conformidade com os padrões e conteúdos estabelecidos.
+A técnica de verificação de artefatos é usada para validar o conteúdo criado em um projeto. O processo de verificação é feito de forma profunda e detalhada, visando observar e avaliar desde o conteúdo até a estrutura do artefato, com o objetivo final de verificar a qualidade e a conformidade com os padrões e conteúdos estabelecidos.
 
 ## Método
 
-O metodo usado é baseado  e referenciado de Simone. Interação Humano Computador, que consiste em checklists sobre o conteúdo, a padronização, a estrutura, a referência e outros. Será seguido o metódo de inspeção.
+O método usado é baseado  e referenciado por Simone. Interação Humano Computador, que consiste em checklists sobre o conteúdo, a padronização, a estrutura, a referência e outros. Será seguido o método de inspeção.
 
 ## Conteúdo Apresentado
 ### Verificação e Revisão
 
 Deve ser explicado e demonstrado o que deve estar contido neste artefato, quais os objetivos do artefato, o que ele pretende mostrar, os resultados e etc.
-Uma tabela foi desenvolvida com intuito de conter os pontos principais que devem ser analisados no artefato, com sua descrição, avaliação, observação e referencia.
+Uma tabela foi desenvolvida com intuito de conter os pontos principais que devem ser analisados no artefato, com sua descrição, avaliação, observação e referência.
 Como mostrado na Tabela abaixo:
 
 Os critérios de verificação seguidos foram:
   - [✔️] FEITO
-  - [⚠️] IMCOMPLETO
+  - [⚠️] INCOMPLETO
   - [❌] NÃO-FEITO 
 
 |   Item  |      Descrição      |              Avaliação              |             Observação          |     Referência    |
@@ -58,16 +57,18 @@ CheckList desenvolvida para validar os critérios gerais elaborados de acordo co
   - [ ] O artefato está com os objetivos bem descritos explicando os principais pontos que serão abordados?
   - [ ] As datas e os autores no histórico de versão estão atualizadas?
   - [ ] Os títulos e subtítulos estão bem definidos e formatados?
-          
-	3. Referência:
-  - [ ] As perguntas utilizadas no checklist estão referenciadas corretamente?
-  - [ ] Todas as tabelas citadas e demonstradas no artefato estão com legenda e explicação?
-        
-	4. Tabelas e Figuras:
+
+	3. Tabelas e Figuras:
   - [ ] As tabelas e figuras possuem legendas?
   - [ ] As tabelas e figuras estão sendo referenciadas no texto?
   - [ ] As tabelas estão sendo chamadas no texto?
   - [ ] As figuras estão sendo explicadas?
+          
+	4. Referência:
+  - [ ] As perguntas utilizadas no checklist estão referenciadas corretamente?
+  - [ ] Todas as tabelas citadas e demonstradas no artefato estão com legenda e explicação?
+        
+	
 
 ## Conclusão
 Será apresentado um resumo breve da qual conterá os itens apresentados e concluídos no artefato, mostrando assim, se o artefato/documento respeita a estrutura padrão estabelecida, estabelecendo uma qualidade padrão para todos os artefatos.
@@ -76,7 +77,7 @@ Será apresentado um resumo breve da qual conterá os itens apresentados e concl
 Explicar quais são os pontos que necessitam de melhorias e promover possíveis soluções.
 
 ### Bibliografia
-Inserir a referencia bibliografica para que se saiba de onde foi retirado o conteúdo necessario para preencher os criterios necessarios no artefato.
+Inserir a referência bibliográfica para que se saiba de onde foi retirado o conteúdo necessário para preencher os critérios necessários no artefato.
 
 ## Histórico de Versões
 Histórico de versão atualizado, contendo os revisores e autores que realizam atividades no documento.
@@ -93,3 +94,4 @@ Edição, Editora Campus, 2010. Publicado em: 03/05/2021.
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | 26/06/2023 | `0.0`  | Criação do documento | Arthur D'Assumpção | 26/06/2023 | Marcus Vinicius |
 | 26/06/2023 | `0.1`  | Versão Inicial | Marcus Vinicius | 26/06/2023 | Arthur D'Assumpção |
+| 26/06/2023 | `0.1`  | Correção do Documento | Marcus Vinicius | 26/06/2023 | Arthur D'Assumpção |
