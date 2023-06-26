@@ -155,6 +155,13 @@ Assim como nas avaliações anteriores, para realizar a entrevista, é necessár
 ## Interpretação e apresentação dos dados
 Os resultados obtidos por meio da avaliação do protótipo de alta fidelidade serão de extrema importância para o desenvolvimento do produto final nesta disciplina. A análise das interações dos usuários, feedbacks e identificação de problemas de usabilidade e design irão direcionar as melhorias e refinamentos necessários. Os resultados serão devidamente registrados e documentados no [relato dos resultados](relato_altafidelidade.md), que servirá como um guia para aprimorar a experiência do usuário e garantir a qualidade do produto final entregue.
 
+## Protótipos de Alta Fidelidade Desenvolvovidos
+Os protótipos de Alta Fidelidade foram desenvolvidos utilizando a ferramenta [Figma](../../planejamento/ferramentas.md) para abordar cada uma das três tarefas identificadas na [análise de tarefas](../../analise_de_requisitos/analise_de_tarefas.md), conforme detalhado no [relato da avaliação dos protótipos de papel](../nivel2/relato_protpapel.md), onde foram obtidos dados relevantes para o aprimoramento dos protótipos. Através do Figma, os protótipos foram elaborados com o objetivo de garantir uma representação visual e interativa fiel ao produto final, permitindo uma avaliação mais precisa das funcionalidades e fluxos propostos. O protótipo desenvolvido podem ser acessado a seguir:
+
+<iframe style="border:none;" width="800" height="600" src="https://www.figma.com/proto/PphMCpvX1raQ2skyMnUryY/IssNet?type=design&node-id=14-59&scaling=min-zoom&page-id=1%3A2&starting-point-node-id=14%3A59" allowfullscreen></iframe>
+
+Durante a etapa de avaliação, os protótipos serão apresentados ao entrevistado, oferecendo a oportunidade de interagir com eles diretamente em seu próprio computador. Essa abordagem permitirá coletar informações valiosas para a elaboração do modelo final, pois o entrevistado poderá explorar e testar as funcionalidades do protótipo de forma mais realista e dar o respectivo feedback.
+
 <!-- ## Referências -->
 <!-- FONTES CITADAS UTILIZADAS PARA EMBASAR O TEXTO. REMOVER CASO NÃO HOUVER  -->
 

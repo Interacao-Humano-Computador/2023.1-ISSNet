@@ -151,6 +151,28 @@ Tabela 9: Cronograma planejado da etapa 7.
 
 </center>
 
+### Etapa 8
+<center>
+
+| Atividade                                                       | Responsável(veis)                                                                                             | Período de realização    | Revisor(es)                                                                                                   | Período de revisão       |
+| --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | :----------------------: | ------------------------------------------------------------------------------------------------------------- | :----------------------: |
+| Ponto de controle 6 no Teams                                    | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | 19/06/2023               | -                                                                                                             | -                        |
+| Criação da ata da reunião                                       | Arthur D'Assumpção                                                                                            | 20/06/2023               | Gabriel de Souza                                                                                              | 20/06/2023<br>25/06/2023 |
+| Construção do protótipo referente a tarefa 1                    | Arthur Trindade                                                                                               | 20/06/2023<br>25/06/2023 | Julio César                            | 26/06/2023 |
+| Construção do protótipo referente a tarefa 2                    | Miguel Moreira                                                                                                | 20/06/2023<br>25/06/2023 | Arthur Trindade                        | 26/06/2023 |
+| Construção do protótipo referente a tarefa 3                    | Julio César                                                                                                   | 20/06/2023<br>25/06/2023 | Miguel Moreira                         | 26/06/2023 |
+| Padronização e correção das listas de verifiação dos artefatos  | Arthur D'Assumpção<br>Gabriel de Souza<br>Marcus Vinicius                                                     | 20/06/2023<br>25/06/2023 | Miguel Moreira                         | 26/06/2023 |
+| Recrutamento de participantes                                   | Gabriel de Souza                                                                                              | 20/06/2023<br>25/06/2023 | Arthur Trindade<br>Miguel Moreira      | - |
+| Entrevistas de avaliação dos protótipos de alta fidelidade      | Miguel Moreira<br>Gabriel de Souza                                                                            | 25/06/2023<br>26/06/2023 | Arthur Trindade                                                                                               | 26/06/2023 |
+| Coleta do relato dos resultados do protótipo de alta fidelidade | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | 19/06/2023<br>22/06/2023 | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | 23/06/2023<br>25/06/2023 |          
+| Gravação das entregas da etapa 8                                | Miguel Moreira                                                                                                | 25/06/2023               | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | 25/06/2023<br>26/06/2023 |
+| Ajustes e melhorias                                             | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | 27/06/2023<br>29/06/2023 | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | 27/06/2023<br>29/06/2023 |
+
+Tabela 10: Cronograma planejado da etapa 8.
+
+</center>
+
+
 ## Histórico de revisão
 
 | Versão     | Data        | Descrição                                            | Autor(es)                                    | Revisores        |
