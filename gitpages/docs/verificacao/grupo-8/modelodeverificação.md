@@ -2,7 +2,7 @@
 - Breve descrição do que será apresentado no documento.
 
 ##	objetivos 
-- Apresentar um artefato contendo um template baseado em checklist, criado para realizar a verificação nos artefatos, com intuito de padronizar e validar o conteúdo. Com isto, será mostrado para os membros do grupo o modelo de como deve ser criado e desenvolvido, contendo os pontos principais a serem seguidos.
+- Apresentar um artefato contendo um template baseado em checklist, criado para realizar a verificação nos artefatos, com intuito de padronizar e validar o conteúdo. Será mostrado para os membros do grupo o modelo de como deve ser criado e desenvolvido o artefato, contendo os pontos principais a serem seguidos.
 
 ##	Verificação	
 -  O template possui padrões a serem seguidos durante o desenvolvimento do projeto, aplicando-o tanto a artefatos já existentes com intuito de melhoria quanto para artefatos que ainda serão criados e desenvolvidos.
