@@ -94,4 +94,4 @@ Edição, Editora Campus, 2010. Publicado em: 03/05/2021.
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | 26/06/2023 | `0.0`  | Criação do documento | Arthur D'Assumpção | 26/06/2023 | Marcus Vinicius |
 | 26/06/2023 | `0.1`  | Versão Inicial | Marcus Vinicius | 26/06/2023 | Arthur D'Assumpção |
-| 26/06/2023 | `0.1`  | Correção do Documento | Marcus Vinicius | 26/06/2023 | Arthur D'Assumpção |
+| 26/06/2023 | `0.2`  | Correção do Documento | Marcus Vinicius | 26/06/2023 | Arthur D'Assumpção |
