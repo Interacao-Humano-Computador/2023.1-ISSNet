@@ -53,6 +53,7 @@ nav:
       - Planejamento do Relato da Avaliação do Protótipo de Alta Fidelidade: design_avaliacao_desenvolvimento/nivel3/plan_relato_altafidelidade.md
       - Relato da Avaliação do Protótipo de Alta Fidelidade: design_avaliacao_desenvolvimento/nivel3/relato_altafidelidade.md
   - Verificação:
+    - Modelo de Verificação: verificacao/modelo_verificacao.md
     - Grupo 1 (Bilheteria Digital):
       - Ponto de Controle 1: verificacao/grupo-1/pc1.md
       - Ponto de Controle 2: verificacao/grupo-1/pc2.md
