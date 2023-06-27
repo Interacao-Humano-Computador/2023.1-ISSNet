@@ -35,7 +35,7 @@ Como mostrado na Tabela abaixo:
 
 <center>
 
-** Tabela 1: Checklist <NOME DO ARTEFATO>. **
+*Tabela 1: Checklist <NOME DO ARTEFATO>.*
 
 </center>
 
@@ -45,7 +45,7 @@ Como mostrado na Tabela abaixo:
 
 <center>
 
-** Fonte: autor, 2023 **
+*Fonte: autor, 2023*
 
 </center>
 
