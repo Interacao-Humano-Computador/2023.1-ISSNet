@@ -1,25 +1,27 @@
-## introdução
-- Breve descrição do que será apresentado no documento.
+## Introdução
+Breve descrição do que será apresentado no documento.
 
-##	objetivos 
-- Apresentar um artefato contendo um template baseado em checklist, criado para realizar a verificação nos artefatos, com intuito de padronizar e validar o conteúdo. Será mostrado para os membros do grupo o modelo de como deve ser criado e desenvolvido o artefato, contendo os pontos principais a serem seguidos.
+##	Objetivos 
+Apresentar um artefato contendo um template baseado em checklist, criado para realizar a verificação nos artefatos, com intuito de padronizar e validar o conteúdo. Será mostrado para os membros do grupo o modelo de como deve ser criado e desenvolvido o artefato, contendo os pontos principais a serem seguidos.
 
 ##	Verificação	
--  O template possui padrões a serem seguidos durante o desenvolvimento do projeto, aplicando-o tanto a artefatos já existentes com intuito de melhoria quanto para artefatos que ainda serão criados e desenvolvidos.
+O template possui padrões a serem seguidos durante o desenvolvimento do projeto, aplicando-o tanto a artefatos já existentes com intuito de melhoria quanto para artefatos que ainda serão criados e desenvolvidos.
 Será seguido a seguinte ordem:
 
+## Exemplo copiável
 ```MD
 
 ## Introdução
 
 A técnica de verificação de artefatos é usada para validar o conteúdo criado em um projeto. O processo de verificação é feito de forma profunda e detalhada, visando observar e avaliar desde o conteúdo até a estrutura do artefato, com o objetivo final de verificar a qualidade e a conformidade com os padrões e conteúdos estabelecidos.
 
-## Método
+## Metodologia
 
 O método usado é baseado  e referenciado por Simone. Interação Humano Computador, que consiste em checklists sobre o conteúdo, a padronização, a estrutura, a referência e outros. Será seguido o método de inspeção.
 
-## Conteúdo Apresentado
-### Verificação e Revisão
+## Checklists
+
+### Artefato <NOME DO ARTEFATO>
 
 Deve ser explicado e demonstrado o que deve estar contido neste artefato, quais os objetivos do artefato, o que ele pretende mostrar, os resultados e etc.
 Uma tabela foi desenvolvida com intuito de conter os pontos principais que devem ser analisados no artefato, com sua descrição, avaliação, observação e referência.
@@ -31,16 +33,12 @@ Os critérios de verificação seguidos foram:
   - [❌] NÃO-FEITO 
 
 |   Item  |      Descrição      |              Avaliação              |             Observação          |     Referência    |
-<1...>    |     Desc Artefato   |       Feito/Não-Feito/Incompleto    |        Pontos Identificados     |                   | 
+|:------: |---------------------|:-----------------------------------:|---------------------------------|:-----------------:|
+|<1...>   |     Desc Artefato   |       Feito/Não-Feito/Incompleto    |        Pontos Identificados     |                   | 
 
 Tabela 1: Perguntas desenvolvidas em relação ao conteúdo da qual será utilizada para realizar a verificação e padronização de artefatos futuros e existentes.
 
-### Conclusão
-Deve ser feita uma breve conclusão sobre a verificação do artefato em questão. Apresentação e explicação dos dados obtidos.
-
-## Critérios gerais
-
-### Verificação do Artefato
+#### Critérios gerais
 CheckList desenvolvida para validar os critérios gerais elaborados de acordo com o conteúdo já mostrado, contendo os principais tópicos a serem abordados no artefato em questão:
 
 	1. uniformização:
@@ -67,20 +65,29 @@ CheckList desenvolvida para validar os critérios gerais elaborados de acordo co
 	4. Referência:
   - [ ] As perguntas utilizadas no checklist estão referenciadas corretamente?
   - [ ] Todas as tabelas citadas e demonstradas no artefato estão com legenda e explicação?
-        
-	
 
-## Conclusão
+#### Conclusão
 Será apresentado um resumo breve da qual conterá os itens apresentados e concluídos no artefato, mostrando assim, se o artefato/documento respeita a estrutura padrão estabelecida, estabelecendo uma qualidade padrão para todos os artefatos.
 
-### Sugestões e Melhorias
+#### Sugestões e Melhorias
 Explicar quais são os pontos que necessitam de melhorias e promover possíveis soluções.
 
-### Bibliografia
-Inserir a referência bibliográfica para que se saiba de onde foi retirado o conteúdo necessário para preencher os critérios necessários no artefato.
+<!-- ## Referências -->
+<!-- FONTES CITADAS UTILIZADAS PARA EMBASAR O TEXTO. REMOVER CASO NÃO HOUVER  -->
+
+## Bibliografia
+<!-- FONTES CONSULTADAS DURANTE A ELABORAÇÃO DO TEXTO, CITADAS OU NÃO. REMOVER CASO NÃO HOUVER -->
+SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a.
+Edição, Editora Campus, 2010. Publicado em: 03/05/2021.
+
+UNIVESP. "Gerência e Qualidade de Software - Aula 05 - Verificação e Validação." 21 Jun. 2018. Disponível em: <https://youtu.be/1Y-1zz6rZxo>. Acesso em: 4 de Junho de 2023.
+
+UNIVESP. "Técnica de revisão (Verificação) - Gerência e Qualidade de Software." 21 Jun. 2018. Disponível em: <https://youtu.be/nA1BVDd9GUE>. Acesso em: 4 de Junho de 2023.
 
 ## Histórico de Versões
-Histórico de versão atualizado, contendo os revisores e autores que realizam atividades no documento.
+| Versão     | Data        | Descrição                                 | Autor(es)       | Revisores       |
+| :--------: | :---------: | ----------------------------------------- | --------------- | --------------- |
+| `0.0`      | --/--/----  | Criação do arquivo                        | --              | -               |
 
 ```
 ## Bibliografia
