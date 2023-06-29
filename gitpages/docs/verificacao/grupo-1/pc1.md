@@ -7,7 +7,15 @@ A razão pela verificação de artefatos do nosso grupo (ISSNet) e do grupo resp
 
 ## Metodologia
 
-Foi usado o método de revisão formal, inspeção, proposto por Fagan em 1976, utilizando checklists para os seguintes artefatos do ponto de controle 1:
+O método usado é baseado  e referenciado por Simone. Interação Humano Computador, que consiste em checklists sobre o conteúdo, a padronização, a estrutura, a referência e outros. Será seguido o método de inspeção dos artefatos do ponto de controle 1:
+
+Os critérios de verificação seguidos foram:
+
+- [✔️] FEITO
+- [⚠️] INCOMPLETO
+- [❌] NÃO-FEITO 
+
+Os artefatos analisados do nosso grupo 1 Bilheteria Digital são:
 
 - [Cronograma Planejado](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/planejamento/cronograma/)
 - [Cronograma Executado](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/planejamento/cronograma/)
@@ -15,167 +23,328 @@ Foi usado o método de revisão formal, inspeção, proposto por Fagan em 1976, 
 - [Sites Avaliados](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/planejamento/sites-avaliados/)
 - [Site Selecionado](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/planejamento/site-escolhido/)
 - [Processo de Design](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/planejamento/processo-design/)
-
-Além disso, será avaliado aspectos comuns em todos os artefatos, a padronização dos documentos.
 ## Checklists
 
-### Padronização
+### Artefato Cronograma Planejado
+
+Deve ser explicado e demonstrado o que deve estar contido neste artefato, quais os objetivos do artefato, o que ele pretende mostrar, os resultados e etc.
+Uma tabela foi desenvolvida com intuito de conter os pontos principais que devem ser analisados no artefato, com sua descrição, avaliação, observação e referência.
+Como mostrado na Tabela 1:
 
 <center>
 
-*Tabela 1: Verificação checklist de padronização dos artefatos* 
+*Tabela 1: Checklist do Cronograma Planejado.*
 
 </center>
 
-||Questão|Resposta|Comentário|
-|:--:|--------------|:--:|----------------|
-|1|Possui o histórico de versão padronizado?|<span style="color:#00E44E">Sim</span>||
-|2|Possui o(s) autor(es) e revisor(es)?|<span style="color:#00E44E">Sim</span>||
-|3|Referências bibliográficas e/ou bibliografia são padronizadas usando as normas da ABNT?|<span style="color:#00E44E">Sim</span>||
-|4|Tabelas e imagens possuem legenda, fonte e são referenciadas dentro do texto?|<span style="color:#00E44E">Sim</span>||
-|5|Cada atividade apresenta um tópico de introdução explicando o artefato?|<span style="color:#00E44E">Sim</span>||
+|   Item  |      Descrição      |              Avaliação              |             Observação          |     Referência    |
+|:------: |---------------------|:-----------------------------------:|---------------------------------|:-----------------:|
+| 1  |    O cronograma apresenta    |           |            |                  | 
 
 <center>
 
-*Fonte: autor, 2023* 
+*Fonte: autor, 2023*
 
 </center>
 
-Neste tópico apresentado na tabela 1 é verificado o histórico de versão padronizado, autoria, referências bibliográficas, legenda em tabelas e imagens, introdução para cada atividade, informações dos membros da equipe na página inicial e a disponibilidade de modos claro e escuro no site.
+#### Critérios gerais
+CheckList desenvolvida para validar os critérios gerais elaborados de acordo com o conteúdo já mostrado, contendo os principais tópicos a serem abordados no artefato em questão:
 
-### Cronograma Planejado
+1. uniformização:
+    - [ ] O artefato segue o padrão definido no projeto?
+    - [ ] O documento possui os links necessários para outros artefatos?
+    - [ ] O artefato possui as referências bibliográficas atualizadas?
+    - [ ] O documento está respeitando as margens e tamanho dos títulos?
+    - [ ] O documento está respeitando as normas da língua portuguesa? 
+2. Organização:
+    - [ ] O artefato possui introdução e descrições bem claras sobre os pontos que serão abordados? 
+    - [ ] O documento segue uma lógica de organização?
+    - [ ] O artefato possui conclusões lógicas e coesas? 
+    - [ ] O artefato está com os objetivos bem descritos explicando os principais pontos que serão abordados?
+    - [ ] As datas e os autores no histórico de versão estão atualizadas?
+    - [ ] Os títulos e subtítulos estão bem definidos e formatados?
+3. Tabelas e Figuras:
+    - [ ] As tabelas e figuras possuem legendas?
+    - [ ] As tabelas e figuras estão sendo referenciadas no texto?
+    - [ ] As tabelas estão sendo chamadas no texto?
+    - [ ] As figuras estão sendo explicadas?     
+4. Referência:
+    - [ ] As perguntas utilizadas no checklist estão referenciadas corretamente?
+    - [ ] Todas as tabelas citadas e demonstradas no artefato estão com legenda e explicação?
+
+#### Conclusão
+Será apresentado um resumo breve da qual conterá os itens apresentados e concluídos no artefato, mostrando assim, se o artefato/documento respeita a estrutura padrão estabelecida, estabelecendo uma qualidade padrão para todos os artefatos.
+
+#### Sugestões e Melhorias
+Explicar quais são os pontos que necessitam de melhorias e promover possíveis soluções.
+
+### Artefato Cronograma Executado
+
+Deve ser explicado e demonstrado o que deve estar contido neste artefato, quais os objetivos do artefato, o que ele pretende mostrar, os resultados e etc.
+Uma tabela foi desenvolvida com intuito de conter os pontos principais que devem ser analisados no artefato, com sua descrição, avaliação, observação e referência.
+Como mostrado na Tabela 2:
 
 <center>
 
-*Tabela 2: Verificação checklist do cronograma planejado* 
+*Tabela 2: Checklist do Cronograma Executado.*
 
 </center>
 
-||Questão|Resposta|Comentário|
-|:--:|--------------|:--:|----------------|
-|1|Cada atividade apresenta os nomes dos devidos responsáveis e revisores, evitando usar a palavra "todos"?|<span style="color:#E2B93B">Incompleto</span>|Possui a palavra "todos" em ambos cronogramas|
-|2|Apresenta datas de inicio e fim das entregas?|<span style="color:#00E44E">Sim</span>||
-|3|Apresenta o período de revisão de cada artefato?|<span style="color:#00E44E">Sim</span>||
-|4|Apresenta o período de gravação da apresentação de cada etapa?|<span style="color:#00E44E">Sim</span>||
+|   Item  |      Descrição      |              Avaliação              |             Observação          |     Referência    |
+|:------: |---------------------|:-----------------------------------:|---------------------------------|:-----------------:|
+|<1...>   |     Desc Artefato   |       Feito/Não-Feito/Incompleto    |        Pontos Identificados     |                   | 
 
 <center>
 
-*Fonte: autor, 2023* 
+*Fonte: autor, 2023*
 
 </center>
 
-Na verificação do cronograma planejado da tabela 2 é abordado a inclusão dos nomes dos responsáveis e revisores em cada atividade, a presença de datas de início e término das entregas, o período de revisão de cada artefato e o período de gravação da apresentação de cada etapa.
+#### Critérios gerais
+CheckList desenvolvida para validar os critérios gerais elaborados de acordo com o conteúdo já mostrado, contendo os principais tópicos a serem abordados no artefato em questão:
 
-### Cronograma Executado
+1. uniformização:
+    - [ ] O artefato segue o padrão definido no projeto?
+    - [ ] O documento possui os links necessários para outros artefatos?
+    - [ ] O artefato possui as referências bibliográficas atualizadas?
+    - [ ] O documento está respeitando as margens e tamanho dos títulos?
+    - [ ] O documento está respeitando as normas da língua portuguesa? 
+2. Organização:
+    - [ ] O artefato possui introdução e descrições bem claras sobre os pontos que serão abordados? 
+    - [ ] O documento segue uma lógica de organização?
+    - [ ] O artefato possui conclusões lógicas e coesas? 
+    - [ ] O artefato está com os objetivos bem descritos explicando os principais pontos que serão abordados?
+    - [ ] As datas e os autores no histórico de versão estão atualizadas?
+    - [ ] Os títulos e subtítulos estão bem definidos e formatados?
+3. Tabelas e Figuras:
+    - [ ] As tabelas e figuras possuem legendas?
+    - [ ] As tabelas e figuras estão sendo referenciadas no texto?
+    - [ ] As tabelas estão sendo chamadas no texto?
+    - [ ] As figuras estão sendo explicadas?     
+4. Referência:
+    - [ ] As perguntas utilizadas no checklist estão referenciadas corretamente?
+    - [ ] Todas as tabelas citadas e demonstradas no artefato estão com legenda e explicação?
+
+#### Conclusão
+Será apresentado um resumo breve da qual conterá os itens apresentados e concluídos no artefato, mostrando assim, se o artefato/documento respeita a estrutura padrão estabelecida, estabelecendo uma qualidade padrão para todos os artefatos.
+
+#### Sugestões e Melhorias
+Explicar quais são os pontos que necessitam de melhorias e promover possíveis soluções.
+
+
+
+### Artefato Ferramentas do Projeto
+
+Deve ser explicado e demonstrado o que deve estar contido neste artefato, quais os objetivos do artefato, o que ele pretende mostrar, os resultados e etc.
+Uma tabela foi desenvolvida com intuito de conter os pontos principais que devem ser analisados no artefato, com sua descrição, avaliação, observação e referência.
+Como mostrado na Tabela 3:
 
 <center>
 
-*Tabela 3: Verificação checklist do cronograma executado* 
+*Tabela 3: Checklist das Ferramentas do Projeto.*
 
 </center>
 
-||Questão|Resposta|Comentário|
-|:--:|--------------|:--:|----------------|
-|1|Cada atividade apresenta os nomes de quem realizou e revisou?|<span style="color:#00E44E">Sim</span>||
-|2|Apresenta datas de inicio e fim da realização das atividades?|<span style="color:#00E44E">Sim</span>||
-|3|Apresenta o período executado da revisão de cada artefato?|<span style="color:#00E44E">Sim</span>||
-|4|Apresenta o período executado de gravação da apresentação de cada etapa?|<span style="color:#00E44E">Sim</span>||
+|   Item  |      Descrição      |              Avaliação              |             Observação          |     Referência    |
+|:------: |---------------------|:-----------------------------------:|---------------------------------|:-----------------:|
+|<1...>   |     Desc Artefato   |       Feito/Não-Feito/Incompleto    |        Pontos Identificados     |                   | 
 
 <center>
 
-*Fonte: autor, 2023* 
+*Fonte: autor, 2023*
 
 </center>
 
-O checklist da tabela 3 verifica a presença dos nomes de quem realizou e revisou cada atividade, as datas de início e fim da realização das atividades, o período de execução da revisão de cada artefato e o período de execução da gravação da apresentação de cada etapa.
-### Ferramentas do Projeto
+#### Critérios gerais
+CheckList desenvolvida para validar os critérios gerais elaborados de acordo com o conteúdo já mostrado, contendo os principais tópicos a serem abordados no artefato em questão:
+
+1. uniformização:
+    - [ ] O artefato segue o padrão definido no projeto?
+    - [ ] O documento possui os links necessários para outros artefatos?
+    - [ ] O artefato possui as referências bibliográficas atualizadas?
+    - [ ] O documento está respeitando as margens e tamanho dos títulos?
+    - [ ] O documento está respeitando as normas da língua portuguesa? 
+2. Organização:
+    - [ ] O artefato possui introdução e descrições bem claras sobre os pontos que serão abordados? 
+    - [ ] O documento segue uma lógica de organização?
+    - [ ] O artefato possui conclusões lógicas e coesas? 
+    - [ ] O artefato está com os objetivos bem descritos explicando os principais pontos que serão abordados?
+    - [ ] As datas e os autores no histórico de versão estão atualizadas?
+    - [ ] Os títulos e subtítulos estão bem definidos e formatados?
+3. Tabelas e Figuras:
+    - [ ] As tabelas e figuras possuem legendas?
+    - [ ] As tabelas e figuras estão sendo referenciadas no texto?
+    - [ ] As tabelas estão sendo chamadas no texto?
+    - [ ] As figuras estão sendo explicadas?     
+4. Referência:
+    - [ ] As perguntas utilizadas no checklist estão referenciadas corretamente?
+    - [ ] Todas as tabelas citadas e demonstradas no artefato estão com legenda e explicação?
+
+#### Conclusão
+Será apresentado um resumo breve da qual conterá os itens apresentados e concluídos no artefato, mostrando assim, se o artefato/documento respeita a estrutura padrão estabelecida, estabelecendo uma qualidade padrão para todos os artefatos.
+
+#### Sugestões e Melhorias
+Explicar quais são os pontos que necessitam de melhorias e promover possíveis soluções.
+
+### Artefato Sites Avaliados
+
+Deve ser explicado e demonstrado o que deve estar contido neste artefato, quais os objetivos do artefato, o que ele pretende mostrar, os resultados e etc.
+Uma tabela foi desenvolvida com intuito de conter os pontos principais que devem ser analisados no artefato, com sua descrição, avaliação, observação e referência.
+Como mostrado na Tabela 4:
 
 <center>
 
-*Tabela 4: Verificação checklist das ferramentas do projeto* 
+*Tabela 4: Checklist dos Sites Avaliados.*
 
 </center>
 
-||Questão|Resposta|Comentário|
-|:--:|--------------|:--:|----------------|
-|1|Possui a logo de cada ferramenta?|<span style="color:#00E44E">Sim</span>||
-|2|Possui o nome e descrição de cada ferramenta? |<span style="color:#00E44E">Sim</span>||
-|3|Na descrição, é escrito como a ferramenta foi utilizada no projeto?|<span style="color:#00E44E">Sim</span>||
-|4|Cada ferramenta é devidamente referenciada nas referências bibliográficas?|<span style="color:#00E44E">Sim</span>||
+|   Item  |      Descrição      |              Avaliação              |             Observação          |     Referência    |
+|:------: |---------------------|:-----------------------------------:|---------------------------------|:-----------------:|
+|<1...>   |     Desc Artefato   |       Feito/Não-Feito/Incompleto    |        Pontos Identificados     |                   | 
 
 <center>
 
-*Fonte: autor, 2023* 
+*Fonte: autor, 2023*
 
 </center>
 
-A tabela 4 apresenta a inspeção da presença da logo de cada ferramenta, o nome e descrição de cada ferramenta, a inclusão de informações sobre como a ferramenta foi utilizada no projeto na descrição, e a correta referência de cada ferramenta nas referências bibliográficas.
+#### Critérios gerais
+CheckList desenvolvida para validar os critérios gerais elaborados de acordo com o conteúdo já mostrado, contendo os principais tópicos a serem abordados no artefato em questão:
 
-### Sites Avaliados
+1. uniformização:
+    - [ ] O artefato segue o padrão definido no projeto?
+    - [ ] O documento possui os links necessários para outros artefatos?
+    - [ ] O artefato possui as referências bibliográficas atualizadas?
+    - [ ] O documento está respeitando as margens e tamanho dos títulos?
+    - [ ] O documento está respeitando as normas da língua portuguesa? 
+2. Organização:
+    - [ ] O artefato possui introdução e descrições bem claras sobre os pontos que serão abordados? 
+    - [ ] O documento segue uma lógica de organização?
+    - [ ] O artefato possui conclusões lógicas e coesas? 
+    - [ ] O artefato está com os objetivos bem descritos explicando os principais pontos que serão abordados?
+    - [ ] As datas e os autores no histórico de versão estão atualizadas?
+    - [ ] Os títulos e subtítulos estão bem definidos e formatados?
+3. Tabelas e Figuras:
+    - [ ] As tabelas e figuras possuem legendas?
+    - [ ] As tabelas e figuras estão sendo referenciadas no texto?
+    - [ ] As tabelas estão sendo chamadas no texto?
+    - [ ] As figuras estão sendo explicadas?     
+4. Referência:
+    - [ ] As perguntas utilizadas no checklist estão referenciadas corretamente?
+    - [ ] Todas as tabelas citadas e demonstradas no artefato estão com legenda e explicação?
+
+#### Conclusão
+Será apresentado um resumo breve da qual conterá os itens apresentados e concluídos no artefato, mostrando assim, se o artefato/documento respeita a estrutura padrão estabelecida, estabelecendo uma qualidade padrão para todos os artefatos.
+
+#### Sugestões e Melhorias
+Explicar quais são os pontos que necessitam de melhorias e promover possíveis soluções.
+
+
+### Artefato Site Selecionado
+
+Deve ser explicado e demonstrado o que deve estar contido neste artefato, quais os objetivos do artefato, o que ele pretende mostrar, os resultados e etc.
+Uma tabela foi desenvolvida com intuito de conter os pontos principais que devem ser analisados no artefato, com sua descrição, avaliação, observação e referência.
+Como mostrado na Tabela 5:
 
 <center>
 
-*Tabela 5: Verificação checklist dos sites avaliados* 
+*Tabela 5: Checklist do Site Selecionado.*
 
 </center>
 
-||Questão|Resposta|Comentário|
-|:--:|--------------|:--:|----------------|
-|1|É explicado a motivação e avaliação dos sites selecionados?|<span style="color:#00E44E">Sim</span>||
-|2|É apresentado a metodologia utilizada para avaliação?|<span style="color:#00E44E">Sim</span>||
-|3|Possui a avaliação heurística de cada site?|<span style="color:#00E44E">Sim</span>||
-|4|É apresentado os problemas encontrados no site?|<span style="color:#00E44E">Sim</span>||
+|   Item  |      Descrição      |              Avaliação              |             Observação          |     Referência    |
+|:------: |---------------------|:-----------------------------------:|---------------------------------|:-----------------:|
+|<1...>   |     Desc Artefato   |       Feito/Não-Feito/Incompleto    |        Pontos Identificados     |                   | 
 
 <center>
 
-*Fonte: autor, 2023* 
+*Fonte: autor, 2023*
 
 </center>
 
-É verificado na tabela 5 se é fornecida uma explicação sobre a motivação e avaliação dos sites selecionados, se é apresentada a metodologia utilizada para a avaliação, se há a avaliação heurística de cada site e se são apresentados os problemas encontrados em cada site avaliado.
+#### Critérios gerais
+CheckList desenvolvida para validar os critérios gerais elaborados de acordo com o conteúdo já mostrado, contendo os principais tópicos a serem abordados no artefato em questão:
 
-### Site Selecionado
+1. uniformização:
+    - [ ] O artefato segue o padrão definido no projeto?
+    - [ ] O documento possui os links necessários para outros artefatos?
+    - [ ] O artefato possui as referências bibliográficas atualizadas?
+    - [ ] O documento está respeitando as margens e tamanho dos títulos?
+    - [ ] O documento está respeitando as normas da língua portuguesa? 
+2. Organização:
+    - [ ] O artefato possui introdução e descrições bem claras sobre os pontos que serão abordados? 
+    - [ ] O documento segue uma lógica de organização?
+    - [ ] O artefato possui conclusões lógicas e coesas? 
+    - [ ] O artefato está com os objetivos bem descritos explicando os principais pontos que serão abordados?
+    - [ ] As datas e os autores no histórico de versão estão atualizadas?
+    - [ ] Os títulos e subtítulos estão bem definidos e formatados?
+3. Tabelas e Figuras:
+    - [ ] As tabelas e figuras possuem legendas?
+    - [ ] As tabelas e figuras estão sendo referenciadas no texto?
+    - [ ] As tabelas estão sendo chamadas no texto?
+    - [ ] As figuras estão sendo explicadas?     
+4. Referência:
+    - [ ] As perguntas utilizadas no checklist estão referenciadas corretamente?
+    - [ ] Todas as tabelas citadas e demonstradas no artefato estão com legenda e explicação?
+
+#### Conclusão
+Será apresentado um resumo breve da qual conterá os itens apresentados e concluídos no artefato, mostrando assim, se o artefato/documento respeita a estrutura padrão estabelecida, estabelecendo uma qualidade padrão para todos os artefatos.
+
+#### Sugestões e Melhorias
+Explicar quais são os pontos que necessitam de melhorias e promover possíveis soluções.
+
+### Artefato Processo de Design
+
+Deve ser explicado e demonstrado o que deve estar contido neste artefato, quais os objetivos do artefato, o que ele pretende mostrar, os resultados e etc.
+Uma tabela foi desenvolvida com intuito de conter os pontos principais que devem ser analisados no artefato, com sua descrição, avaliação, observação e referência.
+Como mostrado na Tabela 6:
 
 <center>
 
-*Tabela 6: Verificação checklist do site selecionado* 
+*Tabela 6: Checklist do Processo de Design.*
 
 </center>
 
-||Questão|Resposta|Comentário|
-|:--:|--------------|:--:|----------------|
-|1|É apresentado a motivação da escolha do site selecionado?|<span style="color:#00E44E">Sim</span>||
-|2|É apresentado os pontos negativos do site selecionado?|<span style="color:#00E44E">Sim</span>||
-|3|O site escolhido apresenta quem são os usuários?|<span style="color:#00E44E">Sim</span>||
-|4|A equipe do projeto possui acesso aos usuários do site?|<span style="color:#00E44E">Sim</span>||
+|   Item  |      Descrição      |              Avaliação              |             Observação          |     Referência    |
+|:------: |---------------------|:-----------------------------------:|---------------------------------|:-----------------:|
+|<1...>   |     Desc Artefato   |       Feito/Não-Feito/Incompleto    |        Pontos Identificados     |                   | 
 
 <center>
 
-*Fonte: autor, 2023* 
+*Fonte: autor, 2023*
 
 </center>
 
-Na tabela 6 é inspecionado se é apresentada a motivação da escolha do site selecionado, se são apresentados os pontos negativos do site, se o site escolhido indica quem são os usuários e se a equipe do projeto tem acesso aos usuários do site.
-### Processo de Design
+#### Critérios gerais
+CheckList desenvolvida para validar os critérios gerais elaborados de acordo com o conteúdo já mostrado, contendo os principais tópicos a serem abordados no artefato em questão:
 
-<center>
+1. uniformização:
+    - [ ] O artefato segue o padrão definido no projeto?
+    - [ ] O documento possui os links necessários para outros artefatos?
+    - [ ] O artefato possui as referências bibliográficas atualizadas?
+    - [ ] O documento está respeitando as margens e tamanho dos títulos?
+    - [ ] O documento está respeitando as normas da língua portuguesa? 
+2. Organização:
+    - [ ] O artefato possui introdução e descrições bem claras sobre os pontos que serão abordados? 
+    - [ ] O documento segue uma lógica de organização?
+    - [ ] O artefato possui conclusões lógicas e coesas? 
+    - [ ] O artefato está com os objetivos bem descritos explicando os principais pontos que serão abordados?
+    - [ ] As datas e os autores no histórico de versão estão atualizadas?
+    - [ ] Os títulos e subtítulos estão bem definidos e formatados?
+3. Tabelas e Figuras:
+    - [ ] As tabelas e figuras possuem legendas?
+    - [ ] As tabelas e figuras estão sendo referenciadas no texto?
+    - [ ] As tabelas estão sendo chamadas no texto?
+    - [ ] As figuras estão sendo explicadas?     
+4. Referência:
+    - [ ] As perguntas utilizadas no checklist estão referenciadas corretamente?
+    - [ ] Todas as tabelas citadas e demonstradas no artefato estão com legenda e explicação?
 
-*Tabela 7: Verificação checklist do processo de design* 
+#### Conclusão
+Será apresentado um resumo breve da qual conterá os itens apresentados e concluídos no artefato, mostrando assim, se o artefato/documento respeita a estrutura padrão estabelecida, estabelecendo uma qualidade padrão para todos os artefatos.
 
-</center>
-
-||Questão|Resposta|Comentário|
-|:--:|--------------|:--:|----------------|
-|1|É apresentado os diferentes modelos de ciclo de vida?|<span style="color:#00E44E">Sim</span>||
-|2|É apresentado o ciclo de vida do projeto?|<span style="color:#00E44E">Sim</span>||
-|3|Possui justificava da escolha do processo de design?|<span style="color:#00E44E">Sim</span>||
-
-<center>
-
-*Fonte: autor, 2023* 
-
-</center>
-Por fim, na tabela 7 é abordado se são apresentados os diferentes modelos de ciclo de vida, se é apresentado o ciclo de vida do projeto e se há justificativa para a escolha do processo de design.
+#### Sugestões e Melhorias
+Explicar quais são os pontos que necessitam de melhorias e promover possíveis soluções.
 
 <!-- ## Referências -->
 <!-- FONTES CITADAS UTILIZADAS PARA EMBASAR O TEXTO. REMOVER CASO NÃO HOUVER  -->
@@ -189,9 +358,9 @@ UNIVESP. "Gerência e Qualidade de Software - Aula 05 - Verificação e Validaç
 
 UNIVESP. "Técnica de revisão (Verificação) - Gerência e Qualidade de Software." 21 Jun. 2018. Disponível em: <https://youtu.be/nA1BVDd9GUE>. Acesso em: 4 de Junho de 2023.
 
-## Histórico de revisão
-
+## Histórico de Versões
 | Versão     | Data        | Descrição                                 | Autor(es)       | Revisores       |
 | :--------: | :---------: | ----------------------------------------- | --------------- | --------------- |
 | `0.0`      | 04/06/2023  | Criação do arquivo                        | Júlio César     | - |
 | `0.1`      | 04/06/2023  | Versão Inicial                            | Júlio César     | Arthur D' Assumpção<br>Arthur Trindade |
+| `0.2`      | 27/06/2023  | Correção da verificação  | Júlio César | Arthur D' Assumpção<br>Arthur Trindade |
