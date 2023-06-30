@@ -25,19 +25,24 @@ Os artefatos analisados do nosso grupo ISSNet são:
 
 ### Artefato Relato dos resultados do StoryBoard
 
-Deve ser explicado e demonstrado o que deve estar contido neste artefato, quais os objetivos do artefato, o que ele pretende mostrar, os resultados e etc.
-Uma tabela foi desenvolvida com intuito de conter os pontos principais que devem ser analisados no artefato, com sua descrição, avaliação, observação e referência.
-Como mostrado na Tabela 1:
+A Tabela 1 apresenta os resultados da verificação do artefato - <a href="https://interacao-humano-computador.github.io/2023.1-ISSNet/design_avaliacao_desenvolvimento/nivel1/storyboard/relato_storyboard/">Relato da Avaliação do Storyboard</a>
 
 <center>
 
-*Tabela 1: Checklist Relato dos resultados do StoryBoard.*
+*Tabela 1: Verificação de conteúdo (Fonte: Autor).*
 
 </center>
 
 |   Item  |      Descrição      |              Avaliação              |             Observação          |     Referência    |
 |:------: |---------------------|:-----------------------------------:|---------------------------------|:-----------------:|
-|<1...>   |     Desc Artefato   |       Feito/Não-Feito/Incompleto    |        Pontos Identificados     |                   | 
+| 1|O artefato apresenta as perguntas a serem respondidas com a avaliação?| ✔️      |                                  ||
+| 2|O artefato apresenta as questões práticas da avaliação?| ✔️      |                                  ||
+| 3|O artefato apresenta a entrevista da avaliação gravada?| ✔️      |                                  ||
+| 4|O artefato apresenta os resultados para análise?| ✔️      |                                  ||
+| 5|O artefato mostra como foi realizada a entrevista?| ✔️|                                  |  |                               
+| 6| O artefato apresenta um teste piloto antes de ser feita a entrevista?| ✔️      |                                  ||
+| 7| O artefato possui uma definição de teste piloto?| ❌      |                                  ||
+| 8| O artefato apresenta transcrição da entrevista?| ❌      |                                  ||
 
 <center>
 
@@ -49,32 +54,49 @@ Como mostrado na Tabela 1:
 CheckList desenvolvida para validar os critérios gerais elaborados de acordo com o conteúdo já mostrado, contendo os principais tópicos a serem abordados no artefato em questão:
 
 1. uniformização:
-    - [ ] O artefato segue o padrão definido no projeto?
-    - [ ] O documento possui os links necessários para outros artefatos?
-    - [ ] O artefato possui as referências bibliográficas atualizadas?
-    - [ ] O documento está respeitando as margens e tamanho dos títulos?
-    - [ ] O documento está respeitando as normas da língua portuguesa? 
+    - [✔️] O artefato segue o padrão definido no projeto?
+    - [✔️] O documento possui os links necessários para outros artefatos?
+    - [✔️] O artefato possui as referências bibliográficas atualizadas?
+    - [⚠️] O documento está respeitando as margens e tamanho dos títulos?
+    - [✔️] O documento está respeitando as normas da língua portuguesa? 
 2. Organização:
-    - [ ] O artefato possui introdução e descrições bem claras sobre os pontos que serão abordados? 
-    - [ ] O documento segue uma lógica de organização?
-    - [ ] O artefato possui conclusões lógicas e coesas? 
-    - [ ] O artefato está com os objetivos bem descritos explicando os principais pontos que serão abordados?
-    - [ ] As datas e os autores no histórico de versão estão atualizadas?
-    - [ ] Os títulos e subtítulos estão bem definidos e formatados?
+    - [✔️] O artefato possui introdução e descrições bem claras sobre os pontos que serão abordados? 
+    - [✔️] O documento segue uma lógica de organização?
+    - [✔️] O artefato possui conclusões lógicas e coesas? 
+    - [✔️] O artefato está com os objetivos bem descritos explicando os principais pontos que serão abordados?
+    - [✔️] As datas e os autores no histórico de versão estão atualizadas?
+    - [✔️] Os títulos e subtítulos estão bem definidos e formatados?
 3. Tabelas e Figuras:
-    - [ ] As tabelas e figuras possuem legendas?
-    - [ ] As tabelas e figuras estão sendo referenciadas no texto?
-    - [ ] As tabelas estão sendo chamadas no texto?
-    - [ ] As figuras estão sendo explicadas?     
+    - [✔️] As tabelas e figuras possuem legendas?
+    - [✔️] As tabelas e figuras estão sendo referenciadas no texto?
+    - [✔️] As tabelas estão sendo chamadas no texto?
+    - [✔️] As figuras estão sendo explicadas?     
 4. Referência:
-    - [ ] As perguntas utilizadas no checklist estão referenciadas corretamente?
-    - [ ] Todas as tabelas citadas e demonstradas no artefato estão com legenda e explicação?
+    - [✔️] As perguntas utilizadas no checklist estão referenciadas corretamente?
+    - [✔️] Todas as tabelas citadas e demonstradas no artefato estão com legenda e explicação?
 
 #### Conclusão
-Será apresentado um resumo breve da qual conterá os itens apresentados e concluídos no artefato, mostrando assim, se o artefato/documento respeita a estrutura padrão estabelecida, estabelecendo uma qualidade padrão para todos os artefatos.
+
+O artefato não atendeu às diretrizes estabelecidas, de acordo com a Tabela 1 e os critérios gerais. Os seguintes pontos são destacados:
+
+* O documento não está respeitando as margens e tamanho dos títulos.
+* O artefato não possui uma definição de teste piloto.
+* A transcrição da entrevista não está presente no artefato.
+
+Esses pontos representam áreas de melhoria no documento e devem ser corrigidos para garantir a conformidade com as diretrizes estabelecidas.tam áreas de melhoria no documento.
 
 #### Sugestões e Melhorias
-Explicar quais são os pontos que necessitam de melhorias e promover possíveis soluções.
+* "O documento não está respeitando as margens e tamanho dos títulos."
+
+Sugestão de melhoria: Em relação à <a href="https://interacao-humano-computador.github.io/2023.1-ISSNet/design_avaliacao_desenvolvimento/nivel1/storyboard/relato_storyboard/#gravacao-do-teste-piloto-e-entrevista">Gravação do Teste Piloto e Entrevista</a>, é necessário separar os links de gravação de forma individualizada.
+
+* "O artefato não possui uma definição de teste piloto."
+
+Sugestão de melhoria: Para obter uma visão clara da viabilidade e eficácia do <a href="https://interacao-humano-computador.github.io/2023.1-ISSNet/design_avaliacao_desenvolvimento/nivel1/storyboard/relato_storyboard/">artefato</a>, é sugerido incluir uma definição de teste piloto. Isso pode ser feito por meio da descrição dos objetivos do teste piloto, a seleção dos participantes e a elaboração de um plano de execução detalhado.
+
+* "A transcrição da entrevista não está presente no artefato."
+
+Sugestão de melhoria: Para fornecer uma documentação completa e precisa, é recomendado incluir a transcrição da entrevista no <a href="https://interacao-humano-computador.github.io/2023.1-ISSNet/design_avaliacao_desenvolvimento/nivel1/storyboard/relato_storyboard/">artefato</a>. Isso pode ser realizado através da transcrição literal das respostas e diálogos relevantes durante a entrevista, garantindo que as informações sejam registradas de forma clara e compreensível.
 
 ### Artefato Relato dos resultados da Análise de tarefas
 
