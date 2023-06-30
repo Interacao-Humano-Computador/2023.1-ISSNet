@@ -181,19 +181,22 @@ Certificar-se de que as tabelas estão sendo referenciadas corretamente no texto
 
 ### Artefato Planejamento da Avaliação do Protótipo de Papel
 
-Deve ser explicado e demonstrado o que deve estar contido neste artefato, quais os objetivos do artefato, o que ele pretende mostrar, os resultados e etc.
-Uma tabela foi desenvolvida com intuito de conter os pontos principais que devem ser analisados no artefato, com sua descrição, avaliação, observação e referência.
-Como mostrado na Tabela 3:
+A Tabela 3 apresenta os resultados da verificação do artefato - <a href="https://interacao-humano-computador.github.io/2023.1-ISSNet/design_avaliacao_desenvolvimento/nivel2/plan_avaliacao_protpapel/">Planejamento da Avaliação do Protótipo de Papel</a>
 
 <center>
 
-*Tabela 3: Checklist Planejamento da Avaliação do Protótipo de Papel.*
+*Tabela 3: Verificação de conteúdo*
 
 </center>
 
 |   Item  |      Descrição      |              Avaliação              |             Observação          |     Referência    |
 |:------: |---------------------|:-----------------------------------:|---------------------------------|:-----------------:|
-|<1...>   |     Desc Artefato   |       Feito/Não-Feito/Incompleto    |        Pontos Identificados     |                   | 
+| 1  | O artefato apresenta questões práticas da avaliação? | ✔️ | ||
+| 2  | O artefato apresenta as tarefas que serão analisadas no documento? | ✔️ | ||
+| 3  | O artefato apresente a realização do teste piloto antes de ser realizado? | ✔️ | ||
+| 4  | O artefato apresenta sobre o recrutamento dos usuários? | ✔️ | ||
+| 5  | O artefato apresenta a quantidade de usuários escolhidos? | ✔️ | ||
+| 6  | O artefato apresenta os prazos para ser posto em prática? | ✔️ | ||
 
 <center>
 
@@ -205,32 +208,32 @@ Como mostrado na Tabela 3:
 CheckList desenvolvida para validar os critérios gerais elaborados de acordo com o conteúdo já mostrado, contendo os principais tópicos a serem abordados no artefato em questão:
 
 1. uniformização:
-    - [ ] O artefato segue o padrão definido no projeto?
-    - [ ] O documento possui os links necessários para outros artefatos?
-    - [ ] O artefato possui as referências bibliográficas atualizadas?
-    - [ ] O documento está respeitando as margens e tamanho dos títulos?
-    - [ ] O documento está respeitando as normas da língua portuguesa? 
+    - [✔️] O artefato segue o padrão definido no projeto?
+    - [✔️] O documento possui os links necessários para outros artefatos?
+    - [✔️] O artefato possui as referências bibliográficas atualizadas?
+    - [✔️] O documento está respeitando as margens e tamanho dos títulos?
+    - [✔️] O documento está respeitando as normas da língua portuguesa? 
 2. Organização:
-    - [ ] O artefato possui introdução e descrições bem claras sobre os pontos que serão abordados? 
-    - [ ] O documento segue uma lógica de organização?
-    - [ ] O artefato possui conclusões lógicas e coesas? 
-    - [ ] O artefato está com os objetivos bem descritos explicando os principais pontos que serão abordados?
-    - [ ] As datas e os autores no histórico de versão estão atualizadas?
-    - [ ] Os títulos e subtítulos estão bem definidos e formatados?
+    - [✔️] O artefato possui introdução e descrições bem claras sobre os pontos que serão abordados? 
+    - [✔️] O documento segue uma lógica de organização?
+    - [✔️] O artefato possui conclusões lógicas e coesas? 
+    - [✔️] O artefato está com os objetivos bem descritos explicando os principais pontos que serão abordados?
+    - [✔️] As datas e os autores no histórico de versão estão atualizadas?
+    - [✔️] Os títulos e subtítulos estão bem definidos e formatados?
 3. Tabelas e Figuras:
-    - [ ] As tabelas e figuras possuem legendas?
-    - [ ] As tabelas e figuras estão sendo referenciadas no texto?
-    - [ ] As tabelas estão sendo chamadas no texto?
-    - [ ] As figuras estão sendo explicadas?     
+    - [✔️] As tabelas e figuras possuem legendas?
+    - [❌] As tabelas e figuras estão sendo referenciadas no texto?
+    - [❌] As tabelas estão sendo chamadas no texto?
+    - [✔️] As figuras estão sendo explicadas?     
 4. Referência:
-    - [ ] As perguntas utilizadas no checklist estão referenciadas corretamente?
-    - [ ] Todas as tabelas citadas e demonstradas no artefato estão com legenda e explicação?
+    - [✔️] As perguntas utilizadas no checklist estão referenciadas corretamente?
+    - [❌] Todas as tabelas citadas e demonstradas no artefato estão com legenda e explicação?
 
 #### Conclusão
-Será apresentado um resumo breve da qual conterá os itens apresentados e concluídos no artefato, mostrando assim, se o artefato/documento respeita a estrutura padrão estabelecida, estabelecendo uma qualidade padrão para todos os artefatos.
+De acordo com a "Tabela 3: Verificação de conteúdo", todos os pontos abordados estão sendo seguidos corretamente no artefato. No entanto, nos critérios gerais, foi identificado um único erro, que é a falta de referência a uma tabela no texto.
 
 #### Sugestões e Melhorias
-Explicar quais são os pontos que necessitam de melhorias e promover possíveis soluções.
+Recomenda-se adicionar a referência adequada no texto para a tabela não referenciada, garantindo assim a integridade e coerência do documento. No geral, o artefato está em conformidade com as diretrizes estabelecidas, demonstrando um bom cumprimento dos critérios de conteúdo definidos na tabela.
 
 ### Artefato Planejamento do Relato da Avaliação do Protótipo de Papel
 
