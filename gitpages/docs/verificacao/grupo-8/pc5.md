@@ -29,7 +29,7 @@ A Tabela 1 apresenta os resultados da verificação do artefato - <a href="https
 
 <center>
 
-*Tabela 1: Verificação de conteúdo (Fonte: Autor).*
+*Tabela 1: Verificação de conteúdo.*
 
 </center>
 
@@ -100,19 +100,24 @@ Sugestão de melhoria: Para fornecer uma documentação completa e precisa, é r
 
 ### Artefato Relato dos resultados da Análise de tarefas
 
-Deve ser explicado e demonstrado o que deve estar contido neste artefato, quais os objetivos do artefato, o que ele pretende mostrar, os resultados e etc.
-Uma tabela foi desenvolvida com intuito de conter os pontos principais que devem ser analisados no artefato, com sua descrição, avaliação, observação e referência.
-Como mostrado na Tabela 2:
+A Tabela 2 apresenta os resultados da verificação do artefato - <a href="https://interacao-humano-computador.github.io/2023.1-ISSNet/design_avaliacao_desenvolvimento/nivel1/analise_de_tarefas/relato_analisetarefas/">Relato da Avaliação da Análise de Tarefas</a>
 
 <center>
 
-*Tabela 2: Checklist Relato dos resultados da Análise de tarefas.*
+*Tabela 2: Verificação de conteúdo*
 
 </center>
 
 |   Item  |      Descrição      |              Avaliação              |             Observação          |     Referência    |
 |:------: |---------------------|:-----------------------------------:|---------------------------------|:-----------------:|
-|<1...>   |     Desc Artefato   |       Feito/Não-Feito/Incompleto    |        Pontos Identificados     |                   | 
+| 1   | O artefato apresenta as perguntas a serem respondidas com a avaliação?| ✔️      |                                  ||
+| 2   | O artefato apresenta as questões práticas da avaliação?| ⚠️      |Há dados relacionados a questões práticas, no entanto, não existe um campo específico denominado 'questões práticas'.                                  ||
+| 3   | O artefato apresenta a entrevista da avaliação gravada?| ✔️      |                                  ||
+| 4   | O artefato apresenta os resultados para análise?| ✔️|                                  ||
+| 5   | O artefato mostra como foi realizada a entrevista?| ❌      |                                  |     |                            
+| 6  | O artefato apresenta um teste piloto antes de ser feita a entrevista?| ❌      |                                  ||
+| 7   | O artefato possui uma definição de teste piloto?| ❌      |                                  ||
+| 8   | O artefato apresenta transcrição da entrevista?| ❌      |                                  ||
 
 <center>
 
@@ -124,33 +129,55 @@ Como mostrado na Tabela 2:
 CheckList desenvolvida para validar os critérios gerais elaborados de acordo com o conteúdo já mostrado, contendo os principais tópicos a serem abordados no artefato em questão:
 
 1. uniformização:
-    - [ ] O artefato segue o padrão definido no projeto?
-    - [ ] O documento possui os links necessários para outros artefatos?
-    - [ ] O artefato possui as referências bibliográficas atualizadas?
-    - [ ] O documento está respeitando as margens e tamanho dos títulos?
-    - [ ] O documento está respeitando as normas da língua portuguesa? 
+    - [✔️] O artefato segue o padrão definido no projeto?
+    - [⚠️] O documento possui os links necessários para outros artefatos?
+    - [✔️] O artefato possui as referências bibliográficas atualizadas?
+    - [✔️] O documento está respeitando as margens e tamanho dos títulos?
+    - [✔️] O documento está respeitando as normas da língua portuguesa? 
 2. Organização:
-    - [ ] O artefato possui introdução e descrições bem claras sobre os pontos que serão abordados? 
-    - [ ] O documento segue uma lógica de organização?
-    - [ ] O artefato possui conclusões lógicas e coesas? 
-    - [ ] O artefato está com os objetivos bem descritos explicando os principais pontos que serão abordados?
-    - [ ] As datas e os autores no histórico de versão estão atualizadas?
-    - [ ] Os títulos e subtítulos estão bem definidos e formatados?
+    - [✔️] O artefato possui introdução e descrições bem claras sobre os pontos que serão abordados? 
+    - [✔️] O documento segue uma lógica de organização?
+    - [✔️] O artefato possui conclusões lógicas e coesas? 
+    - [✔️] O artefato está com os objetivos bem descritos explicando os principais pontos que serão abordados?
+    - [✔️] As datas e os autores no histórico de versão estão atualizadas?
+    - [✔️] Os títulos e subtítulos estão bem definidos e formatados?
 3. Tabelas e Figuras:
-    - [ ] As tabelas e figuras possuem legendas?
-    - [ ] As tabelas e figuras estão sendo referenciadas no texto?
-    - [ ] As tabelas estão sendo chamadas no texto?
-    - [ ] As figuras estão sendo explicadas?     
+    - [❌] As tabelas e figuras possuem legendas?
+    - [❌] As tabelas e figuras estão sendo referenciadas no texto?
+    - [❌] As tabelas estão sendo chamadas no texto?
+    - [✔️] As figuras estão sendo explicadas?     
 4. Referência:
-    - [ ] As perguntas utilizadas no checklist estão referenciadas corretamente?
-    - [ ] Todas as tabelas citadas e demonstradas no artefato estão com legenda e explicação?
+    - [❌] As perguntas utilizadas no checklist estão referenciadas corretamente?
+    - [❌] Todas as tabelas citadas e demonstradas no artefato estão com legenda e explicação?
 
 #### Conclusão
-Será apresentado um resumo breve da qual conterá os itens apresentados e concluídos no artefato, mostrando assim, se o artefato/documento respeita a estrutura padrão estabelecida, estabelecendo uma qualidade padrão para todos os artefatos.
+O documento está bem apresentado, no entanto, foram identificados alguns erros. Em relação ao conteúdo, há informações substanciais sobre a pós-entrevista, mas pode ter faltado documentar um registro durante a entrevista e um pré-entrevista. Além disso, na parte de padronização, é necessário melhorar a construção de tabelas e a chamada das tabelas no texto.
 
 #### Sugestões e Melhorias
-Explicar quais são os pontos que necessitam de melhorias e promover possíveis soluções.
+* Na Tabela 2, ponto 5.
 
+Falta contar como foi realizado a entrevista, e pode ser solucionado adicionando um cronograma executado referente à reunião, detalhando o processo de entrevista e as etapas seguidas.
+
+* Na Tabela 2, ponto 6 e 7.
+
+Sugere-se incluir uma definição de teste piloto no artefato. Isso pode ser feito descrevendo os objetivos do teste piloto, selecionando os participantes e elaborando um plano de execução detalhado.
+
+* Na Tabela 2, ponto 8. 
+
+É recomendado incluir a transcrição da entrevista no artefato. Isso pode ser alcançado por meio da transcrição literal das respostas e diálogos relevantes durante a entrevista, garantindo uma documentação completa e precisa
+
+* "O documento possui os links necessários para outros artefatos?" 
+
+É necessário verificar o artefato para garantir se realmente não são necessários links para outros artefatos. Recomenda-se revisar o conteúdo e as informações relacionadas para garantir a integração adequada entre os artefatos.
+
+* "As perguntas utilizadas no checklist estão referenciadas corretamente?" "As tabelas e figuras estão sendo referenciadas no texto?" "As tabelas e figuras possuem legendas?"
+
+Verificar se as tabelas possuem legendas e, se não possuírem, adicionar as legendas correspondentes.
+Certificar-se de que as tabelas estão sendo referenciadas corretamente no texto, proporcionando uma conexão clara entre o conteúdo e as representações gráficas.
+
+*  "As perguntas utilizadas no checklist estão referenciadas corretamente?"
+
+É necessário referenciar o <a href="https://interacao-humano-computador.github.io/2023.1-ISSNet/design_avaliacao_desenvolvimento/nivel1/analise_de_tarefas/plan_relato_analisetarefas/">planejamento do relato</a>, onde as perguntas foram selecionadas. Verificar se as referências estão corretas e se todas as tabelas citadas e demonstradas no artefato possuem legenda e explicação adequadas.
 
 ### Artefato Planejamento da Avaliação do Protótipo de Papel
 
