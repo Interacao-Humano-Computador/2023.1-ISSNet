@@ -237,19 +237,22 @@ Recomenda-se adicionar a referência adequada no texto para a tabela não refere
 
 ### Artefato Planejamento do Relato da Avaliação do Protótipo de Papel
 
-Deve ser explicado e demonstrado o que deve estar contido neste artefato, quais os objetivos do artefato, o que ele pretende mostrar, os resultados e etc.
-Uma tabela foi desenvolvida com intuito de conter os pontos principais que devem ser analisados no artefato, com sua descrição, avaliação, observação e referência.
-Como mostrado na Tabela 4:
+A Tabela 4 apresenta os resultados da verificação do artefato - <a href="https://interacao-humano-computador.github.io/2023.1-ISSNet/design_avaliacao_desenvolvimento/nivel2/plan_relato_protpapel/">Planejamento do Relato da Avaliação de Protótipo de Papel</a>
 
 <center>
 
-*Tabela 4: Checklist Planejamento do Relato da Avaliação do Protótipo de Papel.*
+*Tabela 4: Verificação de conteúdo.*
 
 </center>
 
 |   Item  |      Descrição      |              Avaliação              |             Observação          |     Referência    |
 |:------: |---------------------|:-----------------------------------:|---------------------------------|:-----------------:|
-|<1...>   |     Desc Artefato   |       Feito/Não-Feito/Incompleto    |        Pontos Identificados     |                   | 
+| 1  | O artefato apresenta as perguntas que serão executadas durante a avaliação? | ❌ | ||
+| 2  | O artefato apresenta sobre o método que será utilizado durante a avaliação? | ✔️ | ||
+| 3  | O artefato apresenta sobre as pessoas que serão envolvidas para a avaliação? | ✔️ |  ||
+| 4  | O artefato apresenta a data e local onde será realizada a avaliação? | ❌ | ||
+| 5  | O artefato apresenta sugestões para o projeto? | ✔️ |  ||
+| 6  | O artefato apresenta os problemas encontrados? | ✔️ |  ||
 
 <center>
 
@@ -261,32 +264,60 @@ Como mostrado na Tabela 4:
 CheckList desenvolvida para validar os critérios gerais elaborados de acordo com o conteúdo já mostrado, contendo os principais tópicos a serem abordados no artefato em questão:
 
 1. uniformização:
-    - [ ] O artefato segue o padrão definido no projeto?
-    - [ ] O documento possui os links necessários para outros artefatos?
-    - [ ] O artefato possui as referências bibliográficas atualizadas?
-    - [ ] O documento está respeitando as margens e tamanho dos títulos?
-    - [ ] O documento está respeitando as normas da língua portuguesa? 
+    - [✔️] O artefato segue o padrão definido no projeto?
+    - [❌] O documento possui os links necessários para outros artefatos?
+    - [✔️] O artefato possui as referências bibliográficas atualizadas?
+    - [✔️] O documento está respeitando as margens e tamanho dos títulos?
+    - [✔️] O documento está respeitando as normas da língua portuguesa? 
 2. Organização:
-    - [ ] O artefato possui introdução e descrições bem claras sobre os pontos que serão abordados? 
-    - [ ] O documento segue uma lógica de organização?
-    - [ ] O artefato possui conclusões lógicas e coesas? 
-    - [ ] O artefato está com os objetivos bem descritos explicando os principais pontos que serão abordados?
-    - [ ] As datas e os autores no histórico de versão estão atualizadas?
-    - [ ] Os títulos e subtítulos estão bem definidos e formatados?
+    - [✔️] O artefato possui introdução e descrições bem claras sobre os pontos que serão abordados? 
+    - [✔️] O documento segue uma lógica de organização?
+    - [✔️] O artefato possui conclusões lógicas e coesas? 
+    - [❌] O artefato está com os objetivos bem descritos explicando os principais pontos que serão abordados?
+    - [⚠️] As datas e os autores no histórico de versão estão atualizadas?
+    - [✔️] Os títulos e subtítulos estão bem definidos e formatados?
 3. Tabelas e Figuras:
-    - [ ] As tabelas e figuras possuem legendas?
-    - [ ] As tabelas e figuras estão sendo referenciadas no texto?
-    - [ ] As tabelas estão sendo chamadas no texto?
-    - [ ] As figuras estão sendo explicadas?     
+    - [✔️] As tabelas e figuras possuem legendas?
+    - [✔️] As tabelas e figuras estão sendo referenciadas no texto?
+    - [✔️] As tabelas estão sendo chamadas no texto?
+    - [✔️] As figuras estão sendo explicadas?     
 4. Referência:
-    - [ ] As perguntas utilizadas no checklist estão referenciadas corretamente?
-    - [ ] Todas as tabelas citadas e demonstradas no artefato estão com legenda e explicação?
+    - [❌] As perguntas utilizadas no checklist estão referenciadas corretamente?
+    - [✔️] Todas as tabelas citadas e demonstradas no artefato estão com legenda e explicação?
 
 #### Conclusão
-Será apresentado um resumo breve da qual conterá os itens apresentados e concluídos no artefato, mostrando assim, se o artefato/documento respeita a estrutura padrão estabelecida, estabelecendo uma qualidade padrão para todos os artefatos.
+O artefato apresenta algumas inconsistências em relação aos demais documentos normais, sendo necessária uma revisão para harmonizá-lo. Seguindo a tabela de verificação, foram identificados alguns campos importantes ausentes, tais como o objetivo da avaliação, data e hora da avaliação, e um campo para registrar as perguntas realizadas durante a avaliação. É importante revisar o documento para garantir que essas informações sejam incluídas adequadamente.
+
+Além disso, é necessário verificar se o documento realmente não precisa de links para outros artefatos. Recomenda-se revisar o conteúdo e as informações relacionadas para garantir uma integração adequada entre os artefatos, caso seja necessário.
+
+Por último, é importante completar o histórico de versão do artefato, assegurando que todas as modificações, revisões e atualizações sejam registradas de forma clara e organizada.
 
 #### Sugestões e Melhorias
-Explicar quais são os pontos que necessitam de melhorias e promover possíveis soluções.
+* "O artefato apresenta as perguntas que serão executadas durante a avaliação?"
+
+Não possui, adicionar as perguntas.
+
+* "O artefato apresenta a data e local onde será realizada a avaliação?"
+
+Não possui, adicionar os datos referentes a avaliação.
+
+* "O documento possui os links necessários para outros artefatos?"
+
+Não possui, verificar se o documento realmente não precisa de links para outros artefatos. Recomenda-se revisar o conteúdo e as informações relacionadas para garantir uma integração adequada entre os artefatos, caso seja necessário.
+
+* "O artefato está com os objetivos bem descritos explicando os principais pontos que serão abordados?"
+
+Não possui, adicionar objetivo.
+
+* "As datas e os autores no histórico de versão estão atualizadas?"
+
+Não, histórico de versão não possui revisores.
+
+* "As perguntas utilizadas no checklist estão referenciadas corretamente?"
+
+Não possui, nem referencia e nem perguntas.
+
+
 
 
 <!-- ## Referências -->
@@ -305,3 +336,4 @@ UNIVESP. "Técnica de revisão (Verificação) - Gerência e Qualidade de Softwa
 | Versão     | Data        | Descrição                                 | Autor(es)       | Revisores       |
 | :--------: | :---------: | ----------------------------------------- | --------------- | --------------- |
 | `0.0`      | 24/06/2023  | Criação do arquivo                        | Júlio César     | -               |
+| `0.1`      | 30/06/2023  | finalizando a verificação pc5                        | Miguel Moreira    | Marcus Vinicius           |
