@@ -39,7 +39,12 @@ Como mostrado na Tabela 1:
 
 |   Item  |      Descrição      |              Avaliação              |             Observação          |     Referência    |
 |:------: |---------------------|:-----------------------------------:|---------------------------------|:-----------------:|
-| 1  |    O cronograma apresenta    |           |            |                  | 
+|    1    | O cronograma apresenta todas as etapas do projeto?        | | | |
+|    2    | Cada etapa contém as atividades corretas daquela entrega?                 | | | |
+|    3    | Cada etapa possui data de inicio e término das atividades? | | | |
+|    4    | Cada etapa possui os responsáveis por cada atividade?  | | | |
+|    5    | Cada etapa possui a data de inicio e término da revisão? | | | |
+|    6    | Cada etapa possui os responsáveis pela revisão de cada atividade? | | | |
 
 <center>
 
@@ -92,7 +97,12 @@ Como mostrado na Tabela 2:
 
 |   Item  |      Descrição      |              Avaliação              |             Observação          |     Referência    |
 |:------: |---------------------|:-----------------------------------:|---------------------------------|:-----------------:|
-|<1...>   |     Desc Artefato   |       Feito/Não-Feito/Incompleto    |        Pontos Identificados     |                   | 
+|    1    | O cronograma apresenta todas as etapas executadas do projeto?        | | | |
+|    2    | Cada etapa contém as atividades corretas daquela entrega?                 | | | |
+|    3    | Cada etapa possui data de inicio e término das atividades? | | | |
+|    4    | Cada etapa possui os responsáveis por cada atividade?  | | | |
+|    5    | Cada etapa possui a data de inicio e término da revisão? | | | |
+|    6    | Cada etapa possui os responsáveis pela revisão de cada atividade? | | | |
 
 <center>
 
@@ -147,7 +157,10 @@ Como mostrado na Tabela 3:
 
 |   Item  |      Descrição      |              Avaliação              |             Observação          |     Referência    |
 |:------: |---------------------|:-----------------------------------:|---------------------------------|:-----------------:|
-|<1...>   |     Desc Artefato   |       Feito/Não-Feito/Incompleto    |        Pontos Identificados     |                   | 
+|    1    | As ferramentas utilizadas possuem imagem da logo?        | | | |
+|    2    | As ferramentas utilizadas possuem uma breve descrição, explicando como foi utilizada no projeto? | | | |
+|    3    | As ferramentas apresentadas foram realmente utilizadas? | | | |
+|    4    | Algum dos artefatos foi utilizado uma ferramenta que não está contida na tabela?  | | | |
 
 <center>
 
@@ -200,7 +213,14 @@ Como mostrado na Tabela 4:
 
 |   Item  |      Descrição      |              Avaliação              |             Observação          |     Referência    |
 |:------: |---------------------|:-----------------------------------:|---------------------------------|:-----------------:|
-|<1...>   |     Desc Artefato   |       Feito/Não-Feito/Incompleto    |        Pontos Identificados     |                   | 
+|    1    | É apresentado o método utilizado para a avaliação dos sites?    |          |             | Simone, 2010, Cap. 10| 
+|    2    | É explicado brevemente cada site, seus pontos positivos e negativos?       |          |             |                   | 
+|    3    | É apresentado as avaliações de cada site?       |          |             |                   | 
+|    4    | As avaliações heurísticas seguem as heurísticas de Nielsen? (visibilidade do estado do sistema, correspondência com o mundo real, controle e liberdade do usuário, consistência e padronização, reconhecimento em vez de memorização, flexibilidade e eficiência de uso, projeto estético e minimalista, prevenção de erros, reconhecimento e recuperação de erros, ajuda e documentação)       |          |             | Simone , 2010, p.317; ; Nielsen (1993)| 
+|    5    | Cada problema encontrado nas avaliações indica local, gravidade, justificativa e recomendações de solução? | | | Simone, 2010, p.318; Nielsen (1994)|
+|    6    | É julgado corretamente a severidade dos problemas, com base na frequência, impacto e persistência? | | | Simone, 2010, p.319; Nielsen (1994)|
+|    7    | A severidade é categorizada segundo a escala de Nielsen (problema cosmético, problema pequeno, problema grande, problema catastrófico)? | | | Simone, 2010, p.320; Nielsen (1994)|
+|    8    | Os relatórios das avaliações apresentam objetivos, escopo da avaliação, descrição da avaliação heurística, diretrizes utilizadas, número e perfil dos avaliadores e a lista de problemas encontrados?  | | | Simone, 2010, p.321|
 
 <center>
 
@@ -254,7 +274,14 @@ Como mostrado na Tabela 5:
 
 |   Item  |      Descrição      |              Avaliação              |             Observação          |     Referência    |
 |:------: |---------------------|:-----------------------------------:|---------------------------------|:-----------------:|
-|<1...>   |     Desc Artefato   |       Feito/Não-Feito/Incompleto    |        Pontos Identificados     |                   | 
+|    1    | É apresentado o método utilizado para a avaliação do site?    |          |             | Simone, 2010, Cap. 10| 
+|    2    | É explicado brevemente o site, seus pontos positivos e negativos?       |          |             |                   | 
+|    3    | É apresentado a avaliação do site e justificativa da escolha?       |          |             |                   | 
+|    4    | A avaliação heurística segue as heurísticas de Nielsen? (visibilidade do estado do sistema, correspondência com o mundo real, controle e liberdade do usuário, consistência e padronização, reconhecimento em vez de memorização, flexibilidade e eficiência de uso, projeto estético e minimalista, prevenção de erros, reconhecimento e recuperação de erros, ajuda e documentação)       |          |             | Simone , 2010, p.317; ; Nielsen (1993)| 
+|    5    | Cada problema encontrado nas avaliações indica local, gravidade, justificativa e recomendações de solução? | | | Simone, 2010, p.318; Nielsen (1994)|
+|    6    | É julgado corretamente a severidade dos problemas, com base na frequência, impacto e persistência? | | | Simone, 2010, p.319; Nielsen (1994)|
+|    7    | A severidade é categorizada segundo a escala de Nielsen (problema cosmético, problema pequeno, problema grande, problema catastrófico)? | | | Simone, 2010, p.320; Nielsen (1994)|
+|    8    | O relatório da avaliação apresenta objetivos, escopo da avaliação, descrição da avaliação heurística, diretrizes utilizadas, número e perfil dos avaliadores e a lista de problemas encontrados?  | | | Simone, 2010, p.321|
 
 <center>
 
@@ -307,7 +334,10 @@ Como mostrado na Tabela 6:
 
 |   Item  |      Descrição      |              Avaliação              |             Observação          |     Referência    |
 |:------: |---------------------|:-----------------------------------:|---------------------------------|:-----------------:|
-|<1...>   |     Desc Artefato   |       Feito/Não-Feito/Incompleto    |        Pontos Identificados     |                   | 
+|   1     |  É explicado brevemente cada processo de design? (Ciclo Simples, Ciclo em Estrela, Engenharia de Usabilidade de Nielsen,  Engenharia de Usabilidade de Mayhew)  |           |            |Simone, 2010, p.99|
+|   2     |  É apresentado a imagem de cada ciclo?  |           |            |Simone, 2010, p.99|
+|   3     |  É apresentado qual foi o ciclo escolhido pelo grupo, junto com a justificativa da escolha? |           |            | |
+|   4     |  O ciclo escolhido foi seguido corretamente, com as atividades realizadas na ordem correta e artefatos estão em coerência com suas dependências apresentadas no ciclo? (Exemplo: Guia de estilo depende de metas de usabilidade no ciclo Mayhew) |           |            |Simone, 2010, p.99|
 
 <center>
 
@@ -362,3 +392,4 @@ UNIVESP. "Técnica de revisão (Verificação) - Gerência e Qualidade de Softwa
 | Versão     | Data        | Descrição                                 | Autor(es)       | Revisores       |
 | :--------: | :---------: | ----------------------------------------- | --------------- | --------------- |
 | `0.0`      | 27/06/2023  | Criação do arquivo                        | Júlio César     | - |
+| `0.1`      | 01/07/2023  | Adiciona checklists                       | Júlio César     | Arthur D' Assumpção<br>Arthur Trindade |
