@@ -43,7 +43,7 @@ Como mostrado na Tabela 1:
 |    2    | Cada etapa contém as atividades corretas daquela entrega?  |⚠️INCOMPLETO | Cronograma da etapa 6 não apresenta verificação dos artefatos a partir do 6.1 | |
 |    3    | Cada etapa possui data de inicio e término das atividades? | ✔️FEITO| | |
 |    4    | Cada etapa possui os responsáveis por cada atividade?  | ✔️FEITO| | |
-|    5    | Cada etapa possui a data de inicio e término da revisão? | ⚠️INCOMPLETO | Cronograma da etapa 1 não tem data de revisão para a atividade "Escolher site para o projeto";<br>Cronograma da etapa 5 não possui data de revisão da tarefa "Recrutamento de participantes"| |
+|    5    | Cada etapa possui a data de inicio e término da revisão? | ⚠️INCOMPLETO | Cronograma da etapa 1 não tem data de revisão para a atividade "Escolher site para o projeto";<br><br>Cronograma da etapa 5 não possui data de revisão da tarefa "Recrutamento de participantes"| |
 |    6    | Cada etapa possui os responsáveis pela revisão de cada atividade? | ✔️FEITO |  | 
 
 <center>
@@ -52,13 +52,13 @@ Como mostrado na Tabela 1:
 
 </center>
 
-OBS: A revisão e suas respectivas datas de inicio e termino de atividades não entregáveis (que não são artefatos, mas fazem parte dele) foram desconsideradas.
+**OBS:** A revisão e suas respectivas datas de inicio e termino de atividades não entregáveis (que não são artefatos, mas fazem parte dele) foram desconsideradas.
 
 #### Critérios gerais
 CheckList desenvolvida para validar os critérios gerais elaborados de acordo com o conteúdo já mostrado, contendo os principais tópicos a serem abordados no artefato em questão:
 
 1. uniformização:
-    - [❌] O artefato segue o padrão definido no projeto? **[1]**
+    - [❌] O artefato segue o padrão definido no projeto? [[1]](#check1ref1)
     - [✔️] O documento possui os links necessários para outros artefatos?
     - [✔️] O artefato possui as referências bibliográficas atualizadas?
     - [✔️] O documento está respeitando as margens e tamanho dos títulos?
@@ -68,7 +68,7 @@ CheckList desenvolvida para validar os critérios gerais elaborados de acordo co
     - [✔️] O documento segue uma lógica de organização?
     - [✔️] O artefato possui conclusões lógicas e coesas? 
     - [✔️] O artefato está com os objetivos bem descritos explicando os principais pontos que serão abordados?
-    - [⚠️] As datas e os autores no histórico de versão estão atualizadas? **[2]**
+    - [⚠️] As datas e os autores no histórico de versão estão atualizadas? [[2]](#check1ref1)
     - [✔️] Os títulos e subtítulos estão bem definidos e formatados?
 3. Tabelas e Figuras:
     - [✔️] As tabelas e figuras possuem legendas? 
@@ -79,9 +79,9 @@ CheckList desenvolvida para validar os critérios gerais elaborados de acordo co
     - [✔️] As perguntas utilizadas no checklist estão referenciadas corretamente?
     - [❌] Todas as tabelas citadas e demonstradas no artefato estão com legenda e explicação?
 
-**[1]** Legendas da tabela não estão seguindo o padrão dos outros documentos, em que a legenda fica em cima da tabela e fonte fica em baixo, além disso as tabelas não possuem fonte
+<span id="check1ref1"> [1]</span> Legendas da tabela não estão seguindo o padrão dos outros documentos, em que a legenda fica em cima da tabela e fonte fica em baixo, além disso as tabelas não possuem fonte
 
-**[2]** Duas alterações no documento não possuem revisores
+<span id="check1ref1"> [2]</span> Duas alterações no documento não possuem revisores
 
 #### Conclusão
 Apresenta alguns erros fáceis de corrigir como padronização das legendas, fonte e tabelas que não são chamadas no texto, algumas atividades da verificação não foram colocadas no cronograma, pois não se sabia o escopo dessa atividade no período da realização do documento.
@@ -106,7 +106,7 @@ Como mostrado na Tabela 2:
 |    2    | Cada etapa contém as atividades corretas daquela entrega?                 |⚠️INCOMPLETO | Cronograma da etapa 6 não apresenta verificação dos artefatos a partir do 6.1 | |
 |    3    | Cada etapa possui data de inicio e término das atividades? | ⚠️INCOMPLETO | Cronograma da etapa 3,4,5,6 e 8 não possui data de realização para a tarefa "Criação da ata de reunião"[1] | |
 |    4    | Cada etapa possui os responsáveis por cada atividade?  | ✔️FEITO | | |
-|    5    | Cada etapa possui a data de inicio e término da revisão? |⚠️INCOMPLETO | Cronograma da etapa 1 não tem data de revisão para a atividade "Escolher site para o projeto";<br>Cronograma da etapa 3,4,5,6 e 8 não possui data de revisão da tarefa "Criação da ata de reunião"[1];<br>Cronograma da etapa 5 não possui data de revisão da tarefa "Recrutamento de participantes"| |
+|    5    | Cada etapa possui a data de inicio e término da revisão? |⚠️INCOMPLETO | Cronograma da etapa 1 não tem data de revisão para a atividade "Escolher site para o projeto";<br>Cronograma da etapa 3,4,5,6 e 8 não possui data de revisão da tarefa "Criação da ata de reunião"[[1]](#check2ref1);<br><br>Cronograma da etapa 5 não possui data de revisão da tarefa "Recrutamento de participantes"| |
 |    6    | Cada etapa possui os responsáveis pela revisão de cada artefato? | ✔️FEITO |  | 
 
 <center>
@@ -115,7 +115,7 @@ Como mostrado na Tabela 2:
 
 </center>
 
-[1] A atividade "criação da ata da reunião" não está presente no cronograma executado da etapa 6
+<span id="check2ref1">[1]</span> A atividade "criação da ata da reunião" não está presente no cronograma executado da etapa 6
 
 OBS: A revisão e suas respectivas datas de inicio e termino de atividades não entregáveis (que não são artefatos, mas fazem parte dele) foram desconsideradas.
 
@@ -123,7 +123,7 @@ OBS: A revisão e suas respectivas datas de inicio e termino de atividades não 
 CheckList desenvolvida para validar os critérios gerais elaborados de acordo com o conteúdo já mostrado, contendo os principais tópicos a serem abordados no artefato em questão:
 
 1. uniformização:
-    - [❌] O artefato segue o padrão definido no projeto? **[1]**
+    - [❌] O artefato segue o padrão definido no projeto? [[2]](#check2ref2)
     - [✔️] O documento possui os links necessários para outros artefatos?
     - [✔️] O artefato possui as referências bibliográficas atualizadas?
     - [✔️] O documento está respeitando as margens e tamanho dos títulos?
@@ -145,7 +145,8 @@ CheckList desenvolvida para validar os critérios gerais elaborados de acordo co
     - [❌] Todas as tabelas citadas e demonstradas no artefato estão com legenda e explicação?
 
 
-**[1]** Legendas da tabela não estão seguindo o padrão dos outros documentos, em que a legenda fica em cima da tabela e fonte fica em baixo, além disso as tabelas não possuem fonte
+<span id="check2ref2">[2]</span> Legendas da tabela não estão seguindo o padrão dos outros documentos, em que a legenda fica em cima da tabela e fonte fica em baixo, além disso as tabelas não possuem fonte
+
 #### Conclusão
 Apresenta alguns erros fáceis de corrigir como padronização das legendas, fonte e tabelas que não são chamadas no texto, algumas atividades da verificação não foram colocadas no cronograma, pois não se sabia o escopo dessa atividade no período da realização do documento.
 #### Sugestões e Melhorias
@@ -168,7 +169,7 @@ Como mostrado na Tabela 3:
 |    1    | As ferramentas utilizadas possuem imagem da logo?        | ✔️FEITO | | |
 |    2    | As ferramentas utilizadas possuem uma breve descrição, explicando como foi utilizada no projeto? |✔️FEITO| | |
 |    3    | As ferramentas apresentadas foram realmente utilizadas? |⚠️INCOMPLETO| A ferramentas Usabilla nunca foi utilizada | |
-|    4    | Todas as ferramentas utilizadas nos artefatos estão contidas na tabela?  |✔️FEITO| | |
+|    4    | Todas as ferramentas utilizadas nos artefatos estão contidas na tabela?  |⚠️INCOMPLETO<br><br>A ferramenta "This person doesn't exist" foi utilizada para identificação das personas, mas não está presente na tabela| | |
 
 <center>
 
@@ -242,7 +243,7 @@ CheckList desenvolvida para validar os critérios gerais elaborados de acordo co
 1. uniformização:
     - [✔️] O artefato segue o padrão definido no projeto?
     - [✔️] O documento possui os links necessários para outros artefatos?
-    - [❌] O artefato possui as referências bibliográficas atualizadas? **[1]**
+    - [❌] O artefato possui as referências bibliográficas atualizadas? [[1]](#check4ref1)
     - [✔️] O documento está respeitando as margens e tamanho dos títulos?
     - [✔️] O documento está respeitando as normas da língua portuguesa? 
 2. Organização:
@@ -261,7 +262,7 @@ CheckList desenvolvida para validar os critérios gerais elaborados de acordo co
     - [✔️] As perguntas utilizadas no checklist estão referenciadas corretamente?
     - [✔️] Todas as tabelas citadas e demonstradas no artefato estão com legenda e explicação?
 
-[1] Recomenda-se referenciar o livro da Simone, para a adição da explicação breve do método de avaliação por heurísticas de Nielsen
+<span id="check4ref1">[1]</span> Recomenda-se referenciar o livro da Simone, para a adição da explicação breve do método de avaliação por heurísticas de Nielsen
 #### Conclusão
 Alguns sites avaliados não possuem documentos de execução da avaliação e outros não tem planejamento ou ambos, site Buser não é explicado e não tem documentos de avaliação, a avaliação do SIGAA não tem sugestões de melhoria
 
@@ -283,8 +284,8 @@ Como mostrado na Tabela 5:
 |   Item  |      Descrição      |              Avaliação              |             Observação          |     Referência    |
 |:------: |---------------------|:-----------------------------------:|---------------------------------|:-----------------:|
 |    1    | É explicado o método utilizado para a avaliação do site?    |❌NÃO-FEITO|             | Simone, 2010, Cap. 10| 
-|    2    | É explicado brevemente o site, seus pontos positivos e negativos?       |✔️FEITO|             |                   | 
-|    3    | É apresentado a avaliação do site e justificativa da escolha?       |✔️FEITO|             |                   | 
+|    1    | É explicado brevemente o site, seus pontos positivos e negativos?       |✔️FEITO|             |                   | 
+|    2    | É apresentado a avaliação do site e justificativa da escolha?       |✔️FEITO|             |                   | 
 
 <center>
 
@@ -292,14 +293,14 @@ Como mostrado na Tabela 5:
 
 </center>
 
-OBS: Foi considerado que a avaliação com as heurísticas de Nielsen deveriam estar contidas no artefato "Sites Avaliados" e não nesse.
+**OBS:** Foi considerado que a avaliação com as heurísticas de Nielsen deveriam estar contidas no artefato "Sites Avaliados" e não nesse.
 #### Critérios gerais
 CheckList desenvolvida para validar os critérios gerais elaborados de acordo com o conteúdo já mostrado, contendo os principais tópicos a serem abordados no artefato em questão:
 
 1. uniformização:
     - [✔️] O artefato segue o padrão definido no projeto?
-    - [❌] O documento possui os links necessários para outros artefatos? **[1]**
-    - [❌] O artefato possui as referências bibliográficas atualizadas? **[2]**
+    - [❌] O documento possui os links necessários para outros artefatos? [[1]](#check5ref1)
+    - [❌] O artefato possui as referências bibliográficas atualizadas? [[2]](#check5ref2)
     - [✔️] O documento está respeitando as margens e tamanho dos títulos?
     - [✔️] O documento está respeitando as normas da língua portuguesa? 
 2. Organização:
@@ -318,9 +319,9 @@ CheckList desenvolvida para validar os critérios gerais elaborados de acordo co
     - [✔️] As perguntas utilizadas no checklist estão referenciadas corretamente?
     - [✔️] Todas as tabelas citadas e demonstradas no artefato estão com legenda e explicação?
 
-[1] Referenciar o artefato "Sites Avaliados" para que leve o leitor a avaliação heurística realizada do site.
+<span id="check5ref1">[1]</span> Referenciar o artefato "Sites Avaliados" para que leve o leitor a avaliação heurística realizada do site.
 
-[2] Recomenda-se referenciar o livro da Simone, para a adição da explicação breve do método de avaliação por heurísticas de Nielsen.
+<span id="check5ref2">[2]</span> Recomenda-se referenciar o livro da Simone, para a adição da explicação breve do método de avaliação por heurísticas de Nielsen.
 
 #### Conclusão
 Faltou apenas uma referencia do artefato "Sites Avaliados", adição de uma breve citação ou explicação do método utilizado para avaliar e referenciar o livro da Simone para apoiar essa explicação.
@@ -335,8 +336,6 @@ Como mostrado na Tabela 6:
 <center>
 
 *Tabela 6: Checklist do Processo de Design.*
-
-<!--✔️⚠️❌ --->
 
 </center>
 
