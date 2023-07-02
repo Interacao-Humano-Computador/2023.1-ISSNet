@@ -169,7 +169,7 @@ Como mostrado na Tabela 3:
 |    1    | As ferramentas utilizadas possuem imagem da logo?        | ✔️FEITO | | |
 |    2    | As ferramentas utilizadas possuem uma breve descrição, explicando como foi utilizada no projeto? |✔️FEITO| | |
 |    3    | As ferramentas apresentadas foram realmente utilizadas? |⚠️INCOMPLETO| A ferramentas Usabilla nunca foi utilizada | |
-|    4    | Todas as ferramentas utilizadas nos artefatos estão contidas na tabela?  |⚠️INCOMPLETO<br><br>A ferramenta "This person doesn't exist" foi utilizada para identificação das personas, mas não está presente na tabela| | |
+|    4    | Todas as ferramentas utilizadas nos artefatos estão contidas na tabela?  |⚠️INCOMPLETO| A ferramenta "This person doesn't exist" foi utilizada para identificação das personas, mas não está presente na tabela| |
 
 <center>
 
