@@ -203,9 +203,9 @@ CheckList desenvolvida para validar os critérios gerais elaborados de acordo co
     - [❌] Todas as tabelas citadas e demonstradas no artefato estão com legenda e explicação?
 
 #### Conclusão
-Há uma ferramenta que não foi utilizada no projeto "StoryboardThat" e a tabela não possui fonte e legenda.
+Há uma ferramenta que não foi utilizada no projeto "Usabilla" e a ferramenta "This person doesn't exist" não foi incluída, a tabela não possui fonte e legenda
 #### Sugestões e Melhorias
-Remover a ferramentas StoryboardThat, mover a fonte que está dizendo "Fonte: Grupo UnbIdiomas-2022.2" para a bibliografia sendo devidamente padronizada, incluir legenda centralizada "Tabela 1: Ferramentas utilizadas no Projeto" antes da tabela e incluir fonte abaixo da tabela "Fonte: autor, 2023".
+Remover a ferramenta Usabilla e adicionar a ferramenta "This person doesn't exist", mover a fonte que está dizendo "Fonte: Grupo UnbIdiomas-2022.2" para a bibliografia sendo devidamente padronizada, incluir legenda centralizada "Tabela 1: Ferramentas utilizadas no Projeto" antes da tabela e incluir fonte abaixo da tabela "Fonte: autor, 2023".
 ### Artefato Sites Avaliados
 
 Deve ser explicado e demonstrado o que deve estar contido neste artefato, quais os objetivos do artefato, o que ele pretende mostrar, os resultados e etc.
