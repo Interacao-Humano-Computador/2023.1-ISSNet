@@ -73,6 +73,7 @@ nav:
       - Ponto de Controle 7: verificacao/grupo-8/pc7.md
       - Ponto de Controle 8: verificacao/grupo-8/pc8.md
   - Entregas: entregas.md
+  - Entrega Final: entrega_final.md
 
 extra_css:
   - css/custom.css
