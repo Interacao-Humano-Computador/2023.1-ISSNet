@@ -3,22 +3,21 @@
 ## Introdução
 Este artefato descreve os principais elementos do planejamento da avaliação dos storyboards utilizados para visualização das tarefas apresentadas na [análise de tarefas](https://interacao-humano-computador.github.io/2023.1-ISSNet/analise_de_requisitos/analise_de_tarefas/) do sistema. 
 
-Para garantir uma avaliação adequada, o planejamento se baseia nas atividades propostas pelo framework DECIDE:
+Nesse contexto, a avaliação dos storyboards seguirá o framework DECIDE proposto por Sharp, Rogers e Preece em 2007. Esse framework estabelece os elementos essenciais para uma avaliação efetiva de Interação Humano-Computador (IHC):
 
-- **Determinar** os objetivos da avaliação, estabelecendo claramente o que se pretende alcançar com o processo de avaliação.
-- **Explorar** as perguntas que devem ser respondidas por meio da avaliação, identificando as informações específicas necessárias para a tomada de decisão.
-- **Escolher** os métodos de avaliação mais apropriados para coletar os dados necessários, considerando aspectos como o perfil dos participantes e a natureza das tarefas a serem avaliadas.
-- **Identificar** e gerenciar as questões práticas relacionadas à avaliação, como a disponibilidade de recursos, o agendamento das sessões de avaliação e a logística envolvida.
-- **Decidir** como lidar com as questões éticas, garantindo a privacidade dos participantes, obtendo o consentimento informado e seguindo os princípios éticos relevantes.
-- **Validar**, interpretar e apresentar os resultados da avaliação, verificando a consistência e a confiabilidade das informações coletadas e comunicando os resultados de forma clara e precisa.
+- Determinar os [**objetivos da avaliação**](#objetivos-da-avaliação) de IHC, identificando sua importância e para quem são relevantes. Isso proporcionará uma direção clara para a avaliação do protótipo de alta fidelidade.
+- [**Explorar as perguntas**](#explorar-as-perguntas) a serem respondidas durante a avaliação, considerando o perfil dos usuários e suas atividades. Isso garantirá que a avaliação aborde os aspectos cruciais para a usabilidade e experiência do usuário.
+- Escolher os [**métodos de avaliação**](#métodos-de-avaliação) a serem utilizados, levando em conta os objetivos esperados, prazos, orçamento, equipamentos e a expertise dos avaliadores. A escolha adequada dos métodos garantirá resultados confiáveis e relevantes.
+- Identificar [**questões práticas**](#questões-práticas) da avaliação, como recrutamento de usuários, preparação e uso de equipamentos, prazos, orçamentos e recursos necessários. Essa etapa assegurará a execução eficiente da avaliação do protótipo de alta fidelidade.
+- Decidir como lidar com [**questões éticas**](#questões-éticas), garantindo o respeito aos participantes e evitando qualquer forma de prejuízo durante e após a avaliação. A ética é fundamental para uma avaliação responsável e confiável.
+- [**Avaliar, interpretar e apresentar os resultados**](#avaliar-interpretar-e-apresentar-os-resultados), considerando a confiabilidade dos dados, a validade interna, a validade externa e a validade ecológica. Essa análise aprofundada dos resultados fornecerá insights valiosos para aprimorar o protótipo e a experiência do usuário.
 
-Esse planejamento abrangente permite uma avaliação eficaz dos storyboards, possibilitando a obtenção de insights valiosos para o desenvolvimento do sistema.
+Seguindo o framework DECIDE, a avaliação dos storyboards garantirá uma abordagem sistemática e abrangente, resultando em melhorias significativas no design e na usabilidade do produto final.
 
-
-## Objetivo
+## Objetivos da avaliação
 Os principais objetivos da avaliação dos storyboards é avaliar se as tarefas representadas condizem com a realidade do usuário e coletar feedback dos usuários a respeito das tarefas. Esse planejamento é importante pois permite identificar problemas precocemente e coletar dados para futuras tomada de decisões.
 
-## Roteiro de Perguntas
+## Explorar as perguntas
 A seguir, apresentamos o roteiro de perguntas que será utilizado durante a avaliação, que deve ser executado para cada um dos storyboards desenvolvidos.
 
 <ol>
@@ -59,7 +58,7 @@ A seguir, apresentamos o roteiro de perguntas que será utilizado durante a aval
     </li>
 </ol>
 
-## Metodologia
+## Métodos de avaliação
 A avaliação do planejamento dos storyboards será conduzida por meio de entrevistas, que podem ocorrer presencialmente ou de forma online utilizando a plataforma Teams, e questionários online, para atingir um maior número de usuários. 
 
 Levando em consideração as questões éticas, no início da entrevista será apresentado o [termo de consentimento](../../../analise_de_requisitos/aspectos_eticos.md#termo-de-consentimento) ao entrevistado, permitindo que ele decida se deseja ou não participar. Caso o entrevistado concorde, o entrevistador seguirá o [roteiro](#roteiro-de-perguntas) estabelecido neste artefato para realizar as perguntas. Para o caso do questionário, o termo será apresentado antes das perguntas, caso o participante concorde com os termos, ele poderá prosseguir para as perguntas. 
@@ -107,7 +106,7 @@ A expectativa é que as entrevistas para a avaliação sejam realizadas no sába
 Para realizar a entrevista, é necessário que o entrevistador informe ao entrevistado o [termo de consentimento](../../../analise_de_requisitos/aspectos_eticos.md#termo-de-consentimento) e obtenha sua concordância com os termos estabelecidos. É fundamental ressaltar que a equipe valoriza e assegura a máxima proteção, respeito e confidencialidade dos dados coletados dos entrevistados.
 
 
-## Interpretação e apresentação dos dados
+## Avaliar, interpretar e apresentar os resultados
 A interpretação dos dados será realizada após as entrevistas, e os dados obtidos serão apresentados de acordo com o [planejamento do relato dos reultados](relato_storyboard.md).
 
 ## Storyboards desenvolvidos
@@ -178,4 +177,6 @@ Planejamento da Avaliação do Storyboard, Millenium Papelaria. Disponível em: 
 | `0.2`      |  28/05/2023 | Adiciona storyboards desenvolvidos na sala | Júlio César<br>Arthur Trindade<br>Arthur Assumpção<br>Miguel Moreira<br>Gabriel de Souza<br>Marcus Vinicius | Miguel Moreira |
 | `0.3`      |  28/05/2023 | Padronização do documento e ajustes        | Arthur Trindade | Julio César |
 | `0.4`      |  04/06/2023 | Padronização do documento e ajustes        | Arthur Trindade | Julio César |
+| `0.5`      |  02/07/2023 | Padronização dos títulos do documento e ajustes  | Arthur Trindade | Julio César |
+
 

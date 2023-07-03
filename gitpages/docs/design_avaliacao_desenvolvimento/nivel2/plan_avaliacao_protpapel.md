@@ -5,17 +5,17 @@ A avaliação em protótipo de papel avalia a usabilidade de um design em papel,
 
 A avaliação foi feita com base no framework DECIDE proposto por Sharp, Rogers e Preece em 2007, o framework estabelece que um planejamento, execução e análise de uma avaliação de IHC precisa ter os seguintes elementos:
 
-- **Determinar** os objetivos da avaliação de IHC, identificar por que e para quem os objetivos são importantes.
-- **Explorar** as perguntas a serem respondidas com a avaliação, devem considerar o perfil dos usuários e suas atividades.
-- **Escolher** os métodos de avaliação a serem utilizados, considerando objetivos esperados, prazo, orçamento, equipamento, grau de conhecimento e experiência dos avaliadores.
-- **Identificar** e administrar questões práticas da avaliação, recrutamento dos usuários, preparação e uso de equipamentos, prazos, orçamentos e mão de obra para conduzir a avaliação.
-- **Decidir** como lidar com questões éticas, os participantes devem ser respeitados e não podem ser prejudicados diretamente ou indiretamente, nem durante, nem após o relato da avaliação.
-- **Avaliar**, interpretar e apresentar os resultados, considerando grau de confiabilidade dos dados, validade interna, validade externa e validade ecológica.
+- Determinar os [**objetivos da avaliação**](#objetivos-da-avaliação) de IHC, identificar por que e para quem os objetivos são importantes.
+- [**Explorar as perguntas**](#explorar-as-perguntas) a serem respondidas com a avaliação, devem considerar o perfil dos usuários e suas atividades.
+- Escolher os [**métodos de avaliação**](#métodos-de-avaliação) a serem utilizados, considerando objetivos esperados, prazo, orçamento, equipamento, grau de conhecimento e experiência dos avaliadores.
+- Identificar e administrar [**questões práticas**](#questões-práticas) da avaliação, recrutamento dos usuários, preparação e uso de equipamentos, prazos, orçamentos e mão de obra para conduzir a avaliação.
+- Decidir como lidar com [**questões éticas**](#questões-éticas), os participantes devem ser respeitados e não podem ser prejudicados diretamente ou indiretamente, nem durante, nem após o relato da avaliação.
+- [**Avaliar, interpretar e apresentar os resultados**](#avaliar-interpretar-e-apresentar-os-resultados) considerando grau de confiabilidade dos dados, validade interna, validade externa e validade ecológica.
 
-## Objetivo
+## Objetivos da avaliação
 O objetivo da avaliação é avaliar as funcionalidades pelo protótipo de baixa fidelidade em papel, os percursos de tarefas baseadas no documento de [análise de tarefas](../../analise_de_requisitos/analise_de_tarefas.md), a avaliação irá contribuir para identificar designs alternativos ou problemas na análise de tarefas.
 
-## Roteiro de Perguntas
+## Explorar as perguntas
 A cada avaliação de protótipo de papel das tarefas, as seguintes perguntas serão respondidas, são elas:
 <ol>
   <li>O protótipo de papel fornece as opções necessárias para preencher corretamente os dados?</li>
@@ -66,7 +66,7 @@ A cada avaliação de protótipo de papel das tarefas, as seguintes perguntas se
 
 Ao responder a pergunta 7 e a resposta for sim, o entrevistado irá falar como queria que tivesse sido feito, o avaliador poderá desenhar em folha branca o que entendeu, caso ainda não satisfaça o entrevistado, o avaliador poderá pedir de forma respeitosa para que ele mostre desenhando um esboço em papel.
 
-## Metodologia
+## Métodos de avaliação
 A metodologia escolhida pelo grupo para a avaliação foi a entrevista, devido às restrições logísticas da equipe, que impossibilitam a realização das entrevistas pessoalmente. As entrevistas serão realizadas de forma virtual, e antes delas, será realizado um **teste piloto** para simular a entrevista com os avaliadores. Isso permite testar o ambiente, equipamentos e materiais a serem utilizados, garantindo que qualquer problema seja corrigido antecipadamente.
 
 Durante o teste piloto, os avaliadores terão a oportunidade de verificar a adequação do ambiente virtual, testar a qualidade do áudio e vídeo, além de familiarizarem-se com o processo da entrevista. Dessa forma, eventuais problemas técnicos ou logísticos podem ser identificados e resolvidos antes das entrevistas reais.
@@ -117,7 +117,7 @@ A expectativa é que as entrevistas para a avaliação sejam realizadas no sába
 ## Questões Éticas
 Assim como nas avaliações anteriores, para realizar a entrevista, é necessário que o entrevistador informe ao entrevistado o [termo de consentimento](../../analise_de_requisitos/aspectos_eticos.md#termo-de-consentimento) e obtenha sua concordância com os termos estabelecidos.
 
-## Interpretação e apresentação dos dados
+## Avaliar, interpretar e apresentar os resultados
 O resultado da avaliação desempenhará um papel fundamental no direcionamento do desenvolvimento dos protótipos de alta fidelidade no [nível 3 do projeto](nivel3). Ele servirá como um ponto de referência central para garantir a consistência e adequação da avaliação, assegurando que todos os dados coletados sejam cuidadosamente considerados. A interpretação dos dados será realizada após as entrevistas, e os dados obtidos serão apresentados de acordo com o [planejamento do relato dos reultados](plan_relato_protpapel.md).
 
 <!-- ## Referências -->
@@ -135,4 +135,6 @@ Edição, Editora Campus, 2010. Publicado em: 03/05/2021.
 | `0.0`      | 28/05/2023  | Criação do arquivo                        | Júlio César     | - |
 | `0.1`      | 28/05/2023  | Adiciona 3 tópicos                        | Júlio César     | Arthur Trindade<br>Gabriel de Souza |
 | `0.2`      | 28/05/2023  | Adiciona 3 tópicos                        | Arthur Trindade | Júlio César<br>Gabriel de Souza |
-| `0.2`      | 04/06/2023  | Padronização do documento e ajustes       | Arthur Trindade | Julio César |
+| `0.3`      | 04/06/2023  | Padronização do documento e ajustes       | Arthur Trindade | Julio César |
+| `0.4`      |  02/07/2023 | Padronização dos títulos do documento e ajustes  | Arthur Trindade | Julio César |
+

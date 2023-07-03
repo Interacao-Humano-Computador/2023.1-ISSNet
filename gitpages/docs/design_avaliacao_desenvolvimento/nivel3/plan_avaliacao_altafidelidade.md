@@ -5,19 +5,19 @@ A prototipagem de alta fidelidade é uma abordagem que desempenha um papel essen
 
 Nesse contexto, a avaliação do protótipo de alta fidelidade seguirá o framework DECIDE proposto por Sharp, Rogers e Preece em 2007. Esse framework estabelece os elementos essenciais para uma avaliação efetiva de Interação Humano-Computador (IHC):
 
-- **Determinar** os objetivos da avaliação de IHC, identificando sua importância e para quem são relevantes. Isso proporcionará uma direção clara para a avaliação do protótipo de alta fidelidade.
-- **Explorar** as perguntas que devem ser respondidas durante a avaliação, considerando o perfil dos usuários e suas atividades. Isso garantirá que a avaliação aborde os aspectos cruciais para a usabilidade e experiência do usuário.
-- **Escolher** os métodos de avaliação a serem utilizados, levando em conta os objetivos esperados, prazos, orçamento, equipamentos e a expertise dos avaliadores. A escolha adequada dos métodos garantirá resultados confiáveis e relevantes.
-- **Identificar** e gerenciar questões práticas da avaliação, como recrutamento de usuários, preparação e uso de equipamentos, prazos, orçamentos e recursos necessários. Essa etapa assegurará a execução eficiente da avaliação do protótipo de alta fidelidade.
-- **Decidir** como lidar com questões éticas, garantindo o respeito aos participantes e evitando qualquer forma de prejuízo durante e após a avaliação. A ética é fundamental para uma avaliação responsável e confiável.
-- **Avaliar**, interpretar e apresentar os resultados, considerando a confiabilidade dos dados, a validade interna, a validade externa e a validade ecológica. Essa análise aprofundada dos resultados fornecerá insights valiosos para aprimorar o protótipo e a experiência do usuário.
+- Determinar os [**objetivos da avaliação**](#objetivos-da-avaliação) de IHC, identificando sua importância e para quem são relevantes. Isso proporcionará uma direção clara para a avaliação do protótipo de alta fidelidade.
+- [**Explorar as perguntas**](#explorar-as-perguntas) a serem respondidas durante a avaliação, considerando o perfil dos usuários e suas atividades. Isso garantirá que a avaliação aborde os aspectos cruciais para a usabilidade e experiência do usuário.
+- Escolher os [**métodos de avaliação**](#métodos-de-avaliação) a serem utilizados, levando em conta os objetivos esperados, prazos, orçamento, equipamentos e a expertise dos avaliadores. A escolha adequada dos métodos garantirá resultados confiáveis e relevantes.
+- Identificar [**questões práticas**](#questões-práticas) da avaliação, como recrutamento de usuários, preparação e uso de equipamentos, prazos, orçamentos e recursos necessários. Essa etapa assegurará a execução eficiente da avaliação do protótipo de alta fidelidade.
+- Decidir como lidar com [**questões éticas**](#questões-éticas), garantindo o respeito aos participantes e evitando qualquer forma de prejuízo durante e após a avaliação. A ética é fundamental para uma avaliação responsável e confiável.
+- [**Avaliar, interpretar e apresentar os resultados**](#avaliar-interpretar-e-apresentar-os-resultados), considerando a confiabilidade dos dados, a validade interna, a validade externa e a validade ecológica. Essa análise aprofundada dos resultados fornecerá insights valiosos para aprimorar o protótipo e a experiência do usuário.
 
 Seguindo o framework DECIDE, a avaliação do protótipo de alta fidelidade garantirá uma abordagem sistemática e abrangente, resultando em melhorias significativas no design e na usabilidade do produto final.
 
-## Objetivo
+## Objetivos da avaliação
 O objetivo principal da avaliação do protótipo de alta fidelidade é verificar se o design atende às expectativas e necessidades dos usuários, identificar possíveis problemas e melhorias, e validar a usabilidade e a experiência do usuário. Essa avaliação é fundamental para garantir que o produto final seja eficaz e atenda aos requisitos estabelecidos.
 
-## Roteiro de Perguntas
+## Explorar as perguntas
 Após a observação da interação do usuário com o protótipo apresentado e a conclusão da tarefa abordada, o entrevistador deverá perguntar ao entrevistado se ele possui alguma dúvida em relação ao sistema ou à tarefa realizada. Caso o entrevistado tenha alguma dúvida, o entrevistador deverá respondê-la de forma clara e objetiva, fornecendo os esclarecimentos necessários.
 
 Em seguida, o entrevistador prosseguirá para a etapa de perguntas planejadas:
@@ -83,7 +83,7 @@ Em seguida, o entrevistador prosseguirá para a etapa de perguntas planejadas:
   </li>
 </ol>
 
-## Metodologia
+## Métodos de avaliação
 A metodologia escolhida pelo grupo para a avaliação foi a entrevista, realizada de forma virtual, devido às restrições logísticas da equipe que impossibilitam a realização das entrevistas presencialmente. Antes das entrevistas reais, será realizado um **teste piloto** para simular a dinâmica da entrevista e garantir o bom funcionamento do ambiente, equipamentos e materiais utilizados. Esse teste permitirá identificar e solucionar possíveis problemas técnicos ou logísticos antes das entrevistas.
 
 Durante a avaliação, será adotado o método de observação remota para verificar a capacidade dos usuários em realizar as tarefas propostas sem auxílio. Os avaliadores irão dedicar atenção especial às interações dos usuários com o sistema, registrando suas ações, dificuldades encontradas e fornecendo feedback verbal. Essa observação remota permitirá uma compreensão direta do desempenho e das experiências dos usuários durante a interação com o sistema avaliado.
@@ -144,7 +144,7 @@ A expectativa é que as entrevistas para a avaliação sejam realizadas no sába
 Assim como nas avaliações anteriores, para realizar a entrevista, é necessário que o entrevistador informe ao entrevistado o [termo de consentimento](../../analise_de_requisitos/aspectos_eticos.md#termo-de-consentimento) e obtenha sua concordância com os termos estabelecidos para esta avaliação.
 
 
-## Interpretação e apresentação dos dados
+## Avaliar, interpretar e apresentar os resultados
 Os resultados obtidos por meio da avaliação do protótipo de alta fidelidade serão de extrema importância para o desenvolvimento do produto final nesta disciplina. A análise das interações dos usuários, feedbacks e identificação de problemas de usabilidade e design irão direcionar as melhorias e refinamentos necessários. Os resultados serão devidamente registrados e documentados no [relato dos resultados](relato_altafidelidade.md), que servirá como um guia para aprimorar a experiência do usuário e garantir a qualidade do produto final entregue.
 
 ## Protótipos de Alta Fidelidade Desenvolvovidos
@@ -171,3 +171,4 @@ Edição, Editora Campus, 2010. Publicado em: 03/05/2021.
 | `0.0`      | 11/06/2023  | Criação do arquivo                        | Júlio César     | - |
 | `0.1`      | 11/06/2023  | Adição da introdução, objetivo, metodologia e questões éticas | Arthur Trindade | Julio César |
 | `0.2`      | 11/06/2023  | Adição das questões práticas, roteiro de perguntas e interpretação dos dados | Miguel Moreira | - |
+| `0.3`      | 02/07/2023  | Padronização dos títulos do documento e ajustes  | Arthur Trindade | Julio César |

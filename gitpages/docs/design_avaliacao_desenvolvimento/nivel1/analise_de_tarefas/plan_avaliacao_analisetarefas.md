@@ -3,10 +3,21 @@
 ## Introdução
 Com base em uma pesquisa prévia com os usuários do site, identificamos as tarefas mais relevantes e selecionamos um conjunto delas para uma análise detalhada. A análise de tarefas nos permite compreender como os usuários executam essas atividades e identificar possíveis melhorias. Para garantir sua precisão, validaremos as análises com os usuários, buscando corresponder à sua realidade e necessidades. Esses dados coletados nos ajudarão a identificar requisitos e características essenciais para o sistema, garantindo uma experiência de interação alinhada aos objetivos dos usuários finais.
 
-## Objetivo
+Nesse contexto, a avaliação da análise de tarefas seguirá o framework DECIDE proposto por Sharp, Rogers e Preece em 2007. Esse framework estabelece os elementos essenciais para uma avaliação efetiva de Interação Humano-Computador (IHC):
+
+- Determinar os [**objetivos da avaliação**](#objetivos-da-avaliação) de IHC, identificando sua importância e para quem são relevantes. Isso proporcionará uma direção clara para a avaliação da análise de tarefas.
+- [**Explorar as perguntas**](#explorar-as-perguntas) a serem respondidas durante a avaliação, considerando o perfil dos usuários e suas atividades. Isso garantirá que a avaliação aborde os aspectos cruciais para a usabilidade e experiência do usuário.
+- Escolher os [**métodos de avaliação**](#métodos-de-avaliação) a serem utilizados, levando em conta os objetivos esperados, prazos, orçamento, equipamentos e a expertise dos avaliadores. A escolha adequada dos métodos garantirá resultados confiáveis e relevantes.
+- Identificar [**questões práticas**](#questões-práticas) da avaliação, como recrutamento de usuários, preparação e uso de equipamentos, prazos, orçamentos e recursos necessários. Essa etapa assegurará a execução eficiente da avaliação da análise de tarefas.
+- Decidir como lidar com [**questões éticas**](#questões-éticas), garantindo o respeito aos participantes e evitando qualquer forma de prejuízo durante e após a avaliação. A ética é fundamental para uma avaliação responsável e confiável.
+- [**Avaliar, interpretar e apresentar os resultados**](#avaliar-interpretar-e-apresentar-os-resultados), considerando a confiabilidade dos dados, a validade interna, a validade externa e a validade ecológica. Essa análise aprofundada dos resultados fornecerá insights valiosos para aprimorar a análise de tarefas e a experiência do usuário.
+
+Seguindo o framework DECIDE, a avaliação da análise de tarefas garantirá uma abordagem sistemática e abrangente, resultando em melhorias significativas no design e na usabilidade do produto final.
+
+## Objetivos da avaliação
 O objetivo desta etapa de avaliação da análise de tarefas é verificar a correspondência entre o fluxo identificado durante a fase de análise de tarefas e as atividades realizadas por usuários em um contexto real de uso. Nesse sentido, este documento tem como propósito planejar a coleta de informações detalhadas sobre a forma como usuários individuais utilizam o site da IssNetDF, com foco específico em emitir notas eletrônicas, excluir notas eletrônicas e consultar as notas eletrônicas. Através dessa avaliação, buscamos obter insights valiosos para melhorar a usabilidade do site, aprimorando a experiência dos usuários ao desempenharem essas tarefas específicas.
 
-## Roteiro de Perguntas
+## Explorar as perguntas
 A seguir, apresentamos o roteiro de perguntas que será utilizado durante a avaliação, que deve ser executado para cada tarefa em análise.
 
 1. Com base na análise de tarefas que nosso grupo realizou, como você avalia a precisão e abrangência das atividades identificadas para a emissão, cancelamento e consulta de notas eletrônicas?
@@ -23,7 +34,7 @@ A seguir, apresentamos o roteiro de perguntas que será utilizado durante a aval
 
 7. Existe alguma sugestão específica que você gostaria de oferecer para aprimorar a análise de tarefas realizada pelo nosso grupo, levando em consideração suas próprias experiências e necessidades?
 
-## Metodologia
+## Métodos de avaliação
 No âmbito do planejamento da avaliação da análise de tarefas, optamos por utilizar o Framework DECIDE juntamente com o método de entrevistas e questionários, para atingir o maior número de usuários possível. O Framework DECIDE é uma abordagem amplamente reconhecida para avaliação de usabilidade que nos auxiliará a obter informações relevantes sobre a experiência dos usuários ao utilizar o site IssNetDF para [emitir notas eletrônicas](../../../analise_de_requisitos/analise_de_tarefas.md#análise-da-tarefa-emitir-nota-fiscal-eletrônica), [excluir notas eletrônicas](../../../analise_de_requisitos/analise_de_tarefas.md#análise-de-tarefa-cancelar-nota-fiscal) e [consultar as notas eletrônicas](../../../analise_de_requisitos/analise_de_tarefas.md#análise-da-tarefa-consultar-nota-eletrônica-de-serviço).
 
 A escolha do método de entrevistas se dá pelo seu potencial em fornecer uma compreensão aprofundada e detalhada das percepções e experiências dos usuários. Durante as entrevistas, teremos a oportunidade de conduzir perguntas direcionadas e explorar questões específicas relacionadas às tarefas em análise. Essa abordagem nos permitirá obter insights valiosos sobre o fluxo de trabalho dos usuários, as dificuldades encontradas, bem como as sugestões de melhorias para otimizar a usabilidade do site.
@@ -75,7 +86,7 @@ Para assegurar a proteção dos participantes, adotaremos medidas que incluem:
 Ao seguir essas diretrizes éticas, reforçamos nosso compromisso de realizar a avaliação da análise de tarefas de forma ética e responsável, garantindo que os participantes sejam protegidos e que os resultados sejam utilizados de maneira adequada e respeitosa.
 
 
-## Interpretação e apresentação dos dados 
+## Avaliar, interpretar e apresentar os resultados 
 O resultado da avaliação será utilizado como um guia para conduzir todas as etapas da avaliação de Análise de Tarefas do nosso projeto. Ele servirá como uma referência central para garantir que todas as questões práticas e éticas sejam consideradas e que a avaliação seja realizada de forma consistente e adequada. A interpretação dos dados será realizada após as entrevistas, e os dados obtidos serão apresentados de acordo com o [planejamento do relato dos reultados](plan_avaliacao_analisetarefas.md).
 
 ## Bibliografia
@@ -91,3 +102,4 @@ Edição, Editora Campus, 2010. Publicado em: 03/05/2021.
 | `0.1`      |  22/05/2023 | Planejamento da avaliação da análise de tarefas  | Miguel Moreira  | Arthur Trindade |
 | `0.2`      |  28/05/2023 | Padronização do documento e ajustes              | Miguel Moreira  | Julio César |
 | `0.3`      |  04/06/2023 | Padronização do documento e ajustes              | Miguel Moreira  | Julio César |
+| `0.4`      |  02/07/2023 | Padronização dos títulos do documento e ajustes  | Arthur Trindade | Julio César |
