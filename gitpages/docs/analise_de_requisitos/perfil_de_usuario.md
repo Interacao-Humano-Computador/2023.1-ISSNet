@@ -21,7 +21,7 @@ Entretanto alguns problemas podem vir a ocorrer usando esta técnica:
 - Com uma amostra pequena, os dados não são muito significativos;
 - Perguntas podem induzir os respondentes a respostas específicas.
 
-Para a coleta de informações dos perfis de usuário foi usado um questionário feito no Google Forms com 12 questões, na primeira seção do questionário é apresentado ao respondente o [termo de consentimento](./aspectos_eticos.md), para avançar é necessário selecionar a opção "Concordar", em seguida, é apresentado a questão "Já usou o sistema ISSNet?", caso a resposta seja não, o usuário irá seguir para a seção de envio de formulário, caso seja sim, as 12 questões serão feitas. As questões apresentadas aos usuários são:
+Para a coleta de informações dos perfis de usuário foi usado um questionário feito no Google Forms com 12 questões, na primeira seção do questionário é apresentado ao respondente o [termo de consentimento](./aspectos_eticos.md), para avançar é necessário selecionar a opção "Concordar", em seguida, é apresentado a questão "Já usou o sistema [ISSNetDF](https://df.issnetonline.com.br/online/Login/Login.aspx?ReturnUrl=%2fonline)?", caso a resposta seja não, o usuário irá seguir para a seção de envio de formulário, caso seja sim, as 12 questões serão feitas. As questões apresentadas aos usuários são:
 
 1. Qual é a sua idade?
 2. Qual é o seu gênero?
@@ -29,14 +29,14 @@ Para a coleta de informações dos perfis de usuário foi usado um questionário
 4. Qual é o seu nível de escolaridade?
 5. Qual é a sua profissão?
 6. Qual é o tamanho da empresa em que você trabalha?
-7. Com que frequência você utiliza o ISSNet?
-8. Quais são as funcionalidades que você mais utiliza no ISSNet?
-9. Em que áreas do ISSNet você acredita que precisam de melhorias? (aberta)
-10. Avalie de (1 a 5) a facilidade de uso do ISSNet
-11. Avalie de (1 a 5) o seu nível de satisfação com o ISSNet
-12. Você tem alguma sugestão para melhorar o ISSNet?
+7. Com que frequência você utiliza o [ISSNetDF](https://df.issnetonline.com.br/online/Login/Login.aspx?ReturnUrl=%2fonline)?
+8. Quais são as funcionalidades que você mais utiliza no [ISSNetDF](https://df.issnetonline.com.br/online/Login/Login.aspx?ReturnUrl=%2fonline)?
+9. Em que áreas do [ISSNetDF](https://df.issnetonline.com.br/online/Login/Login.aspx?ReturnUrl=%2fonline) você acredita que precisam de melhorias? (aberta)
+10. Avalie de (1 a 5) a facilidade de uso do [ISSNetDF](https://df.issnetonline.com.br/online/Login/Login.aspx?ReturnUrl=%2fonline)
+11. Avalie de (1 a 5) o seu nível de satisfação com o [ISSNetDF](https://df.issnetonline.com.br/online/Login/Login.aspx?ReturnUrl=%2fonline)
+12. Você tem alguma sugestão para melhorar o [ISSNetDF](https://df.issnetonline.com.br/online/Login/Login.aspx?ReturnUrl=%2fonline)?
 
-O questionário teve 19 respostas, sendo que 12 são de respondentes que usaram o sistema ISSNet, a distribuição do formulário foi feita em grupos da FGA, UnB, conhecidos e alguns comerciantes locais, usando Whatsapp e Telegram. 
+O questionário teve 19 respostas, sendo que 12 são de respondentes que usaram o sistema [ISSNetDF](https://df.issnetonline.com.br/online/Login/Login.aspx?ReturnUrl=%2fonline), a distribuição do formulário foi feita em grupos da FGA, UnB, conhecidos e alguns comerciantes locais, usando Whatsapp e Telegram. 
 
 ## Resultados
 

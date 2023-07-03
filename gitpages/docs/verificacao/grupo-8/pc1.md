@@ -15,7 +15,7 @@ Os critérios de verificação seguidos foram:
 - [⚠️] INCOMPLETO
 - [❌] NÃO-FEITO 
 
-Os artefatos analisados do nosso grupo ISSNet são:
+Os artefatos analisados do nosso grupo [ISSNetDF](https://df.issnetonline.com.br/online/Login/Login.aspx?ReturnUrl=%2fonline) são:
 
 - [Cronograma Planejado](https://interacao-humano-computador.github.io/2023.1-ISSNet/planejamento/cronograma/cronograma_plan/)
 - [Cronograma Executado](https://interacao-humano-computador.github.io/2023.1-ISSNet/planejamento/cronograma/cronograma_exec/)

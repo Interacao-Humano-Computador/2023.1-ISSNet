@@ -69,9 +69,9 @@ Após analisar todas as 6 opções que já tínhamos e nenhuma agradar completam
 
 Inicialmente, a equipe havia selecionado o site da [CAIXA](https://www.caixa.gov.br/Paginas/home-caixa.aspx) como nossa opção para avaliação. No entanto, durante o processo de planejamento, percebemos que o site passou por uma refatoração que resolveu muitos dos problemas iniciais que tínhamos identificado. Diante dessa mudança, precisamos rapidamente buscar uma nova opção.
 
-Após reavaliar nossas alternativas, optamos pela segunda melhor opção após o site da CAIXA. Escolhemos o [ISSNet](https://df.issnetonline.com.br/online/Login/Login.aspx?ReturnUrl=%2fonline), que atendeu às nossas necessidades, apesar de não ter uma comunidade de usuários tão ativa.
+Após reavaliar nossas alternativas, optamos pela segunda melhor opção após o site da CAIXA. Escolhemos o [ISSNetDF](https://df.issnetonline.com.br/online/Login/Login.aspx?ReturnUrl=%2fonline), que atendeu às nossas necessidades, apesar de não ter uma comunidade de usuários tão ativa.
 
-Assim, considerando essas circunstâncias, seguimos em frente com a avaliação do ISSNet como nosso projeto selecionado.
+Assim, considerando essas circunstâncias, seguimos em frente com a avaliação do [ISSNetDF](https://df.issnetonline.com.br/online/Login/Login.aspx?ReturnUrl=%2fonline) como nosso projeto selecionado.
 
 ## Histórico de revisão
 

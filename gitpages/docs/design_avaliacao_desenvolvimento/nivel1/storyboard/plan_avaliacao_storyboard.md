@@ -87,7 +87,7 @@ Antes de iniciar as entrevistas, é recomendado que os entrevistadores realizem 
 Realizar um teste piloto abrangente antes das entrevistas proporcionará maior confiança no processo, permitindo ajustes necessários e garantindo que as entrevistas sejam conduzidas de forma eficiente.
 
 ### Cronograma planejado e prazos
-A expectativa é que as entrevistas para a avaliação sejam realizadas no sábado, dia 27/05, levando em conta o tempo necessário para a preparação, agendamento e realização das entrevistas. Essas considerações práticas foram feitas para garantir a viabilidade e o bom andamento da avaliação, visando obter insights relevantes sobre a usabilidade do site IssNetDF. A seguir, apresentamos o cronograma planejado para as entrevistas:
+A expectativa é que as entrevistas para a avaliação sejam realizadas no sábado, dia 27/05, levando em conta o tempo necessário para a preparação, agendamento e realização das entrevistas. Essas considerações práticas foram feitas para garantir a viabilidade e o bom andamento da avaliação, visando obter insights relevantes sobre a usabilidade do site [ISSNetDF](https://df.issnetonline.com.br/online/Login/Login.aspx?ReturnUrl=%2fonline). A seguir, apresentamos o cronograma planejado para as entrevistas:
 
 <center>
 

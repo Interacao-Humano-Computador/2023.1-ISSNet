@@ -2,13 +2,40 @@
 
 ## Site Selecionado
 
+### justificativa
+Originalmente, havíamos selecionado o site da [Caixa Econômica Federal](https://www.caixa.gov.br/Paginas/home-caixa.aspx) como nosso objeto de estudo. No entanto, devido a uma refatoração recente desse site, optamos por mudar para nossa segunda opção, o site da [ISSNetDF](https://df.issnetonline.com.br/online/Login/Login.aspx?ReturnUrl=%2fonline). Essa escolha foi baseada na facilidade de encontrar usuários e na relevância do site para um dos membros do nosso grupo de trabalho.
+
+#### Critérios de escolha
+
+Durante o processo de seleção do site para o projeto de IHC, consideramos diversos critérios:
+
+1. *Relevância do setor*: Avaliamos a importância do setor ao qual o site pertence. Optamos por escolher um site que estivesse relacionado a um setor de atividade estratégico ou em destaque, a fim de tornar o projeto mais relevante e alinhado com as tendências do mercado.
+
+2. *Potencial de impacto*: Consideramos o potencial de impacto da refatoração do site. Buscamos escolher um site que, ao ser melhorado em termos de usabilidade e experiência do usuário, pudesse beneficiar um número significativo de pessoas e gerar um impacto positivo.
+
+3. *Disponibilidade de recursos*: Verificamos a disponibilidade de recursos e informações sobre o site. A existência de documentação, dados de uso ou relatórios de problemas poderiam fornecer insights valiosos para o projeto.
+
+4. *Diversidade de funcionalidades*: Consideramos a diversidade de funcionalidades oferecidas pelo site. Optamos por escolher um site que apresentasse uma variedade de recursos e interações, o que proporcionaria uma maior oportunidade de análise e melhoria em diferentes aspectos.
+
+5. *Relevância regional*: Também levamos em conta a relevância regional do site. Optamos por selecionar um site que tivesse um público-alvo mais específico ou uma abrangência geográfica limitada, o que poderia tornar mais viável o recrutamento de usuários para testes e feedback.
+
+6. *Recomendação de um colega*: Um dos critérios de seleção foi o fato de o site ser de trabalho de um colega. Isso facilitaria o acesso aos usuários e a compreensão das necessidades e demandas relacionadas ao site.
+
+7. *Design e usabilidade inadequados*: Consideramos a aparência e usabilidade do site como critérios de seleção. Escolhemos um site que apresentava deficiências em termos de design, layout e experiência do usuário. Isso permitiria que explorássemos melhorias nesses aspectos por meio da refatoração.
+
+###  Aspectos selecionados
+
+Ao analisar o site da [ISSNetDF](https://df.issnetonline.com.br/online/Login/Login.aspx?ReturnUrl=%2fonline), identificamos os seguintes aspectos que podem ser aprimorados:
+
+1. Falta de usabilidade: O site não oferece recursos de acessibilidade, como suporte a LIBRAS (Língua Brasileira de Sinais), sensibilidade à luz (contraste adequado) e ajuste do tamanho da fonte. Essas melhorias são cruciais para atender às necessidades de usuários com deficiência auditiva, visual ou cognitiva.
+2. Navegação confusa: O site apresenta uma estrutura de navegação complexa, com informações relevantes escondidas em menus pouco intuitivos. É fundamental simplificar a navegação e tornar mais fácil para os usuários encontrar as informações desejadas.
+3. Má formatação do conteúdo: O conteúdo do site pode estar mal formatado, dificultando a leitura e a compreensão das informações pelos usuários. É importante garantir uma formatação consistente e clara para melhorar a legibilidade e a eficiência na busca de informações.
+
 ## Ciclo de Vida
 
 ## Cronograma de Entregas
 
 ## Execução do Projeto
-
-### Objetivo do Projeto
 
 ### Análise de Requisitos
 
@@ -20,11 +47,27 @@
 
 #### Nível 3
 
-## Resultados Alcançados
+## Resultados alcançados
 
-### Facilidades
+O objetivo principal do projeto foi aprimorar a usabilidade e a experiência do usuário no site da [ISSNetDF](https://df.issnetonline.com.br/online/Login/Login.aspx?ReturnUrl=%2fonline), aplicando os princípios de IHC e propondo melhorias significativas. Para avaliar se alcançamos esse objetivo, vamos analisar os [aspectos selecionados](https://interacao-humano-computador.github.io/2023.1-ISSNet/planejamento/selecionado/#aspectos-selecionados-para-o-projeto) para o projeto e os resultados obtidos.
 
-### Dificuldades
+Ao longo do projeto, conseguimos cumprir todos esses aspectos selecionados e obter resultados positivos:
+
+1. Para abordar a falta de usabilidade, implementamos recursos de acessibilidade no protótipo de alta fidelidade. Adicionamos suporte a LIBRAS, opções de sensibilidade à luz (com contraste adequado) e ajuste no tamanho da fonte. Essas melhorias permitirão que os usuários com deficiência tenham acesso mais inclusivo ao site.
+
+2. Em relação à navegação confusa, realizamos uma análise aprofundada da estrutura do site e propusemos mudanças significativas. Implementamos um menu de "Mais acessados", que apresenta as tarefas mais utilizadas pelos usuários. Isso simplifica a navegação e permite que eles encontrem rapidamente as opções desejadas.
+
+3. Para solucionar a má formatação do conteúdo, adotamos um padrão de formatação e responsividade em todo o protótipo de alta fidelidade. Garantimos uma apresentação clara e consistente do conteúdo, melhorando assim a legibilidade e a compreensão das informações.
+
+Além dos aspectos selecionados, também conseguimos alcançar outras melhorias notáveis no projeto:
+
+4. Adotamos o padrão governamental para o site, seguindo todas as diretrizes do [MANUAL_MARCA_GDF_2023](https://www.df.gov.br/marcadogoverno/). Isso garante uma identidade visual alinhada com o governo e transmite confiança aos usuários.
+
+5. Reduzimos o número de cliques necessários para acessar todas as tarefas escolhidas. Com a implementação do menu de "Mais acessados", os usuários agora podem chegar às tarefas desejadas com, pelo menos, 1 click a menos em comparação com o site original. Em alguns casos, a redução chega a 2 clicks.
+
+6. Durante a avaliação do protótipo de alta fidelidade, os usuários mencionaram a melhoria estética em comparação com o site original. Isso demonstra que conseguimos alcançar uma interface mais agradável e atraente para os usuários.
+
+Com base nos resultados obtidos e nas melhorias implementadas, podemos afirmar que o objetivo do projeto foi alcançado com sucesso. O protótipo de alta fidelidade apresenta melhorias significativas em termos de usabilidade, navegação, formatação do conteúdo e acessibilidade, proporcionando uma experiência mais satisfatória para os usuários.
 
 ## Síntese do Projeto
 
@@ -39,6 +82,48 @@
 ### Verificação dos Artefatos
 
 ### Apresentações
+
+## Facilidades
+
+### Grupo
+
+### Arthur.T
+
+### Miguel
+
+### Júlio
+
+### Marcus
+
+### Gabriel
+
+### Arthur.D
+
+## Dificuldades
+
+### Grupo
+* A necessidade de mudança emergencial do site selecionado foi uma dificuldade que enfrentamos durante o projeto. Inicialmente, havíamos escolhido o site da [Caixa Econômica Federal](https://www.caixa.gov.br/Paginas/home-caixa.aspx) como objeto de estudo, mas duas semanas após a seleção, o site passou por uma refatoração completa, inviabilizando a continuação do trabalho com base nas características e problemas identificados anteriormente.
+Essa mudança inesperada do site da Caixa nos obrigou a agir rapidamente e buscar uma segunda opção. Foi nesse contexto que optamos pelo site da [ISSNetDF](https://df.issnetonline.com.br/online/Login/Login.aspx?ReturnUrl=%2fonline) como substituto. No entanto, essa mudança trouxe consigo desafios adicionais para o projeto.
+Primeiramente, tivemos que nos adaptar em tempo hábil ao novo site escolhido. Isso envolveu compreender a estrutura, as funcionalidades e os problemas de usabilidade específicos da plataforma da [ISSNetDF](https://df.issnetonline.com.br/online/Login/Login.aspx?ReturnUrl=%2fonline). Foi necessário refazer nossa análise, ajustando as propostas de melhorias e soluções para se adequar ao novo contexto.
+Além disso, a mudança emergencial exigiu realocação de recursos e esforços para refazer parte do trabalho já realizado.
+Essa reorganização demandou um esforço adicional da equipe, visando garantir a qualidade e a consistência do trabalho dentro do novo escopo.
+Apesar dos desafios enfrentados devido à mudança imprevista do site, conseguimos nos adaptar e manter o foco em nosso objetivo principal: aplicar os princípios de IHC e propor melhorias para a experiência do usuário. Essa experiência nos proporcionou uma importante lição sobre a importância de estarmos preparados para imprevistos e sermos flexíveis durante projetos de design e usabilidade.
+
+* No início do projeto, consideramos que a escolha do site da [ISSNetDF](https://df.issnetonline.com.br/online/Login/Login.aspx?ReturnUrl=%2fonline) seria vantajosa devido à facilidade para encontrar usuários. Acreditávamos que, por ser um site utilizado por empresas e profissionais que lidam com notas fiscais eletrônicas, seria relativamente simples recrutar participantes para as avaliações e entrevistas.
+No entanto, ao longo do projeto, nos deparamos com diversas dificuldades para encontrar usuários dispostos a participar das atividades. Essa situação acabou impactando negativamente a quantidade de dados disponíveis para comparação e análise. Uma das principais dificuldades encontradas foi a falta tempo para realizar um recrutamento mais amplo. Essas dificuldades serviram como aprendizado para o grupo, destacando a importância de um planejamento cuidadoso e de recursos adequados para a obtenção de dados e insights significativos durante projetos futuros de design e usabilidade.
+Embora tenhamos enfrentado esses obstáculos, buscamos realizar um trabalho consistente e apresentar recomendações e soluções relevantes para aprimorar a experiência do usuário no site da [ISSNetDF](https://df.issnetonline.com.br/online/Login/Login.aspx?ReturnUrl=%2fonline), com base nas informações disponíveis e nas análises realizadas.
+
+### Arthur.T
+
+### Miguel
+
+### Júlio
+
+### Marcus
+
+### Gabriel
+
+### Arthur.D
 
 ## Agradecimentos
 

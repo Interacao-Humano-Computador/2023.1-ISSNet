@@ -1,6 +1,6 @@
 ## Introdução
 
-Neste relatório, apresentaremos uma análise parcial do [site da ISSNet](https://df.issnetonline.com.br/online/Login/Login.aspx?ReturnUrl=%2fonline), uma plataforma que oferece serviços de gerenciamento e emissão de notas fiscais eletrônicas para empresas. Originalmente, havíamos selecionado o [site da Caixa Econômica Federal](https://www.caixa.gov.br/Paginas/home-caixa.aspx) como nosso objeto de estudo. No entanto, devido a uma refatoração recente desse site, optamos por mudar para nossa segunda opção, o site da ISSNetDF. Essa escolha foi baseada na facilidade de encontrar usuários e na relevância do site para um dos membros do nosso grupo de trabalho.
+Neste relatório, apresentaremos uma análise parcial do [ISSNetDF](https://df.issnetonline.com.br/online/Login/Login.aspx?ReturnUrl=%2fonline), uma plataforma que oferece serviços de gerenciamento e emissão de notas fiscais eletrônicas para empresas. Originalmente, havíamos selecionado o [site da Caixa Econômica Federal](https://www.caixa.gov.br/Paginas/home-caixa.aspx) como nosso objeto de estudo. No entanto, devido a uma refatoração recente desse site, optamos por mudar para nossa segunda opção, o site da [ISSNetDF](https://df.issnetonline.com.br/online/Login/Login.aspx?ReturnUrl=%2fonline). Essa escolha foi baseada na facilidade de encontrar usuários e na relevância do site para um dos membros do nosso grupo de trabalho.
 
 ## Critérios de escolha
 
@@ -23,15 +23,15 @@ Durante o processo de seleção do site para o projeto de IHC, consideramos dive
 
 ## ISSNet
 
-O [site da ISSNet](https://df.issnetonline.com.br/online/Login/Login.aspx?ReturnUrl=%2fonline) é uma plataforma importante que oferece serviços de gerenciamento e emissão de notas fiscais eletrônicas para empresas. É uma ferramenta essencial para a gestão de negócios, utilizada principalmente por empresas e profissionais que trabalham com contabilidade ou departamento financeiro. Durante nossa análise, identificamos diversos aspectos que podem ser aprimorados para melhorar a usabilidade e a experiência do usuário.
+O [ISSNetDF](https://df.issnetonline.com.br/online/Login/Login.aspx?ReturnUrl=%2fonline) é uma plataforma importante que oferece serviços de gerenciamento e emissão de notas fiscais eletrônicas para empresas. É uma ferramenta essencial para a gestão de negócios, utilizada principalmente por empresas e profissionais que trabalham com contabilidade ou departamento financeiro. Durante nossa análise, identificamos diversos aspectos que podem ser aprimorados para melhorar a usabilidade e a experiência do usuário.
 
 ### Usuários
 
-O site da ISSNet é utilizado principalmente por empresas e profissionais que precisam emitir notas fiscais eletrônicas. Esses usuários são em sua maioria pessoas que trabalham com contabilidade ou departamento financeiro de empresas, o que torna o acesso a esse público uma tarefa fácil para o nosso projeto.
+O site da [ISSNetDF](https://df.issnetonline.com.br/online/Login/Login.aspx?ReturnUrl=%2fonline) é utilizado principalmente por empresas e profissionais que precisam emitir notas fiscais eletrônicas. Esses usuários são em sua maioria pessoas que trabalham com contabilidade ou departamento financeiro de empresas, o que torna o acesso a esse público uma tarefa fácil para o nosso projeto.
 
 ### Aspectos selecionados para o projeto
 
-Ao analisar o site da ISSNet, identificamos os seguintes aspectos que podem ser aprimorados:
+Ao analisar o site da [ISSNetDF](https://df.issnetonline.com.br/online/Login/Login.aspx?ReturnUrl=%2fonline), identificamos os seguintes aspectos que podem ser aprimorados:
 
 1. Falta de usabilidade: O site não oferece recursos de acessibilidade, como suporte a LIBRAS (Língua Brasileira de Sinais), sensibilidade à luz (contraste adequado) e ajuste do tamanho da fonte. Essas melhorias são cruciais para atender às necessidades de usuários com deficiência auditiva, visual ou cognitiva.
 2. Navegação confusa: O site apresenta uma estrutura de navegação complexa, com informações relevantes escondidas em menus pouco intuitivos. É fundamental simplificar a navegação e tornar mais fácil para os usuários encontrar as informações desejadas.
@@ -44,7 +44,7 @@ Ao analisar o site da ISSNet, identificamos os seguintes aspectos que podem ser 
 
 ![Página inicial do site ISSNet](../img/issnet1.png)
 
-*Fonte: [ISSNet](https://df.issnetonline.com.br/online/Login/Login.aspx?ReturnUrl=%2fonline#), 2023*
+*Fonte: [ISSNetDF](https://df.issnetonline.com.br/online/Login/Login.aspx?ReturnUrl=%2fonline), 2023*
 
 </center>
 <br>

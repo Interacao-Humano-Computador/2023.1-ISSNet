@@ -6,13 +6,13 @@ Nesse sentido, o guia de estilo é uma ferramenta fundamental para garantir a co
 Para o desenvolvimento do guia de estilo, utilizaremos parte da estrutura proposta por Marcus (1992) e Mayhew(1999): <a href="#simone">[1]</a>, além disso o guia de estilo usou como base os [princípios gerais do projeto](./principios_gerais.md).
 
 ### Objetivo do guia de estilo
-O objetivo desse guia de estilo é registrar e analisar as decisões de redesign tomadas pela equipe no desenvolvimento do projeto da disciplina de Interação Humano Computador para o site ISSNet Online DF.
+O objetivo desse guia de estilo é registrar e analisar as decisões de redesign tomadas pela equipe no desenvolvimento do projeto da disciplina de Interação Humano Computador para o site [ISSNetDF](https://df.issnetonline.com.br/online/Login/Login.aspx?ReturnUrl=%2fonline).
 
 ### Organização e conteúdo do guia de estilo
 Este guia de estilo segue a estrutura proposta por Marcus (1992) e Mayhew (1999) <a href="#simone">[1]</a>. O documento está dividido em seções que abrangem a introdução, a análise do sistema do site, os elementos de interface, a interação e ação, além dos vocabulários e padrões. Essa estrutura permite uma organização clara e lógica das informações, facilitando a consulta das decisões de design.
 
 ### Público alvo do guia de estilo
-A equipe responsável pelo projeto ISSNet, da disciplina de Interação Humano-Computador, desenvolveu este guia de estilo para uso próprio durante o processo de desenvolvimento do projeto. O documento, no entanto, também estará disponível para outras equipes da disciplina como material de consulta e inspiração em futuros projetos.
+A equipe responsável pelo projeto [ISSNetDF](https://df.issnetonline.com.br/online/Login/Login.aspx?ReturnUrl=%2fonline), da disciplina de Interação Humano-Computador, desenvolveu este guia de estilo para uso próprio durante o processo de desenvolvimento do projeto. O documento, no entanto, também estará disponível para outras equipes da disciplina como material de consulta e inspiração em futuros projetos.
 
 ### Como utilizar e manter o guia
 Durante o processo de desenvolvimento do projeto, o guia de estilo será utilizado como referência para consulta e análise do design. As decisões de design tomadas pela equipe após a elaboração do guia deverão ser adicionadas ao guia, na plataforma Figma, e citadas em uma seção específica deste documento, para mantermos o o rastreamento entre uma decisão das decisões de design, elementos e discussões que culminaram naquela decisão, como sugere Mayhew <a href='#simone'>[1]</a>.

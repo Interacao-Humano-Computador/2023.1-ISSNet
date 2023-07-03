@@ -5,7 +5,7 @@
 O relato dos resultados é um documento da qual tem como objetivo descrever os resultados obtidos através da avaliação de um storyboard. Serão apresentados o proposito da avaliação, contexto e as informações relevantes sobre o storyboard desenvolvido, contendo o publico alvo e informações relevantes.
 ## Objetivos
 
-Relatar os resultados principais obtidos através da reunião marcada pelos integrantes do grupo da qual são obtidos os resultados e anotações necessárias baseadas nos usuários que utilizam o ISSNET, uma vez que coletando os dados de quem utiliza o sistema, podemos alcançar uma maior precisão e confiança nos dados analisados.
+Relatar os resultados principais obtidos através da reunião marcada pelos integrantes do grupo da qual são obtidos os resultados e anotações necessárias baseadas nos usuários que utilizam o [ISSNetDF](https://df.issnetonline.com.br/online/Login/Login.aspx?ReturnUrl=%2fonline), uma vez que coletando os dados de quem utiliza o sistema, podemos alcançar uma maior precisão e confiança nos dados analisados.
 ## Tarefas executadas
 Foi utilizado como parâmetro o questionário respondido pelos usuários onde foram identificados as principais funções utilizadas durante o uso do sistema.
 <ol>
@@ -38,7 +38,7 @@ Foi utilizado como parâmetro o questionário respondido pelos usuários onde fo
 </ol>
 
 ## Metodologia
-Para realizar a avaliação do storyboard foi utilizado o método de entrevistas da qual como principal entrevistado, usuários que usam o sistema da ISSNET com certa frequência, durante a entrevista, foram feitas perguntas sobre a qualidade e funções mais utilizadas. Também foi utilizado como base o questionário criado para os usuários do sistema durante o desenvolvimento do projeto.
+Para realizar a avaliação do storyboard foi utilizado o método de entrevistas da qual como principal entrevistado, usuários que usam o sistema da [ISSNetDF](https://df.issnetonline.com.br/online/Login/Login.aspx?ReturnUrl=%2fonline) com certa frequência, durante a entrevista, foram feitas perguntas sobre a qualidade e funções mais utilizadas. Também foi utilizado como base o questionário criado para os usuários do sistema durante o desenvolvimento do projeto.
 Antes de o questionário ser aplicado, foi apresentado o termo de consentimento para o entrevistado para que tenhamos certeza da concordância de ambas às partes.
 
 ## Questões Éticas

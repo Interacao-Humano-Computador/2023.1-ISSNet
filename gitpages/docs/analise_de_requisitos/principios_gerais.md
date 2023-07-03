@@ -23,7 +23,7 @@ A literatura de Interação Humano Computador tem muitos princípios, diretrizes
 
 ## Aplicação no Projeto
 
-- **Correspondência com as expectativas do usuário**: O projeto do grupo ISSNet irá usar jargões já conhecidos de sistemas de nota fiscal eletrônica, não tentará sair do padrão e inventar novas terminologias.
+- **Correspondência com as expectativas do usuário**: O projeto do grupo [ISSNetDF](https://df.issnetonline.com.br/online/Login/Login.aspx?ReturnUrl=%2fonline) irá usar jargões já conhecidos de sistemas de nota fiscal eletrônica, não tentará sair do padrão e inventar novas terminologias.
   
 - **Consistência e padronização**: Os protótipos do projeto irão utilizar caminhos conhecidos para as funções e designs modernos comuns para que o usuário não se sinta perdido e perca tempo tentando aprender como utilizar.
   

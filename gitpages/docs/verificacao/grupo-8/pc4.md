@@ -14,7 +14,7 @@ Os critérios de verificação seguidos foram:
 - [⚠️] INCOMPLETO
 - [❌] NÃO-FEITO 
 
-Os artefatos analisados do nosso grupo ISSNet são:
+Os artefatos analisados do nosso grupo [ISSNetDF](https://df.issnetonline.com.br/online/Login/Login.aspx?ReturnUrl=%2fonline) são:
 
 - [Planejamento da Avaliação do Storyboard](https://interacao-humano-computador.github.io/2023.1-ISSNet/design_avaliacao_desenvolvimento/nivel1/storyboard/plan_avaliacao_storyboard/)
 - [Planejamento da Avaliação da Análise de tarefas](https://interacao-humano-computador.github.io/2023.1-ISSNet/design_avaliacao_desenvolvimento/nivel1/analise_de_tarefas/plan_avaliacao_analisetarefas/)

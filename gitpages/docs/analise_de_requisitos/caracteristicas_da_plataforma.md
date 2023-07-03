@@ -3,7 +3,7 @@
 O entendimento das características da plataforma irá ajudar a estabelecer o ambiente utilizado. Aqui estão listadas as características da plataforma, limitações e possibilidades.
 
 ## Características
-A plataforma ISSNet é acessada por um navegador web, não havendo opção de aplicativo Android ou iOS, os navegadores podem ser:
+A plataforma [ISSNetDF](https://df.issnetonline.com.br/online/Login/Login.aspx?ReturnUrl=%2fonline) é acessada por um navegador web, não havendo opção de aplicativo Android ou iOS, os navegadores podem ser:
 
 - Firefox
 - Google Chrome

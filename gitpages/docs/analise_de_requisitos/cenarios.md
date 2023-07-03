@@ -30,7 +30,7 @@ Para a descrição de cenários, foi utilizado o metodo de texto estruturado par
 | ---------- | --- |
 | Objetivo   | O usuario entra para emitir uma nota fiscal           |
 | Contexto   | - Local: Na empresa Pré-condições:  Ter o certificado Digital e-CNPJ da empresa       |
-| Recursos   | - Internet <br> - Computador <br> - Sítio eletrônico ISSNEt      |
+| Recursos   | - Internet <br> - Computador <br> - Sítio eletrônico [ISSNetDF](https://df.issnetonline.com.br/online/Login/Login.aspx?ReturnUrl=%2fonline)      |
 | Ator       | Responsavel fiscal da empresa          |
 | Episódios  | - Fazer login no site - Acessar o menu "Guia de Recolhimento" - Selecionar o tipo de serviço (Prestado e Contratado)  |
 | Restrições | -    Burocratico       |

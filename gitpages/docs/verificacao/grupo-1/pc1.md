@@ -3,7 +3,7 @@
 ## Introdução
 O processo de verificação é importante para verificar se o que foi feito está conforme o especificado, uma verificação pode ser estática ou dinâmica, na estática o software não é executado, o contrário da dinâmica, em que o software é executado. Pode ser feito a verificação de manuais, softwares, manuais ou quaisquer artefatos produzidos.
 
-A razão pela verificação de artefatos do nosso grupo (ISSNet) e do grupo responsável pela Bilheteria Digital, é que erros e inconformidades são melhor identificadas por pessoas que não participaram na criação dos artefatos a ser verificados.
+A razão pela verificação de artefatos do nosso grupo ([ISSNetDF](https://df.issnetonline.com.br/online/Login/Login.aspx?ReturnUrl=%2fonline)) e do grupo responsável pela Bilheteria Digital, é que erros e inconformidades são melhor identificadas por pessoas que não participaram na criação dos artefatos a ser verificados.
 
 ## Metodologia
 
