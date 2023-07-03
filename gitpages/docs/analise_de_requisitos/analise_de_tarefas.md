@@ -6,6 +6,10 @@
 
  Com o intuito de explorar diferentes técnicas, foram avaliadas as tarefas de "Emitir nota fiscal eletrônica" e "Consultar nota eletrônica" por meio de duas metodologias diferentes, a saber: Análise Hierárquica de Tarefas (HTA) e GOMS (Goals, Operators, Methods and Selection Rules). As tarefas selecionadas compõem as duas funcionalidades mais utilizadas pelos usuários do aplicativo, conforme apontam os dados coletados durante a elaboração do [perfil do usuário](perfil_de_usuario.md).
 
+## Objetivos
+
+O objetivo principal deste artefato e documento é aplicar e analisar as tarefas realizadas com intuito de verificar se há um entendimento do usuário em relação às tarefas, entender suas habilidades, validação de design, entre outros pontos baseados nas três tarefas principais que foram identificadas durante a realização das entrevistas e questionários aplicados.
+
 ## Análise Hierárquica de Tarefas (HTA)
 
 Essa metodologia foi desenvolvida na década de 60, com o objetivo de entender habilidades e competências presentes na execução de tarefas complexas e não repetitivas e auxiliar na identificação de problemas de desempenho. Seu enfoque encontra-se em relacionar o que as pessoas fazem, suas motivações e consequências de suas tarefas.
@@ -158,3 +162,4 @@ Edição, Editora Campus, 2010. Publicado em: 03/05/2021.</span>
 | `0.3`      |  20/05/2023 | Adição de Tarefa e Correções | Júlio César | Arthur Trindade |
 | `0.4`      |  23/05/2023 | Corrige HTA Cancelar Nota    | Júlio César | Arthur Trindade |
 | `0.5`      |  03/07/2023 | Adiciona introdução do cancelar nota | Júlio César | Arthur Trindade |
+| `0.6`      |  03/07/2023 | Verficação PC2 | Marcus Vinicius | Júlio César  |
