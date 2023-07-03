@@ -3,6 +3,10 @@
 
 Perfil de usuário é uma ferramenta utilizada para identificar características de usuários do produto ou sistema, algumas características incluem faixa etária, atividade principal, nível de instrução etc. Os dados para embasar um perfil de usuário são coletados através de entrevistas e/ou questionários e são a base necessária para a criação de personas. <a href="#simone">[1]</a>
 
+## Objetivos
+A montagem do perfil de usuário é importante para entender bem as características dos usuários primários do sistema, reconhecer seus requisitos e também serve como base para a criação de [personas](./personas.md), personagens fictícios para representar os diferentes grupos alvo do sistema. Além disso, perfil de usuário irá guiar o grupo para realizar a seleção de usuários a serem entrevistados, para que se encaixem no perfil analisado e como mostrado no [ciclo de vida de mayhew](https://interacao-humano-computador.github.io/2023.1-ISSNet/planejamento/processo/) serve como base para a criação das [metas de usabilidade](https://interacao-humano-computador.github.io/2023.1-ISSNet/analise_de_requisitos/metas_de_usabilidade/).
+
+
 ## Metodologia
 
 O uso do questionário para coleta de informações para a criação do perfil de usuário foi escolhida com base em:
@@ -17,10 +21,22 @@ Entretanto alguns problemas podem vir a ocorrer usando esta técnica:
 - Com uma amostra pequena, os dados não são muito significativos;
 - Perguntas podem induzir os respondentes a respostas específicas.
 
-Para a coleta de informações dos perfis de usuário foi usado um questionário feito no Google Forms com 12 questões, na primeira seção do questionário é apresentado ao respondente o [termo de consentimento](./aspectos_eticos.md), para avançar é necessário selecionar a opção "Concordar", em seguida, é apresentado a questão "Já usou o sistema ISSNet?", caso a resposta seja não, o usuário irá seguir para a seção de envio de formulário, caso seja sim, as 12 questões serão feitas.
+Para a coleta de informações dos perfis de usuário foi usado um questionário feito no Google Forms com 12 questões, na primeira seção do questionário é apresentado ao respondente o [termo de consentimento](./aspectos_eticos.md), para avançar é necessário selecionar a opção "Concordar", em seguida, é apresentado a questão "Já usou o sistema ISSNet?", caso a resposta seja não, o usuário irá seguir para a seção de envio de formulário, caso seja sim, as 12 questões serão feitas. As questões apresentadas aos usuários são:
 
-O questionário teve 19 respostas, sendo que 12 são de respondentes que usaram o sistema ISSNet, a distribuição do formulário foi feita em grupos da FGA, UnB, conhecidos e alguns comerciantes locais, usando Whatsapp e Telegram.
+1. Qual é a sua idade?
+2. Qual é o seu gênero?
+3. Qual é a sua renda mensal bruta?
+4. Qual é o seu nível de escolaridade?
+5. Qual é a sua profissão?
+6. Qual é o tamanho da empresa em que você trabalha?
+7. Com que frequência você utiliza o ISSNet?
+8. Quais são as funcionalidades que você mais utiliza no ISSNet?
+9. Em que áreas do ISSNet você acredita que precisam de melhorias? (aberta)
+10. Avalie de (1 a 5) a facilidade de uso do ISSNet
+11. Avalie de (1 a 5) o seu nível de satisfação com o ISSNet
+12. Você tem alguma sugestão para melhorar o ISSNet?
 
+O questionário teve 19 respostas, sendo que 12 são de respondentes que usaram o sistema ISSNet, a distribuição do formulário foi feita em grupos da FGA, UnB, conhecidos e alguns comerciantes locais, usando Whatsapp e Telegram. 
 
 ## Resultados
 
@@ -201,7 +217,6 @@ Os respondentes programadores eram em sua maioria autônomos e comerciantes trab
 |Facilidade de uso (1 muito difícil, 5 muito fácil)|4 - Fácil|
 |Satisfação de uso (1 muito insatisfeito, 5 muito satisfeito)|3 - Neutro|
 
-A montagem do perfil de usuário é importante para entender bem as características dos usuários primários do sistema, reconhecer seus requisitos e também serve como base para a criação de [personas](./personas.md), personagens fictícios para representar os diferentes grupos alvo do sistema.
 ## Referências
 <span id="simone">[1]: SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a.
 Edição, Editora Campus, 2010. Publicado em: 03/05/2021.</span>
@@ -218,3 +233,4 @@ Edição, Editora Campus, 2010. Publicado em: 03/05/2021.</span>
 | `0.2`      |  08/05/2023 | Adiciona outras seções | Júlio César, Marcus Vinicius | Miguel Moreira |
 | `0.3`      |  08/05/2023 | Pequenas correções | Júlio César, Marcus Vinicius | Miguel Moreira |
 | `0.4`      |  13/05/2023 | Correções | Júlio César | Miguel Moreira, Marcus Vinicius, Arthur Trindade |
+| `0.5`      |  03/07/2023 | Correção da Verificação PC2 | Júlio César | Miguel Moreira, Marcus Vinicius, Arthur Trindade |
