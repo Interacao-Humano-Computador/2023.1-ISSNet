@@ -51,7 +51,7 @@ Ao analisar o site da [ISSNetDF](https://df.issnetonline.com.br/online/Login/Log
 
 O objetivo principal do projeto foi aprimorar a usabilidade e a experiência do usuário no site da [ISSNetDF](https://df.issnetonline.com.br/online/Login/Login.aspx?ReturnUrl=%2fonline), aplicando os princípios de IHC e propondo melhorias significativas. Para avaliar se alcançamos esse objetivo, vamos analisar os [aspectos selecionados](https://interacao-humano-computador.github.io/2023.1-ISSNet/planejamento/selecionado/#aspectos-selecionados-para-o-projeto) para o projeto e os resultados obtidos.
 
-Ao longo do projeto, conseguimos cumprir todos esses aspectos selecionados e obter resultados positivos:
+Ao longo do projeto, conseguimos cumprir todos os [aspectos selecionados](https://interacao-humano-computador.github.io/2023.1-ISSNet/planejamento/selecionado/#aspectos-selecionados-para-o-projeto) e obter resultados positivos:
 
 1. Para abordar a falta de usabilidade, implementamos recursos de acessibilidade no protótipo de alta fidelidade. Adicionamos suporte a LIBRAS, opções de sensibilidade à luz (com contraste adequado) e ajuste no tamanho da fonte. Essas melhorias permitirão que os usuários com deficiência tenham acesso mais inclusivo ao site.
 
@@ -90,6 +90,9 @@ Com base nos resultados obtidos e nas melhorias implementadas, podemos afirmar q
 ### Arthur.T
 
 ### Miguel
+* Experiência prévia: Tive experiência prévia em projetos de desenvolvimento web e em disciplinas relacionadas, o que me proporcionou um conhecimento básico e familiaridade com conceitos e ferramentas utilizadas no projeto. Isso me permitiu ter uma compreensão mais rápida das tarefas a serem realizadas.
+* Habilidades técnicas: Possuía habilidades técnicas relevantes para o projeto, como conhecimento em markdown, design de interfaces ou ferramentas de prototipação. Essas habilidades facilitaram a execução das atividades e me permitiram contribuir de forma mais efetiva para o desenvolvimento do projeto.
+* Comunicação efetiva: Possuo habilidades de comunicação efetiva, tanto na escrita quanto na expressão oral. Isso me permitiu transmitir minhas ideias e opiniões de maneira clara e assertiva durante as reuniões em equipe, facilitando a colaboração e a troca de informações.
 
 ### Júlio
 
@@ -113,9 +116,16 @@ Apesar dos desafios enfrentados devido à mudança imprevista do site, conseguim
 No entanto, ao longo do projeto, nos deparamos com diversas dificuldades para encontrar usuários dispostos a participar das atividades. Essa situação acabou impactando negativamente a quantidade de dados disponíveis para comparação e análise. Uma das principais dificuldades encontradas foi a falta tempo para realizar um recrutamento mais amplo. Essas dificuldades serviram como aprendizado para o grupo, destacando a importância de um planejamento cuidadoso e de recursos adequados para a obtenção de dados e insights significativos durante projetos futuros de design e usabilidade.
 Embora tenhamos enfrentado esses obstáculos, buscamos realizar um trabalho consistente e apresentar recomendações e soluções relevantes para aprimorar a experiência do usuário no site da [ISSNetDF](https://df.issnetonline.com.br/online/Login/Login.aspx?ReturnUrl=%2fonline), com base nas informações disponíveis e nas análises realizadas.
 
+* Durante o desenvolvimento do projeto, o grupo enfrentou a dificuldade da falta de uma padronização dos documentos desde o início. Essa ausência de um padrão estabelecido para a formatação e estrutura dos documentos resultou em uma quantidade significativa de trabalho adicional no final do semestre.
+A falta de padronização acarretou em inconsistências nos documentos produzidos individualmente pelos membros do grupo. Cada integrante adotou diferentes estilos de escrita, formatos de arquivo e organização das informações. Isso dificultou a revisão e a compreensão dos documentos como um todo, tornando necessária uma revisão completa e uma padronização antes da entrega final.
+Essa dificuldade se refletiu principalmente na etapa de verificação, na qual cada documento precisava ser avaliado quanto à sua formatação, estrutura e conteúdo. Foi necessário um esforço adicional para harmonizar e unificar os documentos, garantindo uma apresentação coesa e consistente.
+Essa experiência nos mostrou a importância de estabelecer diretrizes claras desde o início do projeto, definindo um padrão para os documentos a serem produzidos. Uma padronização adequada teria evitado retrabalhos e facilitado a colaboração entre os membros do grupo, permitindo uma produção mais eficiente e efetiva dos documentos.
+Aprendemos com essa dificuldade a importância de estabelecer processos e diretrizes claras para orientar o trabalho em equipe. Em projetos futuros, faremos questão de implementar uma padronização desde o início, para evitar retrabalhos e garantir uma comunicação mais eficiente e consistente entre os membros do grupo.
+
 ### Arthur.T
 
 ### Miguel
+* Durante o projeto, enfrentei algumas dificuldades em compreender as tarefas nas entregas semanais da disciplina. Especificamente, tive maiores dificuldades na etapa de verificação.
 
 ### Júlio
 
@@ -126,6 +136,7 @@ Embora tenhamos enfrentado esses obstáculos, buscamos realizar um trabalho cons
 ### Arthur.D
 
 ## Agradecimentos
+Ao longo do projeto, como grupo, compreendemos melhor o objetivo do desenvolvimento do projeto dentro da disciplina. Percebemos que o seu propósito é oferecer a nós, estudantes, a oportunidade de aplicar os conteúdos aprendidos em um contexto prático e real. Essa abordagem nos permitiu consolidar nosso conhecimento teórico e enfrentar desafios reais de interação humano-computador. Acreditamos que, além de contribuir para o aprimoramento da usabilidade do site da ISSNetDF, essa experiência nos permitirá desenvolver habilidades práticas essenciais para a nossa formação acadêmica e profissional. É gratificante poder aplicar os conceitos de IHC em um projeto concreto e, ao mesmo tempo, adquirir competências valiosas para a nossa jornada como futuros profissionais de tecnologia. Assim, ao analisarmos os aspectos selecionados para o projeto e avaliar os resultados obtidos, percebemos que estamos não apenas cumprindo o objetivo principal do projeto, mas também alcançando o objetivo de aprendizagem estabelecido pela disciplina.
 
 ## Bibliografia
 
