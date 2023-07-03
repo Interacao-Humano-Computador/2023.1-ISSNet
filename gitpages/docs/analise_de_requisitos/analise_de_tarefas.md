@@ -78,7 +78,7 @@ A tarefa "Emitir nota fiscal eletrônica" é uma das principais tarefas que o us
 </center>
 
 ### Análise de Tarefa: Cancelar Nota Fiscal
-A análise da tarefa de cancelar a nota fiscal está representada na tabela 2 e na figura 3
+A análise da tarefa de cancelar a nota fiscal, foi identificada no questionário do [perfil de usuário](https://interacao-humano-computador.github.io/2023.1-ISSNet/analise_de_requisitos/perfil_de_usuario/#questao-7) como sendo a 3º atividade mais utilizada pelo sistema, a análise HTA da tarefa está representada na tabela 2 e na figura 3
 
 <center>
 
@@ -157,3 +157,4 @@ Edição, Editora Campus, 2010. Publicado em: 03/05/2021.</span>
 | `0.2`      |  08/05/2023 | Adição da Analise    | Gabriel de Souza Fonseca Ribeiro   | Arthur Trindade|
 | `0.3`      |  20/05/2023 | Adição de Tarefa e Correções | Júlio César | Arthur Trindade |
 | `0.4`      |  23/05/2023 | Corrige HTA Cancelar Nota    | Júlio César | Arthur Trindade |
+| `0.5`      |  03/07/2023 | Adiciona introdução do cancelar nota | Júlio César | Arthur Trindade |
