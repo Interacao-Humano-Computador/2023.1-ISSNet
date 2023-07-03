@@ -15,6 +15,10 @@ Esses princípios são aplicáveis em todas as etapas da pesquisa, incluindo a c
 
 Nosso compromisso com a ética em nossa pesquisa é absoluto, e nos esforçamos para garantir que nossos participantes sejam tratados com o máximo de cuidado e respeito. Estamos empenhados em realizar um trabalho de qualidade, sem jamais comprometer a integridade e a dignidade dos envolvidos em nosso projeto.
 
+## Objetivos
+Um dos pontos fundamentais dentro da análise de requisitos são os aspectos éticos, uma vez que rodeiam praticamente todo o desenvolvimento do projeto, principalmente quando se trata de coleta de dados, entrevistas, questionários apresentados aos usuários entre outros.  O termo de compromisso é um aspecto importantíssimo quando envolve pesquisa e pessoas, então é desenvolvido o termo de compromisso, da qual é apresentado para os entrevistados, determinando os objetivos que queremos alcançar com a pesquisa que está sendo realizada, buscando sempre atender os princípios recomendados pelo conselho nacional de Saúde. O principal objetivo é mostrar os principios sendo utilizados na redação/criação do [Termo de Consentimento](https://github.com/Interacao-Humano-Computador/2023.1-ISSNet/blob/main/gitpages/docs/analise_de_requisitos/doc/Termo_de_consentimento.pdf) sendo aplicado em entrevistas, pesquisas, questionarios entre outros e sendo mostrado ainda neste documento.
+
+
 ## Aplicação dos Aspectos Éticos
 Os aspectos éticos serão aplicados em todas as etapas da pesquisa, desde a elaboração do perfil de usuário até as entrevistas e avaliações. Veja como serão considerados em cada uma delas:
 
@@ -57,3 +61,4 @@ Aspectos Éticos, CIEE. Disponível em:  <https://interacao-humano-computador.gi
 | `0.2`      |  07/05/2023 | Edição do termo de consentimento e adição dos aspectos éticos de pesquisas| Miguel Moreira                    | Arthur Trindade<br>Júlio César |
 | `0.3`      |  07/05/2023 | Edição do termo de consentimento | Arthur Trindade                    | Miguel Moreira |
 | `0.4`      |  19/06/2023 | Adicionando Aplicação dos Aspectos Éticos e edição do termo de consentimento | Miguel Moreira                   | Arthur Trindade |
+| `0.5`      |  19/06/2023 | Correção da Verificação PC2 | Marcus Vinicius |  |
