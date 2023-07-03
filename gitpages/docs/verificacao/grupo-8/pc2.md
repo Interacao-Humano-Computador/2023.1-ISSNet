@@ -169,7 +169,7 @@ Como mostrado na Tabela 3:
 </center>
 
 <span id="check1ref1"> [1]</span> Necessário melhorar a descrição das personas e adiconar uma pelo menos uma persona secundaria.
-<span id="check1ref1"> [2]</span> Necessário padronizar o arte
+<span id="check1ref1"> [2]</span> Necessário padronizar o artefato.
 
 #### Critérios gerais
 CheckList desenvolvida para validar os critérios gerais elaborados de acordo com o conteúdo já mostrado, contendo os principais tópicos a serem abordados no artefato em questão:
