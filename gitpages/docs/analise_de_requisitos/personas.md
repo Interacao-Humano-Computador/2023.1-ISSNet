@@ -5,6 +5,9 @@ As personas são importantes na fase de design de um projeto pois ajudam a equip
 
 As personas são divididas em três categorias: primárias, secundárias e antipersonas. As personas primárias são as que representam o público-alvo principal, enquanto as personas secundárias representam usuários secundários que podem se beneficiar do produto. As antipersonas, por outro lado, representam usuários que não são adequados para o produto ou que podem prejudicar sua experiência de uso. A criação de todas as três categorias de personas pode ajudar a equipe de design a identificar os diferentes tipos de usuários e criar soluções de design para atender a cada um deles.
 
+## Objetivo
+O objetivo principal deste artefato é desenvolver e mostrar personas para um projeto de IHC é criar representações fictícias de usuários reais para melhor compreender suas necessidades, expectativas e comportamentos.
+
 ## Elenco de personas
 Partindo dos dados obtidos na pesquisa realizada e na elaboração do [perfil do usuário](./perfil_de_usuario.md), foi possível coletar dados que expressam as principais características do publico alvo e as suas necessidades. Com base nesses dados, a equipe criou um elenco de personas que representam os diferentes tipos de usuários e suas respectivas características.
 
@@ -66,3 +69,4 @@ Personas, CIEE. Disponível em:  <https://interacao-humano-computador.github.io/
 | `0.0`      |  06/05/2023 | Criação do arquivo   | Arthur Trindade                | Miguel Moreira |
 | `0.1`      |  07/05/2023 | Adiciona introdução  | Júlio César                    | Miguel Moreira |
 | `0.2`      |  08/05/2023 | Adição do elenco de persona  | Arthur Trindade<br>Júlio César<br>Marcus Vinicus | Miguel Moreira |
+| `0.2`      |  03/07/2023 | Verificação PC2  | Marcus Vinicus | Júlio César |
