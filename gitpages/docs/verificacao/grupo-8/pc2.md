@@ -100,8 +100,11 @@ Como mostrado na Tabela 2:
 
 |   Item  |      Descrição      |              Avaliação              |             Observação          |     Referência    |
 |:------: |---------------------|:-----------------------------------:|---------------------------------|:-----------------:|
-|<1...>   |     Desc Artefato   |       Feito/Não-Feito/Incompleto    |        Pontos Identificados     |                   | 
-
+|    1    |  Os aspectos éticos contemplam: Princípio da autonomia?            |  ✔️ FEITO   |    |  |
+|    1    |  Os aspectos éticos contemplam: Princípio da beneficência?         |  ✔️ FEITO   |    |  | 
+|    3    |  Os aspectos éticos contemplam: Princípio da não maleficência?     |  ✔️ FEITO   |    |  | 
+|    4    |  Os aspectos éticos contemplam: Princípio da justiça e equidade?   |  ✔️ FEITO   |    |  | 
+|    5    |  Os aspectos éticos estabelecem que o consentimento para gravação será realizado antes da gravação de voz ou áudio?   |  ✔️ FEITO   |  |  | 
 <center>
 
 *Fonte: autor, 2023*
@@ -112,32 +115,32 @@ Como mostrado na Tabela 2:
 CheckList desenvolvida para validar os critérios gerais elaborados de acordo com o conteúdo já mostrado, contendo os principais tópicos a serem abordados no artefato em questão:
 
 1. uniformização:
-    - [ ] O artefato segue o padrão definido no projeto?
-    - [ ] O documento possui os links necessários para outros artefatos?
-    - [ ] O artefato possui as referências bibliográficas atualizadas?
-    - [ ] O documento está respeitando as margens e tamanho dos títulos?
-    - [ ] O documento está respeitando as normas da língua portuguesa? 
+    - [✔️] O artefato segue o padrão definido no projeto?
+    - [❌] O documento possui os links necessários para outros artefatos?
+    - [✔️] O artefato possui as referências bibliográficas atualizadas?
+    - [✔️] O documento está respeitando as margens e tamanho dos títulos?
+    - [✔️] O documento está respeitando as normas da língua portuguesa? 
 2. Organização:
-    - [ ] O artefato possui introdução e descrições bem claras sobre os pontos que serão abordados? 
-    - [ ] O documento segue uma lógica de organização?
-    - [ ] O artefato possui conclusões lógicas e coesas? 
-    - [ ] O artefato está com os objetivos bem descritos explicando os principais pontos que serão abordados?
-    - [ ] As datas e os autores no histórico de versão estão atualizadas?
-    - [ ] Os títulos e subtítulos estão bem definidos e formatados?
+    - [✔️] O artefato possui introdução e descrições bem claras sobre os pontos que serão abordados? 
+    - [✔️] O documento segue uma lógica de organização?
+    - [✔️] O artefato possui conclusões lógicas e coesas? 
+    - [⚠️] O artefato está com os objetivos bem descritos explicando os principais pontos que serão abordados?
+    - [✔️] As datas e os autores no histórico de versão estão atualizadas?
+    - [✔️] Os títulos e subtítulos estão bem definidos e formatados?
 3. Tabelas e Figuras:
-    - [ ] As tabelas e figuras possuem legendas?
-    - [ ] As tabelas e figuras estão sendo referenciadas no texto?
-    - [ ] As tabelas estão sendo chamadas no texto?
-    - [ ] As figuras estão sendo explicadas?     
+    - [✔️] As tabelas e figuras possuem legendas?
+    - [✔️] As tabelas e figuras estão sendo referenciadas no texto?
+    - [✔️] As tabelas estão sendo chamadas no texto?
+    - [✔️] As figuras estão sendo explicadas?     
 4. Referência:
-    - [ ] As perguntas utilizadas no checklist estão referenciadas corretamente?
-    - [ ] Todas as tabelas citadas e demonstradas no artefato estão com legenda e explicação?
+    - [✔️] As perguntas utilizadas no checklist estão referenciadas corretamente?
+    - [✔️] Todas as tabelas citadas e demonstradas no artefato estão com legenda e explicação?
 
 #### Conclusão
+Este artefato possui alguns pontos que necessitam ser corrigidos, como o link para o termo de compromisso criado pelo grupo e criar um título com o objetivo do artefato.
 
 #### Sugestões e Melhorias
-Explicar quais são os pontos que necessitam de melhorias e promover possíveis soluções.
-
+necessário criar mais um título contendo o objetivo do documento e adicionar um link referenciando o termo de compromisso;
 
 ### Artefato Personas
 
@@ -212,7 +215,10 @@ Como mostrado na Tabela 4:
 
 |   Item  |      Descrição      |              Avaliação              |             Observação          |     Referência    |
 |:------: |---------------------|:-----------------------------------:|---------------------------------|:-----------------:|
-|<1...>   |     Desc Artefato   |       Feito/Não-Feito/Incompleto    |        Pontos Identificados     |                   | 
+|    1    | Foram utilizadas ao menos duas técnicas para especificar as tarefas (HTA, GOMS)?                         |   ✔️ FEITO    |     |   | 
+|    2    | A escolha das tarefas analisadas está de acordo com o perfil de usuário?                                 |   ✔️ FEITO    |     |   | 
+|    3    | O fluxo das tarefas avaliadas está em consonância com as tarefas realizadas pelos usuários na vida real? |   ✔️ FEITO    |     |   | 
+|    4    | A análise de tarefas está voltada para a análise conceitual do problema em detrimento do funcionamento de telas e menus?   |  ✔️ FEITO   |   |   | 
 
 <center>
 
@@ -224,33 +230,32 @@ Como mostrado na Tabela 4:
 CheckList desenvolvida para validar os critérios gerais elaborados de acordo com o conteúdo já mostrado, contendo os principais tópicos a serem abordados no artefato em questão:
 
 1. uniformização:
-    - [ ] O artefato segue o padrão definido no projeto?
-    - [ ] O documento possui os links necessários para outros artefatos?
-    - [ ] O artefato possui as referências bibliográficas atualizadas?
-    - [ ] O documento está respeitando as margens e tamanho dos títulos?
-    - [ ] O documento está respeitando as normas da língua portuguesa? 
+    - [❌] O artefato segue o padrão definido no projeto?
+    - [✔️] O documento possui os links necessários para outros artefatos?
+    - [✔️] O artefato possui as referências bibliográficas atualizadas?
+    - [✔️] O documento está respeitando as margens e tamanho dos títulos?
+    - [✔️] O documento está respeitando as normas da língua portuguesa? 
 2. Organização:
     - [ ] O artefato possui introdução e descrições bem claras sobre os pontos que serão abordados? 
-    - [ ] O documento segue uma lógica de organização?
-    - [ ] O artefato possui conclusões lógicas e coesas? 
-    - [ ] O artefato está com os objetivos bem descritos explicando os principais pontos que serão abordados?
-    - [ ] As datas e os autores no histórico de versão estão atualizadas?
-    - [ ] Os títulos e subtítulos estão bem definidos e formatados?
+    - [❌] O documento segue uma lógica de organização?
+    - [✔️] O artefato possui conclusões lógicas e coesas? 
+    - [⚠️] O artefato está com os objetivos bem descritos explicando os principais pontos que serão abordados?
+    - [✔️] As datas e os autores no histórico de versão estão atualizadas?
+    - [✔️] Os títulos e subtítulos estão bem definidos e formatados?
 3. Tabelas e Figuras:
-    - [ ] As tabelas e figuras possuem legendas?
-    - [ ] As tabelas e figuras estão sendo referenciadas no texto?
-    - [ ] As tabelas estão sendo chamadas no texto?
-    - [ ] As figuras estão sendo explicadas?     
+    - [✔️] As tabelas e figuras possuem legendas?
+    - [✔️] As tabelas e figuras estão sendo referenciadas no texto?
+    - [✔️] As tabelas estão sendo chamadas no texto?
+    - [✔️] As figuras estão sendo explicadas?     
 4. Referência:
-    - [ ] As perguntas utilizadas no checklist estão referenciadas corretamente?
-    - [ ] Todas as tabelas citadas e demonstradas no artefato estão com legenda e explicação?
+    - [✔️] As perguntas utilizadas no checklist estão referenciadas corretamente?
+    - [✔️] Todas as tabelas citadas e demonstradas no artefato estão com legenda e explicação?
 
 #### Conclusão
-Será apresentado um resumo breve da qual conterá os itens apresentados e concluídos no artefato, mostrando assim, se o artefato/documento respeita a estrutura padrão estabelecida, estabelecendo uma qualidade padrão para todos os artefatos.
+Após realizado a verificação do artefato, nota-se que alguns pontos precisam ser melhorados e adicionados, o artefato não possui objetivo para os dois tipos de análise (HTA E GOMs), deixando o objetivo principal do documento.
 
 #### Sugestões e Melhorias
-Explicar quais são os pontos que necessitam de melhorias e promover possíveis soluções.
-
+Adicionar um título contendo a metodologia do (HTA), melhorar a construção e padronização do documento que por sua vez, melhora a organização.
 
 <!-- ## Referências -->
 <!-- FONTES CITADAS UTILIZADAS PARA EMBASAR O TEXTO. REMOVER CASO NÃO HOUVER  -->
@@ -269,3 +274,4 @@ UNIVESP. "Técnica de revisão (Verificação) - Gerência e Qualidade de Softwa
 | :--------: | :---------: | ----------------------------------------- | --------------- | --------------- |
 | `0.0`      | 24/06/2023  | Criação do arquivo                        | Júlio César     | -               |
 | `0.1`      | 02/07/2023  | Realizando a verificação de artefatos     | Marcus Vinicius | -               |
+| `0.2`      | 03/07/2023  | Atualização do conteúdo dos artefatos     | Marcus Vinicius | -               |
