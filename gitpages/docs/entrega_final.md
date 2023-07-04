@@ -72,6 +72,35 @@ Com base nos resultados obtidos e nas melhorias implementadas, podemos afirmar q
 ## Síntese do Projeto
 
 ### Ferramentas Utilizadas
+Está representado na tabela 1 as ferramentas utilizadas, onde ou quando foram utilizadas e como foram utilizadas.
+
+<center>
+
+*Tabela 1: Ferramentas Utilizadas*
+
+</center>
+
+|Ferramenta| Onde/Quando Foi Utilizada | Como Foi Utilizada |
+|:-:|-------|--------|
+|Github | Em todo o projeto | Foi utilizada como repositório para o projeto git |
+|Discord | Na apresentação da [entrega 1](https://interacao-humano-computador.github.io/2023.1-ISSNet/entregas/) | Foi utilizada inicialmente como meio de comunicação e realização das reuniões, mas o grupo julgou posteriormente que seria mais prático usar MS Teams|
+|MS Teams | Nas apresentações a partir da [entrega 1](https://interacao-humano-computador.github.io/2023.1-ISSNet/entregas/) e para gravação das entrevistas da [análise de tarefas](https://interacao-humano-computador.github.io/2023.1-ISSNet/design_avaliacao_desenvolvimento/nivel1/analise_de_tarefas/relato_analisetarefas/), do [storyboard](https://interacao-humano-computador.github.io/2023.1-ISSNet/design_avaliacao_desenvolvimento/nivel1/storyboard/relato_storyboard/), do [protótipo de papel](https://interacao-humano-computador.github.io/2023.1-ISSNet/design_avaliacao_desenvolvimento/nivel2/relato_protpapel/) e do [protótipo de alta fidelidade](https://interacao-humano-computador.github.io/2023.1-ISSNet/design_avaliacao_desenvolvimento/nivel3/relato_altafidelidade/)| Utilizada para a realização e gravação das reuniões |
+|OBS Studio| Na apresentação da [entrega 1](https://interacao-humano-computador.github.io/2023.1-ISSNet/entregas/) | Utilizado inicialmente para gravações quando as reuniões eram feitas no Discord, com a mudança para o MS Teams, não foi mais necessário usar, pois o MS Teams já possui ferramenta nativa de gravação |
+|Figma | Na [guia de estilo](https://interacao-humano-computador.github.io/2023.1-ISSNet/analise_de_requisitos/guia_de_estilo/) e na [avaliação de protótipo de alta fidelidade](https://interacao-humano-computador.github.io/2023.1-ISSNet/design_avaliacao_desenvolvimento/nivel3/plan_avaliacao_altafidelidade/) | Utilizada a criação do protótipo de alta fidelidade|
+|MKDocs | Em todo o projeto | Utilizada para a criação do site estático do projeto com documentos em markdown |
+|Whatsapp| Em todo o projeto | Utilizada como meio de comunicação do grupo |
+|Youtube| Nas [apresentações das entregas](https://interacao-humano-computador.github.io/2023.1-ISSNet/entregas/) e nas entrevistas da [análise de tarefas](https://interacao-humano-computador.github.io/2023.1-ISSNet/design_avaliacao_desenvolvimento/nivel1/analise_de_tarefas/relato_analisetarefas/), do [storyboard](https://interacao-humano-computador.github.io/2023.1-ISSNet/design_avaliacao_desenvolvimento/nivel1/storyboard/relato_storyboard/), do [protótipo de papel](https://interacao-humano-computador.github.io/2023.1-ISSNet/design_avaliacao_desenvolvimento/nivel2/relato_protpapel/) e do [protótipo de alta fidelidade](https://interacao-humano-computador.github.io/2023.1-ISSNet/design_avaliacao_desenvolvimento/nivel3/relato_altafidelidade/) | Utilizada para hospedagem dos vídeos não listados|
+|VSCode | Em todo o projeto | Utilizada para a escrita e formatação dos documentos markdown |
+|Canva | Na [definição de personas](https://interacao-humano-computador.github.io/2023.1-ISSNet/analise_de_requisitos/personas/) | Utilizada para a criação dos elencos de persona |
+|Google Forms | Na definição do [perfil de usuário](https://interacao-humano-computador.github.io/2023.1-ISSNet/analise_de_requisitos/perfil_de_usuario/) | Utilizada para a criação do questionário online |
+|StoryboardTHAT | Na [avaliação do storyboard](https://interacao-humano-computador.github.io/2023.1-ISSNet/design_avaliacao_desenvolvimento/nivel1/storyboard/plan_avaliacao_storyboard/#storyboards-desenvolvidos) | Utilizada a criação dos storyboards |
+|ThisPersonDoesn'tExist | Na [definição de personas](https://interacao-humano-computador.github.io/2023.1-ISSNet/analise_de_requisitos/personas/) | Utilizada para a geração das imagens das personas |
+
+<center>
+
+*Fonte: Autor, 2023*
+
+</center>
 
 ### Técnicas Utilizadas
 
@@ -96,6 +125,7 @@ Com base nos resultados obtidos e nas melhorias implementadas, podemos afirmar q
 * Comunicação efetiva: Possuo habilidades de comunicação efetiva, tanto na escrita quanto na expressão oral. Isso me permitiu transmitir minhas ideias e opiniões de maneira clara e assertiva durante as reuniões em equipe, facilitando a colaboração e a troca de informações.
 
 ### Júlio
+* Com o projeto tive facilidades com a criação de documentos e padronização, parte disso se deve a minha experiência prévia com documentos markdown e mkdocs, embora não tenha utilizado muito, também tive aproveitamento dos meus conhecimentos prévios de Figma.
 
 ### Marcus
 
@@ -132,6 +162,7 @@ Aprendemos com essa dificuldade a importância de estabelecer processos e diretr
 * Durante o projeto, enfrentei algumas dificuldades em compreender as tarefas nas entregas semanais da disciplina. Especificamente, tive maiores dificuldades na etapa de verificação.
 
 ### Júlio
+* Minhas principais dificuldades foram com as entregas semanais enquanto estudava e faziam atividades de outras matérias do fluxo.
 
 ### Marcus
 
