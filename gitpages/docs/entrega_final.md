@@ -36,16 +36,23 @@ Ao analisar o site da [ISSNetDF](https://df.issnetonline.com.br/online/Login/Log
 
 ## Execução do Projeto
 ### Ciclo de Vida
-O ciclo de vida de Mayhew foi proposto em 1999, este ciclo foi criado para guiar no desenvolvimento de produtos/software com foco na usabilidade, levando em consideração a eficiência e facilidade e que trabalhe na questão da satisfação do usuário, este ciclo é dividido em três fases: Iniciando pela análise de requisitos, projeto/desenvolvimento/teste e instalação. Na fase de análise, são definidos vários artefatos, como metas de usabilidade, análise de tarefas, entre outros. Cada artefato tem sua importância dentro do ciclo de vida da engenharia. Na fase de desenvolvimento, a ideia principal é buscar soluções de IHC que ajude a entender metas de usabilidades desenvolvidas na fase anterior, incluindo vários pontos, como storyboard, protótipos, relatos, entre outros.<br><br>
-Segue em sequência uma imagem 1 mostrando o ciclo de vida de Mayhew:
-![Ciclo de Mayhew](https://github.com/Interacao-Humano-Computador/2023.1-ISSNet/blob/main/gitpages/docs/img/ciclo_mayhew.png)<br>
-A imagem 1 a cima é referente a como é o ciclo de vida de Mayhew, cada artefato e fase necessario.
+O ciclo de vida de Mayhew foi proposto em 1999, este ciclo foi criado para guiar no desenvolvimento de produtos/software com foco na usabilidade, levando em consideração a eficiência e facilidade e que trabalhe na questão da satisfação do usuário, este ciclo é dividido em três fases: Iniciando pela análise de requisitos, projeto/desenvolvimento/teste e instalação. Na fase de análise, são definidos vários artefatos, como metas de usabilidade, análise de tarefas, entre outros. Cada artefato tem sua importância dentro do ciclo de vida da engenharia. Na fase de desenvolvimento, a ideia principal é buscar soluções de IHC que ajude a entender metas de usabilidades desenvolvidas na fase anterior, incluindo vários pontos, como storyboard, protótipos, relatos, entre outros.
+
+Segue em sequência a figura 1 referente ao ciclo de vida de Mayhew, cada artefato e fase necessário.:
 
 <center>
-Fonte: Autor, 2023
+
+*Figura 1: Ciclo de vida de Mayhew*
+
 </center>
 
+![Ciclo de Mayhew](https://interacao-humano-computador.github.io/2023.1-ISSNet/img/ciclo_mayhew.png)
 
+<center>
+
+*Fonte: Autor, 2023*
+
+</center>
 
 ### Análise de Requisitos
 Iniciamos o projeto baseado no ciclo de vida da Mayhew, passando por todas as etapa, seguindo ordem proposta, inicializando com o desenvolvimento da analise de requisitos, onde são contidos os seguintes artefatos: [Perfil do Usuario](https://df.issnetonline.com.br/online/Login/Login.aspx?ReturnUrl=%2fonline), [Analise de Tarefas](https://interacao-humano-computador.github.io/2023.1-ISSNet/analise_de_requisitos/analise_de_tarefas/), [Características da plataforma do projeto](https://interacao-humano-computador.github.io/2023.1-ISSNet/analise_de_requisitos/caracteristicas_da_plataforma/), [Principio geral do Projeto](https://interacao-humano-computador.github.io/2023.1-ISSNet/analise_de_requisitos/principios_gerais/). Após a conclusão de todos os artefatos citados, foi desenvolvido as [Metas de usabilidade](https://interacao-humano-computador.github.io/2023.1-ISSNet/analise_de_requisitos/metas_de_usabilidade/) que por sua vez deu origem a o [Guia de Estilo](https://interacao-humano-computador.github.io/2023.1-ISSNet/analise_de_requisitos/guia_de_estilo/).
@@ -54,10 +61,11 @@ Iniciamos o projeto baseado no ciclo de vida da Mayhew, passando por todas as et
 No nível 1 foi produzido um [storyboard](https://interacao-humano-computador.github.io/2023.1-ISSNet/design_avaliacao_desenvolvimento/nivel1/storyboard/plan_avaliacao_storyboard/) para avaliar em conjunto com a [análise de tarefas](https://interacao-humano-computador.github.io/2023.1-ISSNet/design_avaliacao_desenvolvimento/nivel1/analise_de_tarefas/plan_avaliacao_analisetarefas/) e verificar se há uma correspondência entre o fluxo identificado no storyboard e análise de tarefas com o que o usuário está acostumado a realizar, os pontos levantados pelos usuários na [avaliação da análise de tarefas](https://interacao-humano-computador.github.io/2023.1-ISSNet/design_avaliacao_desenvolvimento/nivel1/analise_de_tarefas/relato_analisetarefas/) e na [avaliação do storyboard](https://interacao-humano-computador.github.io/2023.1-ISSNet/design_avaliacao_desenvolvimento/nivel1/storyboard/relato_storyboard/) foram utilizados para á
  atualização da guia de estilo caso necessário.
 #### Nível 2
-- Já no nível 2, foi produzido um protótipo de baixa fidelidade, onde o escolhido pelo grupo foi o [protótipo de papel](https://interacao-humano-computador.github.io/2023.1-ISSNet/design_avaliacao_desenvolvimento/nivel2/plan_avaliacao_protpapel/), tem o mesmo objetivo de verificar a correspondência entre o fluxo identificado na análise de tarefas com o que está no protótipo de papel. A [avaliação do protótipo de papel](https://interacao-humano-computador.github.io/2023.1-ISSNet/design_avaliacao_desenvolvimento/nivel2/relato_protpapel/) que também irá contribuir novamente para a alteração da guia de estilo caso necessário.
+Já no nível 2, foi produzido um protótipo de baixa fidelidade, onde o escolhido pelo grupo foi o [protótipo de papel](https://interacao-humano-computador.github.io/2023.1-ISSNet/design_avaliacao_desenvolvimento/nivel2/plan_avaliacao_protpapel/), tem o mesmo objetivo de verificar a correspondência entre o fluxo identificado na análise de tarefas com o que está no protótipo de papel. A [avaliação do protótipo de papel](https://interacao-humano-computador.github.io/2023.1-ISSNet/design_avaliacao_desenvolvimento/nivel2/relato_protpapel/) que também irá contribuir novamente para a alteração da guia de estilo caso necessário.
 #### Nível 3
-- Em sequência, no nível 3 foi desenvolvido um [protótipo de alta fidelidade](https://interacao-humano-computador.github.io/2023.1-ISSNet/design_avaliacao_desenvolvimento/nivel3/plan_avaliacao_altafidelidade/) baseado na análise de tarefas e as iterações anteriores com os outros protótipos. O objetivo se mantém o mesmo que os outros, caso as metas de usabilidade forem atingidas será atualizado o guia de estilo e finalizado o projeto, junto com a conclusão se o protótipo demonstrou melhorias comparado com o site real ou caso ele tenha sido pior, deveremos explicar as razões disso.
-- Como o projeto é realizado de maneira conceitual, não foram avaliados as telas do site da ISSNET-DF, contudo, alguns artefatos/documentos criados no projeto foi desenvolvidos para verificar o ciclo de Mayhew, como a verificação, onde foi realizado pelo grupo para identificar inconformidades e assim possivelmente corrigi-las, melhorando assim toda a estrutura do projeto.
+Em sequência, no nível 3 foi desenvolvido um [protótipo de alta fidelidade](https://interacao-humano-computador.github.io/2023.1-ISSNet/design_avaliacao_desenvolvimento/nivel3/plan_avaliacao_altafidelidade/) baseado na análise de tarefas e as iterações anteriores com os outros protótipos. O objetivo se mantém o mesmo que os outros, caso as metas de usabilidade forem atingidas será atualizado o guia de estilo e finalizado o projeto, junto com a conclusão se o protótipo demonstrou melhorias comparado com o site real ou caso ele tenha sido pior, deveremos explicar as razões disso.
+
+Como o projeto é realizado de maneira conceitual, não foram avaliados as telas do site da [ISSNetDF](https://df.issnetonline.com.br/online/Login/Login.aspx?ReturnUrl=%2fonline), contudo, alguns artefatos/documentos criados no projeto foi desenvolvidos para verificar o ciclo de Mayhew, como a verificação, onde foi realizado pelo grupo para identificar inconformidades e assim possivelmente corrigi-las, melhorando assim toda a estrutura do projeto.
 
 
 ## Resultados alcançados
@@ -119,7 +127,7 @@ Está representado na tabela 1 as ferramentas utilizadas, onde ou quando foram u
 
 ### Artefatos Desenvolvidos
 
-### Protótipos Contruídos
+### Protótipos Construídos
 
 ### Verificação dos Artefatos
 
@@ -195,3 +203,8 @@ Ao longo do projeto, como grupo, compreendemos melhor o objetivo do desenvolvime
 | Versão     | Data        | Descrição            | Autor(es)                          | Revisores  |
 | :--------: | :---------: | -------------------- | ---------------------------------- | ---------- |
 | `0.0`      |  02/07/2023 | Criação do arquivo   | Arthur Trindade           | -          |
+| `0.1`      |  03/07/2023 | Adiciona 5 tópicos   | Miguel Moreira | Arthur D'Assumpção |
+| `0.2`      |  03/07/2023 | Adiciona dificuldades pessoais | Arthur Trindade | Arthur D'Assumpção |
+| `0.3`      |  04/07/2023 | Adiciona ferramentas do projeto | Júlio César | Gabriel de Souza |
+| `0.4`      |  04/07/2023 | Adiciona execução do projeto | Marcus Vinicius | Gabriel de Souza |
+
