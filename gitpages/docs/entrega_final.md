@@ -2,7 +2,7 @@
 
 ## Site Selecionado
 
-### justificativa
+### Justificativa
 Originalmente, havíamos selecionado o site da [Caixa Econômica Federal](https://www.caixa.gov.br/Paginas/home-caixa.aspx) como nosso objeto de estudo. No entanto, devido a uma refatoração recente desse site, optamos por mudar para nossa segunda opção, o site da [ISSNetDF](https://df.issnetonline.com.br/online/Login/Login.aspx?ReturnUrl=%2fonline). Essa escolha foi baseada na facilidade de encontrar usuários e na relevância do site para um dos membros do nosso grupo de trabalho.
 
 #### Critérios de escolha
@@ -87,7 +87,8 @@ Com base nos resultados obtidos e nas melhorias implementadas, podemos afirmar q
 
 ### Grupo
 
-### Arthur.T
+### Arthur T.
+* Tive facilidade em identificar problemas de usabilidade no site escolhido para a avaliação individual ao aplicar as heurísticas de Nielsen e propor soluções para esses problemas. No entanto, a parte mais satisfatória da disciplina foi a criação dos protótipos de papel e de alta fidelidade, foi uma boa experiência aprender a utilizar a ferramenta Figma pois isso proporcionou uma maior interação e aprendizado entre os integrantes da equipe.
 
 ### Miguel
 * Experiência prévia: Tive experiência prévia em projetos de desenvolvimento web e em disciplinas relacionadas, o que me proporcionou um conhecimento básico e familiaridade com conceitos e ferramentas utilizadas no projeto. Isso me permitiu ter uma compreensão mais rápida das tarefas a serem realizadas.
@@ -100,7 +101,7 @@ Com base nos resultados obtidos e nas melhorias implementadas, podemos afirmar q
 
 ### Gabriel
 
-### Arthur.D
+### Arthur D.
 
 ## Dificuldades
 
@@ -122,7 +123,10 @@ Essa dificuldade se refletiu principalmente na etapa de verificação, na qual c
 Essa experiência nos mostrou a importância de estabelecer diretrizes claras desde o início do projeto, definindo um padrão para os documentos a serem produzidos. Uma padronização adequada teria evitado retrabalhos e facilitado a colaboração entre os membros do grupo, permitindo uma produção mais eficiente e efetiva dos documentos.
 Aprendemos com essa dificuldade a importância de estabelecer processos e diretrizes claras para orientar o trabalho em equipe. Em projetos futuros, faremos questão de implementar uma padronização desde o início, para evitar retrabalhos e garantir uma comunicação mais eficiente e consistente entre os membros do grupo.
 
-### Arthur.T
+### Arthur T.
+* Durante o desenvolvimento do projeto, enfrentei dificuldades para distinguir certos termos da disciplina e nomes de artefatos específicos. Por exemplo, na etapa de verificação, tive dificuldade em determinar se minha avaliação deveria se concentrar na conformidade do artefato "planejamento da análise de tarefas" com os padrões estabelecidos ou na própria "análise de tarefas". 
+
+* A grande quantidade de artefatos com nomes e objetivos parecidos contribuiu para que eu me sentisse um pouco perdido.
 
 ### Miguel
 * Durante o projeto, enfrentei algumas dificuldades em compreender as tarefas nas entregas semanais da disciplina. Especificamente, tive maiores dificuldades na etapa de verificação.
@@ -133,7 +137,7 @@ Aprendemos com essa dificuldade a importância de estabelecer processos e diretr
 
 ### Gabriel
 
-### Arthur.D
+### Arthur D.
 
 ## Agradecimentos
 Ao longo do projeto, como grupo, compreendemos melhor o objetivo do desenvolvimento do projeto dentro da disciplina. Percebemos que o seu propósito é oferecer a nós, estudantes, a oportunidade de aplicar os conteúdos aprendidos em um contexto prático e real. Essa abordagem nos permitiu consolidar nosso conhecimento teórico e enfrentar desafios reais de interação humano-computador. Acreditamos que, além de contribuir para o aprimoramento da usabilidade do site da ISSNetDF, essa experiência nos permitirá desenvolver habilidades práticas essenciais para a nossa formação acadêmica e profissional. É gratificante poder aplicar os conceitos de IHC em um projeto concreto e, ao mesmo tempo, adquirir competências valiosas para a nossa jornada como futuros profissionais de tecnologia. Assim, ao analisarmos os aspectos selecionados para o projeto e avaliar os resultados obtidos, percebemos que estamos não apenas cumprindo o objetivo principal do projeto, mas também alcançando o objetivo de aprendizagem estabelecido pela disciplina.

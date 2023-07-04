@@ -5,16 +5,15 @@
 A técnica de verificação de artefatos é usada para validar o conteúdo criado em um projeto. O processo de verificação é feito de forma profunda e detalhada, visando observar e avaliar desde o conteúdo até a estrutura do artefato, com o objetivo final de verificar a qualidade e a conformidade com os padrões e conteúdos estabelecidos.
 
 ## Metodologia
+A verificação de artefatos de software pode ser feita por meio da análise estática, que revisa os artefatos sem executar o código, ou pela análise dinâmica, que executa o código e realiza testes. No contexto específico dos artefatos a serem verificados, optaremos pela abordagem de verificação estática, pois ela nos permitirá examinar a documentação e outros elementos relacionados, e para a verificação, utilizaremos o método de inspeção proposto por Fagan. 
 
-O método usado é baseado  e referenciado por Simone. Interação Humano Computador, que consiste em checklists sobre o conteúdo, a padronização, a estrutura, a referência e outros. Será seguido o método de inspeção.
-
-Os critérios de verificação seguidos foram:
+A verificação dos artefatos foi realizada de acordo com os seguintes critérios:
 
 - [✔️] FEITO
 - [⚠️] INCOMPLETO
 - [❌] NÃO-FEITO 
 
-O artefato analisado é o [Relato dos Resultados do Protótipo de Alta Fidelidade](https://interacao-humano-computador.github.io/2023.1-ISSNet/design_avaliacao_desenvolvimento/nivel3/relato_altafidelidade/) do nosso grupo, ISSNet.
+O artefato verificado neste documento é o [Relato dos Resultados do Protótipo de Alta Fidelidade](https://interacao-humano-computador.github.io/2023.1-ISSNet/design_avaliacao_desenvolvimento/nivel3/relato_altafidelidade/).
 
 ## Checklists
 

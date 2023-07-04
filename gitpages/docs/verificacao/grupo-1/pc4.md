@@ -97,8 +97,8 @@ Tabela 2: Verificações do planejamento do relato dos resultados da Avaliação
 | 11   | O artefato aborda as questões éticas do planejamento?                                      |<span style="color:#00E44E">Sim</span>| |  |
 | 12   | O artefato apresenta o termo de consentimento livre e esclarecido?                         |<span style="color:#00E44E">Sim</span>| |  |
 | 13   | Apresenta quais dados serão coletados e como e por que serão utilizados?                   |<span style="color:red">Não</span>| |  |
-| 13   | Um teste piloto foi realizado?                                                             |<span style="color:#00E44E">Sim</span>| |  |
-| 13   | O artefato apresenta os storyboards produzidos?                                            |<span style="color:#00E44E">Sim</span>| |  |
+| 14   | Um teste piloto foi realizado?                                                             |<span style="color:#00E44E">Sim</span>| |  |
+| 15   | O artefato apresenta os storyboards produzidos?                                            |<span style="color:#00E44E">Sim</span>| |  |
 
 Tabela 3: Verificações do planejamento da Avaliação do Storyboard.
 

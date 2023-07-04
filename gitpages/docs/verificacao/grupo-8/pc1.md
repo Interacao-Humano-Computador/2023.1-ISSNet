@@ -4,18 +4,15 @@
 O processo de verificação é importante para verificar se o que foi feito está conforme o especificado, uma verificação pode ser estática ou dinâmica, na estática o software não é executado, o contrário da dinâmica, em que o software é executado. Pode ser feito a verificação de manuais, softwares, manuais ou quaisquer artefatos produzidos.
 
 ## Metodologia
+A verificação de artefatos de software pode ser feita por meio da análise estática, que revisa os artefatos sem executar o código, ou pela análise dinâmica, que executa o código e realiza testes. No contexto específico dos artefatos a serem verificados, optaremos pela abordagem de verificação estática, pois ela nos permitirá examinar a documentação e outros elementos relacionados, e para a verificação, utilizaremos o método de inspeção proposto por Fagan. 
 
-O método usado é baseado  e referenciado por Simone. Interação Humano Computador, que consiste em checklists sobre o conteúdo, a padronização, a estrutura, a referência e outros. Será seguido o método de inspeção dos artefatos do ponto de controle 1:
-
-
-
-Os critérios de verificação seguidos foram:
+A verificação dos artefatos foi realizada de acordo com os seguintes critérios:
 
 - [✔️] FEITO
 - [⚠️] INCOMPLETO
 - [❌] NÃO-FEITO 
 
-Os artefatos analisados do nosso grupo [ISSNetDF](https://df.issnetonline.com.br/online/Login/Login.aspx?ReturnUrl=%2fonline) são:
+A seguir, apresentamos os artefatos verificados neste documento:
 
 - [Cronograma Planejado](https://interacao-humano-computador.github.io/2023.1-ISSNet/planejamento/cronograma/cronograma_plan/)
 - [Cronograma Executado](https://interacao-humano-computador.github.io/2023.1-ISSNet/planejamento/cronograma/cronograma_exec/)
@@ -23,6 +20,7 @@ Os artefatos analisados do nosso grupo [ISSNetDF](https://df.issnetonline.com.br
 - [Sites Avaliados](https://interacao-humano-computador.github.io/2023.1-ISSNet/planejamento/avaliados/)
 - [Site Selecionado](https://interacao-humano-computador.github.io/2023.1-ISSNet/planejamento/selecionado/)
 - [Processo de Design](https://interacao-humano-computador.github.io/2023.1-ISSNet/planejamento/processo/)
+
 ## Checklists
 
 ### Artefato Cronograma Planejado
