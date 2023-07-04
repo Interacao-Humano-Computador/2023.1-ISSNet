@@ -41,7 +41,7 @@ Fonte: Grupo UnbIdiomas-2022.2, acessado em: 25 de abril de 2023. Disponivel em:
 
 <span id="wpp">[7]: WPP. 2023. Disponivel em: <https://web.whatsapp.com>. Acesso em 25/04/2023.</span>
 
-<span id="this person does not exist">[8]: this person does not exist. 2023. Disponivel em: <https://this-person-does-not-exist.com/en>. Acesso em 25/04/2023.</span>
+<span id="logo_tpde">[8]: this person does not exist. 2023. Disponivel em: <https://this-person-does-not-exist.com/en>. Acesso em 25/04/2023.</span>
 
 <span id="youtube">[9]: YOUTUBE. 2023. Disponivel em: <https://www.youtube.com>. Acesso em 25/04/2023.</span>
 
@@ -65,4 +65,5 @@ Fonte: Grupo UnbIdiomas-2022.2, acessado em: 25 de abril de 2023. Disponivel em:
 | `0.5`      |  26/04/2023 | Correções de de imagens e referecias                 | Marcus Vinicius Cunha Dantas                | Júlio César Costa|
 | `0.6`      |  08/05/2023 | Atualização de ferramenta                            | Marcus Vinicius Cunha Dantas                | Júlio César Costa|
 | `0.7`      |  28/05/2023 | Adiciona StoryboardThat                              | Júlio César                                 | Arthur Trindade  |
-| `0.8`      |  28/05/2023 | Adiciona this person does not exist                  | Marcus Vinicius Cunha Dantas                | Júlio César Costa|
+| `0.8`      |  04/05/2023 | Adiciona this person does not exist                  | Marcus Vinicius Cunha Dantas                | Júlio César Costa|
+| `0.8`      |  04/05/2023 | Correções de referencia no Arquivo                   | Marcus Vinicius Cunha Dantas                | Júlio César Costa|
