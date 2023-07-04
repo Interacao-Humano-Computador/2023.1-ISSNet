@@ -170,5 +170,7 @@ Edição, Editora Campus, 2010. Publicado em: 03/05/2021.
 | :--------: | :---------: | ----------------------------------------- | --------------- | --------------- |
 | `0.0`      | 11/06/2023  | Criação do arquivo                        | Júlio César     | - |
 | `0.1`      | 11/06/2023  | Adição da introdução, objetivo, metodologia e questões éticas | Arthur Trindade | Julio César |
-| `0.2`      | 11/06/2023  | Adição das questões práticas, roteiro de perguntas e interpretação dos dados | Miguel Moreira | - |
-| `0.3`      | 02/07/2023  | Padronização dos títulos do documento e ajustes  | Arthur Trindade | Julio César |
+| `0.2`      | 11/06/2023  | Adição das questões práticas, roteiro de perguntas e interpretação dos dados | Miguel Moreira | Julio César |
+| `0.3`      | 24/06/2023  | Criação do protótipo de alta fidelidade | Arthur Trindade<br>Miguel Moreira | Júlio César |
+| `0.4`      | 24/06/2023  | Criação do protótipo para a tarefa de consultar nota | Júlio César | Miguel Moreira |
+| `0.5`      | 02/07/2023  | Padronização dos títulos do documento e ajustes  | Arthur Trindade | Julio César |
