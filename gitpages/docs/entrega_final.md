@@ -31,21 +31,27 @@ Ao analisar o site da [ISSNetDF](https://df.issnetonline.com.br/online/Login/Log
 2. Navegação confusa: O site apresenta uma estrutura de navegação complexa, com informações relevantes escondidas em menus pouco intuitivos. É fundamental simplificar a navegação e tornar mais fácil para os usuários encontrar as informações desejadas.
 3. Má formatação do conteúdo: O conteúdo do site pode estar mal formatado, dificultando a leitura e a compreensão das informações pelos usuários. É importante garantir uma formatação consistente e clara para melhorar a legibilidade e a eficiência na busca de informações.
 
-## Ciclo de Vida
 
 ## Cronograma de Entregas
 
 ## Execução do Projeto
+### Ciclo de Vida
+![Ciclo de Mayhew](https://interacao-humano-computador.github.io/2023.1-ISSNet/planejamento/processo/)
+
+
 
 ### Análise de Requisitos
-
+Iniciamos o projeto baseado no ciclo de vida da mayhew, passando por todas as etapa, seguindo ordem proposta, inicializando com o desenvolvimento da analise de requisitos, onde são contidos os seguintes artefatos: [Perfil do Usuario](https://df.issnetonline.com.br/online/Login/Login.aspx?ReturnUrl=%2fonline), [Analise de Tarefas](https://interacao-humano-computador.github.io/2023.1-ISSNet/analise_de_requisitos/analise_de_tarefas/), [Características da plataforma do projeto](https://interacao-humano-computador.github.io/2023.1-ISSNet/analise_de_requisitos/caracteristicas_da_plataforma/), [Principio geral do Projeto](https://interacao-humano-computador.github.io/2023.1-ISSNet/analise_de_requisitos/principios_gerais/). Após a conclusão de todos os artefatos citados, foi desenvolvido as [Metas de usabilidade](https://interacao-humano-computador.github.io/2023.1-ISSNet/analise_de_requisitos/metas_de_usabilidade/) que por sua vez deu origem a o [Guia de Estilo](https://interacao-humano-computador.github.io/2023.1-ISSNet/analise_de_requisitos/guia_de_estilo/).
 ### Design, Avaliação e Desenvolvimento
-
 #### Nível 1
-
+No nível 1 foi produzido um [storyboard](https://interacao-humano-computador.github.io/2023.1-ISSNet/design_avaliacao_desenvolvimento/nivel1/storyboard/plan_avaliacao_storyboard/) para avaliar em conjunto com a [análise de tarefas](https://interacao-humano-computador.github.io/2023.1-ISSNet/design_avaliacao_desenvolvimento/nivel1/analise_de_tarefas/plan_avaliacao_analisetarefas/) e verificar se há uma correspondência entre o fluxo identificado no storyboard e análise de tarefas com o que o usuário está acostumado a realizar, os pontos levantados pelos usuários na [avaliação da análise de tarefas](https://interacao-humano-computador.github.io/2023.1-ISSNet/design_avaliacao_desenvolvimento/nivel1/analise_de_tarefas/relato_analisetarefas/) e na [avaliação do storyboard](https://interacao-humano-computador.github.io/2023.1-ISSNet/design_avaliacao_desenvolvimento/nivel1/storyboard/relato_storyboard/) foram utilizados para á
+ atualização da guia de estilo caso necessário.
 #### Nível 2
-
+- Já no nível 2, foi produzido um protótipo de baixa fidelidade, onde o escolhido pelo grupo foi o [protótipo de papel](https://interacao-humano-computador.github.io/2023.1-ISSNet/design_avaliacao_desenvolvimento/nivel2/plan_avaliacao_protpapel/), tem o mesmo objetivo de verificar a correspondência entre o fluxo identificado na análise de tarefas com o que está no protótipo de papel. A [avaliação do protótipo de papel](https://interacao-humano-computador.github.io/2023.1-ISSNet/design_avaliacao_desenvolvimento/nivel2/relato_protpapel/) que também irá contribuir novamente para a alteração da guia de estilo caso necessário.
 #### Nível 3
+- Em sequência, no nível 3 foi desenvolvido um [protótipo de alta fidelidade](https://interacao-humano-computador.github.io/2023.1-ISSNet/design_avaliacao_desenvolvimento/nivel3/plan_avaliacao_altafidelidade/) baseado na análise de tarefas e as iterações anteriores com os outros protótipos. O objetivo se mantém o mesmo que os outros, caso as metas de usabilidade forem atingidas será atualizado o guia de estilo e finalizado o projeto, junto com a conclusão se o protótipo demonstrou melhorias comparado com o site real ou caso ele tenha sido pior, deveremos explicar as razões disso.
+- Como o projeto é realizado de maneira conceitual, não foram avaliados as telas do site da ISSNET-DF, contudo, alguns artefatos/documentos criados no projeto foi desenvolvidos para verificar o ciclo de mayhew, como a verificação, onde foi realizado pelo grupo para identificar inconformidades e assim possivelmente corrigi-las, melhorando assim toda a estrutura do projeto.
+
 
 ## Resultados alcançados
 
