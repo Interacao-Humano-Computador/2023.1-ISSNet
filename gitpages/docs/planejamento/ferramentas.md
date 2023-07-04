@@ -15,7 +15,7 @@ Nesta parte do documento será descrito a lista de ferramentas que usaremos no d
 |    ![Logo Figma](../img/logo_figma.png)                                       |    Figma   |         Figma é uma ferramenta de design de interfaces muito utilizado para realizar prototipagens. Realizaremos o uso desta ferramenta para criar telas e gerar protótipos.<a href="#figma">[5]</a>| 
 |    ![Logo MkDocs](../img/logo_mkdocs.png)                                     |    MkDocs  |         MkDocs é uma ferramenta que permite criar uma documentação de sites estáticos a partir de arquivos markdown. <a href="#mkdocs">[6]</a> |
 |    ![Logo WhatsApp](../img/logo_wpp.png)                                      |  WhatsApp  |         O WhatsApp é uma ferramenta de comunicação como o telegram. Outra ferramenta utilizada pelo grupo para comunicação e gerenciamento de atividades. <a href="#wpp">[7]</a>| 
-|    ![Logo Usabilla](../img/logo_usabilla.png)                                 |  Usabilla  |         Usabilla é uma ferramenta que permite o gerenciamento e criação de avaliações heurísticas de maneira personalizável. Será uma ferramenta futura utilizada pelo grupo para criar tarefas e gerar formulários/testes da nossa escolha.<a href="#usabilla">[8]</a>| 
+|    ![Logo this person does not exist](../img/this person does not exist.png)  |  this person does not exist  |     Esta ferramenta foi utilizada pelo grupo para gerar pessoas fictícias da quais comporam nosso elenco de personas, este site tem o intuito de gerar fotos de pessoas fictícias.<a href="#this person does not exist">[8]</a>| 
 |    ![Logo YouTube](../img/logo_youtube.png)                                   |   Youtube  |         YouTube é uma plataforma de compartilhamento de vídeo online, onde os usuários podem carregar, compartilhar e visualizar vídeos. Utilizamos a plataforma para inserir as reuniões feitas pelo grupo.<a href="#youtube">[9]</a>|
 |    ![Logo VSCode](../img/logo_visualstudio.png)                               |   VSCode   |         O vscode é um editor de texto com uma variedade de extensões para desenvolvimento de softwares. Será utilizado pelo grupo para editar os arquivos markdown.<a href="#vscode">[10]</a>|
 |    ![Logo Canva](../img/logo_canva.png)                                       |   Canva    |         Canva é uma plataforma de design da qual permite que os seus usuários criem diversos tipos de conteúdos e disponibilizem ou de forma gratuita ou paga para outras pessoas. Será utilizado pelo grupo para realizar algumas tarefas necessárias como a criação de personas. <a href="#canva">[11]</a>
@@ -41,7 +41,7 @@ Fonte: Grupo UnbIdiomas-2022.2, acessado em: 25 de abril de 2023. Disponivel em:
 
 <span id="wpp">[7]: WPP. 2023. Disponivel em: <https://web.whatsapp.com>. Acesso em 25/04/2023.</span>
 
-<span id="usabilla">[8]: USABILLA. 2023. Disponivel em: <https://www.getfeedback.com/resources/cx/usabilla/>. Acesso em 25/04/2023.</span>
+<span id="this person does not exist">[8]: this person does not exist. 2023. Disponivel em: <https://this-person-does-not-exist.com/en>. Acesso em 25/04/2023.</span>
 
 <span id="youtube">[9]: YOUTUBE. 2023. Disponivel em: <https://www.youtube.com>. Acesso em 25/04/2023.</span>
 
@@ -63,5 +63,6 @@ Fonte: Grupo UnbIdiomas-2022.2, acessado em: 25 de abril de 2023. Disponivel em:
 | `0.3`      |  25/04/2023 | Correções de referencia no Arquivo                   | Marcus Vinicius Cunha Dantas                | Júlio César Costa|
 | `0.4`      |  25/04/2023 | Correções de referencia no Arquivo                   | Marcus Vinicius Cunha Dantas                | Júlio César Costa|
 | `0.5`      |  26/04/2023 | Correções de de imagens e referecias                 | Marcus Vinicius Cunha Dantas                | Júlio César Costa|
-| `0.6`      |  08/05/2023 | Atualização de ferramenta                            | Marcus Vinicius Cunha Dantas               | Júlio César Costa|
-| `0.7`      |  28/05/2023 | Adiciona StoryboardThat                              | Júlio César                                | Arthur Trindade |
+| `0.6`      |  08/05/2023 | Atualização de ferramenta                            | Marcus Vinicius Cunha Dantas                | Júlio César Costa|
+| `0.7`      |  28/05/2023 | Adiciona StoryboardThat                              | Júlio César                                 | Arthur Trindade  |
+| `0.8`      |  28/05/2023 | Adiciona this person does not exist                  | Marcus Vinicius Cunha Dantas                | Júlio César Costa|
