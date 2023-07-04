@@ -14,23 +14,6 @@ A metodologia utilizada para a avaliação foi a entrevista. A entrevista foi re
 
 Na entrevista foram apresentadas questões acerca das políticas de termos de consentimento, uma pequena introdução acerca do nosso projeto e que o entrevistado teria total liberdade de não responder caso fosse solicitado.
 
-
-## Protótipos Analisados
-
-<div style="text-align: center">
-<h3>
-Protótipo de Papel Tarefa Consultar Nota
-</h3>
-</div>
-<iframe src="https://interacao-humano-computador.github.io/2023.1-ISSNet/design_avaliacao_desenvolvimento/nivel2/doc/prot_papel_consultar.pdf" width="100%" height="500px"></iframe>
-
-<div style="text-align: center">
-<h3>
-Protótipo de Papel Tarefa Cancelar Nota
-</h3>
-</div>
-<iframe src="https://interacao-humano-computador.github.io/2023.1-ISSNet/design_avaliacao_desenvolvimento/nivel2/doc/prot_papel_cancelar.pdf" width="100%" height="500px"></iframe>
-
 ## Avaliadores e Participantes 
 
 Gabriel de Souza, Arthur Trindade, Arthur D'Assumpção e Miguel Moreira membros do nosso projeto, atuaram como avaliadores, enquanto George Tom, usuário do sistema em análise, participou como entrevistado.
@@ -58,4 +41,5 @@ Edição, Editora Campus, 2010. Publicado em: 03/05/2021.
 | Versão     | Data        | Descrição                                 | Autor(es)       | Revisores       |
 | :--------: | :---------: | ----------------------------------------- | --------------- | --------------- |
 | `0.0`      | 11/06/2023  | Criação do arquivo                        | Júlio César     | - |
-| `0.1`      | 12/06/2023  | Criação da orientação                        | Arthur D'Assumpção     | - |
+| `0.1`      | 12/06/2023  | Criação da orientação                        | Arthur D'Assumpção     | Arthur Trindade<br>Miguel Moreira |
+| `0.2`      | 12/06/2023  | Adiciona tópicos restantes                 | Gabriel de Souza | Arthur Trindade<br>Miguel Moreira |

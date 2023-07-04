@@ -120,6 +120,17 @@ Assim como nas avaliações anteriores, para realizar a entrevista, é necessár
 ## Avaliar, interpretar e apresentar os resultados
 O resultado da avaliação desempenhará um papel fundamental no direcionamento do desenvolvimento dos protótipos de alta fidelidade no [nível 3 do projeto](nivel3). Ele servirá como um ponto de referência central para garantir a consistência e adequação da avaliação, assegurando que todos os dados coletados sejam cuidadosamente considerados. A interpretação dos dados será realizada após as entrevistas, e os dados obtidos serão apresentados de acordo com o [planejamento do relato dos reultados](plan_relato_protpapel.md).
 
+## Protótipos Desenvolvidos
+
+### Protótipo de Consultar Nota
+<iframe src="https://interacao-humano-computador.github.io/2023.1-ISSNet/design_avaliacao_desenvolvimento/nivel2/doc/prot_papel_consultar.pdf" width="100%" height="500px"></iframe>
+
+### Protótipo de Cancelar Nota
+<iframe src="https://interacao-humano-computador.github.io/2023.1-ISSNet/design_avaliacao_desenvolvimento/nivel2/doc/prot_papel_cancelar.pdf" width="100%" height="500px"></iframe>
+
+### Protótipo de Gerar Nota
+
+
 <!-- ## Referências -->
 <!-- FONTES CITADAS UTILIZADAS PARA EMBASAR O TEXTO. REMOVER CASO NÃO HOUVER  -->
 
@@ -136,5 +147,7 @@ Edição, Editora Campus, 2010. Publicado em: 03/05/2021.
 | `0.1`      | 28/05/2023  | Adiciona 3 tópicos                        | Júlio César     | Arthur Trindade<br>Gabriel de Souza |
 | `0.2`      | 28/05/2023  | Adiciona 3 tópicos                        | Arthur Trindade | Júlio César<br>Gabriel de Souza |
 | `0.3`      | 04/06/2023  | Padronização do documento e ajustes       | Arthur Trindade | Julio César |
-| `0.4`      |  02/07/2023 | Padronização dos títulos do documento e ajustes  | Arthur Trindade | Julio César |
-
+| `0.4`      | 12/06/2023  | Criação do protótipo de consultar nota     | Júlio César | Arthur Trindade<br>Miguel Moreira |
+| `0.5`      | 12/06/2023  | Criação do protótipo de cancelar nota      | Miguel Moreira | Arthur Trindade |
+| `0.6`      | 12/06/2023  | Criação do protótipo de gerar nota         | Arthur Trindade | Miguel Moreira |
+| `0.7`      | 02/07/2023 | Padronização dos títulos do documento e ajustes  | Arthur Trindade | Julio César |
