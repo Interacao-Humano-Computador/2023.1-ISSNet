@@ -23,7 +23,9 @@ Embora não tenha sido realizada uma análise detalhada do ambiente de trabalho 
 ## Elementos de interface
 Abaixo é possível observar os elementos de interface, interação e ação presentes no projeto, que foram elaborados através da plataforma Figma. Para a criação do guia de estilo foram considerados os seguintes princípios: correspondência com a expectativa dos usuários, consistência e padronização, antecipação, visibilidade e reconhecimento, conteúdo relevante e projetar para erros. Estes [princípios](./principios_gerais.md) devem estar presentes em todo protótipo produzido.
 
-<iframe src="https://interacao-humano-computador.github.io/2023.1-ISSNet/analise_de_requisitos/doc/Guia_de_estilo.pdf" width="100%" height="500px"></iframe>
+A [guia de estilo inicial](https://interacao-humano-computador.github.io/2023.1-ISSNet/analise_de_requisitos/doc/guia_de_estilo_old.pdf) teve que ser alterada após os pontos levantados na entrevista da [avaliação do protótipo de papel](https://interacao-humano-computador.github.io/2023.1-ISSNet/design_avaliacao_desenvolvimento/nivel2/relato_protpapel/), a seguir está a guia de estilo atualizada, utilizada para a [avaliação do protótipo de alta fidelidade](https://interacao-humano-computador.github.io/2023.1-ISSNet/design_avaliacao_desenvolvimento/nivel3/relato_altafidelidade/):
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FPphMCpvX1raQ2skyMnUryY%2FIssNet%3Ftype%3Ddesign%26node-id%3D0%253A1%26mode%3Ddesign%26t%3Dk0ZSR52eecVKwsld-1" allowfullscreen></iframe>
 
 ## Vocabulários e padrões
 Os vocabulários e padrões de linguagem unificados adotados neste guia serão comuns a todos os usuários do sistema, independentemente de sua área de atuação, considerando o principio de [consistência e padronização](./principios_gerais.md).
@@ -44,6 +46,7 @@ Template de Guia de estilo, Figma. Disponível em: <https://www.figma.com/file/y
 | Versão     | Data        | Descrição                                | Autor(es)                                        | Revisores       |
 | :--------: | :---------: | ---------------------------------------- | ------------------------------------------------ | --------------- |
 | `0.0`      |  14/05/2023 | Criação do arquivo                       | Arthur Trindade                                  | - |
-| `0.1`      |  15/05/2023 | Criação da guia de estilo no Figma       | Júlio César                                      | Marcus Vinicius |
+| `0.1`      |  15/05/2023 | Criação da guia de estilo inicial no Figma       | Júlio César                                      | Marcus Vinicius |
 | `0.2`      |  15/05/2023 | Criação e estruturação da guia de estilo | Arthur Trindade<br>Miguel Moreira                | Marcus Vinicius |
+| `0.3`      |  11/06/2023 | Refatoração da guia de estilo            | Arthur Trindade<br>Miguel Moreira                | Marcus Vinicius |
 | `0.3`      |  19/06/2023 | Correção da verificação                  | Júlio César                                      | Marcus Vinicius |
