@@ -90,34 +90,14 @@ Além dos aspectos selecionados, também conseguimos alcançar outras melhorias 
 
 Com base nos resultados obtidos e nas melhorias implementadas, podemos afirmar que o objetivo do projeto foi alcançado com sucesso. O protótipo de alta fidelidade apresenta melhorias significativas em termos de usabilidade, navegação, formatação do conteúdo e acessibilidade, proporcionando uma experiência mais satisfatória para os usuários.
 
-## Síntese das Avaliações
+## Síntese do Projeto
 
-Durante a execução do projeto, foram elaboradas algumas avaliações de protótipos e modelos conceituais (storyboard, análise de tarefas e Protótipo de alta fidelidade) e a tabela 1 sintetiza a aplicação dessas atividades.
-
-<center>
-
-| Avaliação                                 | Metodologia          | Avaliador(es)                          | Número de Participantes | Resultados                                                                                                                                        |
-| ----------------------------------------- | -------------------- | -------------------------------------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Avaliação do Storyboard                   | Entrevista           | Gabriel de Souza, Arthur Trindade e Miguel Moreira      | 5 (3 entrevistadores e 2 entrevistados)                      | [Relato dos Resultados da Avaliação do Storyboard](design_avaliacao_desenvolvimento/nivel1/storyboard/relato_storyboard.md)                      |
-| Avaliação da Análise de Tarefas           | Entrevista           | Gabriel de Souza, Arthur Trindade                           |  4 (2 entrevistadores e 2 entrevistados)                      | [Relato dos Resultados da Avaliação da Análise de Tarefas](design_avaliacao_desenvolvimento/nivel1/analise_de_tarefas/relato_analisetarefas.md) |
-| Avaliação do Protótipo de Papel           | Entrevista           | Gabriel de Souza, Arthur Trindade, Miguel Moreira e Arthur D´ Assunção | 5 (4 Entrevistadores e 1 entrevistado)                       | [Relato dos Resultados da Avaliação do Protótipo de Papel](design_avaliacao_desenvolvimento/nivel2/relato_protpapel.md)         |
-| Avaliação do Protótipo de Alta Fidelidade | Teste de Usabilidade e Entrevista | Miguel Moreira, Arthur Trindade                         | 3  (2 entrevistadores e 1 entrevistado)                     | [Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade](design_avaliacao_desenvolvimento/nivel3/relato_altafidelidade.md)      |
-
-<div style="text-align: center">
-<p>
-Tabela 1: Síntese dos artefatos de Design, Avaliação e Desenvolvimento (nível 3)
-(Fonte: autor, 2023).
-</p>
-</div>
-
-</center>
-
-## Ferramentas Utilizadas
-Está representado na tabela 2 as ferramentas utilizadas, onde ou quando foram utilizadas e como foram utilizadas.
+### Ferramentas Utilizadas
+Durante a execução do projeto, foram utilizadas diversas ferramentas para auxiliar nas atividades de avaliação em protótipos e modelos conceituais. A tabela 1 apresenta uma síntese das ferramentas utilizadas, destacando o contexto em que foram aplicadas, assim como sua finalidade:
 
 <center>
 
-*Tabela 2: Ferramentas Utilizadas*
+*Tabela 1: Ferramentas Utilizadas*
 
 </center>
 
@@ -144,12 +124,286 @@ Está representado na tabela 2 as ferramentas utilizadas, onde ou quando foram u
 </center>
 
 ### Técnicas Utilizadas
+Durante a execução do projeto, foram aplicadas várias técnicas de avaliação em protótipos e modelos conceituais, incluindo storyboard, análise de tarefas e protótipo de alta fidelidade. Essas técnicas não apenas serviram para avaliação dos artefatos desenvolvidos, mas também foram utilizadas como parte do levantamento de requisitos e definição do perfil do usuário. A tabela a seguir apresenta uma síntese das técnicas utilizadas, mostrando a avaliação realizada, os avaliadores envolvidos, o número de participantes e os resultados obtidos:
+
+<center>
+
+*Tabela 2: Técnicas Utilizadas durante o Projeto*
+
+</center>
+
+| Atividade                                 | Técnica Utilizada                                         | Avaliador(es)                                                          | Número de Participantes                 | Resultados                                                                                                                                      |
+| ----------------------------------------- | --------------------------------------------------------- | ---------------------------------------------------------------------- | --------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Levantamento do Perfil do Usuário         | Questionários on-line                                     | -                                                                      | 19 (12 usuários do Sistema)             | [Relato dos Resultados da Avaliação do Storyboard](design_avaliacao_desenvolvimento/nivel1/storyboard/relato_storyboard.md)                     |
+| Avaliação do Storyboard                   | Entrevista                                                | Gabriel de Souza, Arthur Trindade e Miguel Moreira                     | 5 (3 entrevistadores e 2 entrevistados) | [Relato dos Resultados da Avaliação do Storyboard](design_avaliacao_desenvolvimento/nivel1/storyboard/relato_storyboard.md)                     |
+| Avaliação da Análise de Tarefas           | Entrevista                                                | Gabriel de Souza, Arthur Trindade                                      | 4 (2 entrevistadores e 2 entrevistados) | [Relato dos Resultados da Avaliação da Análise de Tarefas](design_avaliacao_desenvolvimento/nivel1/analise_de_tarefas/relato_analisetarefas.md) |
+| Avaliação do Protótipo de Papel           | Entrevista                                                | Gabriel de Souza, Arthur Trindade, Miguel Moreira e Arthur D´ Assunção | 5 (4 Entrevistadores e 1 entrevistado)  | [Relato dos Resultados da Avaliação do Protótipo de Papel](design_avaliacao_desenvolvimento/nivel2/relato_protpapel.md)                         |
+| Avaliação do Protótipo de Alta Fidelidade | Teste de Usabilidade Think Aloud, Observação e Entrevista | Miguel Moreira e Arthur Trindade                                       | 3 (2 entrevistadores e 1 entrevistado)  | [Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade](design_avaliacao_desenvolvimento/nivel3/relato_altafidelidade.md)          |
+
+<center>
+
+*Fonte: Autor, 2023*
+
+</center
 
 ### Artefatos Desenvolvidos
+A síntese dos artefatos desenvolvidos consiste em uma análise detalhada das oito etapas do projeto, sendo que a sexta etapa é dividida em duas partes distintas. Em cada etapa, foram produzidos diversos artefatos, os quais foram criados por diferentes responsáveis. A seguir, estão listados os nove tópicos correspondentes às etapas do projeto, nos quais serão apresentadas as tabelas, de 3 a 11, contendo os artefatos desenvolvidos em cada uma dessas etapas. Cada tabela contém informações sobre os artefatos desenvolvidos, o responsável por sua construção e o(s) revisor(es) envolvido(s) no processo.
+
+#### Etapa 1
+<center>
+
+*Tabela 3: Artefatos Produzidos na Etapa 1*
+
+</center>
+
+| Artefato Produzido                                                                                                           | Responsável(eis)                    | Revisor(es)                       |                                                                                                                                    
+| ---------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- | --------------------------------- | 
+| [Introdução da equipe](https://interacao-humano-computador.github.io/2023.1-ISSNet/)                                         | Arthur Trindade<br>Miguel Moreira   | Arthur Trindade<br>Miguel Moreira |
+| [Sites Avaliados](https://interacao-humano-computador.github.io/2023.1-ISSNet/planejamento/avaliados/)                       | Miguel Moreira                      | Arthur Trindade                   |  
+| [Site Selecionado](https://interacao-humano-computador.github.io/2023.1-ISSNet/planejamento/selecionado/)                    | Miguel Moreira                      | Arthur Trindade                   |  
+| [Ferramentas do Projeto](https://interacao-humano-computador.github.io/2023.1-ISSNet/planejamento/ferramentas/)              | Marcus Vinicius                     | Julio César                       |
+| [Cronograma Planejado](https://interacao-humano-computador.github.io/2023.1-ISSNet/planejamento/cronograma/cronograma_plan/) | Arthur Trindade<br>Gabriel de Souza | Gabriel de Souza<br>Júlio César   | 
+| [Cronograma Executado](https://interacao-humano-computador.github.io/2023.1-ISSNet/planejamento/cronograma/cronograma_exec/) | Arthur Trindade<br>Gabriel de Souza | Gabriel de Souza                  |  
+| [Processo de Design](https://interacao-humano-computador.github.io/2023.1-ISSNet/planejamento/processo/)                     | Julio César                         | Marcus Vinicius                   |
+| [Atas das reuniões](https://interacao-humano-computador.github.io/2023.1-ISSNet/atas/ata_03_10/)                             | Arthur D'Assumpção                  | Rotativo |
+
+<center>
+
+*Fonte: Autor, 2023*
+
+</center>
+
+#### Etapa 2
+<center>
+
+*Tabela 4: Artefatos Produzidos na Etapa 2*
+
+</center>
+
+| Artefato Produzido                                                                                                          | Responsável(eis)                                  | Revisor(es)                       |                                                                                                                                    
+| --------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------- | --------------------------------- | 
+| [Perfil do Usuário](https://interacao-humano-computador.github.io/2023.1-ISSNet/analise_de_requisitos/perfil_de_usuario/)   | Júlio César<br>Marcus Vinícius                    | Miguel Moreira                    |
+| [Aspectos Éticos](https://interacao-humano-computador.github.io/2023.1-ISSNet/analise_de_requisitos/aspectos_eticos/)       | Arthur Trindade<br>Miguel Moreira                 | Julio César                       |  
+| [Personas](https://interacao-humano-computador.github.io/2023.1-ISSNet/analise_de_requisitos/personas/)                     | Arthur Trindade<br>Julio César<br>Marcus Vinicius | Miguel Moreira                    |  
+| [Análise de Tarefas](https://interacao-humano-computador.github.io/2023.1-ISSNet/analise_de_requisitos/analise_de_tarefas/) | Gabriel de Souza<br>Julio César                   | Julio César                       |
+| [Cenários](https://interacao-humano-computador.github.io/2023.1-ISSNet/analise_de_requisitos/cenarios/)                     | Arthur D'Assumpção                                | Gabriel de Souza<br>Júlio César   | 
+
+<center>
+
+*Fonte: Autor, 2023*
+
+</center>
+
+#### Etapa 3
+<center>
+
+*Tabela 5: Artefatos Produzidos na Etapa 3*
+
+</center>
+
+| Artefato Produzido                                                                                                                               | Responsável(eis)                                     | Revisor(es)                                          |                                                                                                                                    
+| ------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------- | ---------------------------------------------------- | 
+| [Princípios Gerais do Projeto](https://interacao-humano-computador.github.io/2023.1-ISSNet/analise_de_requisitos/principios_gerais/)             | Arthur D'Assumpção<br>Júlio César<br>Marcus Vinícius | Arthur D'Assumpção<br>Júlio César<br>Marcus Vinícius |
+| [Metas de Usabilidade](https://interacao-humano-computador.github.io/2023.1-ISSNet/analise_de_requisitos/metas_de_usabilidade/)                  | Gabriel de Souza                                     | Miguel Moreira                                       |  
+| [Guia de Estilo](https://interacao-humano-computador.github.io/2023.1-ISSNet/analise_de_requisitos/guia_de_estilo/)                              | Arthur Trindade<br>Miguel Moreira                    | Marcus Vinicius                                      |  
+| [Características da Platforma](https://interacao-humano-computador.github.io/2023.1-ISSNet/analise_de_requisitos/caracteristicas_da_plataforma/) | Gabriel de Souza<br>Júlio César<br>Marcus Vinícius   | Arthur Trindade<br>Miguel Moreira                    |
+
+<center>
+
+*Fonte: Autor, 2023*
+
+</center>
+
+#### Etapa 4
+<center>
+
+*Tabela 6: Artefatos Produzidos na Etapa 4*
+
+</center>
+
+| Artefato Produzido                                                                                                                                                                                                             | Responsável(eis)               | Revisor(es)                         |                                                                                                                                    
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------ | ----------------------------------- | 
+| [Planejamento da Avaliação da Análise de Tarefas](https://interacao-humano-computador.github.io/2023.1-ISSNet/design_avaliacao_desenvolvimento/nivel1/analise_de_tarefas/plan_avaliacao_analisetarefas/)                       | Julio César<br>Miguel Moreira  | Arthur Trindade<br>Julio César      |  
+| [Planjeamento do Relato dos ResuLtados da Avaliação da Análise de Tarefas](https://interacao-humano-computador.github.io/2023.1-ISSNet/design_avaliacao_desenvolvimento/nivel1/analise_de_tarefas/plan_relato_analisetarefas/) | Arthur D'Assumpção             |                                     |
+| [Planejamento da Avaliação do Storyboard](https://interacao-humano-computador.github.io/2023.1-ISSNet/design_avaliacao_desenvolvimento/nivel1/storyboard/plan_avaliacao_storyboard/)                                           | Arthur Trindade                | Julio César<br>Miguel Moreira       |
+| [Planjeamento do Relato dos ResuLtados da Avaliação do Storyboard](https://interacao-humano-computador.github.io/2023.1-ISSNet/design_avaliacao_desenvolvimento/nivel1/storyboard/plan_relato_storyboard/)                     | Julio César<br>Marcus Vinicius | Arthur Trindade<br>Gabriel de Souza |  
+
+<center>
+
+*Fonte: Autor, 2023*
+
+</center>
+
+#### Etapa 5
+<center>
+
+*Tabela 7: Artefatos Produzidos na Etapa 5*
+
+</center>
+
+| Artefato Produzido                                                                                                                                                                                        | Responsável(eis)                       | Revisor(es)                         |                                                                                                                                    
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| -------------------------------------- | ----------------------------------- | 
+| [Relato dos ResuLtados da Avaliação da Análise de Tarefas](https://interacao-humano-computador.github.io/2023.1-ISSNet/design_avaliacao_desenvolvimento/nivel1/analise_de_tarefas/relato_analisetarefas/) | Gabriel de Souza                       | Arthur Trindade                     |  
+| [Relato dos ResuLtados da Avaliação do Storyboard](https://interacao-humano-computador.github.io/2023.1-ISSNet/design_avaliacao_desenvolvimento/nivel1/storyboard/relato_storyboard/)                     | Julio César<br>Marcus Vinicius         | Arthur Trindade                     |
+| [Planejamento da Avaliação do Protótipo de Papel](https://interacao-humano-computador.github.io/2023.1-ISSNet/design_avaliacao_desenvolvimento/nivel2/plan_avaliacao_protpapel/)                          | Arthur Trindade<br>Julio César         | Gabriel de Souza<br>Julio César     |
+| [Planjeamento do Relato dos ResuLtados da Avaliação do Protótipo de Papel](https://interacao-humano-computador.github.io/2023.1-ISSNet/design_avaliacao_desenvolvimento/nivel2/plan_relato_protpapel/)    | Arthur D'Assumpção<br>Miguel Moreira   |  |  
+
+<center>
+
+*Fonte: Autor, 2023*
+
+</center>
+
+#### Etapa 6.1
+<center>
+
+*Tabela 8: Artefatos Produzidos na Etapa 6.1*
+
+</center>
+
+| Artefato Produzido                                                                                                                               | Responsável(eis)                    | Revisor(es)        |                                                                                                                                    
+| -------------------------------------------------------------------------------------------------------------------------------------------------| ----------------------------------- | ------------------ | 
+| [Verificação do Ponto de Controle 1 da Bilheteria Digital](https://interacao-humano-computador.github.io/2023.1-ISSNet/verificacao/grupo-1/pc1/) | Julio César                         | Arthur D'Assumpção |  
+| [Verificação do Ponto de Controle 2 da Bilheteria Digital](https://interacao-humano-computador.github.io/2023.1-ISSNet/verificacao/grupo-1/pc2/) | Gabriel de Souza<br>Marcus Vinicius | Julio César        |  
+| [Verificação do Ponto de Controle 3 da Bilheteria Digital](https://interacao-humano-computador.github.io/2023.1-ISSNet/verificacao/grupo-1/pc3/) | Arthur D'Assumpção                  | Miguel Moreira     |  
+| [Verificação do Ponto de Controle 4 da Bilheteria Digital](https://interacao-humano-computador.github.io/2023.1-ISSNet/verificacao/grupo-1/pc4/) | Arthur Trindade                     | Arthur D'Assumpção |  
+| [Verificação do Ponto de Controle 5 da Bilheteria Digital](https://interacao-humano-computador.github.io/2023.1-ISSNet/verificacao/grupo-1/pc5/) | Miguel Moreira                      | Arthur Trindade    |  
+
+<center>
+
+*Fonte: Autor, 2023*
+
+</center>
+
+#### Etapa 6.2
+<center>
+
+*Tabela 9: Artefatos Produzidos na Etapa 6.2*
+
+</center>
+
+| Artefato Produzido                                                                                                                   | Responsável(eis)                      | Revisor(es)                                      |                                                                                                                                    
+| -------------------------------------------------------------------------------------------------------------------------------------| ------------------------------------- | ------------------------------------------------ | 
+| [Modelo de Verificação](https://interacao-humano-computador.github.io/2023.1-ISSNet/verificacao/modelo_verificacao/)                 | Arthur D'Assumpção<br>Marcus Vinicius | Arthur Trindade<br>Julio César<br>Miguel Moreira |  
+| [Verificação do Ponto de Controle 1 do ISSNet](https://interacao-humano-computador.github.io/2023.1-ISSNet/verificacao/grupo-8/pc1/) | Julio César                           | Arthur D'Assumpção                               |  
+| [Verificação do Ponto de Controle 2 do ISSNet](https://interacao-humano-computador.github.io/2023.1-ISSNet/verificacao/grupo-8/pc2/) | Marcus Vinicius                       | Julio César                                      |  
+| [Verificação do Ponto de Controle 3 do ISSNet](https://interacao-humano-computador.github.io/2023.1-ISSNet/verificacao/grupo-8/pc3/) | Arthur D'Assumpção                    | Miguel Moreira                                   |  
+| [Verificação do Ponto de Controle 4 do ISSNet](https://interacao-humano-computador.github.io/2023.1-ISSNet/verificacao/grupo-8/pc4/) | Arthur Trindade                       | Julio César                                      |  
+| [Verificação do Ponto de Controle 5 do ISSNet](https://interacao-humano-computador.github.io/2023.1-ISSNet/verificacao/grupo-8/pc5/) | Miguel Moreira                        | Arthur Trindade                                  |  
+| [Verificação do Ponto de Controle 7 do ISSNet](https://interacao-humano-computador.github.io/2023.1-ISSNet/verificacao/grupo-8/pc7/) | Arthur Trindade                       | Gabriel de Souza                                 |  
+| [Verificação do Ponto de Controle 8 do ISSNet](https://interacao-humano-computador.github.io/2023.1-ISSNet/verificacao/grupo-8/pc8/) |                                       |                                                  |  
+
+<center>
+
+*Fonte: Autor, 2023*
+
+</center>
+
+#### Etapa 7
+<center>
+
+*Tabela 10: Artefatos Produzidos na Etapa 7*
+
+</center>
+
+| Artefato Produzido                                                                                                                                                                                                    | Responsável(eis)                       | Revisor(es)                            |                                                                                                                                    
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| -------------------------------------- | -------------------------------------- | 
+| [Relato dos Resultados da Avaliação do Protótipo de Papel](https://interacao-humano-computador.github.io/2023.1-ISSNet/design_avaliacao_desenvolvimento/nivel2/relato_protpapel/)                                     | Arthur D'Assumpção<br>Gabriel de Souza | Arthur Trindade<br>Miguel Moreira      |  
+| [Planejamento da Avaliação do Protótipo de Alta Fidelidade](https://interacao-humano-computador.github.io/2023.1-ISSNet/design_avaliacao_desenvolvimento/nivel3/plan_avaliacao_altafidelidade/)                       | Arthur Trindade<br>Miguel Moreira      | Julio César<br>Marcus Vinicius         |  
+| [Planejamento do Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade](https://interacao-humano-computador.github.io/2023.1-ISSNet/design_avaliacao_desenvolvimento/nivel3/plan_relato_altafidelidade/) | Julio César<br>Marcus Vinicius         | Arthur D'Assumpção<br>Gabriel de Souza |  
+
+<center>
+
+*Fonte: Autor, 2023*
+
+</center>
+
+#### Etapa 8
+<center>
+
+*Tabela 11: Artefatos Produzidos na Etapa 8*
+
+</center>
+
+| Artefato Produzido                                                                                                                                                                               | Responsável(eis)                  | Revisor(es) |                                                                                                                                    
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| --------------------------------- | ----------- | 
+| [Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade](https://interacao-humano-computador.github.io/2023.1-ISSNet/design_avaliacao_desenvolvimento/nivel3/relato_altafidelidade/) | Arthur Trindade<br>Miguel Moreira | Julio César |  
+
+<center>
+
+*Fonte: Autor, 2023*
+
+</center>
 
 ### Protótipos Construídos
+A síntese dos protótipos desenvolvidos nas etapas finais do projeto inclui a criação de dois modelos aprimorados para o site selecionado. O primeiro é o protótipo de papel, que é uma representação física do site em forma de desenhos ou recortes de papel. Ele permite uma visão inicial e tangível da estrutura e layout do site. Já o segundo é o protótipo de alta fidelidade, que é uma versão digital interativa do site, criada com alta precisão em termos de design, funcionalidade e usabilidade.
+
+A seguir, a tabela 12 apresenta informações sobre os protótipos desenvolvidos, os storyboards e os responsáveis envolvidos na sua construção.
+
+<center>
+
+*Tabela 12: Protótipos Construídos durante o Projeto*
+
+</center>
+
+| Protótipo Construído                                                                                                                                     | Responsável(eis)                                 |                                                                                                                                   
+| -------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
+| [Storyboards](./design_avaliacao_desenvolvimento/nivel1/storyboard/plan_avaliacao_storyboard.md#storyboards-desenvolvidos)                               | Julio César                                      |
+| [Protótipos de Papel](./design_avaliacao_desenvolvimento/nivel2/plan_avaliacao_protpapel.md#protótipos-desenvolvidos)                                    | Arthur Trindade<br>Julio César<br>Miguel Moreira |
+| [Protótipo de Alta Fidelidade](./design_avaliacao_desenvolvimento/nivel3/plan_avaliacao_altafidelidade.md#protótipos-de-alta-fidelidade-desenvolvovidos) | Arthur Trindade<br>Julio César<br>Miguel Moreira |
+
+<center>
+
+*Fonte: Autor, 2023*
+
+</center>
 
 ### Verificação dos Artefatos
+A síntese das verificações realizadas no projeto abrange duas tabelas distintas: a tabela 13 contém as verificações dos artefatos produzidos pelo grupo "Bilheteria Digital" e a tabela 14 contém as verificações dos artefatos gerados pelo grupo "ISSNet". Ambas as tabelas apresentam informações sobre as verificações realizadas, os responsáveis por cada verificação e os revisores envolvidos. A seguir, estão os textos correspondentes:
+
+#### Verificação dos artefatos da Bilheteria Digital
+<center>
+
+*Tabela 13: Verificação dos Artefatos Produzidos pelo grupo Bilheteria Digital*
+
+</center>
+
+| Verificação                                                                                                                       | Responsável(eis)                    | Revisor(es)        |                                                                                                                                    
+| ----------------------------------------------------------------------------------------------------------------------------------| ----------------------------------- | ------------------ | 
+| [Ponto de Controle 1 da Bilheteria Digital](https://interacao-humano-computador.github.io/2023.1-ISSNet/verificacao/grupo-1/pc1/) | Julio César                         | Arthur D'Assumpção |  
+| [Ponto de Controle 2 da Bilheteria Digital](https://interacao-humano-computador.github.io/2023.1-ISSNet/verificacao/grupo-1/pc2/) | Gabriel de Souza<br>Marcus Vinicius | Julio César        |  
+| [Ponto de Controle 3 da Bilheteria Digital](https://interacao-humano-computador.github.io/2023.1-ISSNet/verificacao/grupo-1/pc3/) | Arthur D'Assumpção                  | Miguel Moreira     |  
+| [Ponto de Controle 4 da Bilheteria Digital](https://interacao-humano-computador.github.io/2023.1-ISSNet/verificacao/grupo-1/pc4/) | Arthur Trindade                     | Arthur D'Assumpção |  
+| [Ponto de Controle 5 da Bilheteria Digital](https://interacao-humano-computador.github.io/2023.1-ISSNet/verificacao/grupo-1/pc5/) | Miguel Moreira                      | Arthur Trindade    |  
+
+<center>
+
+*Fonte: Autor, 2023*
+
+</center>
+
+#### Verificação dos artefatos do ISSNet
+<center>
+
+*Tabela 14: Verificação dos Artefatos Produzidos pelo grupo ISSNet*
+
+</center>
+
+| Artefato Produzido                                                                                                    | Responsável(eis)                      | Revisor(es)                                      |                                                                                                                                    
+| ----------------------------------------------------------------------------------------------------------------------| ------------------------------------- | ------------------------------------------------ | 
+| [Modelo de Verificação](https://interacao-humano-computador.github.io/2023.1-ISSNet/verificacao/modelo_verificacao/)  | Arthur D'Assumpção<br>Marcus Vinicius | Arthur Trindade<br>Julio César<br>Miguel Moreira |  
+| [Ponto de Controle 1 do ISSNet](https://interacao-humano-computador.github.io/2023.1-ISSNet/verificacao/grupo-8/pc1/) | Julio César                           | Arthur D'Assumpção                               |  
+| [Ponto de Controle 2 do ISSNet](https://interacao-humano-computador.github.io/2023.1-ISSNet/verificacao/grupo-8/pc2/) | Marcus Vinicius                       | Julio César                                      |  
+| [Ponto de Controle 3 do ISSNet](https://interacao-humano-computador.github.io/2023.1-ISSNet/verificacao/grupo-8/pc3/) | Arthur D'Assumpção                    | Miguel Moreira                                   |  
+| [Ponto de Controle 4 do ISSNet](https://interacao-humano-computador.github.io/2023.1-ISSNet/verificacao/grupo-8/pc4/) | Arthur Trindade                       | Julio César                                      |  
+| [Ponto de Controle 5 do ISSNet](https://interacao-humano-computador.github.io/2023.1-ISSNet/verificacao/grupo-8/pc5/) | Miguel Moreira                        | Arthur Trindade                                  |  
+| [Ponto de Controle 7 do ISSNet](https://interacao-humano-computador.github.io/2023.1-ISSNet/verificacao/grupo-8/pc7/) | Arthur Trindade                       | Gabriel de Souza                                 |  
+
+<center>
+
+*Fonte: Autor, 2023*
+
+</center>
 
 ### Apresentações
 
