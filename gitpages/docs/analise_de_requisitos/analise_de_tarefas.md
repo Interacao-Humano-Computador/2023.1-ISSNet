@@ -54,12 +54,14 @@ A tarefa "Emitir nota fiscal eletrônica" é uma das principais tarefas que o us
 
 | Objetivos/Operações | Problemas e recomendações |
 | - | - |
-| 0. Emitir uma nota fiscal eletrônica <br/>(1 > 2) | **input**: Realiza login na tela inicial da aplicação com cpf e senha ou certificado digital; <br/> **feedback**: Tela com o menu inicial com as funcionalidades do sistema; <br/> **plano**: Escolher a opção de Nota Eletrônica para abrir a modal de preenchimento dos dados; <br/> **recomendação**: Permitir que o usuario consiga acessar a modal diretamente da página inicial. |
-| 1. Escolher a opção Nota Eletrônica no menu | |
-| 2. Nova nota eletrônica  | **plano**: opção do menu que abre a modal para preenchimento dos dados para emitir a nota fiscal eletrônica | |
-| 2.1 Preencher os dados obrigatórios  | |
-| 2.2 Escolher se quer apenas salvar ou salvar e enviar para o email | |
-| 2.3 Baixar a nota fiscal   |  |
+| 0. Emitir uma nota fiscal eletrônica <br/>(1 > 2) | **input**: Formulario de emissão de nota fiscal eletrônica <br/> **feedback**: Uma nova nota fiscal de serviço é emitida. <br/> **plano**: informar dados da nota fiscal, confirmar assinatura e depois baixar a nota. <br/> |
+| 1. Informar dados da nota eletronica <br/> (1 + 2) |**plano** Informar cpf/cnpj do prestador de serviços e razão social do prestador de serviços e  Informar descrição dos serviços, Item LC, atividade municipio, valor total dos serviços e descontos condicionais.   |
+| 1.1 Informar cpf/cnpj do prestador de serviços e razão social do prestador de serviço  | |
+| 1.2 Informar descrição dos serviços, Item LC, atividade municipio, valor total dos serviços e descontos condicionais. |  |
+| 2. Confirmação de assinatura para emissão da nota <br/> (1 / 2) | **plano**: Confirmação via cpf e senha ou certificado digital para validação e veracidade da nota. | 
+| 2.1 Confirmação via cpf e senha | |
+| 2.2 Confirmação via certificado digital | |
+| 3 Baixar a nota fiscal   | **plano**: Baixar a nota fiscal eletronica emitida autenticada.| |
 
 <center>
 
@@ -73,7 +75,7 @@ A tarefa "Emitir nota fiscal eletrônica" é uma das principais tarefas que o us
 
 </center>
 
-![Diagrama da Análise Hierárquica de Tarefas para o objetivo "Emitir nota fiscal"](../img/diagrama_analise.png)
+![Diagrama da Análise Hierárquica de Tarefas para o objetivo "Emitir nota fiscal"](../img/diagrama_Hta_emitir-nota.png)
 
 <center>
 
@@ -163,3 +165,4 @@ Edição, Editora Campus, 2010. Publicado em: 03/05/2021.</span>
 | `0.4`      |  23/05/2023 | Corrige HTA Cancelar Nota    | Júlio César | Arthur Trindade |
 | `0.5`      |  03/07/2023 | Adiciona introdução do cancelar nota | Júlio César | Arthur Trindade |
 | `0.6`      |  03/07/2023 | Verficação PC2 | Marcus Vinicius | Júlio César  |
+| `0.7`      | 04/07/2023  | correção do HTA|      Gabriel de Souza Fonseca Ribeiro|  Arthur trindade | 

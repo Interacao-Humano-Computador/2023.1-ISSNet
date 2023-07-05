@@ -90,14 +90,34 @@ Além dos aspectos selecionados, também conseguimos alcançar outras melhorias 
 
 Com base nos resultados obtidos e nas melhorias implementadas, podemos afirmar que o objetivo do projeto foi alcançado com sucesso. O protótipo de alta fidelidade apresenta melhorias significativas em termos de usabilidade, navegação, formatação do conteúdo e acessibilidade, proporcionando uma experiência mais satisfatória para os usuários.
 
-## Síntese do Projeto
+## Síntese das Avaliações
 
-### Ferramentas Utilizadas
-Está representado na tabela 1 as ferramentas utilizadas, onde ou quando foram utilizadas e como foram utilizadas.
+Durante a execução do projeto, foram elaboradas algumas avaliações de protótipos e modelos conceituais (storyboard, análise de tarefas e Protótipo de alta fidelidade) e a tabela 1 sintetiza a aplicação dessas atividades.
 
 <center>
 
-*Tabela 1: Ferramentas Utilizadas*
+| Avaliação                                 | Metodologia          | Avaliador(es)                          | Número de Participantes | Resultados                                                                                                                                        |
+| ----------------------------------------- | -------------------- | -------------------------------------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Avaliação do Storyboard                   | Entrevista           | Gabriel de Souza, Arthur Trindade e Miguel Moreira      | 5 (3 entrevistadores e 2 entrevistados)                      | [Relato dos Resultados da Avaliação do Storyboard](design_avaliacao_desenvolvimento/nivel1/storyboard/relato_storyboard.md)                      |
+| Avaliação da Análise de Tarefas           | Entrevista           | Gabriel de Souza, Arthur Trindade                           |  4 (2 entrevistadores e 2 entrevistados)                      | [Relato dos Resultados da Avaliação da Análise de Tarefas](design_avaliacao_desenvolvimento/nivel1/analise_de_tarefas/relato_analisetarefas.md) |
+| Avaliação do Protótipo de Papel           | Entrevista           | Gabriel de Souza, Arthur Trindade, Miguel Moreira e Arthur D´ Assunção | 5 (4 Entrevistadores e 1 entrevistado)                       | [Relato dos Resultados da Avaliação do Protótipo de Papel](design_avaliacao_desenvolvimento/nivel2/relato_protpapel.md)         |
+| Avaliação do Protótipo de Alta Fidelidade | Teste de Usabilidade e Entrevista | Miguel Moreira, Arthur Trindade                         | 3  (2 entrevistadores e 1 entrevistado)                     | [Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade](design_avaliacao_desenvolvimento/nivel3/relato_altafidelidade.md)      |
+
+<div style="text-align: center">
+<p>
+Tabela 1: Síntese dos artefatos de Design, Avaliação e Desenvolvimento (nível 3)
+(Fonte: autor, 2023).
+</p>
+</div>
+
+</center>
+
+## Ferramentas Utilizadas
+Está representado na tabela 2 as ferramentas utilizadas, onde ou quando foram utilizadas e como foram utilizadas.
+
+<center>
+
+*Tabela 2: Ferramentas Utilizadas*
 
 </center>
 
@@ -207,4 +227,5 @@ Ao longo do projeto, como grupo, compreendemos melhor o objetivo do desenvolvime
 | `0.2`      |  03/07/2023 | Adiciona dificuldades pessoais | Arthur Trindade | Arthur D'Assumpção |
 | `0.3`      |  04/07/2023 | Adiciona ferramentas do projeto | Júlio César | Gabriel de Souza |
 | `0.4`      |  04/07/2023 | Adiciona execução do projeto | Marcus Vinicius | Gabriel de Souza |
+| `0.5`      |  04/07/2023 | Adiciona sintese das tecnicas utilizadas nas entregas | Gabriel de Souza | Arthur Trindade | 
 
