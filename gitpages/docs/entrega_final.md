@@ -145,7 +145,7 @@ Durante a execução do projeto, foram aplicadas várias técnicas de avaliaçã
 
 *Fonte: Autor, 2023*
 
-</center
+</center>
 
 ### Artefatos Desenvolvidos
 A síntese dos artefatos desenvolvidos consiste em uma análise detalhada das oito etapas do projeto, sendo que a sexta etapa é dividida em duas partes distintas. Em cada etapa, foram produzidos diversos artefatos, os quais foram criados por diferentes responsáveis. A seguir, estão listados os nove tópicos correspondentes às etapas do projeto, nos quais serão apresentadas as tabelas, de 3 a 11, contendo os artefatos desenvolvidos em cada uma dessas etapas. Cada tabela contém informações sobre os artefatos desenvolvidos, o responsável por sua construção e o(s) revisor(es) envolvido(s) no processo.
