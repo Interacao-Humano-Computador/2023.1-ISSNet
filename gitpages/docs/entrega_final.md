@@ -1,4 +1,5 @@
 ## Introdução
+No primeiro semetre de 2023, grupo 8 da disciplina Interação Humano Computador, da Universidade de Brasília, realizou um estudo sobre as interações humano-computador na plataforma ISSNet. Utilizando metodologias e técnicas relevantes, o grupo propôs soluções para melhorar a experiência do usuário na plataforma. Neste artefato, serão apresentados de forma concisa os principais aspectos e aprendizados obtidos durante o projeto pela equipe.
 
 ## Site Selecionado
 
@@ -35,6 +36,7 @@ Ao analisar o site da [ISSNetDF](https://df.issnetonline.com.br/online/Login/Log
 ## Cronograma de Entregas
 
 ## Execução do Projeto
+
 ### Ciclo de Vida
 O ciclo de vida de Mayhew foi proposto em 1999, este ciclo foi criado para guiar no desenvolvimento de produtos/software com foco na usabilidade, levando em consideração a eficiência e facilidade e que trabalhe na questão da satisfação do usuário, este ciclo é dividido em três fases: Iniciando pela análise de requisitos, projeto/desenvolvimento/teste e instalação. Na fase de análise, são definidos vários artefatos, como metas de usabilidade, análise de tarefas, entre outros. Cada artefato tem sua importância dentro do ciclo de vida da engenharia. Na fase de desenvolvimento, a ideia principal é buscar soluções de IHC que ajude a entender metas de usabilidades desenvolvidas na fase anterior, incluindo vários pontos, como storyboard, protótipos, relatos, entre outros.
 
@@ -56,12 +58,15 @@ Segue em sequência a figura 1 referente ao ciclo de vida de Mayhew, cada artefa
 
 ### Análise de Requisitos
 Iniciamos o projeto baseado no ciclo de vida da Mayhew, passando por todas as etapa, seguindo ordem proposta, inicializando com o desenvolvimento da analise de requisitos, onde são contidos os seguintes artefatos: [Perfil do Usuario](https://df.issnetonline.com.br/online/Login/Login.aspx?ReturnUrl=%2fonline), [Analise de Tarefas](https://interacao-humano-computador.github.io/2023.1-ISSNet/analise_de_requisitos/analise_de_tarefas/), [Características da plataforma do projeto](https://interacao-humano-computador.github.io/2023.1-ISSNet/analise_de_requisitos/caracteristicas_da_plataforma/), [Principio geral do Projeto](https://interacao-humano-computador.github.io/2023.1-ISSNet/analise_de_requisitos/principios_gerais/). Após a conclusão de todos os artefatos citados, foi desenvolvido as [Metas de usabilidade](https://interacao-humano-computador.github.io/2023.1-ISSNet/analise_de_requisitos/metas_de_usabilidade/) que por sua vez deu origem a o [Guia de Estilo](https://interacao-humano-computador.github.io/2023.1-ISSNet/analise_de_requisitos/guia_de_estilo/).
+
 ### Design, Avaliação e Desenvolvimento
 #### Nível 1
 No nível 1 foi produzido um [storyboard](https://interacao-humano-computador.github.io/2023.1-ISSNet/design_avaliacao_desenvolvimento/nivel1/storyboard/plan_avaliacao_storyboard/) para avaliar em conjunto com a [análise de tarefas](https://interacao-humano-computador.github.io/2023.1-ISSNet/design_avaliacao_desenvolvimento/nivel1/analise_de_tarefas/plan_avaliacao_analisetarefas/) e verificar se há uma correspondência entre o fluxo identificado no storyboard e análise de tarefas com o que o usuário está acostumado a realizar, os pontos levantados pelos usuários na [avaliação da análise de tarefas](https://interacao-humano-computador.github.io/2023.1-ISSNet/design_avaliacao_desenvolvimento/nivel1/analise_de_tarefas/relato_analisetarefas/) e na [avaliação do storyboard](https://interacao-humano-computador.github.io/2023.1-ISSNet/design_avaliacao_desenvolvimento/nivel1/storyboard/relato_storyboard/) foram utilizados para á
  atualização da guia de estilo caso necessário.
+
 #### Nível 2
 Já no nível 2, foi produzido um protótipo de baixa fidelidade, onde o escolhido pelo grupo foi o [protótipo de papel](https://interacao-humano-computador.github.io/2023.1-ISSNet/design_avaliacao_desenvolvimento/nivel2/plan_avaliacao_protpapel/), tem o mesmo objetivo de verificar a correspondência entre o fluxo identificado na análise de tarefas com o que está no protótipo de papel. A [avaliação do protótipo de papel](https://interacao-humano-computador.github.io/2023.1-ISSNet/design_avaliacao_desenvolvimento/nivel2/relato_protpapel/) que também irá contribuir novamente para a alteração da guia de estilo caso necessário.
+
 #### Nível 3
 Em sequência, no nível 3 foi desenvolvido um [protótipo de alta fidelidade](https://interacao-humano-computador.github.io/2023.1-ISSNet/design_avaliacao_desenvolvimento/nivel3/plan_avaliacao_altafidelidade/) baseado na análise de tarefas e as iterações anteriores com os outros protótipos. O objetivo se mantém o mesmo que os outros, caso as metas de usabilidade forem atingidas será atualizado o guia de estilo e finalizado o projeto, junto com a conclusão se o protótipo demonstrou melhorias comparado com o site real ou caso ele tenha sido pior, deveremos explicar as razões disso.
 
@@ -528,4 +533,6 @@ Encerramos este semestre com um sentimento de gratidão e satisfação, sabendo 
 | `0.5`      |  04/07/2023 | Adiciona sintese das tecnicas utilizadas nas entregas | Gabriel de Souza | Arthur Trindade |
 | `0.6`      |  05/07/2023 | Adiciona Apresentações | Miguel Moreira | Arthur Trindade | 
 | `0.7`      |  05/07/2023 | Agradecimentos | Miguel Moreira | Arthur Trindade | 
+| `0.8`      |  05/07/2023 | Introdução e Síntese do Projeto | Arthur Trindade | Gabriel de Souza | 
+
 
