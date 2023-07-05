@@ -205,6 +205,7 @@ Tabela 9: Cronograma planejado da etapa 7.
 | Ajustes e melhorias                                             | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | 27/06/2023<br>29/06/2023 | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | 27/06/2023<br>29/06/2023 |
 
 Tabela 10: Cronograma planejado da etapa 8.
+</center>
 
 ## Execução do Projeto
 Na execução do projeto de IHC, houve a colaboração de todos os integrantes, onde foram desenvolvidas atividades referentes à Integração Humano Computador a fim de compreender como se pode criar interfaces computacionais eficientes e satisfatórias para os usuários do ISSNet.
