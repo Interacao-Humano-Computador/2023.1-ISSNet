@@ -18,8 +18,18 @@
 ## Entrega da etapa 5
 [Link da gravação da reunião da entrega da etapa 5, 29/05/2023](https://youtu.be/yHoP6SYKnKo)
 
+## Entrega da etapa 6.1
+[Link da gravação da reunião da entrega da etapa 6.1, 05/06/2023](https://youtu.be/KjF1KhBnBkw)
+
+## Entrega da etapa 6.2
+[Link da gravação da reunião da entrega da etapa 6.2, 19/06/2023](https://www.youtube.com/watch?v=WNWHX7HL6t4)
+
 ## Entrega da etapa 7
 [Link da gravação da reunião da entrega da etapa 7, 12/06/2023](https://youtu.be/qvAojp-cFuI)
+
+## Entrega da etapa 8
+[Link da gravação da reunião da entrega da etapa 8, 26/06/2023](https://youtu.be/UUySGE_Ke-A)
+
 ## Histórico de revisão
 | Versão     | Data        | Descrição            | Autor(es)                          | Revisores  |
 | :--------: | :---------: | -------------------- | ---------------------------------- | ---------- |
@@ -29,3 +39,4 @@
 | `0.3`      |  15/05/2023 | Adição do link da gravação da entrega da etapa 3 | Arthur Trindade | Miguel Moreira |
 | `0.4`      |  22/05/2023 | Adição do link da gravação da entrega da etapa 4 | Arthur Trindade | Miguel Moreira |
 | `0.5`      |  29/05/2023 | Adição do link da gravação da entrega da etapa 5 | Arthur Trindade | Miguel Moreira |
+| `0.6`      |  05/07/2023 | Adição do links de apresentações faltantes (6.1, 6.2, e 8) | Miguel Moreira | Arthur Trindade |

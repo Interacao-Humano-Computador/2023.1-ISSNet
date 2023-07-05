@@ -153,9 +153,41 @@ Está representado na tabela 2 as ferramentas utilizadas, onde ou quando foram u
 
 ### Apresentações
 
+Neste projeto, foram realizadas diversas apresentações ao longo das etapas para compartilhar o progresso e os resultados alcançados. A tabela 3 abaixo representa as apresentações gravadas, juntamente com seus respectivos participantes, datas em que foram realizadas e a qual etapa do trabalho se referem.
+
+<center>
+
+*Tabela 3: Apresentações realizadas*
+
+</center>
+
+<center>
+
+| Entrega    | Data        | Gravação                                     | Participantes                        |
+| :--------: | :---------: | ------------------------------------------- | ------------------------------------- |
+| Etapa 1    | 24/04/2023  | <a href="https://youtu.be/HTT_8Qk3hh0" target="_blank">Link</a>              | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira |
+| Considerações de ajustes etapa 1 | 26/04/2023 | <a href="https://youtu.be/HTT_8Qk3hh0" target="_blank">Link</a>              | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira |
+| Etapa 2    | 08/05/2023  | <a href="https://youtu.be/cDigvhGNjwE" target="_blank">Link</a>              | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira |
+| Etapa 3    | 15/05/2023  | <a href="https://youtu.be/Pv-4AhvpaVw" target="_blank">Link</a>              | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira |
+| Etapa 4    | 22/05/2023  | <a href="https://youtu.be/K8KVa6vwth4" target="_blank">Link</a>              | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira |
+| Etapa 5    | 29/05/2023  | <a href="https://youtu.be/yHoP6SYKnKo" target="_blank">Link</a>              | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira |
+| Etapa 6.1  | 05/06/2023  | <a href="https://youtu.be/KjF1KhBnBkw" target="_blank">Link</a>              | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira |
+| Etapa 6.2  | 19/06/2023  | <a href="https://www.youtube.com/watch?v=WNWHX7HL6t4" target="_blank">Link</a> | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira |
+| Etapa 7    | 12/06/2023  | <a href="https://www.youtube.com/watch?v=qvAojp-cFuI" target="_blank">Link</a> | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira |
+| Etapa 8    | 26/06/2023  | <a href="https://youtu.be/UUySGE_Ke-A" target="_blank">Link</a>              | Arthur D'Assumpção<br>Arthur Trindade<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira |
+
+</center>
+
+<center>
+
+*Fonte: Autor, 2023*
+
+</center>
+
 ## Facilidades
 
 ### Grupo
+* Uma facilidade que nosso grupo encontrou foi a sinergia e a colaboração efetiva entre os membros. Desde o início do projeto, estabelecemos uma comunicação aberta e fluida, o que nos permitiu compartilhar ideias, dividir tarefas e tomar decisões de forma colaborativa. A troca constante de conhecimentos e perspectivas enriqueceu nosso processo de trabalho e impulsionou nosso progresso. Além disso, a divisão adequada das responsabilidades e a definição clara dos prazos nos ajudaram a manter um bom ritmo de trabalho e a cumprir as entregas dentro do cronograma estabelecido. A sinergia do grupo nos proporcionou uma atmosfera de apoio mútuo, motivação e comprometimento, o que contribuiu significativamente para o desenvolvimento do projeto de forma eficiente e satisfatória.
 
 ### Arthur T.
 * Tive facilidade em identificar problemas de usabilidade no site escolhido para a avaliação individual ao aplicar as heurísticas de Nielsen e propor soluções para esses problemas. No entanto, a parte mais satisfatória da disciplina foi a criação dos protótipos de papel e de alta fidelidade, foi uma boa experiência aprender a utilizar a ferramenta Figma pois isso proporcionou uma maior interação e aprendizado entre os integrantes da equipe.
@@ -227,5 +259,6 @@ Ao longo do projeto, como grupo, compreendemos melhor o objetivo do desenvolvime
 | `0.2`      |  03/07/2023 | Adiciona dificuldades pessoais | Arthur Trindade | Arthur D'Assumpção |
 | `0.3`      |  04/07/2023 | Adiciona ferramentas do projeto | Júlio César | Gabriel de Souza |
 | `0.4`      |  04/07/2023 | Adiciona execução do projeto | Marcus Vinicius | Gabriel de Souza |
-| `0.5`      |  04/07/2023 | Adiciona sintese das tecnicas utilizadas nas entregas | Gabriel de Souza | Arthur Trindade | 
+| `0.5`      |  04/07/2023 | Adiciona sintese das tecnicas utilizadas nas entregas | Gabriel de Souza | Arthur Trindade |
+| `0.6`      |  05/07/2023 | Adiciona Apresentações | Miguel Moreira | Arthur Trindade | 
 
