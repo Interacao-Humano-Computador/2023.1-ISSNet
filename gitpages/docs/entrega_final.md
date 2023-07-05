@@ -248,6 +248,14 @@ Aprendemos com essa dificuldade a importância de estabelecer processos e diretr
 ## Agradecimentos
 Ao longo do projeto, como grupo, compreendemos melhor o objetivo do desenvolvimento do projeto dentro da disciplina. Percebemos que o seu propósito é oferecer a nós, estudantes, a oportunidade de aplicar os conteúdos aprendidos em um contexto prático e real. Essa abordagem nos permitiu consolidar nosso conhecimento teórico e enfrentar desafios reais de interação humano-computador. Acreditamos que, além de contribuir para o aprimoramento da usabilidade do site da ISSNetDF, essa experiência nos permitirá desenvolver habilidades práticas essenciais para a nossa formação acadêmica e profissional. É gratificante poder aplicar os conceitos de IHC em um projeto concreto e, ao mesmo tempo, adquirir competências valiosas para a nossa jornada como futuros profissionais de tecnologia. Assim, ao analisarmos os aspectos selecionados para o projeto e avaliar os resultados obtidos, percebemos que estamos não apenas cumprindo o objetivo principal do projeto, mas também alcançando o objetivo de aprendizagem estabelecido pela disciplina.
 
+Gostaríamos de expressar nossa sincera gratidão ao professor André Barros de Sales, que nos orientou e apoiou ao longo deste projeto. Seus conhecimentos, orientações e valiosos feedbacks foram fundamentais para o desenvolvimento e aprimoramento do nosso trabalho. Agradecemos pelo tempo e dedicação dedicados a nós.
+
+Também queremos agradecer ao Grupo 7, responsável pela verificação e análise minuciosa do nosso projeto. Suas contribuições e feedbacks foram extremamente úteis para o aperfeiçoamento das nossas ideias e soluções. Valorizamos imensamente o trabalho conjunto e a troca de experiências com vocês.
+
+Por fim, agradecemos ao nosso próprio grupo, o Grupo 8. Cada membro desempenhou um papel essencial e contribuiu com sua criatividade, dedicação e esforços para o sucesso deste projeto. Juntos, enfrentamos desafios, superamos obstáculos e alcançamos resultados significativos. Estamos orgulhosos do trabalho que realizamos em equipe.
+
+Encerramos este semestre com um sentimento de gratidão e satisfação, sabendo que todo o esforço investido valeu a pena. Desejamos a todos um futuro brilhante e esperamos continuar compartilhando novas experiências e aprendizados juntos.
+
 ## Bibliografia
 
 ## Histórico de Revisão
