@@ -724,5 +724,7 @@ Entrega Final, Lichess. Disponível em:  <https://interacao-humano-computador.gi
 | `0.6`      |  05/07/2023 | Adiciona Apresentações | Miguel Moreira | Arthur Trindade | 
 | `0.7`      |  05/07/2023 | Agradecimentos | Miguel Moreira | Arthur Trindade | 
 | `0.8`      |  05/07/2023 | Introdução e Síntese do Projeto | Arthur Trindade | Gabriel de Souza | 
+| `0.9`      |  05/07/2023 | Execução do projeto | Arthur D'Assumpção | Gabriel de Souza | 
+| `1.0`      |  05/07/2023 | Cronograma | Arthur D'Assumpção | Gabriel de Souza | 
 
 
