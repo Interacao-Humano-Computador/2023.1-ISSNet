@@ -35,6 +35,19 @@ Ao analisar o site da [ISSNetDF](https://df.issnetonline.com.br/online/Login/Log
 ## Cronograma de Entregas
 
 ## Execução do Projeto
+
+Na execução do projeto de IHC, houve a colaboração de todos os integrantes, onde foram desenvolvidas atividades referentes à Integração Humano Computador a fim de compreender como se pode criar interfaces computacionais eficientes e satisfatórias para os usuários do ISSNet.
+
+Na ^^primeira etapa^^ do projeto foi a organização do planejamento, foi quando houve a ^^seleção do site^^ trabalhado, houve a ^^criação do cronograma^^, a ^^seleção das tecnologias^^, criação do do ^^GitHub Pages^^ e a ^^ambientação dos participantes^^ com as tecnologias. 
+
+Na ^^segunda etapa^^ houve a elicitação do ^^perfil de usuário^^ por meio de ^^questionário^^ tal ação foi feita para que o grupo possa entender sobre o usuário e poder propor melhorias e visualizar a aplicação pela lente do usuário, a criação do ^^documento de aspectos éticos^^ e ^^termo de consentimento^^ para a execução de entrevistas e coletas de informações de formas legais e profissionais e foi criada as ^^tarefas e cenários^^ para a documentação das atividades executadas dentro da aplicação por meio do usuario.
+
+Na ^^terceira etapa^^ houve a ^^análise das características da plataforma^^, definição dos ^^princípios gerais^^, as ^^metas de usabilidade^^ e o guia de estilo do projeto, a fim de padronizar a criação dos artefatos.
+
+Na ^^quarta etapa^^, houve o planejamento da avaliação da ^^análise de tarefas e do storyboard^^, bem como o planejamento de seus respectivos relatos. Com isso, o grupo pode compreender as partes do trabalho a serem realizados dentro da plataforma.
+
+
+
 ### Ciclo de Vida
 O ciclo de vida de Mayhew foi proposto em 1999, este ciclo foi criado para guiar no desenvolvimento de produtos/software com foco na usabilidade, levando em consideração a eficiência e facilidade e que trabalhe na questão da satisfação do usuário, este ciclo é dividido em três fases: Iniciando pela análise de requisitos, projeto/desenvolvimento/teste e instalação. Na fase de análise, são definidos vários artefatos, como metas de usabilidade, análise de tarefas, entre outros. Cada artefato tem sua importância dentro do ciclo de vida da engenharia. Na fase de desenvolvimento, a ideia principal é buscar soluções de IHC que ajude a entender metas de usabilidades desenvolvidas na fase anterior, incluindo vários pontos, como storyboard, protótipos, relatos, entre outros.
 
@@ -272,4 +285,6 @@ Encerramos este semestre com um sentimento de gratidão e satisfação, sabendo 
 | `0.5`      |  04/07/2023 | Adiciona sintese das tecnicas utilizadas nas entregas | Gabriel de Souza | Arthur Trindade |
 | `0.6`      |  05/07/2023 | Adiciona Apresentações | Miguel Moreira | Arthur Trindade | 
 | `0.7`      |  05/07/2023 | Agradecimentos | Miguel Moreira | Arthur Trindade | 
+| `0.8`       |  05/07/2023 | Execução do projeto | Arthur D'Assumpção | Arthur Trindade | 
+
 
