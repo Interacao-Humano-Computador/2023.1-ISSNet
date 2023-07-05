@@ -91,6 +91,7 @@ Além dos aspectos selecionados, também conseguimos alcançar outras melhorias 
 Com base nos resultados obtidos e nas melhorias implementadas, podemos afirmar que o objetivo do projeto foi alcançado com sucesso. O protótipo de alta fidelidade apresenta melhorias significativas em termos de usabilidade, navegação, formatação do conteúdo e acessibilidade, proporcionando uma experiência mais satisfatória para os usuários.
 
 ## Síntese do Projeto
+A "Síntese do Projeto" abrange uma visão abrangente das ferramentas utilizadas, técnicas aplicadas, artefatos desenvolvidos, protótipos construídos e a verificação dos artefatos. Abaixo encontram-se as sínteses detalhadas:
 
 ### Ferramentas Utilizadas
 Durante a execução do projeto, foram utilizadas diversas ferramentas para auxiliar nas atividades de avaliação em protótipos e modelos conceituais. A tabela 1 apresenta uma síntese das ferramentas utilizadas, destacando o contexto em que foram aplicadas, assim como sua finalidade:
