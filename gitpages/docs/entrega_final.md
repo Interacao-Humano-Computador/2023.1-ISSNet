@@ -659,6 +659,7 @@ Neste projeto, foram realizadas diversas apresentações ao longo das etapas par
 ### Gabriel
 
 ### Arthur D.
+* A maior facilidade foi o trabalho em grupo, por se tratar de um grupo que eu ja conhecia e era acostumado e podia contar com a competencia e comprometimento de todos. O modelo de aula facilitou o aprendisado. As ferramentas usadas tembém já eram de conhecimento e dominio no uso, o que facilitou bastante as entregas, já que não gastei tempo aprendendo novas ferramentes e sim só o conteúdo.
 
 ## Dificuldades
 
@@ -697,6 +698,7 @@ Aprendemos com essa dificuldade a importância de estabelecer processos e diretr
 ### Gabriel
 
 ### Arthur D.
+* Dificuldades com a saúde pessoal foram as maiores em minha visão, mas houve dificuldade de alta demanda de atividade e gestão de tempo
 
 ## Agradecimentos
 Ao longo do projeto, como grupo, compreendemos o objetivo do desenvolvimento do projeto dentro da disciplina, que é oferecer a nós, a oportunidade de aplicar os conteúdos aprendidos em um contexto prático e real. Essa abordagem nos permitiu consolidar nosso conhecimento teórico e enfrentar desafios reais na interação humano-computador. Acreditamos que, além de contribuir para o aprimoramento da usabilidade do site da ISSNet DF, essa experiência nos permitirá desenvolver habilidades práticas essenciais para a nossa formação acadêmica e profissional.
