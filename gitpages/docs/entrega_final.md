@@ -36,6 +36,26 @@ Ao analisar o site da [ISSNetDF](https://df.issnetonline.com.br/online/Login/Log
 ## Cronograma de Entregas
 
 ## Execução do Projeto
+Na execução do projeto de IHC, houve a colaboração de todos os integrantes, onde foram desenvolvidas atividades referentes à Integração Humano Computador a fim de compreender como se pode criar interfaces computacionais eficientes e satisfatórias para os usuários do ISSNet.
+
+1. Na primeira etapa, do projeto foi a organização do planejamento, foi quando houve a seleção do site trabalhado, houve a criação do cronograma, a seleção das tecnologias, criação do do GitHub Pages e a ambientação dos participantes com as tecnologias. 
+
+2. Na segunda etapa, houve a elicitação do perfil de usuário por meio de questionário tal ação foi feita para que o grupo possa entender sobre o usuário e poder propor melhorias e visualizar a aplicação pela lente do usuário, a criação do documento de aspectos éticos e termo de consentimento para a execução de entrevistas e coletas de informações de formas legais e profissionais e foi criada as tarefas e cenários para a documentação das atividades executadas dentro da aplicação por meio do usuario.
+
+3. Na terceira etapa, houve a análise das características da plataforma, definição dos princípios gerais, as metas de usabilidade e o guia de estilo do projeto, a fim de padronizar a criação dos artefatos.
+
+4. Na quarta etapa, houve o planejamento da avaliação da análise de tarefas e do storyboard, bem como o planejamento de seus respectivos relatos. Com isso, o grupo pode compreender as partes do trabalho a serem realizados dentro da plataforma.
+
+5. Na quinta etapa nesta etapa foi criado os storyboards e posteriormente validado com usuários por meio de entrevistas, bem como a análise de tarefas, e houve o planejamento de avaliação do protótipo de papel e seu relato.
+
+6. Na sexta etapa foi dividida em duas etapas, a 6 e 6.1. Na etapa 6 fizemos a verificação dos artefatos do grupo 1, para que pudéssemos compreender como se faz a verificação, bem como passar um feedback para o outro grupo. Na etapa 6.1 fizemos a verificação dos artefatos de nosso próprio grupo. 
+
+7. Na Sétima etapa foi onde os protótipos referentes a etapa 1, 2 e 3 foram criados, e validados por meio de entrevista, bem como os protótipos de papel. Todos a fim de avaliarmos de forma prática com o usurário se as propostas de melhoria foram satisfatórias para o ISSNet.
+
+8. Na Oitava etapa foi onde os protótipos das tarefas referentes a etapa 1, 2 e 3 foram criados, e validados por meio de entrevista,. Nesta etapa também foram feitas correções avaliadas anteriormente na etapa 6, a fim de aprimorar o projeto. 
+
+
+
 
 ### Ciclo de Vida
 O ciclo de vida de Mayhew foi proposto em 1999, este ciclo foi criado para guiar no desenvolvimento de produtos/software com foco na usabilidade, levando em consideração a eficiência e facilidade e que trabalhe na questão da satisfação do usuário, este ciclo é dividido em três fases: Iniciando pela análise de requisitos, projeto/desenvolvimento/teste e instalação. Na fase de análise, são definidos vários artefatos, como metas de usabilidade, análise de tarefas, entre outros. Cada artefato tem sua importância dentro do ciclo de vida da engenharia. Na fase de desenvolvimento, a ideia principal é buscar soluções de IHC que ajude a entender metas de usabilidades desenvolvidas na fase anterior, incluindo vários pontos, como storyboard, protótipos, relatos, entre outros.
