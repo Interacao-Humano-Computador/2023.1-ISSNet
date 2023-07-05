@@ -252,7 +252,7 @@ Gostaríamos de expressar nossa sincera gratidão ao professor André Barros de 
 
 Gostaríamos de estender nossos agradecimentos especiais aos usuários que prontamente concordaram em participar das avaliações dos diversos artefatos do nosso projeto. Sua disponibilidade em dedicar seu tempo e compartilhar suas percepções e opiniões foi de extrema importância para o sucesso deste trabalho. Seus insights valiosos e feedbacks contribuíram significativamente para o aprimoramento da usabilidade e experiência do usuário no nosso projeto.
 
-Também queremos agradecer ao Grupo 7, responsável pela verificação e análise minuciosa do nosso projeto. Suas contribuições e feedbacks foram extremamente úteis para o aperfeiçoamento das nossas ideias e soluções. Valorizamos imensamente o trabalho conjunto e a troca de experiências com vocês.
+Também queremos agradecer ao Grupo 7(Agiel), responsável pela verificação e análise minuciosa do nosso projeto. Suas contribuições e feedbacks foram extremamente úteis para o aperfeiçoamento das nossas ideias e soluções. Valorizamos imensamente o trabalho conjunto e a troca de experiências com vocês.
 
 Por fim, agradecemos ao nosso próprio grupo, o Grupo 8. Cada membro desempenhou um papel essencial e contribuiu com sua criatividade, dedicação e esforços para o sucesso deste projeto. Juntos, enfrentamos desafios, superamos obstáculos e alcançamos resultados significativos. Estamos orgulhosos do trabalho que realizamos em equipe.
 
