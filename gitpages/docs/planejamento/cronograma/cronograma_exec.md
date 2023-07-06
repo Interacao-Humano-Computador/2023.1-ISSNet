@@ -4,6 +4,8 @@ Este artefato apresenta um cronograma executado com detalhes das entregas em cad
 ### Etapa 1
 <center>
 
+*Tabela 1: Cronograma executado da etapa 1*
+
 | Atividade                             | Responsável(veis)                                                                                             | Período de realização    | Revisor(es)                                                                                                   | Período de revisão       |
 | ------------------------------------- | ------------------------------------------------------------------------------------------------------------- | :----------------------: | ------------------------------------------------------------------------------------------------------------- | :----------------------: |
 | Criação do GitHub Pages               | Miguel Moreira                                                                                                | 09/04/2023               | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | 09/04/2023<br>10/04/2023 | 
@@ -20,12 +22,14 @@ Este artefato apresenta um cronograma executado com detalhes das entregas em cad
 | Gravação das entregas da etapa 1      | Miguel Moreira                                                                                                | 24/04/2023               | Miguel Moreira                                                                                                | 24/04/2023               |
 | Ajustes e melhorias                   | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | 25/04/2023<br>27/04/2023 | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | 24/04/2023<br>27/04/2023 |
 
-Tabela 1: Cronograma executado da etapa 1.
+*Fonte: Autor, 2023*
 
 </center>
 
 ### Etapa 2
 <center>
+
+*Tabela 2: Cronograma executado da etapa 2*
 
 | Atividade                                                          | Responsável(veis)                                                                                             | Período de realização    | Revisor(es)                                                                                                   | Período de revisão       |
 | ------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------- | :----------------------: | ------------------------------------------------------------------------------------------------------------- | :----------------------: |
@@ -42,12 +46,14 @@ Tabela 1: Cronograma executado da etapa 1.
 | Gravação das entregas da etapa 2                                   | Miguel Moreira                                                                                                | 08/05/2023               | Miguel Moreira                                                                                                | 08/05/2023               |
 | Ajustes e melhorias                                                | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | 09/05/2023<br>12/05/2023 | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | 09/05/2023<br>12/05/2023 |
 
-Tabela 2: Cronograma executado da etapa 2.
+*Fonte: Autor, 2023*
 
 </center>
 
 ### Etapa 3
 <center>
+
+*Tabela 3: Cronograma executado da etapa 3*
 
 | Atividade                                                          | Responsável(veis)                                                                                             | Período de realização    | Revisores                                                | Período de revisão       |
 | ------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------- | :----------------------: | -------------------------------------------------------- | :----------------------: |
@@ -60,12 +66,14 @@ Tabela 2: Cronograma executado da etapa 2.
 | Gravação das entregas da etapa 3                                   | Miguel Moreira                                                                                                | 15/05/2023               | Miguel Moreira                                           | 15/05/2023 |
 | Ajustes e melhorias                                                | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | 16/05/2023<br>18/05/2023 | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | 16/05/2023<br>18/05/2023 |
 
-Tabela 3: Cronograma executado da etapa 3.
+*Fonte: Autor, 2023*
 
 </center>
 
 ### Etapa 4
 <center>
+
+*Tabela 4: Cronograma executado da etapa 4*
 
 | Atividade                                                          | Responsável(veis)                                                                                             | Período de realização | Revisor(es)                                       | Período de revisão |
 | ------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------- | :-------------------: | ------------------------------------------------- | :----------------: |
@@ -78,12 +86,14 @@ Tabela 3: Cronograma executado da etapa 3.
 | Gravação das entregas da etapa 4                                   | Miguel Moreira                                                                                                | 22/05/2023            | Miguel Moreira                                    | - |
 | Ajustes e melhorias                                                | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | 23/05/2023<br>25/05/2023 | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | 23/05/2023<br>25/05/2023 |
 
-Tabela 4: Cronograma executado da etapa 4.
+*Fonte: Autor, 2023*
 
 </center>
 
 ### Etapa 5
 <center>
+
+*Tabela 5: Cronograma executado da etapa 5*
 
 | Atividade                                                          | Responsável(veis)                                                                                             | Período de realização    | Revisor(es)                          | Período de revisão |
 | ------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------- | :----------------------: | ------------------------------------ | :----------------: |
@@ -98,7 +108,7 @@ Tabela 4: Cronograma executado da etapa 4.
 | Gravação das entregas da etapa 5                                   | Miguel Moreira                                                                                                | 29/05/2023               | Miguel Moreira                       | 29/05/2023         |
 | Ajustes e melhorias                                                | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | 30/05/2023<br>01/06/2023 | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | 30/05/2023<br>01/06/2023 |
 
-Tabela 5: Cronograma executado da etapa 5.
+*Fonte: Autor, 2023*
 
 </center>
 
@@ -106,6 +116,8 @@ Tabela 5: Cronograma executado da etapa 5.
 
 ### Etapa 6
 <center>
+
+*Tabela 6: Cronograma executado da etapa 6.1*
 
 | Atividade                      | Responsáveis                                                                                                  | Período de realização    | Revisores          | Período de revisão       |
 |------------------------------- |---------------------------------------------------------------------------------------------------------------| :----------------------: |-----------------   | :----------------------: |
@@ -118,7 +130,9 @@ Tabela 5: Cronograma executado da etapa 5.
 | Verificação dos artefatos da etapa 5 | Miguel Moreira                                                                                          | 01/06/2023<br>03/06/2023 | Gabriel de Souza   | 03/06/2023               |
 | Gravação das entregas da etapa 6.1 | Miguel Moreira                                                                                            | 03/06/2023               | Miguel Moreira     | 03/06/2023               |
 
-Tabela 6: Cronograma executado da etapa 6.1.
+*Fonte: Autor, 2023*
+
+*Tabela 7: Cronograma executado da etapa 6.2*
 
 | Atividade                    | Responsáveis                                                                                                  | Período de realização    | Revisores                                                                                                     | Período de revisão       |
 |----------------------------- |---------------------------------------------------------------------------------------------------------------| :----------------------: |-------------------------------------------------------------------------------------------------------------- | :----------------------: |
@@ -127,12 +141,14 @@ Tabela 6: Cronograma executado da etapa 6.1.
 | Verificação de artefatos     | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | 18/06/2023<br>19/06/2023 | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | 19/06/2023               |
 | Gravação das entregas da etapa 6.2 | Miguel Moreira                                                                                          | 19/06/2023               | Miguel Moreira                                                                                                | 19/06/2023               |
 
-Tabela 7: Cronograma executado da etapa 6.2.
+*Fonte: Autor, 2023*
 
 </center>
 
 ### Etapa 7
 <center>
+
+*Tabela 9: Cronograma executado da etapa 7*
 
 | Atividade                                                          | Responsável(veis)                                                                                             | Período de realização    | Revisor(es)                            | Período de revisão |
 | ------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------- | :----------------------: | -------------------------------------- | :----------------: |
@@ -147,12 +163,14 @@ Tabela 7: Cronograma executado da etapa 6.2.
 | Gravação das entregas da etapa 7                                   | Miguel Moreira                                                                                                | 12/06/2023               | Miguel Moreira                         | 12/06/2023         |
 | Ajustes e melhorias            | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | 13/06/2023<br>15/06/2023 | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | 13/06/2023<br>15/06/2023 |
 
-Tabela 9: Cronograma planejado da etapa 7.
+*Fonte: Autor, 2023*
 
 </center>
 
 ### Etapa 8
 <center>
+
+*Tabela 10: Cronograma executado da etapa 8*
 
 | Atividade                                                       | Responsável(veis)                                                                                             | Período de realização    | Revisor(es)                                                                                                   | Período de revisão       |
 | --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | :----------------------: | ------------------------------------------------------------------------------------------------------------- | :----------------------: |
@@ -169,7 +187,7 @@ Tabela 9: Cronograma planejado da etapa 7.
 | Gravação das entregas da etapa 8                                | Miguel Moreira                                                                                                | 25/06/2023               | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | 25/06/2023<br>26/06/2023 |
 | Ajustes e melhorias                                             | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | 27/06/2023<br>29/06/2023 | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | 27/06/2023<br>29/06/2023 |
 
-Tabela 10: Cronograma planejado da etapa 8.
+*Fonte: Autor, 2023*
 
 </center>
 
