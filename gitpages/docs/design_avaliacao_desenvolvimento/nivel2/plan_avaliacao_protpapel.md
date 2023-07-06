@@ -129,6 +129,7 @@ O resultado da avaliação desempenhará um papel fundamental no direcionamento 
 <iframe src="https://interacao-humano-computador.github.io/2023.1-ISSNet/design_avaliacao_desenvolvimento/nivel2/doc/prot_papel_cancelar.pdf" width="100%" height="500px"></iframe>
 
 ### Protótipo de Gerar Nota
+<iframe src="https://interacao-humano-computador.github.io/2023.1-ISSNet/design_avaliacao_desenvolvimento/nivel2/doc/prot_papel_gerar.pdf" width="100%" height="500px"></iframe>
 
 
 <!-- ## Referências -->
