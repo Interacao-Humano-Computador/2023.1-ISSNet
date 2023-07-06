@@ -333,7 +333,7 @@ Durante a execução do projeto, foram aplicadas várias técnicas de avaliaçã
 
 | Atividade                                 | Técnica Utilizada                                         | Avaliador(es)                                                          | Número de Participantes                 | Resultados                                                                                                                                      |
 | ----------------------------------------- | --------------------------------------------------------- | ---------------------------------------------------------------------- | --------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| Levantamento do Perfil do Usuário         | Questionários on-line                                     | -                                                                      | 19 (12 usuários do Sistema)             | [Relato dos Resultados da Avaliação do Storyboard](design_avaliacao_desenvolvimento/nivel1/storyboard/relato_storyboard.md)                     |
+| Levantamento do Perfil do Usuário         | Questionários on-line                                     | -                                                                      | 19 (12 usuários do Sistema)             | [Resultados do Perfil do Usuário ](analise_de_requisitos/perfil_de_usuario.md)                     |
 | Avaliação do Storyboard                   | Entrevista                                                | Gabriel de Souza, Arthur Trindade e Miguel Moreira                     | 5 (3 entrevistadores e 2 entrevistados) | [Relato dos Resultados da Avaliação do Storyboard](design_avaliacao_desenvolvimento/nivel1/storyboard/relato_storyboard.md)                     |
 | Avaliação da Análise de Tarefas           | Entrevista                                                | Gabriel de Souza, Arthur Trindade                                      | 4 (2 entrevistadores e 2 entrevistados) | [Relato dos Resultados da Avaliação da Análise de Tarefas](design_avaliacao_desenvolvimento/nivel1/analise_de_tarefas/relato_analisetarefas.md) |
 | Avaliação do Protótipo de Papel           | Entrevista                                                | Gabriel de Souza, Arthur Trindade, Miguel Moreira e Arthur D´ Assunção | 5 (4 Entrevistadores e 1 entrevistado)  | [Relato dos Resultados da Avaliação do Protótipo de Papel](design_avaliacao_desenvolvimento/nivel2/relato_protpapel.md)                         |
@@ -489,7 +489,7 @@ A síntese dos artefatos desenvolvidos consiste em uma análise detalhada das oi
 | [Verificação do Ponto de Controle 3 do ISSNet](https://interacao-humano-computador.github.io/2023.1-ISSNet/verificacao/grupo-8/pc3/) | Arthur D'Assumpção                    | Miguel Moreira                                   |  
 | [Verificação do Ponto de Controle 4 do ISSNet](https://interacao-humano-computador.github.io/2023.1-ISSNet/verificacao/grupo-8/pc4/) | Arthur Trindade                       | Julio César                                      |  
 | [Verificação do Ponto de Controle 5 do ISSNet](https://interacao-humano-computador.github.io/2023.1-ISSNet/verificacao/grupo-8/pc5/) | Miguel Moreira                        | Arthur Trindade                                  |  
-| [Verificação do Ponto de Controle 7 do ISSNet](https://interacao-humano-computador.github.io/2023.1-ISSNet/verificacao/grupo-8/pc7/) | Arthur Trindade                       | Gabriel de Souza                                 |  
+| [Verificação do Ponto de Controle 7 do ISSNet](https://interacao-humano-computador.github.io/2023.1-ISSNet/verificacao/grupo-8/pc7/) |       Gabriel de Souza               | Arthur Trindade                              |  
 | [Verificação do Ponto de Controle 8 do ISSNet](https://interacao-humano-computador.github.io/2023.1-ISSNet/verificacao/grupo-8/pc8/) |                                       |                                                  |  
 
 <center>
@@ -658,7 +658,7 @@ Neste projeto, foram realizadas diversas apresentações ao longo das etapas par
 * Obtive algumas experiências trabalhando em grupo, principalmente quando se trata de desenvolvimento de projetos. Tive algumas facilidades, principalmente na padronização de documentos e conhecimentos prévios de algumas ferramentas.
 
 ### Gabriel
-
+* Com o projeto tive facilidade quando eram executados estudos dirigidos, o que facilitava bastante a fixação do conteudo proposto em sala, o uso de ferramentas que ja havia conhecimento facilitou durante todo o periodo de aula.    
 ### Arthur D.
 * A maior facilidade foi o trabalho em grupo, por se tratar de um grupo que eu ja conhecia e era acostumado e podia contar com a competencia e comprometimento de todos. O modelo de aula facilitou o aprendisado. As ferramentas usadas tembém já eram de conhecimento e dominio no uso, o que facilitou bastante as entregas, já que não gastei tempo aprendendo novas ferramentes e sim só o conteúdo.
 
@@ -697,7 +697,7 @@ Aprendemos com essa dificuldade a importância de estabelecer processos e diretr
 * Durante o desenvolvimento do projeto, foram surgindo algumas dificuldades, como a questão do cronograma, já que o período de certa forma era apertado devido a quantidade de matérias e estudos externos, também tive dificuldade em selecionar um site para aplicar as heurísticas de usabilidade.
 
 ### Gabriel
-
+* Durante o desenvolvimento tive problemas com o cronograma e com a gestão do tempo pessoal, devido a quantidade de entregas e conteudo a ser trabalhado, um esforço a mais foi necessitado para a execução das tarefas da discplina.
 ### Arthur D.
 * Dificuldades com a saúde pessoal foram as maiores em minha visão, mas houve dificuldade de alta demanda de atividade e gestão de tempo
 
