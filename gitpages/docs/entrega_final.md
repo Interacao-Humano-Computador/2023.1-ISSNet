@@ -629,7 +629,7 @@ Neste projeto, foram realizadas diversas apresentações ao longo das etapas par
 | Etapa 6.2  | 19/06/2023  | <a href="https://www.youtube.com/watch?v=WNWHX7HL6t4" target="_blank">Link</a> | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira |
 | Etapa 7    | 12/06/2023  | <a href="https://www.youtube.com/watch?v=qvAojp-cFuI" target="_blank">Link</a> | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira |
 | Etapa 8    | 26/06/2023  | <a href="https://youtu.be/UUySGE_Ke-A" target="_blank">Link</a>              | Arthur D'Assumpção<br>Arthur Trindade<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira | 
-Entrega Final | 05/07/2023  | <a href="https://youtu.be/q1DlKbRoCZA" target="_blank">Link</a>              | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Marcus Vinicius<br>Miguel Moreira |
+Entrega Final | 05/07/2023  | <a href="https://youtu.be/q1DlKbRoCZA" target="_blank">Link</a>              | Arthur D'Assumpção<br>Arthur Trindade<br>Gabriel de Souza<br>Júlio César<br>Miguel Moreira |
 
 </center>
 
