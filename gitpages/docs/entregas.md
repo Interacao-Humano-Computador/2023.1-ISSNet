@@ -30,6 +30,9 @@
 ## Entrega da etapa 8
 [Link da gravação da reunião da entrega da etapa 8, 26/06/2023](https://youtu.be/UUySGE_Ke-A)
 
+## Entrega Final
+[Link da gravação da reunião da entrega final, 05/06/2023](https://youtu.be/q1DlKbRoCZA)
+
 ## Histórico de revisão
 | Versão     | Data        | Descrição            | Autor(es)                          | Revisores  |
 | :--------: | :---------: | -------------------- | ---------------------------------- | ---------- |
@@ -40,3 +43,4 @@
 | `0.4`      |  22/05/2023 | Adição do link da gravação da entrega da etapa 4 | Arthur Trindade | Miguel Moreira |
 | `0.5`      |  29/05/2023 | Adição do link da gravação da entrega da etapa 5 | Arthur Trindade | Miguel Moreira |
 | `0.6`      |  05/07/2023 | Adição do links de apresentações faltantes (6.1, 6.2, e 8) | Miguel Moreira | Arthur Trindade |
+| `0.7`      |  07/07/2023 | Apenas adição do link da apresentação da entrega final.| Miguel Moreira | Arthur Trindade | 
